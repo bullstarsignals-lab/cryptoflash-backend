@@ -1,5 +1,49 @@
 [
   {
+    "source": "CoinDesk",
+    "title": "Bitcoin withstands $90 oil and rising yields while gold slides. A firm dollar is the catch",
+    "link": "https://www.coindesk.com/markets/2026/09/02/bitcoin-withstands-usd90-oil-and-rising-yields-as-gold-slides-a-firm-dollar-is-the-catch",
+    "publishedAt": "2026-09-02T04:40:36.000Z",
+    "preview": "BTC trades choppy as $90 oil and rising bond yields weigh on stocks and gold.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Core DAO plans emergency hard fork after validators drew excess rewards",
+    "link": "https://cointelegraph.com/news/core-dao-emergency-hard-fork-excess-validator-rewards",
+    "publishedAt": "2026-09-02T04:15:34.000Z",
+    "preview": "Core says the incident is contained and its planned forward upgrade will not roll back the network or reverse previously confirmed transactions.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "These Wall Street Giants Are the Biggest Holders of Spot XRP ETFs",
+    "link": "https://cryptopotato.com/these-wall-street-giants-are-the-biggest-holders-of-spot-xrp-etfs/",
+    "publishedAt": "2026-09-02T03:49:24.000Z",
+    "preview": "Investment advisors held $120.9 million of the reported XRP ETF exposure, far ahead of banks, brokerages, and hedge fund managers.",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "$2.7 million poured into Robinhood Chain apps in one day, but it barely touches corporate revenue",
+    "link": "https://cryptoslate.com/robinhood-chains-2-7-million-app-day-says-little-about-robinhoods-actual-take/",
+    "publishedAt": "2026-09-02T03:40:45.000Z",
+    "preview": "Apps captured the headline revenue while Robinhood’s disclosed fee split offers no bridge to its corporate accounts. The post $2.7 million poured into Robinhood Chain apps in one day, but it barely touches corporate reve",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Leaked compliance records shatter anonymity of 291 crypto users by matching names directly to wallet activity",
+    "link": "https://cryptoslate.com/leaked-compliance-records-shatter-anonymity-of-291-crypto-users-by-matching-names-directly-to-wallet-activity/",
+    "publishedAt": "2026-09-02T02:30:59.000Z",
+    "preview": "Copied support records exposed varying combinations of identity, location and compliance data, while private keys and customer funds remained safe. The post Leaked compliance records shatter anonymity of 291 crypto users",
+    "tags": []
+  },
+  {
     "source": "CryptoPotato",
     "title": "3 Reasons Why Shiba Inu (SHIB) May Plunge This Month",
     "link": "https://cryptopotato.com/3-reasons-why-shiba-inu-shib-may-plunge-this-month/",
@@ -363,17 +407,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Strategy turns MSCI’s own SEC words against its $24 billion MSTR threat",
-    "link": "https://cryptoslate.com/strategy-turns-mscis-own-sec-words-against-its-24-billion-mstr-threat/",
-    "publishedAt": "2026-09-01T15:50:55.000Z",
-    "preview": "Strategy has challenged MSCI's proposed “non-operating company” screen by tying it to a regulatory argument MSCI made four years ago in a letter shared on Aug. 31. The Bitcoin treasury company says the new methodology re",
-    "tags": [
-      "BTC",
-      "Regulation"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "Ethena Expands Ecosystem With Launch of Self-Custodial Money App",
     "link": "https://cryptopotato.com/ethena-expands-ecosystem-with-launch-of-self-custodial-money-app/",
@@ -443,14 +476,6 @@
     "link": "https://cryptopotato.com/alkemya-metacore-secures-50m-via-tokenised-equity-to-scale-nickel-energy-and-security-tech/",
     "publishedAt": "2026-09-01T15:18:38.000Z",
     "preview": "[PRESS RELEASE – London, London, September 1st, 2026] ALKEMYA METACORE SCSp SECURES INITIAL USD 50 MILLION INVESTMENT AHEAD OF LISTING OF TOKENISED EQUITY NICKEL OFFERING Alkemya Luxembourg S.à.r.l. (“Alkemya”), the spon",
-    "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "2 Trillion Tokens in 7 Days: B.AI Sparks Developer Frenzy With Accessible Compute",
-    "link": "https://cryptoslate.com/2-trillion-tokens-in-7-days-b-ai-sparks-developer-frenzy-with-accessible-compute/",
-    "publishedAt": "2026-09-01T15:10:03.000Z",
-    "preview": "On August 24, next-gen AI infrastructure platform B.AI hit a major milestone: cumulative token throughput across its sitewide free-access campaign officially crossed the 2 trillion threshold. The record-breaking run foll",
     "tags": []
   },
   {
@@ -1189,16 +1214,6 @@
     ]
   },
   {
-    "source": "Cointelegraph",
-    "title": "Strategy buys $370M Bitcoin in first corporate purchase since June",
-    "link": "https://cointelegraph.com/news/strategy-buys-370m-bitcoin-first-acquisition-june",
-    "publishedAt": "2026-08-31T12:45:12.000Z",
-    "preview": "Strategy added to its BTC treasury for the first time in two months, while continuing to bolster its cash reserves and buy back its perpetual STRC preferred stock.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Morning Minute: Robinhood Chain Flips Ethereum and Base in Fees",
     "link": "https://decrypt.co/376923/morning-minute-robinhood-chain-flips-ethereum-and-base-in-fees",
@@ -1214,16 +1229,6 @@
     "link": "https://decrypt.co/376924/strategy-buys-370m-of-bitcoin-in-first-purchase-since-june",
     "publishedAt": "2026-08-31T12:27:01.000Z",
     "preview": "The 4,603 BTC cost an average of $80,318, some 29% above what the company took for the coins it sold this summer.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Strategy returns to bitcoin buys, adding $370 million of BTC last week",
-    "link": "https://www.coindesk.com/markets/2026/08/31/strategy-returns-to-bitcoin-buys-adding-usd370-million-worth-last-week",
-    "publishedAt": "2026-08-31T12:11:04.000Z",
-    "preview": "It's the first week of bitcoin purchases for the Michael Saylor-led company in about two months.",
     "tags": [
       "BTC"
     ]
@@ -1283,14 +1288,6 @@
     "tags": [
       "XRP"
     ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Cronos Halts Network as Tectonic Faces Mango-Style Attack: $75M in Assets Reportedly Affected",
-    "link": "https://cryptopotato.com/cronos-halts-network-as-tectonic-faces-mango-style-attack-75m-in-assets-reportedly-affected/",
-    "publishedAt": "2026-08-31T06:49:04.000Z",
-    "preview": "Tectonic's assets plunged from about $121 million to $3 million after an exploit targeted its thinly traded TONIC token.",
-    "tags": []
   },
   {
     "source": "Decrypt",
