@@ -1,5 +1,4 @@
-hello world
-line two// fetch-news.js
+// fetch-news.js
 // Fetches crypto news from a curated list of RSS feeds, extracts + tags + dedups items,
 // and saves the result. Zero external dependencies (works with Node 18+ built-in fetch).
 //
