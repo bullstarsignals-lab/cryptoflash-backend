@@ -1,6 +1,95 @@
 [
   {
     "source": "Decrypt",
+    "title": "Japan’s Remixpoint Dumps Ethereum, XRP in Shift to Bitcoin-Only Treasury",
+    "link": "https://decrypt.co/377228/remixpoint-xrp-ethereum-bitcoin-only",
+    "publishedAt": "2026-09-02T21:31:05.000Z",
+    "preview": "The Japanese company booked a ¥117.8 million profit after selling its ETH, SOL, XRP and DOGE, leaving roughly 1,506 BTC as its only cryptocurrency holding.",
+    "tags": [
+      "BTC",
+      "ETH",
+      "SOL",
+      "XRP"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "US officials work with CrowdStrike to fight malware behind crypto theft",
+    "link": "https://cointelegraph.com/news/us-officials-crowdstrike-malware-stealing-crypto",
+    "publishedAt": "2026-09-02T21:27:15.000Z",
+    "preview": "Federal authorities and private-sector partners were part of an operation to disrupt malware that redirected about $150,000 in crypto over the last eight years.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "DOJ says Hamas crypto seizures reached $560,000 as FBI took over fundraising sites",
+    "link": "https://www.coindesk.com/business/2026/09/02/doj-says-hamas-crypto-seizures-reached-usd560-000-as-fbi-took-over-fundraising-sites",
+    "publishedAt": "2026-09-02T21:24:26.000Z",
+    "preview": "FBI agents took control of domains and servers, specifically Alqassam.ps, to intercept donations and prevent further fundraising for the Al-Qassam Brigades.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "USDC may be only as quantum-safe as its slowest wallet, bridge or blockchain",
+    "link": "https://cryptoslate.com/usdc-may-be-only-as-quantum-safe-as-its-slowest-wallet-bridge-or-blockchain/",
+    "publishedAt": "2026-09-02T21:10:30.000Z",
+    "preview": "The 813-logical-qubit record is not a Q-day clock, but it shows why host chains, wallets, custodians, bridges and users must move with Circle. The post USDC may be only as quantum-safe as its slowest wallet, bridge or bl",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "35 More Bitcoin: Smarter Web Expands Its Growing BTC Treasury",
+    "link": "https://cryptopotato.com/35-more-bitcoin-smarter-web-expands-its-growing-btc-treasury/",
+    "publishedAt": "2026-09-02T21:00:17.000Z",
+    "preview": "The UK-based company spent £2 million in its latest Bitcoin purchase.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Coinbase launches regulated crypto derivatives in Canada",
+    "link": "https://cointelegraph.com/news/coinbase-launches-regulated-crypto-derivatives-in-canada",
+    "publishedAt": "2026-09-02T20:55:55.000Z",
+    "preview": "Coinbase is offering eligible Canadian traders perpetual and dated futures with up to 10x leverage as major US trading platforms expand their crypto presence in Canada.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "Top Pentagon AI Official Sold Millions in Perplexity Stock, Disclosures Show",
+    "link": "https://decrypt.co/377225/pentagon-ai-official-sold-millions-perplexity-stock",
+    "publishedAt": "2026-09-02T20:46:04.000Z",
+    "preview": "Emil Michael's latest financial filings show a summer exit from Perplexity, months after a January sale of xAI stock that reportedly netted him up to $24 million.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Kraken parent Payward delays IPO to second quarter of 2027 at earliest",
+    "link": "https://www.coindesk.com/business/2026/09/02/kraken-parent-payward-pushes-ipo-back-to-mid-2027-at-earliest",
+    "publishedAt": "2026-09-02T20:08:34.000Z",
+    "preview": "The crypto exchange operator, which confidentially filed for a U.S. listing last November, had already put its IPO plans on hold amid difficult market conditions.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Solana processed 5.2 billion transactions after revenue collapsed 87% – here’s what changed",
+    "link": "https://cryptoslate.com/solana-processed-5-2-billion-transactions-after-revenue-collapsed-87-heres-what-changed/",
+    "publishedAt": "2026-09-02T20:05:17.000Z",
+    "preview": "August activity reached a new high after the memecoin fee boom that inflated revenue a year earlier had faded. The post Solana processed 5.2 billion transactions after revenue collapsed 87% – here’s what changed appeared",
+    "tags": [
+      "SOL"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Goldman Sachs, BofA Among 21 Banks Planning Joint Dollar Stablecoin Launch",
+    "link": "https://decrypt.co/377216/goldman-sachs-bofa-banks-stablecoin",
+    "publishedAt": "2026-09-02T20:01:04.000Z",
+    "preview": "The bank-led consortium wants a U.S. dollar token live by the first half of 2027, with a euro version queued up next.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
     "title": "'The Right Trade': Strategy CEO Has No Regrets Selling Bitcoin at $60K Before Buying Back Higher",
     "link": "https://decrypt.co/377215/right-trade-strategy-no-regrets-selling-bitcoin",
     "publishedAt": "2026-09-02T19:15:06.000Z",
@@ -390,16 +479,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "A layer-1 blockchain froze for 4 hours to stop a $4.9 million hack, then claimed it was just an upgrade",
-    "link": "https://cryptoslate.com/a-layer-1-blockchain-froze-for-4-hours-to-stop-a-4-9-million-hack-then-claimed-it-was-just-an-upgrade/",
-    "publishedAt": "2026-09-02T11:50:26.000Z",
-    "preview": "An emergency patch disabled binary-options settlement after an exploit, while about 1,980 ETH remained at an address linked by researchers to the incident. The post A layer-1 blockchain froze for 4 hours to stop a $4.9 m",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
     "source": "CoinDesk",
     "title": "Capital B aims to add 376 BTC to bitcoin treasury following $8.8 million Adam Back investment",
     "link": "https://www.coindesk.com/business/2026/08/29/capital-b-aims-to-add-376-btc-to-bitcoin-treasury-following-usd8-8-million-adam-back-investment",
@@ -419,14 +498,6 @@
       "BTC",
       "ETH"
     ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Wall Street is now racing to control the $1.9T stablecoin shift to avoid losing its customer base",
-    "link": "https://cryptoslate.com/wall-street-is-now-racing-to-control-the-1-9t-stablecoin-shift-to-avoid-losing-its-customer-base/",
-    "publishedAt": "2026-09-02T11:15:53.000Z",
-    "preview": "Standard Chartered estimated in January that stablecoins could pull about $500 billion from US bank deposits by the end of 2028. Regional banks looked especially exposed given how much they depend on the spread between w",
-    "tags": []
   },
   {
     "source": "CoinDesk",
@@ -1093,16 +1164,6 @@
     ]
   },
   {
-    "source": "CoinDesk",
-    "title": "Ethena pushes stablecoins into everyday banking with high-yield savings, cards and payments",
-    "link": "https://www.coindesk.com/business/2026/09/01/ethena-pushes-stablecoins-into-everyday-banking-with-high-yield-savings-cards-and-payments",
-    "publishedAt": "2026-09-01T13:15:35.000Z",
-    "preview": "Ethena Pay offers a 6% dollar savings rate and 5% card cashback, using Avalanche for settlement.",
-    "tags": [
-      "AVAX"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "Asia sees digital asset custody infrastructure deals from Ripple, Coincheck",
     "link": "https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck",
@@ -1118,14 +1179,6 @@
     "link": "https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise",
     "publishedAt": "2026-09-01T13:00:00.000Z",
     "preview": "Kast aims to onboard between 1,000 and 5,000 active businesses to its new platform by the end of 2026.",
-    "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "UK’s crime agency freezes Premier League $13.5 million account in crypto crime probe",
-    "link": "https://www.coindesk.com/business/2026/09/01/uk-s-crime-agency-freezes-premier-league-usd13-5-million-account-in-crypto-crime-probe",
-    "publishedAt": "2026-09-01T12:37:10.000Z",
-    "preview": "Authorities targeted funds from a $140 million sponsorship deal with crypto firm Sorare, though law enforcement confirmed no wrongdoing by the Premier League.",
     "tags": []
   },
   {
@@ -1147,14 +1200,6 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "Lazarus Group-linked addresses move $30M through Hyperliquid",
-    "link": "https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid",
-    "publishedAt": "2026-09-01T12:01:08.000Z",
-    "preview": "Crypto wallets linked to the OFAC-sanctioned Lazarus Group moved $30 million in digital assets through Hyperliquid, weeks after regulators said they were working on a path to introduce the exchange into US markets.",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "Bitcoin Makes History With First-Ever Green August During a Bear Market",
     "link": "https://cryptopotato.com/bitcoin-makes-history-with-first-ever-green-august-during-a-bear-market/",
@@ -1170,14 +1215,6 @@
     "link": "https://decrypt.co/377010/saylor-urges-msci-to-drop-discriminatory-rule-that-would-delete-strategy",
     "publishedAt": "2026-09-01T11:28:45.000Z",
     "preview": "The proposed screen would cut three companies from MSCI's global indexes in November, with Strategy the largest by some distance.",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "London Stock Exchange partners with Kraken parent for tokenized UK stocks: FT",
-    "link": "https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks",
-    "publishedAt": "2026-09-01T10:56:41.000Z",
-    "preview": "The London bourse operator is seeking to offer 24/5 exposure to UK-based tokenized equities, as more TradFi institutions explore tokenized equities offerings.",
     "tags": []
   },
   {
@@ -1242,16 +1279,6 @@
     "preview": "Fresh ETF demand is supporting Bitcoin, but changing U.S. rate expectations could shape its next move.",
     "tags": [
       "BTC"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Largest XRP ETF Crosses $500 Million in Assets Just 9 Months After Launch",
-    "link": "https://cryptopotato.com/largest-xrp-etf-crosses-500-million-in-assets-just-9-months-after-launch/",
-    "publishedAt": "2026-09-01T06:03:40.000Z",
-    "preview": "Despite XRP’s price volatility, investor demand for US spot XRP ETFs has remained strong, attracting over $1.66 billion in cumulative inflows.",
-    "tags": [
-      "XRP"
     ]
   },
   {
@@ -1327,31 +1354,5 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Sony Argues in Court That Digital Games Can't Be Owned",
-    "link": "https://decrypt.co/376935/sony-argues-in-court-that-digital-games-cant-be-owned",
-    "publishedAt": "2026-08-31T15:46:03.000Z",
-    "preview": "The PlayStation maker is fighting a California class action over \"Buy Now\" buttons, and has asked the judge to send the case to arbitration.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Tom Lee's Bitmine Buys $131M of ETH in Largest Ethereum Purchase Since June",
-    "link": "https://decrypt.co/376932/tom-lee-bitmine-largest-ethereum-purchase-since-june",
-    "publishedAt": "2026-08-31T14:54:47.000Z",
-    "preview": "The purchase lifts Bitmine's stash to 5.9 million ETH—4.9% of supply—as chairman Tom Lee points to crypto's strong third quarter.",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "South Korea Will Give Every Citizen Free AI Access With Unlimited Tokens",
-    "link": "https://decrypt.co/376929/south-korea-will-give-every-citizen-free-ai-access-with-unlimited-tokens",
-    "publishedAt": "2026-08-31T14:03:39.000Z",
-    "preview": "Three consortia will run the service, sharing up to 512 Nvidia B200 chips supplied by the state, with beta testing due in September.",
-    "tags": []
   }
 ]
