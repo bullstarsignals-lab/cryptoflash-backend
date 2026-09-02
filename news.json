@@ -1,5 +1,116 @@
 [
   {
+    "source": "Decrypt",
+    "title": "'The Right Trade': Strategy CEO Has No Regrets Selling Bitcoin at $60K Before Buying Back Higher",
+    "link": "https://decrypt.co/377215/right-trade-strategy-no-regrets-selling-bitcoin",
+    "publishedAt": "2026-09-02T19:15:06.000Z",
+    "preview": "Phong Le said Strategy’s cost of capital—not Bitcoin’s price—drove its decision to sell nearly 7,000 BTC before resuming purchases above $80,000.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-09-02T19:11:15.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Uniswap trading volume explodes to record levels over 7 million per day – but actual fees lag far behind",
+    "link": "https://cryptoslate.com/uniswap-trading-volume-explodes-to-record-levels-over-7-million-per-day-but-actual-fees-lag-far-behind/",
+    "publishedAt": "2026-09-02T19:00:26.000Z",
+    "preview": "More than 7 million daily swaps fit the record pace, while public data cannot show what share reached fee-enabled pools. The post Uniswap trading volume explodes to record levels over 7 million per day – but actual fees ",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "New Jersey officials petition US Supreme Court over prediction markets",
+    "link": "https://cointelegraph.com/news/new-jersey-supreme-court-kalshi-prediction-markets-cftc",
+    "publishedAt": "2026-09-02T18:55:41.000Z",
+    "preview": "New Jersey’s Attorney General and gaming authorities filed a petition for a writ of certiorari to the US Supreme Court over Kalshi offering sporting event contracts to residents.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "3 Reasons Why September Could Be Bullish for Ethereum (ETH)",
+    "link": "https://cryptopotato.com/3-reasons-why-september-could-be-bullish-for-ethereum-eth/",
+    "publishedAt": "2026-09-02T18:51:59.000Z",
+    "preview": "If ETH closes this month in positive territory, it would be the first time ever it posts back-to-back gains in August and September.",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Wyoming adds Chainlink reserve verification to state-issued stable token",
+    "link": "https://cointelegraph.com/news/wyoming-chainlink-onchain-reserves-of-state-issued-stable-token",
+    "publishedAt": "2026-09-02T18:38:18.000Z",
+    "preview": "Wyoming is using Chainlink to bring near-real-time reserve verification onchain for FRNT as the oracle provider expands its footprint across tokenized financial markets.",
+    "tags": [
+      "LINK"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Analyst Says $15 Dogecoin Target Is Dead After Long-Term Channel Break",
+    "link": "https://cryptopotato.com/analyst-says-15-dogecoin-target-is-dead-after-long-term-channel-break/",
+    "publishedAt": "2026-09-02T18:35:52.000Z",
+    "preview": "The rising channel dates back to Dogecoin's earliest trading history, making its latest break more significant than a routine pullback.",
+    "tags": [
+      "DOGE"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Is Bitcoin About to Flash Crash? What a 'Bart Simpson' Pattern Would Actually Take",
+    "link": "https://decrypt.co/377185/bitcoin-flash-crash-real-bart-simpson-pattern",
+    "publishedAt": "2026-09-02T18:30:06.000Z",
+    "preview": "Bitcoin traders are calling August's spike-and-fade a Bart Simpson hairline. Here's what separates an actual flash crash from an ordinary correction.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "TAC blockchain remains frozen for over 10 days after a massive exploit forces a 1.26 billion token bailout",
+    "link": "https://cryptoslate.com/tac-remains-frozen-for-over-10-days-after-a-massive-exploit-forces-a-1-26-billion-token-bailout/",
+    "publishedAt": "2026-09-02T18:00:37.000Z",
+    "preview": "One transaction emptied 28.6% of supply from the bonded pool, while 1.66 billion attacker-held TAC remains unresolved. The post TAC blockchain remains frozen for over 10 days after a massive exploit forces a 1.26 billion",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "Crypto Groups Push SEC for Tailored Rules on Novel ETFs",
+    "link": "https://decrypt.co/377184/crypto-groups-sec-novel-etfs",
+    "publishedAt": "2026-09-02T17:41:04.000Z",
+    "preview": "Groups including The Crypto Council for Innovation, Grayscale, and a16z urged the regulator to preserve existing fund classifications and streamline reviews for new exchange-traded products.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Crypto made new friends in U.S. primaries, but focus now shifts to general election",
+    "link": "https://www.coindesk.com/news-analysis/2026/09/02/crypto-made-new-friends-in-u-s-primaries-but-focus-now-shifts-to-general-election",
+    "publishedAt": "2026-09-02T17:39:00.000Z",
+    "preview": "Adding Massachusetts incumbent Auchincloss to the list of winning primary candidates Fairshake supported, the industry's influence moves on to November.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "New Jersey becomes first state to ask Supreme Court to weigh in on prediction markets",
+    "link": "https://www.coindesk.com/policy/2026/09/02/new-jersey-becomes-first-state-to-ask-supreme-court-to-weigh-in-on-prediction-markets",
+    "publishedAt": "2026-09-02T17:23:48.000Z",
+    "preview": "After multiple appeals courts ruled differently about whether states can crack down on prediction markets' sports products, New Jersey asked SCOTUS to step in.",
+    "tags": []
+  },
+  {
     "source": "CryptoSlate",
     "title": "The SEC is rewriting 50-year-old Wall Street rules to let public blockchains decide who legally owns a stock",
     "link": "https://cryptoslate.com/the-sec-is-rewriting-50-year-old-wall-street-rules-to-let-public-blockchains-decide-who-legally-owns-a-stock/",
@@ -165,17 +276,6 @@
     "tags": [
       "BTC",
       "ETH"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-09-02T13:30:00.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
     ]
   },
   {
@@ -375,14 +475,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Binance deepens TradFi push with physically settled options on over 1,000 US equities",
-    "link": "https://cryptoslate.com/binance-deepens-tradfi-push-with-physically-settled-options-on-over-1000-us-equities/",
-    "publishedAt": "2026-09-02T10:40:35.000Z",
-    "preview": "Eligible users trade physically settled contracts through Binance while Nest routes orders and Alpaca executes, settles and custodies the shares. The post Binance deepens TradFi push with physically settled options on ov",
-    "tags": []
-  },
-  {
     "source": "CoinDesk",
     "title": "Former UK Prime Minister Liz Truss says bond rout could force emergency spending cuts",
     "link": "https://www.coindesk.com/markets/2026/09/02/former-uk-prime-minister-liz-truss-says-bond-rout-could-force-emergency-spending-cuts",
@@ -416,16 +508,6 @@
     "preview": "Grayscale, a16z, and the CCI asked the SEC to preserve existing classification rules and avoid treating novel exchange-traded products as a single category, while proposing different routes to clearer and faster reviews.",
     "tags": [
       "Regulation"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Cardano clears key voting thresholds for constitutional committee renewal by 0.18% margin",
-    "link": "https://cryptoslate.com/cardano-clears-key-voting-thresholds-for-constitutional-committee-renewal-by-0-18-margin/",
-    "publishedAt": "2026-09-02T09:30:33.000Z",
-    "preview": "The pre-boundary vote shows how non-participating SPO stake can weigh against renewal even without an explicit No. The post Cardano clears key voting thresholds for constitutional committee renewal by 0.18% margin appear",
-    "tags": [
-      "ADA"
     ]
   },
   {
@@ -1065,14 +1147,6 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "Hut 8's Texas power site sits inside Anthropic’s $35 billion AI deal",
-    "link": "https://www.coindesk.com/tech/2026/09/01/hut-8-s-texas-power-site-sits-inside-anthropic-s-usd35-billion-ai-deal",
-    "publishedAt": "2026-09-01T12:11:44.000Z",
-    "preview": "The company's Texas campus has two long-term leases worth $19.6 billion, more than 260 times its latest quarterly revenue, as AI companies race to secure power and data-center capacity.",
-    "tags": []
-  },
-  {
     "source": "Cointelegraph",
     "title": "Lazarus Group-linked addresses move $30M through Hyperliquid",
     "link": "https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid",
@@ -1099,16 +1173,6 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "U.S. looks to influence Japan's monetary policy. It couldn't do that with bitcoin",
-    "link": "https://www.coindesk.com/daybook-us/2026/09/01/u-s-looks-to-influence-japan-s-monetary-policy-it-couldn-t-do-that-with-bitcoin",
-    "publishedAt": "2026-09-01T11:15:00.000Z",
-    "preview": "Your day-ahead look for Sept. 1, 2026",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "London Stock Exchange partners with Kraken parent for tokenized UK stocks: FT",
     "link": "https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks",
@@ -1125,24 +1189,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet",
-    "link": "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes",
-    "publishedAt": "2026-09-01T10:00:00.000Z",
-    "preview": "Five equity-backed notes issued through Luxembourg’s ORO II fund will trade against dollars, USDT and Bitcoin for eligible non-US investors.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Singapore weighs recognizing some foreign-issued stablecoins",
-    "link": "https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework",
-    "publishedAt": "2026-09-01T09:55:11.000Z",
-    "preview": "Singapore is considering allowing jointly issued cross-border stablecoins into its regulatory regime, revisiting its earlier decision to restrict the framework to domestic issuance.",
-    "tags": []
   },
   {
     "source": "CryptoPotato",
@@ -1206,29 +1252,6 @@
     "preview": "Despite XRP’s price volatility, investor demand for US spot XRP ETFs has remained strong, attracting over $1.66 billion in cumulative inflows.",
     "tags": [
       "XRP"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Ripple (XRP) Breakout Confirmed? Analyst Sets the Next Big Target",
-    "link": "https://cryptopotato.com/ripple-xrp-breakout-confirmed-analyst-sets-the-next-big-target/",
-    "publishedAt": "2026-09-01T04:00:13.000Z",
-    "preview": "Is XRP positioning itself for a major rally?",
-    "tags": [
-      "XRP"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Bitcoin, Ethereum, Tron, and Cardano Tell Four Very Different Stories Through Active Addresses",
-    "link": "https://cryptopotato.com/bitcoin-ethereum-tron-and-cardano-tell-four-very-different-stories-through-active-addresses/",
-    "publishedAt": "2026-08-31T22:37:01.000Z",
-    "preview": "TRON records over 4 million active addresses while Ethereum approaches 1 million. This contrasts sharply with Bitcoin and Cardano activity trends.",
-    "tags": [
-      "BTC",
-      "ETH",
-      "ADA",
-      "TRX"
     ]
   },
   {
@@ -1329,34 +1352,6 @@
     "link": "https://decrypt.co/376929/south-korea-will-give-every-citizen-free-ai-access-with-unlimited-tokens",
     "publishedAt": "2026-08-31T14:03:39.000Z",
     "preview": "Three consortia will run the service, sharing up to 512 Nvidia B200 chips supplied by the state, with beta testing due in September.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Morning Minute: Robinhood Chain Flips Ethereum and Base in Fees",
-    "link": "https://decrypt.co/376923/morning-minute-robinhood-chain-flips-ethereum-and-base-in-fees",
-    "publishedAt": "2026-08-31T12:37:44.000Z",
-    "preview": "Vlad Tenev’s new blockchain is soaring in all metrics as memes paired with tokenized stocks start to take off.",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Strategy Buys $370M of Bitcoin in First Purchase Since June",
-    "link": "https://decrypt.co/376924/strategy-buys-370m-of-bitcoin-in-first-purchase-since-june",
-    "publishedAt": "2026-08-31T12:27:01.000Z",
-    "preview": "The 4,603 BTC cost an average of $80,318, some 29% above what the company took for the coins it sold this summer.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Ireland Bars Crypto From State Savings Scheme Targeting $203B in Deposits",
-    "link": "https://decrypt.co/376916/ireland-bars-crypto-from-state-savings-scheme-targeting-203b-in-deposits",
-    "publishedAt": "2026-08-31T11:10:44.000Z",
-    "preview": "Shares, bonds, funds, ETFs and insurance products will qualify for the tax-advantaged accounts, which open next year.",
     "tags": []
   }
 ]
