@@ -1,0 +1,14 @@
+{
+  "name": "cryptoflash-backend",
+  "version": "1.0.0",
+  "description": "CryptoFlash data fetchers - RSS news (tagged by coin) and Telegram market posts",
+  "type": "module",
+  "main": "fetch-news.js",
+  "scripts": {
+    "start": "node fetch-news.js",
+    "fetch:news": "node fetch-news.js",
+    "fetch:market": "node fetch-market-posts.js",
+    "test": "node test-parser.mjs && node test-market-parser.mjs"
+  },
+  "license": "ISC"
+}
