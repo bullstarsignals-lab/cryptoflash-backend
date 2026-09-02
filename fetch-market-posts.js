@@ -34,12 +34,18 @@ const COIN_KEYWORDS = {
 
 function decodeEntities(str = '') {
   return str
-    .replace(/&amp;/g, '&')
     .replace(/&lt;/g, '<')
     .replace(/&gt;/g, '>')
     .replace(/&quot;/g, '"')
-    .replace(/&#0?39;/g, "'")
-    .replace(/&nbsp;/g, ' ');
+    .replace(/&nbsp;/g, ' ')
+    // Generic numeric character references - Telegram encodes some plain characters this way,
+    // e.g. "$" as "&#036;" (probably to stop its own cashtag auto-linking), and can do the same
+    // for other symbols/emoji. Handle decimal and hex forms before the plain "&amp;" unescape
+    // below, since that must run last (it would otherwise double-unescape "&amp;#036;" style
+    // sequences into something that no longer matches these patterns).
+    .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n)))
+    .replace(/&#x([0-9a-fA-F]+);/g, (_, n) => String.fromCodePoint(parseInt(n, 16)))
+    .replace(/&amp;/g, '&');
 }
 
 function stripHtml(html = '') {
