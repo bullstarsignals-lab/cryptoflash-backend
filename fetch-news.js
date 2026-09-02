@@ -44,11 +44,16 @@ function stripHtml(html = '') {
 
 function decodeEntities(str = '') {
   return str
-    .replace(/&amp;/g, '&')
     .replace(/&lt;/g, '<')
     .replace(/&gt;/g, '>')
     .replace(/&quot;/g, '"')
-    .replace(/&#0?39;/g, "'");
+    // Generic numeric character references - RSS feeds commonly use these for smart quotes,
+    // em dashes, etc. (e.g. "&#8217;" for a right single quote). Handle decimal and hex forms
+    // before the plain "&amp;" unescape below, since that must run last (it would otherwise
+    // double-unescape "&amp;#8217;" style sequences into something that no longer matches).
+    .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n)))
+    .replace(/&#x([0-9a-fA-F]+);/g, (_, n) => String.fromCodePoint(parseInt(n, 16)))
+    .replace(/&amp;/g, '&');
 }
 
 function extractTag(block, tag) {
