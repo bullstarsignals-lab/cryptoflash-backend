@@ -1,5 +1,140 @@
 [
   {
+    "source": "CryptoSlate",
+    "title": "Bitcoin cannot break out past $80,000 until it devours an 880k BTC roadblock that choked every rally",
+    "link": "https://cryptoslate.com/bitcoin-cannot-break-out-past-80000-until-it-devours-an-880k-btc-roadblock-that-choked-every-rally/",
+    "publishedAt": "2026-09-03T09:13:48.000Z",
+    "preview": "Bitcoin is testing a roughly $68 billion breakeven wall that has repeatedly stalled its push back above $80,000. About 880,000 BTC carry a cost basis between roughly $77,500 and $80,300, leaving a large group of holders ",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "CFTC asks judge to dismiss CME lawsuit over crypto perpetual futures",
+    "link": "https://www.coindesk.com/policy/2026/09/03/cftc-asks-judge-to-dismiss-cme-lawsuit-over-crypto-perpetual-futures",
+    "publishedAt": "2026-09-03T09:13:40.000Z",
+    "preview": "The regulator claims the dispute is \"much ado about nothing,\" noting that the order allows any designated contract market, including CME, to list these products.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Michigan Judge Bars Kalshi Sports Bets, Threatens $500K Daily Fine",
+    "link": "https://decrypt.co/377238/michigan-judge-bars-kalshi-sports-bets-threatens-500k-daily-fine",
+    "publishedAt": "2026-09-03T08:47:34.000Z",
+    "preview": "The order calls the prediction market platform a sports betting operation \"masquerading as an investment opportunity.\"",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Catastrophe bonds may join tokenization rush, with plans for test issuance in 2027",
+    "link": "https://www.coindesk.com/business/2026/09/03/catastrophe-bonds-may-join-tokenization-rush-with-plans-for-test-issuance-in-2027",
+    "publishedAt": "2026-09-03T08:30:00.000Z",
+    "preview": "A law firm and a tokenization platform say their proposed structure would give investors legal ownership of cat bonds onchain and could lower the minimum investment.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Important Ripple News and XRP Price Update: September 3",
+    "link": "https://cryptopotato.com/important-ripple-news-and-xrp-price-update-september-3/",
+    "publishedAt": "2026-09-03T08:10:21.000Z",
+    "preview": "Ripple, as well as the broader XRP ecosystem, started September with new institutional partnership, ETF milestones, and more developments.",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Australia warns unlicensed crypto firms of fines up to 10% of annual turnover",
+    "link": "https://cointelegraph.com/news/australia-warns-unlicensed-crypto-firms-of-fines-up-to-10-of-annual-turnover",
+    "publishedAt": "2026-09-03T07:47:54.000Z",
+    "preview": "ASIC has recorded more than 45 digital asset-related license applications as its temporary enforcement relief approaches Sept. 30 expiration.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Ether, XRP ETF inflow streaks end as Bitcoin funds rebound",
+    "link": "https://cointelegraph.com/markets/eth-xrp-etf-inflow-streaks-end-bitcoin-funds-rebound",
+    "publishedAt": "2026-09-03T07:22:00.000Z",
+    "preview": "Ether ETFs posted $48 million in outflows after attracting $1.62 billion over 12 trading days, while XRP funds ended an 11-session inflow run.",
+    "tags": [
+      "BTC",
+      "XRP"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Bitcoin’s fabled golden cross is coming. And USDT may be the real signal this time",
+    "link": "https://www.coindesk.com/markets/2026/09/03/bitcoin-s-fabled-golden-cross-is-coming-and-usdt-may-be-the-real-signal-this-time",
+    "publishedAt": "2026-09-03T07:01:28.000Z",
+    "preview": "BTC is nearing a bullish golden cross, a widely tracked signal with a mixed record of success in crypto markets. But this time, USDT is supporting the bullish read.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Ontology forces urgent node upgrade after restarting chain hit by malicious activity",
+    "link": "https://cryptoslate.com/ontology-forces-urgent-node-upgrade-after-restarting-chain-hit-by-malicious-activity/",
+    "publishedAt": "2026-09-03T07:00:34.000Z",
+    "preview": "Version 3.1.5 is mandatory for compatibility while the attack path and wider service recovery remain undisclosed. The post Ontology forces urgent node upgrade after restarting chain hit by malicious activity appeared fir",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Bitcoin Could Crash to $50K if Bulls Fail This Crucial Test: Analyst",
+    "link": "https://cryptopotato.com/bitcoin-could-crash-to-50k-if-bulls-fail-this-crucial-test-analyst/",
+    "publishedAt": "2026-09-03T06:34:20.000Z",
+    "preview": "The $76,500 area became an important short-term reference after BTC slipped below it for the first time since August 23.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-09-03T06:10:27.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Thailand puts private wallets and offshore crypto transfers on notice in a major new crypto rule",
+    "link": "https://cryptoslate.com/thailand-puts-private-wallets-and-offshore-crypto-transfers-on-notice-in-a-major-new-crypto-rule/",
+    "publishedAt": "2026-09-03T05:30:34.000Z",
+    "preview": "Licensed operators must add recipient data to transfers, collect extra details above 30,000 baht and verify some self-hosted wallets. The post Thailand puts private wallets and offshore crypto transfers on notice in a ma",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Dogecoin becomes only losing bet for Japan-listed firm as it sells altcoins for bitcoin",
+    "link": "https://www.coindesk.com/markets/2026/09/03/dogecoin-becomes-losing-bet-for-japan-listed-firm-remixpoint-as-it-sells-altcoins-for-bitcoin",
+    "publishedAt": "2026-09-03T04:58:05.000Z",
+    "preview": "Remixpoint booked gains on ether, solana and XRP, but sold DOGE below its fiscal-year opening value as it concentrated its crypto holdings in bitcoin.",
+    "tags": [
+      "BTC",
+      "SOL",
+      "XRP",
+      "DOGE"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Hyperscale Data ends Michigan BTC mining as holdings fall 79%",
+    "link": "https://cointelegraph.com/news/hyperscale-data-ends-michigan-bitcoin-mining-ai",
+    "publishedAt": "2026-09-03T04:57:55.000Z",
+    "preview": "Hyperscale Data’s Bitcoin holdings have fallen about 79% since late July to 215 BTC as it redirects capital toward its Michigan AI data center.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
     "source": "CoinDesk",
     "title": "Bitcoin back above $77,500, XRP leads majors as Fed hike odds slide to 62%",
     "link": "https://www.coindesk.com/markets/2026/09/03/bitcoin-back-above-usd77-500-xrp-leads-majors-as-fed-hike-odds-near-66",
@@ -212,25 +347,6 @@
   },
   {
     "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-09-02T19:11:15.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Uniswap trading volume explodes to record levels over 7 million per day – but actual fees lag far behind",
-    "link": "https://cryptoslate.com/uniswap-trading-volume-explodes-to-record-levels-over-7-million-per-day-but-actual-fees-lag-far-behind/",
-    "publishedAt": "2026-09-02T19:00:26.000Z",
-    "preview": "More than 7 million daily swaps fit the record pace, while public data cannot show what share reached fee-enabled pools. The post Uniswap trading volume explodes to record levels over 7 million per day – but actual fees ",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
     "title": "New Jersey officials petition US Supreme Court over prediction markets",
     "link": "https://cointelegraph.com/news/new-jersey-supreme-court-kalshi-prediction-markets-cftc",
     "publishedAt": "2026-09-02T18:55:41.000Z",
@@ -278,14 +394,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "TAC blockchain remains frozen for over 10 days after a massive exploit forces a 1.26 billion token bailout",
-    "link": "https://cryptoslate.com/tac-remains-frozen-for-over-10-days-after-a-massive-exploit-forces-a-1-26-billion-token-bailout/",
-    "publishedAt": "2026-09-02T18:00:37.000Z",
-    "preview": "One transaction emptied 28.6% of supply from the bonded pool, while 1.66 billion attacker-held TAC remains unresolved. The post TAC blockchain remains frozen for over 10 days after a massive exploit forces a 1.26 billion",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "Crypto Groups Push SEC for Tailored Rules on Novel ETFs",
     "link": "https://decrypt.co/377184/crypto-groups-sec-novel-etfs",
@@ -310,16 +418,6 @@
     "publishedAt": "2026-09-02T17:23:48.000Z",
     "preview": "After multiple appeals courts ruled differently about whether states can crack down on prediction markets' sports products, New Jersey asked SCOTUS to step in.",
     "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "The SEC is rewriting 50-year-old Wall Street rules to let public blockchains decide who legally owns a stock",
-    "link": "https://cryptoslate.com/the-sec-is-rewriting-50-year-old-wall-street-rules-to-let-public-blockchains-decide-who-legally-owns-a-stock/",
-    "publishedAt": "2026-09-02T17:00:19.000Z",
-    "preview": "One transfer agent would retain control, while physical addresses remain the minimum in the drafted rule. The post The SEC is rewriting 50-year-old Wall Street rules to let public blockchains decide who legally owns a st",
-    "tags": [
-      "Regulation"
-    ]
   },
   {
     "source": "Decrypt",
@@ -1081,14 +1179,6 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "Citi, Goldman, other global banks and asset managers team up on stablecoin venture",
-    "link": "https://www.coindesk.com/business/2026/09/01/citi-goldman-other-global-banks-and-asset-managers-team-up-on-stablecoin-venture",
-    "publishedAt": "2026-09-01T15:36:27.000Z",
-    "preview": "The group will focus first on a U.S. dollar stablecoin for payments and digital asset settlement, with a euro token a priority for expansion.",
-    "tags": []
-  },
-  {
     "source": "Cointelegraph",
     "title": "Bitcoin stays flat as global bond bear market rages on, pushing JGB to high",
     "link": "https://cointelegraph.com/markets/bitcoin-remains-flat-as-global-bond-bear-market-rages-on",
@@ -1106,16 +1196,6 @@
     "preview": "U.S. spot Ethereum ETFs recorded net positive inflows as September trading opened, giving ETH markets an early signal that institutional demand has not faded...",
     "tags": [
       "ETH"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Robinhood's new crypto network is printing cash, and it's sending Arbitrum's token soaring",
-    "link": "https://www.coindesk.com/markets/2026/09/01/robinhood-s-new-crypto-network-is-printing-cash-and-it-s-sending-arbitrum-s-token-soaring",
-    "publishedAt": "2026-09-01T15:28:29.000Z",
-    "preview": "Revenue on Robinhood Chain hit a 24-hour record of $1.9 million, driving a 30% rally in ARB as traders chased downstream gains.",
-    "tags": [
-      "ARB"
     ]
   },
   {
@@ -1142,14 +1222,6 @@
     "link": "https://cryptopotato.com/alkemya-metacore-secures-50m-via-tokenised-equity-to-scale-nickel-energy-and-security-tech/",
     "publishedAt": "2026-09-01T15:18:38.000Z",
     "preview": "[PRESS RELEASE – London, London, September 1st, 2026] ALKEMYA METACORE SCSp SECURES INITIAL USD 50 MILLION INVESTMENT AHEAD OF LISTING OF TOKENISED EQUITY NICKEL OFFERING Alkemya Luxembourg S.à.r.l. (“Alkemya”), the spon",
-    "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Musk’s X hit by wave of unsolicited password reset emails",
-    "link": "https://www.coindesk.com/tech/2026/09/01/musk-s-x-hit-by-wave-of-unsolicited-password-reset-emails",
-    "publishedAt": "2026-09-01T14:59:12.000Z",
-    "preview": "Multiple crypto industry figures and CoinDesk staff received unexpected password reset emails on Tuesday, though there is no evidence yet that X itself has been breached.",
     "tags": []
   },
   {
@@ -1189,27 +1261,6 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "Firelight raises $8 million, expands beyond XRP as it aims to make DeFi less scary for fintechs",
-    "link": "https://www.coindesk.com/business/2026/08/31/firelight-raises-usd8-million-expands-beyond-xrp-as-it-aims-to-make-defi-less-scary-for-fintechs",
-    "publishedAt": "2026-09-01T13:56:44.000Z",
-    "preview": "The protocol aims to give fintechs and investors a faster way to recover losses from DeFi hacks, while letting XRP, bitcoin and XLM holders earn yield by backing that protection.",
-    "tags": [
-      "BTC",
-      "XRP"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Does the Bitcoin rally mean we haven’t wasted our lives in crypto?",
-    "link": "https://cointelegraph.com/magazine/does-bitcoins-rally-mean-we-havent-wasted-our-lives-in-crypto",
-    "publishedAt": "2026-09-01T13:30:00.000Z",
-    "preview": "Crypto is showing signs of life again, but its biggest wins look different from what early believers imagined. After a decade of building, has it all been worth it?",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "Analyst Declares Bull Market After ETH Breaks Key Monthly Resistance",
     "link": "https://cryptopotato.com/analyst-declares-bull-market-after-eth-breaks-key-monthly-resistance/",
@@ -1218,24 +1269,6 @@
     "tags": [
       "ETH"
     ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Asia sees digital asset custody infrastructure deals from Ripple, Coincheck",
-    "link": "https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck",
-    "publishedAt": "2026-09-01T13:13:05.000Z",
-    "preview": "Ripple was among the latest blockchain companies to sign a strategic partnership to build more custody and tokenized asset management solutions for Asian institutional participants.",
-    "tags": [
-      "XRP"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Kast launches stablecoin-powered business platform after $80M raise",
-    "link": "https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise",
-    "publishedAt": "2026-09-01T13:00:00.000Z",
-    "preview": "Kast aims to onboard between 1,000 and 5,000 active businesses to its new platform by the end of 2026.",
-    "tags": []
   },
   {
     "source": "Decrypt",
@@ -1284,32 +1317,12 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "XRP Enters Its ‘Most Loaded Month’ in History After 30% August Surge",
-    "link": "https://cryptopotato.com/xrp-enters-its-most-loaded-month-in-history-after-30-august-surge/",
-    "publishedAt": "2026-09-01T09:49:20.000Z",
-    "preview": "Historically, August was one of the asset's worst-performing months to date. Yet, everything changed in the past 31 days.",
-    "tags": [
-      "XRP"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "UK's National Crime Agency Freezes $13.6M Sent by Sorare to Premier League: Report",
     "link": "https://decrypt.co/377006/uks-national-crime-agency-freezes-13-6m-of-premier-league-money-in-sorare-probe-report",
     "publishedAt": "2026-09-01T09:46:27.000Z",
     "preview": "The sum was the first payment under a $163 million deal with the Messi-backed fantasy card game, now facing a gambling prosecution.",
     "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Uniswap (UNI) Skyrockets 32% Weekly, Bitcoin (BTC) Calms at $78K: Market Watch",
-    "link": "https://cryptopotato.com/uniswap-uni-skyrockets-32-weekly-bitcoin-btc-calms-at-78k-market-watch/",
-    "publishedAt": "2026-09-01T09:24:43.000Z",
-    "preview": "ARB and CRV are back in the top 100 alts after massive daily gains of 24% and 15%, respectively.",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "Decrypt",
@@ -1356,13 +1369,5 @@
     "tags": [
       "ETH"
     ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Hyperliquid in Talks With Kraken Parent to Bring Crypto Perps to US Traders",
-    "link": "https://decrypt.co/376963/hyperliquid-crypto-perps-us-kraken-parent",
-    "publishedAt": "2026-08-31T17:54:15.000Z",
-    "preview": "A deal would route the decentralized exchange's perpetual futures through Payward's US-regulated Bitnomial, marking Hyperliquid's first US entry—weeks after Trump said his administration was working to bring it onshore.",
-    "tags": []
   }
 ]
