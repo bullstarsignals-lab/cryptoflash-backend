@@ -1,5 +1,122 @@
 [
   {
+    "source": "CryptoPotato",
+    "title": "Multicoin Sells Another 10% of HYPE Stack as Holdings Fall From 4 Million Tokens",
+    "link": "https://cryptopotato.com/multicoin-sells-another-10-of-hype-stack-as-holdings-fall-from-4-million-tokens/",
+    "publishedAt": "2026-09-03T21:59:26.000Z",
+    "preview": "Arkham claimed that Multicoin now holds just over 25% of its peak HYPE stack after another 10% sale by the firm.",
+    "tags": []
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Tether Reports $1.3B Q2 Profit As Excess Reserves Reach $5.2B",
+    "link": "https://www.newsbtc.com/news/tether-reports-1-3b-q2-profit-as-excess-reserves-reach-5-2b/",
+    "publishedAt": "2026-09-03T21:45:00.000Z",
+    "preview": "Read the latest update on Tether Reports $1.3B Q2 Profit As Excess Reserves Reach $5.2B.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "Bitcoin Miner Ditches Site for AI Deal That Could Top $1.2 Billion",
+    "link": "https://decrypt.co/377363/bitcoin-mine-ai-deal-1-2-billion",
+    "publishedAt": "2026-09-03T21:31:05.000Z",
+    "preview": "The projected revenue requires two contract extensions, while an option for more computing capacity could bring the total above $3 billion.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "This Japanese company made money on Ethereum, Solana, and XRP, but sold them anyway to keep its $121 million Bitcoin holdings",
+    "link": "https://cryptoslate.com/this-japanese-company-made-money-on-ethereum-solana-and-xrp-but-sold-them-anyway-to-keep-its-121-million-bitcoin-holdings/",
+    "publishedAt": "2026-09-03T21:25:27.000Z",
+    "preview": "The ¥878.8 million exit left its crypto portfolio Bitcoin-only, yet management may deploy the cash beyond crypto. The post This Japanese company made money on Ethereum, Solana, and XRP, but sold them anyway to keep its $",
+    "tags": [
+      "BTC",
+      "ETH",
+      "SOL",
+      "XRP"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "CFTC files to dismiss CME lawsuit over crypto perpetual futures",
+    "link": "https://cointelegraph.com/news/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures",
+    "publishedAt": "2026-09-03T21:09:13.000Z",
+    "preview": "The CFTC’s lawyers called the lawsuit “much ado about nothing,“ claiming that the CME Group lacked standing to file and argued against its claims over crypto perpetual futures.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "NewsBTC",
+    "title": "SEC Approves Options Trading For WisdomTree Bitcoin Fund",
+    "link": "https://www.newsbtc.com/news/sec-approves-options-trading-for-wisdomtree-bitcoin-fund/",
+    "publishedAt": "2026-09-03T21:00:00.000Z",
+    "preview": "Read the latest update on SEC Approves Options Trading For WisdomTree Bitcoin Fund.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "What Is Pons? The Robinhood Chain Meme Coin Factory Token Up 18,000% Since July",
+    "link": "https://decrypt.co/377349/pons-robinhood-chain-meme-coin-token-factory",
+    "publishedAt": "2026-09-03T20:46:04.000Z",
+    "preview": "PONS, the token behind Robinhood Chain's biggest meme coin factory, flipped CASHCAT to become the chain's largest cryptocurrency by market cap—and its chart looks like a hockey stick.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-09-03T20:30:14.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Bernie Sanders Pushes Bill to Ban Advanced AI Development",
+    "link": "https://decrypt.co/377340/bernie-sanders-ban-advanced-ai",
+    "publishedAt": "2026-09-03T20:16:04.000Z",
+    "preview": "The forthcoming bill would pause advanced AI development, create a federal regulator, and threaten violators with up to 20 years in prison.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "NewsBTC",
+    "title": "ECB Digital Euro Report Keeps Preparation Phase Moving",
+    "link": "https://www.newsbtc.com/news/ecb-digital-euro-report-keeps-preparation-phase-moving/",
+    "publishedAt": "2026-09-03T20:15:00.000Z",
+    "preview": "Read the latest update on ECB Digital Euro Report Keeps Preparation Phase Moving.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "New XRP Ledger Tool Turns Amendment Testing Into Public Scorecard",
+    "link": "https://cryptopotato.com/new-xrp-ledger-tool-turns-amendment-testing-into-public-scorecard/",
+    "publishedAt": "2026-09-03T20:08:14.000Z",
+    "preview": "XRPL builders can use the dashboard to identify untested edge cases without having to manually inspect every amendment specification.",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "BIS shows why real institutional adoption on XRP Ledger won’t trigger the XRP supply squeeze holders expect",
+    "link": "https://cryptoslate.com/bis-prototype-shows-why-real-institutional-adoption-on-xrp-ledger-wont-trigger-the-xrp-supply-squeeze-holders-expect/",
+    "publishedAt": "2026-09-03T20:00:11.000Z",
+    "preview": "One transaction can authenticate thousands of datasets, leaving fee burn tiny even as institutional-style usage scales. The post BIS shows why real institutional adoption on XRP Ledger won’t trigger the XRP supply squeez",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
     "source": "Cointelegraph",
     "title": "Mantle adds Paxos’ USDG stablecoin, joins Global Dollar Network",
     "link": "https://cointelegraph.com/news/paxos-usdg-goes-live-mantle-network-joins-global-dollar-network",
@@ -339,17 +456,6 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-09-03T13:00:00.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "Top Pi Network Price Predictions as PI Rises 13% in a Month",
     "link": "https://cryptopotato.com/top-pi-network-price-predictions-as-pi-rises-13-in-a-month/",
@@ -430,14 +536,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "TrueUSD’s $456M court case gives defendant days to reveal legal funding source – or face court sanctions",
-    "link": "https://cryptoslate.com/trueusds-456m-stablecoin-court-case-gives-defendant-days-to-reveal-who-funded-their-legal-defense-or-face-court-sanctions/",
-    "publishedAt": "2026-09-03T11:25:35.000Z",
-    "preview": "The affidavit must explain legal-payment sources, while any penalty would still require a further Techteryx application. The post TrueUSD’s $456M court case gives defendant days to reveal legal funding source – or face c",
-    "tags": []
-  },
-  {
     "source": "CoinDesk",
     "title": "The yen is surging and it’s helping bitcoin, for now",
     "link": "https://www.coindesk.com/markets/2026/09/03/the-yen-is-surging-and-it-s-helping-bitcoin-for-now",
@@ -475,14 +573,6 @@
       "BTC",
       "ARB"
     ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Robinhood put stocks on a permissionless blockchain- memecoin traders are stress-testing what happens next",
-    "link": "https://cryptoslate.com/robinhood-put-stocks-on-a-permissionless-blockchain-memecoin-traders-are-stress-testing-what-happens-next/",
-    "publishedAt": "2026-09-03T10:20:55.000Z",
-    "preview": "Memecoins paired against Robinhood's tokenized stocks generated $217 million of trading volume on Robinhood Chain on Sept. 2, according to data compiled by on-chain researcher Adam Tehc. The volume outpaced the $127 mill",
-    "tags": []
   },
   {
     "source": "Cointelegraph",
@@ -1129,14 +1219,6 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "Thailand adopts crypto Travel Rule with self-custodial wallet checks",
-    "link": "https://cointelegraph.com/news/thailand-crypto-travel-rule-self-custodial-wallet-checks",
-    "publishedAt": "2026-09-02T10:56:15.000Z",
-    "preview": "Thailand adopted a crypto Travel Rule requiring digital asset operators to verify control of self-custodial wallets and retain transaction data for five years.",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "SEC Proposes First Transfer Agent Overhaul in 40 Years, Citing Tokenization",
     "link": "https://decrypt.co/377149/sec-proposes-first-transfer-agent-overhaul-in-40-years-citing-tokenization",
@@ -1219,14 +1301,6 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "Zcash May Have a Bigger Role to Play as AI Threatens Financial Privacy: Grayscale",
-    "link": "https://cryptopotato.com/zcash-may-have-a-bigger-role-to-play-as-ai-threatens-financial-privacy-grayscale/",
-    "publishedAt": "2026-09-01T22:22:57.000Z",
-    "preview": "As AI improves blockchain address labelling, Grayscale sees Zcash becoming more valuable for users.",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "OpenClaw 2.0 Is Here: What Changed, Why It Took Two Months, and How It Stacks Up Against Hermes",
     "link": "https://decrypt.co/377135/openclaw-2-0-is-here-whats-new",
@@ -1243,16 +1317,6 @@
     "tags": []
   },
   {
-    "source": "NewsBTC",
-    "title": "SEC Charges 38 Entities Over False Investment Adviser Filings",
-    "link": "https://www.newsbtc.com/news/sec-charges-38-entities-false-investment-adviser-filings-2/",
-    "publishedAt": "2026-09-01T21:30:00.000Z",
-    "preview": "The SEC has charged 38 entities for allegedly using false filings to make themselves appear legitimate as registered investment advisers, putting regulatory ...",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Robinhood Chain DEX Volume Jumps to $1.6 billion",
     "link": "https://decrypt.co/377126/robinhood-chain-dex-volume-jumps",
@@ -1261,14 +1325,6 @@
     "tags": [
       "ETH"
     ]
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Belgium Police Target Crypto Wallets In Cross-Border Piracy Crackdown",
-    "link": "https://www.newsbtc.com/news/belgium-police-crypto-wallets-cross-border-piracy-crackdown/",
-    "publishedAt": "2026-09-01T20:45:00.000Z",
-    "preview": "Belgian federal police have targeted crypto wallets linked to offshore piracy platforms in a cross-border enforcement action, according to an official govern...",
-    "tags": []
   },
   {
     "source": "Decrypt",
@@ -1281,27 +1337,11 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "Former US Rep. George Santos Banned From Kalshi for Life After Betting on Himself",
-    "link": "https://cryptopotato.com/former-us-rep-george-santos-banned-from-kalshi-for-life-after-betting-on-himself/",
-    "publishedAt": "2026-09-01T20:29:21.000Z",
-    "preview": "Kalshi is permanently cutting off George Santos after investigating trades that allegedly exploited his ability to influence the outcome of event contracts.",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "Dropbox Security Breach: Hackers Access Accounts Through Authentication Flaw",
     "link": "https://decrypt.co/377099/dropbox-security-breach",
     "publishedAt": "2026-09-01T20:01:05.000Z",
     "preview": "Attackers reportedly registered Lenovo IDs using victims’ email addresses, allowing them to sign into existing Dropbox accounts without their passwords.",
-    "tags": []
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Fed Research Compares Wholesale CBDC Settlement With Tokenized Deposits",
-    "link": "https://www.newsbtc.com/news/fed-research-wholesale-cbdc-tokenized-deposits/",
-    "publishedAt": "2026-09-01T20:00:00.000Z",
-    "preview": "A Federal Reserve research paper has compared wholesale CBDC settlement with tokenized commercial bank deposits, adding another official research layer to th...",
     "tags": []
   },
   {
@@ -1330,34 +1370,6 @@
     "preview": "The publicly traded company recently bought 19,000 SOL, bringing its treasury to more than 2.33 million SOL and SOL equivalents.",
     "tags": [
       "SOL"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "X Data Breach? Users Are Getting Flooded With Password Reset Emails Nobody Requested",
-    "link": "https://decrypt.co/377048/x-data-breach-users-flooded-password-reset",
-    "publishedAt": "2026-09-01T16:26:10.000Z",
-    "preview": "X engineers have acknowledged the issue, but have not confirmed a new data breach of its systems.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Cathie Wood’s Ark Invest Buys $37 Million in Bitcoin and Payments Firm Block",
-    "link": "https://decrypt.co/377046/cathie-wood-ark-invest-buys-more-block",
-    "publishedAt": "2026-09-01T16:13:28.000Z",
-    "preview": "The investment firm bought 456,059 Block shares across three ETFs and added $3.4 million in Circle stock.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Gal Gadot Defends AI Use in Bitcoin Film: 'Work With It or Be Out of the Game'",
-    "link": "https://decrypt.co/377032/gal-gadot-defends-ai-use-in-bitcoin-film-work-with-it-or-be-out-of-the-game",
-    "publishedAt": "2026-09-01T14:39:55.000Z",
-    "preview": "The actor’s lawyers spent six months negotiating the contract for “Bitcoin: Killing Satoshi” in order to “protect” her performance.",
-    "tags": [
-      "BTC"
     ]
   }
 ]
