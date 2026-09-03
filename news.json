@@ -1,6 +1,60 @@
 [
   {
     "source": "Decrypt",
+    "title": "Anthropic Admits Security Failures Behind Claude Hacking Incidents",
+    "link": "https://decrypt.co/377232/anthropic-security-claude-ai-hacks",
+    "publishedAt": "2026-09-02T23:46:04.000Z",
+    "preview": "After Claude models accessed real systems during cyber tests, Anthropic tightened its safeguards and warned that flawed training can encourage dangerous behavior.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "XRP’s $2.14 bull case just met a $474 million ETF tailwind",
+    "link": "https://cryptoslate.com/xrps-2-14-bull-case-just-met-a-474-million-etf-tailwind/",
+    "publishedAt": "2026-09-02T23:40:10.000Z",
+    "preview": "CryptoSlate's 90-day model maps nearly 59% upside in its bullish Nov. 30 scenario, while the central estimate and downside range remain far lower. The post XRP’s $2.14 bull case just met a $474 million ETF tailwind appea",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "An AI Training Data Startup Just Became Y Combinator's Fastest-Ever Unicorn",
+    "link": "https://decrypt.co/377231/afterquery-ai-tradining-data-unicorn-y-combinator",
+    "publishedAt": "2026-09-02T23:16:04.000Z",
+    "preview": "Afterquery's valuation jumped more than tenfold in five months, making it Y Combinator's fastest unicorn ever.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "FBI Seizes $560K in Crypto Bound for Hamas, Takes Over Fundraising Sites",
+    "link": "https://decrypt.co/377230/fbi-seizes-560k-crypto-hamas",
+    "publishedAt": "2026-09-02T22:47:06.000Z",
+    "preview": "Agents seized digital assets, domains, and servers allegedly used by Hamas’ military wing to collect donations and recruit supporters.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "BlackRock’s Bitcoin ETF barely beat the S&P 500 after putting investors through a 53% crash",
+    "link": "https://cryptoslate.com/blackrocks-bitcoin-etf-barely-beat-the-sp-500-after-putting-investors-through-a-53-crash/",
+    "publishedAt": "2026-09-02T22:20:04.000Z",
+    "preview": "IBIT’s 1.60-point lead masked a maximum decline nearly three times as deep as the S&P 500 fund’s. The post BlackRock’s Bitcoin ETF barely beat the S&P 500 after putting investors through a 53% crash appeared first on Cry",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Cardano Firm TapTools Scraps Revival NFT Sale After Community Backlash",
+    "link": "https://cryptopotato.com/cardano-firm-taptools-scraps-revival-nft-sale-after-community-backlash/",
+    "publishedAt": "2026-09-02T22:19:41.000Z",
+    "preview": "Rather than criticize TapTools directly, Hoskinson used a South Park clip to respond to the team's admission that it had \"got this one wrong.\"",
+    "tags": [
+      "ADA"
+    ]
+  },
+  {
+    "source": "Decrypt",
     "title": "Japan’s Remixpoint Dumps Ethereum, XRP in Shift to Bitcoin-Only Treasury",
     "link": "https://decrypt.co/377228/remixpoint-xrp-ethereum-bitcoin-only",
     "publishedAt": "2026-09-02T21:31:05.000Z",
@@ -339,16 +393,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Strategy keeps STRC at 12% as Saylor has seven days to salvage the $10 billion Bitcoin yield product as costs spiral",
-    "link": "https://cryptoslate.com/strategy-keeps-strc-at-12-as-saylor-has-seven-days-to-salvage-the-1-billion-bitcoin-yield-product-as-costs-spiral/",
-    "publishedAt": "2026-09-02T13:45:03.000Z",
-    "preview": "Michael Saylor has roughly one week to orchestrate STRC’s return to its $100 par value by his informal Sept. 8 target, but the financial machinery required to close the final gap is running hot. Despite deploying $635.2 ",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
     "link": "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident",
@@ -394,16 +438,6 @@
     "preview": "Ethereum’s post-breakout consolidation is beginning to tilt toward a corrective phase, with the price slipping below the lower end of its recent range. While the broader recovery remains intact, weakening short-term stru",
     "tags": [
       "ETH"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Bitcoin hits $77,000 wall as the Fed gets trapped between weak jobs and $90 oil",
-    "link": "https://cryptoslate.com/bitcoin-hits-77000-wall-as-the-fed-gets-trapped-between-weak-jobs-and-90-oil/",
-    "publishedAt": "2026-09-02T13:00:42.000Z",
-    "preview": "JOLTS turnover weakened, but ISM prices at 71.1 and a 66% closing hike probability kept the rates threat alive. The post Bitcoin hits $77,000 wall as the Fed gets trapped between weak jobs and $90 oil appeared first on C",
-    "tags": [
-      "BTC"
     ]
   },
   {
@@ -1272,16 +1306,6 @@
     "tags": []
   },
   {
-    "source": "CryptoPotato",
-    "title": "Bitcoin’s Rally Faces Fresh Test as Rate Fears Grow: Bitfinex",
-    "link": "https://cryptopotato.com/bitcoins-rally-faces-fresh-test-as-rate-fears-grow-bitfinex/",
-    "publishedAt": "2026-09-01T07:51:46.000Z",
-    "preview": "Fresh ETF demand is supporting Bitcoin, but changing U.S. rate expectations could shape its next move.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "As Public Fury Mounts, Texas Pulls the Plug on Flock Surveillance Funding",
     "link": "https://decrypt.co/376999/texas-bans-flock-surveillance-funding",
@@ -1334,25 +1358,5 @@
     "publishedAt": "2026-08-31T17:54:15.000Z",
     "preview": "A deal would route the decentralized exchange's perpetual futures through Payward's US-regulated Bitnomial, marking Hyperliquid's first US entry—weeks after Trump said his administration was working to bring it onshore.",
     "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Former SEC, CFTC Officials Urge Lighter Touch to Bring Crypto Perps Trading Onshore",
-    "link": "https://decrypt.co/376936/sec-cftc-crypto-perps-trading-onshore",
-    "publishedAt": "2026-08-31T17:06:04.000Z",
-    "preview": "With the Clarity Act stuck in recess limbo, the agencies are pressing ahead on crypto derivatives and custody, as former officials warn that overly burdensome rules will keep a $90 trillion perps market offshore.",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Bitcoin Holds Steady as US Strikes on Iran Rattle Stocks and Lift Oil",
-    "link": "https://decrypt.co/376960/bitcoin-holds-steady-us-strikes-iran-stocks-oil",
-    "publishedAt": "2026-08-31T16:55:46.000Z",
-    "preview": "The largest cryptocurrency is on track for its best month since 2017, holding above $78,000 even as a hawkish Fed and renewed Middle East conflict drag on stocks and lift crude.",
-    "tags": [
-      "BTC"
-    ]
   }
 ]
