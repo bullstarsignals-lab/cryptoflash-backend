@@ -1,5 +1,127 @@
 [
   {
+    "source": "Cointelegraph",
+    "title": "Mantle adds Paxos’ USDG stablecoin, joins Global Dollar Network",
+    "link": "https://cointelegraph.com/news/paxos-usdg-goes-live-mantle-network-joins-global-dollar-network",
+    "publishedAt": "2026-09-03T19:36:56.000Z",
+    "preview": "Mantle has added Paxos-issued USDG as a natively minted stablecoin while joining the network’s reward-sharing structure.",
+    "tags": []
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Circle Reserve Attestation Shows USDC Backing Above Circulating Supply",
+    "link": "https://www.newsbtc.com/news/circle-reserve-attestation-shows-usdc-backing-above-circulating-supply/",
+    "publishedAt": "2026-09-03T19:30:00.000Z",
+    "preview": "Read the latest update on Circle Reserve Attestation Shows USDC Backing Above Circulating Supply.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "OpenAI Releases GPT-6 Astra: The Closest AI Model Yet to AGI",
+    "link": "https://decrypt.co/377341/openai-releases-gpt-6-astra-agi",
+    "publishedAt": "2026-09-03T19:24:24.000Z",
+    "preview": "The model can independently discover and exploit unknown security flaws across hardened systems, triggering a staged rollout and White House review before public access.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Michigan authorities continue pursuit to block Kalshi as Supreme Court fight looms",
+    "link": "https://cointelegraph.com/news/michigan-block-kalshi-supreme-court-legal-fight",
+    "publishedAt": "2026-09-03T19:11:46.000Z",
+    "preview": "Kalshi previously said it had been placed in an “impossible position” after federal authorities directed the company to ignore a Michigan restraining order issued in June.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "What Solana’s failed fee vote reveals about Anatoly Yakovenko’s power",
+    "link": "https://cryptoslate.com/what-solanas-failed-fee-vote-reveals-about-anatoly-yakovenkos-power/",
+    "publishedAt": "2026-09-03T19:00:32.000Z",
+    "preview": "A majority backed the reform, but the supermajority rule left implementation authority with validators and stakers. The post What Solana’s failed fee vote reveals about Anatoly Yakovenko’s power appeared first on CryptoS",
+    "tags": [
+      "SOL"
+    ]
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Marathon Mines 670 Bitcoin In August As Treasury Reaches 25,000 BTC",
+    "link": "https://www.newsbtc.com/news/marathon-mines-670-bitcoin-in-august-as-treasury-reaches-25-000-btc/",
+    "publishedAt": "2026-09-03T18:45:00.000Z",
+    "preview": "Read the latest update on Marathon Mines 670 Bitcoin In August As Treasury Reaches 25,000 BTC.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Bitcoin reclaims $80K as DXY falls amid continuing suspected yen intervention",
+    "link": "https://cointelegraph.com/markets/bitcoin-reclaims-810-dxy-falls-amid-continuing-suspected-yen-intervention",
+    "publishedAt": "2026-09-03T18:44:22.000Z",
+    "preview": "Bitcoin rallied 5% to reclaim $80,000 as the US dollar weakened amid a suspected Bank of Japan currency intervention, though analysts remain split on the impact.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "ChatGPT, Claude and Grok Outages Leave Users Asking How to Work Without AI",
+    "link": "https://decrypt.co/377337/chatgpt-claude-grok-outages-work-without-ai",
+    "publishedAt": "2026-09-03T18:31:26.000Z",
+    "preview": "The three AI platforms restored service Thursday after users said the simultaneous disruptions brought their work to a halt.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Who Will Win the Privacy Coin Battle in 2026: ZEC, XMR, or Another Competitor? (3 AIs Weigh In)",
+    "link": "https://cryptopotato.com/who-will-win-the-privacy-coin-battle-in-2026-zec-xmr-or-another-competitor-3-ais-weigh-in/",
+    "publishedAt": "2026-09-03T18:29:13.000Z",
+    "preview": "\"ZEC is my pick to finish with the largest market cap among privacy coins, but not necessarily the best investment from today's price,\" ChatGPT stated.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "Bitcoin ETFs Rebound as Ethereum and XRP ETFs End Winning Streaks",
+    "link": "https://decrypt.co/377284/bitcoin-etfs-rebound-ethereum-xrp-end-streaks",
+    "publishedAt": "2026-09-03T18:15:07.000Z",
+    "preview": "Ethereum funds broke a 12-day winning run and XRP snapped an 11-session streak on Wednesday, while Bitcoin ETFs bounced back with $101.15 million in one day after their worst outflow since July.",
+    "tags": [
+      "BTC",
+      "ETH",
+      "XRP"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Hyperliquid treasury company increases token buying strategy to $2.5 billion as shares run out",
+    "link": "https://cryptoslate.com/hyperliquid-treasury-company-increases-token-buying-strategy-to-2-5-billion-as-shares-run-out/",
+    "publishedAt": "2026-09-03T18:00:42.000Z",
+    "preview": "Filings show at least $763.7 million raised, leaving at most $236.3 million before discounted share sales face a Nasdaq cap. The post Hyperliquid treasury company increases token buying strategy to $2.5 billion as shares",
+    "tags": []
+  },
+  {
+    "source": "NewsBTC",
+    "title": "CFTC Advisory Sets Expectations For Tokenized Collateral At Clearinghouses",
+    "link": "https://www.newsbtc.com/news/cftc-advisory-sets-expectations-for-tokenized-collateral-at-clearinghouses/",
+    "publishedAt": "2026-09-03T18:00:00.000Z",
+    "preview": "Read the latest update on CFTC Advisory Sets Expectations For Tokenized Collateral At Clearinghouses.",
+    "tags": []
+  },
+  {
+    "source": "NewsBTC",
+    "title": "CleanSpark Hits 30 EH/s Hashrate After Mississippi Facility Deal",
+    "link": "https://www.newsbtc.com/news/cleanspark-hits-30-eh-s-hashrate-after-mississippi-facility-deal/",
+    "publishedAt": "2026-09-03T17:15:00.000Z",
+    "preview": "Read the latest update on CleanSpark Hits 30 EH/s Hashrate After Mississippi Facility Deal.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Bybit Pay integrates with Mesh to expand crypto payments",
+    "link": "https://cointelegraph.com/news/bybit-pay-integrates-with-mesh-to-expand-crypto-payments",
+    "publishedAt": "2026-09-03T17:13:04.000Z",
+    "preview": "The integration lets Bybit users spend digital assets directly from their exchange balances across Mesh-powered platforms.",
+    "tags": []
+  },
+  {
     "source": "CryptoSlate",
     "title": "Bitcoin may be leaving its 4-year cycle behind for a 6-to-8-year Wall Street rhythm",
     "link": "https://cryptoslate.com/bitcoin-may-be-leaving-its-4-year-cycle-behind-for-a-6-to-8-year-wall-street-rhythm/",
@@ -8,6 +130,14 @@
     "tags": [
       "BTC"
     ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "BitMEX co-founder contributed 75% of Reform UK’s donations in Q2 2026",
+    "link": "https://cointelegraph.com/news/bitmex-cofounder-ben-delo-reform-uk-donations",
+    "publishedAt": "2026-09-03T17:06:28.000Z",
+    "preview": "The UK political party and its leader, Nigel Farage, have accepted contributions from figures tied to the crypto industry, raising questions about potential influence on policies.",
+    "tags": []
   },
   {
     "source": "CryptoPotato",
@@ -418,16 +548,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Bitcoin cannot break out past $80,000 until it devours an 880k BTC roadblock that choked every rally",
-    "link": "https://cryptoslate.com/bitcoin-cannot-break-out-past-80000-until-it-devours-an-880k-btc-roadblock-that-choked-every-rally/",
-    "publishedAt": "2026-09-03T09:13:48.000Z",
-    "preview": "Bitcoin is testing a roughly $68 billion breakeven wall that has repeatedly stalled its push back above $80,000. About 880,000 BTC carry a cost basis between roughly $77,500 and $80,300, leaving a large group of holders ",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "CoinDesk",
     "title": "CFTC asks judge to dismiss CME lawsuit over crypto perpetual futures",
     "link": "https://www.coindesk.com/policy/2026/09/03/cftc-asks-judge-to-dismiss-cme-lawsuit-over-crypto-perpetual-futures",
@@ -491,14 +611,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Ontology forces urgent node upgrade after restarting chain hit by malicious activity",
-    "link": "https://cryptoslate.com/ontology-forces-urgent-node-upgrade-after-restarting-chain-hit-by-malicious-activity/",
-    "publishedAt": "2026-09-03T07:00:34.000Z",
-    "preview": "Version 3.1.5 is mandatory for compatibility while the attack path and wider service recovery remain undisclosed. The post Ontology forces urgent node upgrade after restarting chain hit by malicious activity appeared fir",
-    "tags": []
   },
   {
     "source": "CryptoPotato",
@@ -1043,16 +1155,6 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "Crypto industry urges SEC to avoid blanket novel ETF restrictions",
-    "link": "https://cointelegraph.com/news/crypto-industry-sec-novel-etf-restrictions",
-    "publishedAt": "2026-09-02T09:48:49.000Z",
-    "preview": "Grayscale, a16z, and the CCI asked the SEC to preserve existing classification rules and avoid treating novel exchange-traded products as a single category, while proposing different routes to clearer and faster reviews.",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "Bitcoin Drops to 10-Day Low, Altcoins Retrace Following New US-Iran Attacks: Market Watch",
     "link": "https://cryptopotato.com/bitcoin-drops-to-10-day-low-altcoins-retrace-following-new-us-iran-attacks-market-watch/",
@@ -1087,17 +1189,6 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "Bitcoin ETFs notch best month of 2026 as BTC gains 25% in August",
-    "link": "https://cointelegraph.com/markets/bitcoin-etf-best-month-2026-btc-up-25-august",
-    "publishedAt": "2026-09-02T07:59:43.000Z",
-    "preview": "US spot Bitcoin ETFs reduced their year-to-date net outflows by 66% as Bitcoin gained about 25% in August, while Ether ETFs turned positive YTD at $732 million and XRP ETFs reached $502 million.",
-    "tags": [
-      "BTC",
-      "XRP"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "Bitcoin Price Analysis: Warning Signs Emerge as BTC’s Breakout Loses Momentum",
     "link": "https://cryptopotato.com/bitcoin-price-analysis-warning-signs-emerge-as-btcs-breakout-loses-momentum/",
@@ -1106,22 +1197,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "HYPE treasury firm Hyperliquid Strategies boosts equity facility to $2.5B",
-    "link": "https://cointelegraph.com/news/hyperliquid-strategies-equity-facility-2-5-billion",
-    "publishedAt": "2026-09-02T05:48:21.000Z",
-    "preview": "The Nasdaq-listed company previously raised $647 million through the facility and accumulated about 29.3 million HYPE tokens.",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Core DAO plans emergency hard fork after validators drew excess rewards",
-    "link": "https://cointelegraph.com/news/core-dao-emergency-hard-fork-excess-validator-rewards",
-    "publishedAt": "2026-09-02T04:15:34.000Z",
-    "preview": "Core says the incident is contained and its planned forward upgrade will not roll back the network or reverse previously confirmed transactions.",
-    "tags": []
   },
   {
     "source": "CryptoPotato",
@@ -1176,14 +1251,6 @@
     "tags": [
       "Regulation"
     ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Crypto-backed PAC scales back ad spending in Massachusetts primary",
-    "link": "https://cointelegraph.com/news/crypto-pac-protect-progress-spending-massachusetts-primary",
-    "publishedAt": "2026-09-01T21:25:27.000Z",
-    "preview": "The $189,000 in media spending to support Representative Jake Auchincloss marked Fairshake’s latest attempt to influence the 2026 elections with funds from the crypto industry.",
-    "tags": []
   },
   {
     "source": "Decrypt",
@@ -1246,36 +1313,6 @@
     "tags": []
   },
   {
-    "source": "NewsBTC",
-    "title": "Bitcoin ETFs Add $142M As September Trading Opens With Inflows",
-    "link": "https://www.newsbtc.com/news/bitcoin-etfs-add-142m-september-trading-inflows/",
-    "publishedAt": "2026-09-01T19:15:00.000Z",
-    "preview": "U.S. spot Bitcoin ETFs recorded $142 million in net inflows as September trading opened, giving Bitcoin traders a positive flow signal after the previous ses...",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Solana’s 7% Pullback Isn’t Slowing Demand: Here’s the $150 Setup",
-    "link": "https://cryptopotato.com/solanas-7-pullback-isnt-slowing-demand-heres-the-150-setup/",
-    "publishedAt": "2026-09-01T18:50:49.000Z",
-    "preview": "Roughly 2.6 million SOL left exchanges last week, reducing available supply as investors continue showing stronger demand for Solana.",
-    "tags": [
-      "SOL"
-    ]
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Solana ETFs Record $925K In Daily Inflows As New Month Opens",
-    "link": "https://www.newsbtc.com/news/solana-etfs-925k-daily-inflows-new-month-opens/",
-    "publishedAt": "2026-09-01T18:30:00.000Z",
-    "preview": "U.S. spot Solana ETFs recorded $925,000 in net daily inflows as September trading opened, giving SOL markets a fresh regulated-demand signal after a strong A...",
-    "tags": [
-      "SOL"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Bitcoin's Next Move: Bullish Bets Run Up Against a Historical Wall",
     "link": "https://decrypt.co/377052/bitcoins-next-move-bullish-bets-run-up-against-a-historical-wall",
@@ -1294,22 +1331,6 @@
     "tags": [
       "SOL"
     ]
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Tokenized Real-World Assets Reach Monthly High As Collateral Demand Grows",
-    "link": "https://www.newsbtc.com/news/tokenized-real-world-assets-monthly-high-collateral-demand/",
-    "publishedAt": "2026-09-01T17:45:00.000Z",
-    "preview": "Tokenized real-world assets and equities collateral have reached a monthly high, according to DeFiLlama RWA data, adding to signs that tokenization remains o...",
-    "tags": []
-  },
-  {
-    "source": "NewsBTC",
-    "title": "CFTC Issues Event Contract Guidance As Prediction Markets Face Scrutiny",
-    "link": "https://www.newsbtc.com/news/cftc-event-contract-guidance-prediction-markets-scrutiny/",
-    "publishedAt": "2026-09-01T17:00:00.000Z",
-    "preview": "The CFTC has issued regulatory enforcement guidance for event contract derivatives, sharpening the lines around prediction markets at a time when event-based...",
-    "tags": []
   },
   {
     "source": "Decrypt",
@@ -1338,23 +1359,5 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Morning Minute: Saylor’s Back Buying Bitcoin",
-    "link": "https://decrypt.co/377014/morning-minute-saylors-back-buying-bitcoin",
-    "publishedAt": "2026-09-01T12:21:23.000Z",
-    "preview": "Strategy somehow threaded the needle of buying Bitcoin and STRC while also raising cash. Now how will the market respond?",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "South Korea Arrests Four Over Crypto Payments to Syrian Terror Group",
-    "link": "https://decrypt.co/377015/south-korea-arrests-four-over-crypto-payments-to-syrian-terror-group",
-    "publishedAt": "2026-09-01T12:16:24.000Z",
-    "preview": "Police say the ringleader also took crypto from the group and sent back 11 used cars and two excavators, a first for Korean investigators.",
-    "tags": []
   }
 ]
