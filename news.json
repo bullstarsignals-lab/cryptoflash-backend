@@ -1,5 +1,63 @@
 [
   {
+    "source": "CoinDesk",
+    "title": "Bitcoin back above $77,500, XRP leads majors as Fed hike odds slide to 62%",
+    "link": "https://www.coindesk.com/markets/2026/09/03/bitcoin-back-above-usd77-500-xrp-leads-majors-as-fed-hike-odds-near-66",
+    "publishedAt": "2026-09-03T04:22:40.000Z",
+    "preview": "Every major token is green over 24 hours, though only zcash and hyperliquid are holding gains on the week.",
+    "tags": [
+      "BTC",
+      "XRP"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "XRP’s Next Move Comes Down to These Key Price Levels: Analyst",
+    "link": "https://cryptopotato.com/xrps-next-move-comes-down-to-these-key-price-levels-analyst/",
+    "publishedAt": "2026-09-03T03:55:08.000Z",
+    "preview": "XRP faces resistance at $1.40 to $1.43 before reaching $1.47, creating several hurdles for bulls attempting to regain control.",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Coinbase co-founder joins rush for Venezuelan oil assets under new US-backed framework",
+    "link": "https://cryptoslate.com/coinbase-co-founder-joins-rush-for-venezuelan-oil-assets-under-new-us-backed-framework/",
+    "publishedAt": "2026-09-03T03:50:38.000Z",
+    "preview": "Primavera is reportedly negotiating for three fields, but no signed agreement or transfer has been announced. The post Coinbase co-founder joins rush for Venezuelan oil assets under new US-backed framework appeared first",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "How stablecoins are quietly becoming the Fed’s debt buyer of last resort",
+    "link": "https://cryptoslate.com/how-stablecoins-are-quietly-becoming-the-feds-debt-buyer-of-last-resort/",
+    "publishedAt": "2026-09-03T02:30:23.000Z",
+    "preview": "Dollar tokens can expand private use and Treasury-bill demand without deciding how central banks allocate reserves. The post How stablecoins are quietly becoming the Fed’s debt buyer of last resort appeared first on Cryp",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Nearly $10 million must escape a dying Ethereum L2 network before New Year’s Eve or risk becoming unrecoverable",
+    "link": "https://cryptoslate.com/nearly-10-million-must-escape-a-dying-ethereum-network-before-new-years-eve-or-risk-becoming-unrecoverable/",
+    "publishedAt": "2026-09-03T01:00:59.000Z",
+    "preview": "The Ethereum layer 2 stopped deposits and warned that exit routes differ before its network and explorer shut down. The post Nearly $10 million must escape a dying Ethereum L2 network before New Year’s Eve or risk becomi",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "DOGE, SHIB, PEPE, or Something Else: Which Meme Coin Can Make History in September? (3 AIs Weigh In)",
+    "link": "https://cryptopotato.com/doge-shib-pepe-or-something-else-which-meme-coin-can-make-history-in-september-3-ais-weigh-in/",
+    "publishedAt": "2026-09-03T00:41:21.000Z",
+    "preview": "\"DOGE remains the most likely to record the largest move in dollar terms and lead the entire sector,\" ChatGPT stated.",
+    "tags": [
+      "DOGE",
+      "SHIB"
+    ]
+  },
+  {
     "source": "Decrypt",
     "title": "Anthropic Admits Security Failures Behind Claude Hacking Incidents",
     "link": "https://decrypt.co/377232/anthropic-security-claude-ai-hacks",
@@ -308,14 +366,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "What the $344M crypto political spending spree wants from Congress next",
-    "link": "https://cryptoslate.com/what-the-344m-crypto-political-spending-spree-wants-from-congress-next/",
-    "publishedAt": "2026-09-02T15:40:32.000Z",
-    "preview": "Corporate political donations hit a record $646 million over the 18 months through June, according to Public Citizen's analysis of FEC filings. Crypto political spending led every other corporate sector at $206 million, ",
-    "tags": []
-  },
-  {
     "source": "Cointelegraph",
     "title": "G20 members tout ‘clear pathways’ for digital asset innovation",
     "link": "https://cointelegraph.com/news/g20-members-clear-pathways-digital-asset-innovation",
@@ -348,30 +398,12 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "North Korea’s $30M crypto cashout just handed legacy finance its best weapon to kill DeFi’s US debut",
-    "link": "https://cryptoslate.com/north-koreas-30m-crypto-cashout-just-handed-legacy-finance-its-best-weapon-to-kill-defis-us-debut/",
-    "publishedAt": "2026-09-02T14:35:11.000Z",
-    "preview": "CME and ICE told Washington in May that Hyperliquid's pseudonymous, always-on markets could let sanctioned state actors circumvent enforcement. On Aug. 31, an Arkham analysis reviewed by CoinDesk found that wallets linke",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61%",
     "link": "https://decrypt.co/377162/ai-billionaires-fund-ad-blitz-as-data-center-opposition-hits-61",
     "publishedAt": "2026-09-02T14:16:44.000Z",
     "preview": "Marc Andreessen, Ben Horowitz and OpenAI's Greg Brockman have backed the super PAC behind the campaign, which faces surging opposition.",
     "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "TRON H1 2026 Strategy Report: Dual-Engine Growth via DeFi and AI Delivers Record Traction",
-    "link": "https://cryptoslate.com/tron-h1-2026-strategy-report-dual-engine-growth-via-defi-and-ai-delivers-record-traction/",
-    "publishedAt": "2026-09-02T14:15:18.000Z",
-    "preview": "Abstract: In H1 2026, TRON bucked broader market headwinds through a twin-track strategy: solidifying its core DeFi engine while aggressively expanding into AI. As recurring deflationary mechanics anchored value across D",
-    "tags": [
-      "TRX"
-    ]
   },
   {
     "source": "CryptoPotato",
@@ -1168,16 +1200,6 @@
     ]
   },
   {
-    "source": "CoinDesk",
-    "title": "Bitcoin enters ‘Rektember’ as rate-hike risk combines with seasonality to threaten rally",
-    "link": "https://www.coindesk.com/markets/2026/09/01/bitcoin-enters-rektember-as-rate-hike-risks-threaten-its-august-rally",
-    "publishedAt": "2026-09-01T13:55:26.000Z",
-    "preview": "September has historically been a poor month for risk assets in general, and bitcoin, in particular.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "Does the Bitcoin rally mean we haven’t wasted our lives in crypto?",
     "link": "https://cointelegraph.com/magazine/does-bitcoins-rally-mean-we-havent-wasted-our-lives-in-crypto",
@@ -1288,22 +1310,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Donald Trump Jr.’s 1789 Capital to Put $300M Into Polymarket",
-    "link": "https://cryptopotato.com/donald-trump-jr-s-1789-capital-to-put-300m-into-polymarket/",
-    "publishedAt": "2026-09-01T08:48:05.000Z",
-    "preview": "Trump Jr.'s involvement in the prediction industry extends beyond Polymarket, as he also advises rival firm Kalshi.",
-    "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Frogbet Launches Crypto Casino With 70 In- House Original Games, Instant Withdrawals and a $10,000 Weekly Race",
-    "link": "https://cryptopotato.com/frogbet-launches-crypto-casino-with-70-in-house-original-games-instant-withdrawals-and-a-10000-weekly-race/",
-    "publishedAt": "2026-09-01T07:54:00.000Z",
-    "preview": "[PRESS RELEASE – Garabito, Costa Rica, September 1st, 2026] Frogbet, a new cryptocurrency casino and sportsbook, has officially launched at frogbet.com, debuting a catalog of 70 original games developed entirely in-house",
-    "tags": []
   },
   {
     "source": "Decrypt",
