@@ -1,5 +1,139 @@
 [
   {
+    "source": "CryptoSlate",
+    "title": "CLARITY Act may be heading for lame duck after House Republicans slash the calendar",
+    "link": "https://cryptoslate.com/clarity-act-may-be-heading-for-lame-duck-after-house-republicans-slash-the-calendar/",
+    "publishedAt": "2026-09-04T08:30:15.000Z",
+    "preview": "The Senate’s procedural step lands Sept. 15, just two days before the House’s newly scheduled departure. The post CLARITY Act may be heading for lame duck after House Republicans slash the calendar appeared first on Cryp",
+    "tags": []
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Axis Robotics Open-Sources One of the Largest Franka Arm Simulation Datasets for Physical AI",
+    "link": "https://www.newsbtc.com/news/axis-robotics-open-sources-one-of-the-largest-franka-arm-simulation-datasets-for-physical-ai/",
+    "publishedAt": "2026-09-04T07:48:19.000Z",
+    "preview": "Axis Robotics has released Axis Sim Dataset V1, one of the largest open-source simulation datasets for Franka arm manipulation, with the full dataset, training code, and benchmarks publicly available. V1 is built from mo",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Ethereum Whale Keeps Offloading as ETH Price Rockets Past $2.5K",
+    "link": "https://cryptopotato.com/ethereum-whale-keeps-offloading-as-eth-price-rockets-past-2-5k/",
+    "publishedAt": "2026-09-04T07:38:10.000Z",
+    "preview": "Ethereum's dominance is above 11% after the latest leg up.",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Bitcoin ETF inflows hit $731M, highest since January as BTC reclaims $80K",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-draw-731-million-highest-january-btc-80k",
+    "publishedAt": "2026-09-04T07:37:13.000Z",
+    "preview": "US Bitcoin ETFs drew $730.9 million on Thursday as Bitcoin reclaimed $80,000, though CryptoQuant flagged weak fresh demand and a key $83,000 test.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Live updates: Bitcoin ETFs take $731 million, their biggest day since January",
+    "link": "https://www.coindesk.com/business/2026/09/04/live-updates-bitcoin-etfs-take-usd731-million-their-biggest-day-since-january",
+    "publishedAt": "2026-09-04T07:34:07.000Z",
+    "preview": "Every fund in the complex rose almost 6% on Thursday and net assets crossed $103 billion for the first time. BlackRock's IBIT accounted for well over half the money.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Bitcoin Is Back Above $80,000, But Fidelity Says the Bear Market May Not Be Over Yet",
+    "link": "https://cryptopotato.com/bitcoin-is-back-above-80000-but-fidelity-says-the-bear-market-may-not-be-over-yet/",
+    "publishedAt": "2026-09-04T07:11:43.000Z",
+    "preview": "Fidelity believes that while Bitcoin's strong August rally and other factors offer reasons for optimism, none confirm that the bear market has ended.",
+    "tags": [
+      "BTC",
+      "OP"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "After selling every coin it owned, a public company is using Strategy’s STRC playbook to restart its $827M Bitcoin treasury plan",
+    "link": "https://cryptoslate.com/after-selling-every-coin-it-owned-a-public-company-is-using-strategys-strc-playbook-to-restart-its-827m-bitcoin-treasury-plan/",
+    "publishedAt": "2026-09-04T06:30:03.000Z",
+    "preview": "The existing order no longer restrains the company, while its proposed first raise covers just 1.51% of an $827 million Bitcoin target before allocation. The post After selling every coin it owned, a public company is us",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-09-04T06:22:29.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "El Salvador’s post-review Bitcoin accumulation used no public funds: IMF",
+    "link": "https://cointelegraph.com/news/el-salvador-bitcoin-private-donations-imf",
+    "publishedAt": "2026-09-04T06:16:35.000Z",
+    "preview": "The IMF attributed Bitcoin added since June 2025 to private donations, addressing questions raised after El Salvador reported a $100 million acquisition.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "XRP Trading Activity Hits Highest Level Since February as Price Jumps 8%",
+    "link": "https://cryptopotato.com/xrp-trading-activity-hits-highest-level-since-february-as-price-jumps-8/",
+    "publishedAt": "2026-09-04T06:01:38.000Z",
+    "preview": "Binance led the surge, handling about $7.28 billion in XRP spot trades during August, well ahead of other major exchanges.",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "OpenAI puts $1 billion behind cyber defense after unveiling AI that can find zero-days",
+    "link": "https://www.coindesk.com/tech/2026/09/04/openai-puts-usd1-billion-behind-cyber-defense-after-unveiling-ai-that-can-find-zero-days",
+    "publishedAt": "2026-09-04T05:49:43.000Z",
+    "preview": "The company is subsidizing access to its Daybreak security platform after saying Astra can independently find previously unknown software flaws and turn them into working attacks.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Bitcoin’s volatility ratio against gold collapses to 6-year low as traditional safe haven turbulence surges",
+    "link": "https://cryptoslate.com/bitcoin-and-gold-are-converging-in-a-way-markets-havent-seen-since-2020/",
+    "publishedAt": "2026-09-04T05:10:53.000Z",
+    "preview": "Bitcoin and gold are trading more like each other than at any point since 2020, even as their latest divergence tests that relationship. Their 90-day correlation has climbed to about 0.55, the highest in nearly six years",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "One full bitcoin now buys a little more than 18 ounces of gold, the most since January",
+    "link": "https://www.coindesk.com/markets/2026/09/04/one-full-bitcoin-now-buys-a-little-more-than-18-ounces-of-gold-the-most-since-january",
+    "publishedAt": "2026-09-04T05:10:34.000Z",
+    "preview": "Bitcoin is pulling ahead of gold even as both hard assets rally together, driven by fears that governments will inflate away their debt rather than by bond yields.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "US, UK launch joint alliance targeting crypto scam centers",
+    "link": "https://cointelegraph.com/news/us-uk-joint-alliance-crypto-scam-centers",
+    "publishedAt": "2026-09-04T04:33:55.000Z",
+    "preview": "The agreement includes parallel investigations and information sharing, with US and UK authorities planning a private-sector disruption operation in London in October.",
+    "tags": []
+  },
+  {
     "source": "CoinDesk",
     "title": "Bitcoin back above $81,000 as hike odds fade, Zcash leads with 15% jump",
     "link": "https://www.coindesk.com/markets/2026/09/04/bitcoin-back-above-usd81-000-as-hike-odds-fade-zcash-leads-with-15-jump",
@@ -149,17 +283,6 @@
     "publishedAt": "2026-09-03T20:46:04.000Z",
     "preview": "PONS, the token behind Robinhood Chain's biggest meme coin factory, flipped CASHCAT to become the chain's largest cryptocurrency by market cap—and its chart looks like a hockey stick.",
     "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-09-03T20:30:14.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
-    ]
   },
   {
     "source": "Decrypt",
@@ -322,16 +445,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Bitcoin may be leaving its 4-year cycle behind for a 6-to-8-year Wall Street rhythm",
-    "link": "https://cryptoslate.com/bitcoin-may-be-leaving-its-4-year-cycle-behind-for-a-6-to-8-year-wall-street-rhythm/",
-    "publishedAt": "2026-09-03T17:10:33.000Z",
-    "preview": "Willy Woo sees a possible 6-to-8-year macro rhythm, while recent research says the old pattern still survives. The post Bitcoin may be leaving its 4-year cycle behind for a 6-to-8-year Wall Street rhythm appeared first o",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "BitMEX co-founder contributed 75% of Reform UK’s donations in Q2 2026",
     "link": "https://cointelegraph.com/news/bitmex-cofounder-ben-delo-reform-uk-donations",
@@ -348,14 +461,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Revolut hit by Washington crypto boom illusion, exposing massive two-tier banking system",
-    "link": "https://cryptoslate.com/revolut-hit-by-washingtons-crypto-boom-illusion-exposing-a-massive-two-tier-banking-system/",
-    "publishedAt": "2026-09-03T16:55:12.000Z",
-    "preview": "Revolut filed with the OCC and FDIC on March 4 to establish Revolut Bank US, an insured national bank that would take deposits, issue credit cards, make loans, and connect directly to Fedwire and ACH. Nearly six months l",
-    "tags": []
   },
   {
     "source": "Decrypt",
@@ -391,14 +496,6 @@
     "link": "https://cointelegraph.com/news/kraken-parent-payward-partners-with-sofi-stablecoin-247-settlement",
     "publishedAt": "2026-09-03T16:04:11.000Z",
     "preview": "The deal will bring SoFiUSD to Kraken, connect Payward to SoFi’s 24/7 dollar settlement network and give SoFi access to digital asset liquidity through Kraken Prime.",
-    "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Kalshi’s new oil contract promises non-stop exposure, but a hidden flaw could expose traders to massive weekend shocks",
-    "link": "https://cryptoslate.com/kalshis-new-oil-contract-promises-non-stop-exposure-but-a-hidden-flaw-could-expose-traders-to-massive-weekend-shocks/",
-    "publishedAt": "2026-09-03T16:00:19.000Z",
-    "preview": "The reported contract could eliminate expiry while leaving traders exposed to an oil market that still closes. The post Kalshi’s new oil contract promises non-stop exposure, but a hidden flaw could expose traders to mass",
     "tags": []
   },
   {
@@ -458,14 +555,6 @@
     "link": "https://www.coindesk.com/coindesk-indices/2026/09/03/crypto-for-advisors-why-crypto-earnings-reports-can-be-misleading",
     "publishedAt": "2026-09-03T15:00:00.000Z",
     "preview": "",
-    "tags": []
-  },
-  {
-    "source": "NewsBTC",
-    "title": "BitGo Brings Gold, Real Estate And Fine Art Tokenization To Core Chain",
-    "link": "https://www.newsbtc.com/news/bitgo-brings-gold-real-estate-and-fine-art-tokenization-to-core-chain-2/",
-    "publishedAt": "2026-09-03T15:00:00.000Z",
-    "preview": "Read the latest update on BitGo Brings Gold, Real Estate And Fine Art Tokenization To Core Chain.",
     "tags": []
   },
   {
@@ -1072,14 +1161,6 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "Crypto Long & Short: Crypto VCs are mistaking consensus for discipline",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/09/02/crypto-long-and-short-crypto-vcs-are-mistaking-consensus-for-discipline",
-    "publishedAt": "2026-09-02T15:15:02.000Z",
-    "preview": "In this week's Crypto Long & Short, Varun Datta of Truth Ventures writes that crypto venture capital's retreat to later-stage deals is a consensus trade dressed as discipline. With proven companies taking 57% of last qua",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "Two Thai Businessmen Sue Tether Over $42.4M USDT Freeze as Issuer Calls Case ‘Baseless’",
     "link": "https://cryptopotato.com/two-thai-businessmen-sue-tether-over-42-4m-usdt-freeze-as-issuer-calls-case-baseless/",
@@ -1123,36 +1204,6 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "BTC will hit $1M by 2030... but Arthur Hayes is buying ETH instead",
-    "link": "https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead",
-    "publishedAt": "2026-09-02T13:30:00.000Z",
-    "preview": "Arthur Hayes says Bitcoin is going to grind higher from here, but Ethereum is his number one pick due to its potential to increase “3x to 5x pretty quickly.”",
-    "tags": [
-      "BTC",
-      "ETH"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "CrowdStrike and federal authorities dismantle Russian malware that secretly stole crypto for 8 years",
-    "link": "https://www.coindesk.com/tech/2026/09/02/crowdstrike-and-federal-authorities-dismantle-russian-malware-that-secretly-stole-crypto-for-8-years",
-    "publishedAt": "2026-09-02T13:14:47.000Z",
-    "preview": "Russia-based Sality watched for copied bitcoin and Ethereum addresses and quietly replaced them with the attacker’s. CrowdStrike and law enforcement have now isolated more than 15,000 infected machines.",
-    "tags": [
-      "BTC",
-      "ETH"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Hashkey joins DTCC working group as first Asian crypto service provider",
-    "link": "https://cointelegraph.com/news/hashkey-dtcc-first-asian-crypto-service-provider",
-    "publishedAt": "2026-09-02T13:11:25.000Z",
-    "preview": "Hashkey joined the DTCC’s working group on tokenization innovation as the first Asian crypto service provider to join with over 100 financial institutions, including Goldman Sachs and JPMorgan.",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "Ethereum Price Prediction: Will ETH Drop to $2K Next if Buyers Fail to Regain Control Soon?",
     "link": "https://cryptopotato.com/ethereum-price-prediction-will-eth-drop-to-2k-next-if-buyers-fail-to-regain-control-soon/",
@@ -1160,16 +1211,6 @@
     "preview": "Ethereum’s post-breakout consolidation is beginning to tilt toward a corrective phase, with the price slipping below the lower end of its recent range. While the broader recovery remains intact, weakening short-term stru",
     "tags": [
       "ETH"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "The token supercycle: everything of value is becoming programmable",
-    "link": "https://www.coindesk.com/opinion/2026/09/02/the-token-supercycle-everything-of-value-is-becoming-programmable",
-    "publishedAt": "2026-09-02T13:00:00.000Z",
-    "preview": "Tokenization is not just about increasing access to tokens, whatever they may represent, but a fundamental shift in how value is created, owned, financed and moved, argues Solana Foundation’s Lily Liu.",
-    "tags": [
-      "SOL"
     ]
   },
   {
@@ -1191,14 +1232,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Thai businessmen sue Tether for freezing $42M in $61M pig butchering case",
-    "link": "https://cointelegraph.com/news/thai-sue-tether-freezing-61m-pig-butchering-case",
-    "publishedAt": "2026-09-02T12:00:00.000Z",
-    "preview": "The plaintiffs didn’t dispute their involvement in the pig butchering scam, but claimed that Tether did not have the authority to freeze the $42 million at the time.",
-    "tags": []
   },
   {
     "source": "Decrypt",
@@ -1272,34 +1305,6 @@
     "publishedAt": "2026-09-02T08:57:47.000Z",
     "preview": "Discover some of the largest and most popular coins currently gaining traction on the Robinhood Chain.",
     "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "UNI Jumps 16% as Robinhood Chain DEX Volume Hits $1.3B",
-    "link": "https://cryptopotato.com/uni-jumps-16-as-robinhood-chain-dex-volume-hits-1-3b/",
-    "publishedAt": "2026-09-02T08:00:22.000Z",
-    "preview": "Robinhood Chain recorded 5.52 million daily transactions as tokenized stocks and meme coins create new trading pairs across the network.",
-    "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Bitcoin Price Analysis: Warning Signs Emerge as BTC’s Breakout Loses Momentum",
-    "link": "https://cryptopotato.com/bitcoin-price-analysis-warning-signs-emerge-as-btcs-breakout-loses-momentum/",
-    "publishedAt": "2026-09-02T05:55:02.000Z",
-    "preview": "Bitcoin continues to hover below $78K, but the absence of meaningful upside progress is becoming increasingly important. After the initial breakout impulse, repeated failures to challenge the $80K-$82K supply area sugges",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "These Wall Street Giants Are the Biggest Holders of Spot XRP ETFs",
-    "link": "https://cryptopotato.com/these-wall-street-giants-are-the-biggest-holders-of-spot-xrp-etfs/",
-    "publishedAt": "2026-09-02T03:49:24.000Z",
-    "preview": "Investment advisors held $120.9 million of the reported XRP ETF exposure, far ahead of banks, brokerages, and hedge fund managers.",
-    "tags": [
-      "XRP"
-    ]
   },
   {
     "source": "Decrypt",
