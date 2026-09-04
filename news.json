@@ -1,6 +1,99 @@
 [
   {
     "source": "CryptoSlate",
+    "title": "Bitcoin faces a two-week Fed trap as inflation rewrite threatens to upend rate cuts",
+    "link": "https://cryptoslate.com/bitcoin-faces-a-two-week-fed-trap-as-inflation-rewrite-threatens-to-upend-rate-cuts/",
+    "publishedAt": "2026-09-04T18:50:33.000Z",
+    "preview": "Policymakers will have CPI but not official August PCE when they decide, leaving a second market test on Sept. 30. The post Bitcoin faces a two-week Fed trap as inflation rewrite threatens to upend rate cuts appeared fir",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "'Send Your Lawyers': Robinhood Isn't Backing Down From AMC Over Stock Tokens",
+    "link": "https://decrypt.co/377461/send-your-lawyers-robinhood-not-backing-down-amc",
+    "publishedAt": "2026-09-04T18:36:41.000Z",
+    "preview": "Lawyers question AMC’s grounds for a securities-law challenge, but say the tokens’ branding and marketing could leave room for a dispute.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-09-04T18:31:34.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Bitcoin ETF Inflows Exceed $700M as Historical Pattern Points to BTC Local Top",
+    "link": "https://cryptopotato.com/bitcoin-etf-inflows-exceed-700m-as-historical-pattern-points-to-btc-local-top/",
+    "publishedAt": "2026-09-04T18:01:46.000Z",
+    "preview": "BlackRock's IBIT dominated Thursday's Bitcoin ETF inflows with approximately $454 million.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Kalshi faces $500,000 daily fines as Michigan forces sports event contracts offline",
+    "link": "https://cryptoslate.com/kalshi-faces-500000-daily-fines-as-michigan-forces-sports-event-contracts-offline/",
+    "publishedAt": "2026-09-04T17:55:20.000Z",
+    "preview": "The preliminary injunction lasts until final order, adds a futures broker notice duty and lands amid an appellate split. The post Kalshi faces $500,000 daily fines as Michigan forces sports event contracts offline appear",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Crypto Biz: AI took a back seat when Bitcoin started climbing",
+    "link": "https://cointelegraph.com/news/crypto-biz-bitcoin-miners-strategy-strive-bitmine-stablecoins",
+    "publishedAt": "2026-09-04T17:22:58.000Z",
+    "preview": "Corporate crypto bets are getting bigger as rising markets reward direct exposure, putting balance-sheet strategies and institutional adoption back in focus.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "A16z-Backed OpenReserve Gets Approval for Full-Service National Bank",
+    "link": "https://decrypt.co/377458/openreserve-occ-approval-full-service-national-bank",
+    "publishedAt": "2026-09-04T17:19:55.000Z",
+    "preview": "The a16z-backed startup chose a full national charter over the trust-bank route most crypto firms have taken, clearing a path toward insured deposits and conventional lending alongside stablecoin issuance.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Japan’s 4% bond yield spike threatens the low-cost borrowing strategy behind corporate Bitcoin buying",
+    "link": "https://cryptoslate.com/japans-4-bond-yield-spike-threatens-the-low-cost-borrowing-strategy-behind-corporate-bitcoin-buying/",
+    "publishedAt": "2026-09-04T17:10:13.000Z",
+    "preview": "Existing fixed debt keeps its terms, while future BitBonds must clear a materially higher funding hurdle. The post Japan’s 4% bond yield spike threatens the low-cost borrowing strategy behind corporate Bitcoin buying app",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "QuFi launches post-quantum verification platform with Bitcoin testnet proof",
+    "link": "https://cointelegraph.com/news/qufi-launches-post-quantum-verification-platform-with-bitcoin-testnet-proof",
+    "publishedAt": "2026-09-04T17:09:25.000Z",
+    "preview": "QuFi’s new platform uses post-quantum cryptography to verify digital asset transactions without requiring changes to existing blockchain settlement networks.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "US law enforcement group moves to ‘neutral’ position on CLARITY Act",
+    "link": "https://cointelegraph.com/news/national-sheriffs-association-clarity-act-neutral",
+    "publishedAt": "2026-09-04T17:05:34.000Z",
+    "preview": "Despite earlier opposition to the CLARITY Act over consumer protection, the National Sheriffs’ Association says it will now “step back and allow the legislative process to proceed.“",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
     "title": "Arthur Hayes calls EUR/JPY prices crypto’s smoke alarm, but the Fed’s plumbing still shows no fire",
     "link": "https://cryptoslate.com/arthur-hayes-calls-eur-jpy-prices-cryptos-smoke-alarm-but-the-feds-plumbing-still-shows-no-fire/",
     "publishedAt": "2026-09-04T16:40:35.000Z",
@@ -81,10 +174,10 @@
   },
   {
     "source": "CoinDesk",
-    "title": "AMC CEO tells Robinhood to stop issuing stock token as industry executives weigh in",
+    "title": "Robinhood isn't backing down after AMC CEO demands halt to stock tokens",
     "link": "https://www.coindesk.com/business/2026/09/04/amc-ceo-tells-robinhood-to-stop-issuing-stock-token-as-industry-executives-weigh-in",
     "publishedAt": "2026-09-04T14:56:00.000Z",
-    "preview": "Adam Aron said synthetic AMC shares could divert demand from the actual stock and strip investors of shareholder rights, drawing support from some tokenization executives.",
+    "preview": "AMC boss Adam Aron called Robinhood’s stock tokens “synthetic equity” and threatened legal action. Vlad Tenev says the brokerage stands behind the product.",
     "tags": []
   },
   {
@@ -177,17 +270,6 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-09-04T13:30:00.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "Crypto Price Analysis Sep-04: ETH, XRP, ADA, BNB, and HYPE",
     "link": "https://cryptopotato.com/crypto-price-analysis-sep-04-eth-xrp-ada-bnb-and-hype/",
@@ -206,16 +288,6 @@
     "link": "https://cryptopotato.com/bitcoin-price-plunges-after-blowout-us-jobs-report-heres-why/",
     "publishedAt": "2026-09-04T12:47:09.000Z",
     "preview": "BTC's progress to over $81,000 came to a halt after the release of the jobs report.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Bitcoin’s rally over $81,000 is finding real buyers, but options traders still aren’t pricing a clean breakout",
-    "link": "https://cryptoslate.com/bitcoins-rally-over-81000-is-finding-real-buyers-but-options-traders-still-arent-pricing-a-clean-breakout/",
-    "publishedAt": "2026-09-04T12:45:27.000Z",
-    "preview": "Bitcoin accelerated above $81,000 on Thursday as easing rate fears and fresh institutional demand lifted the broader crypto market. On Sept. 3, Federal Reserve Gov. Christopher Waller said he could support keeping intere",
     "tags": [
       "BTC"
     ]
@@ -255,14 +327,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Australia gives crypto firms until Sept. 30 to get licensed or risk enforcement",
-    "link": "https://cryptoslate.com/australia-gives-crypto-firms-until-sept-30-to-get-licensed-or-risk-enforcement/",
-    "publishedAt": "2026-09-04T12:10:29.000Z",
-    "preview": "Qualifying businesses must enter the right licensing, notification or wind-down route to keep ASIC’s temporary no-action protection. The post Australia gives crypto firms until Sept. 30 to get licensed or risk enforcemen",
-    "tags": []
   },
   {
     "source": "Decrypt",
@@ -305,17 +369,6 @@
     "publishedAt": "2026-09-04T11:19:19.000Z",
     "preview": "Trezor said an additional 67,000 US users were affected by its shipping provider’s data breach, opening the path to potential phishing attacks and social engineering scams.",
     "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "From Bitcoin to oil, perpetual contracts are breaking into American financial markets",
-    "link": "https://cryptoslate.com/from-bitcoin-to-oil-perpetual-contracts-are-breaking-into-american-financial-markets/",
-    "publishedAt": "2026-09-04T11:00:32.000Z",
-    "preview": "The regulator wants the lawsuit dismissed while operating U.S. crypto contracts and reported WTI plans test the market's perimeter. The post From Bitcoin to oil, perpetual contracts are breaking into American financial m",
-    "tags": [
-      "BTC",
-      "Regulation"
-    ]
   },
   {
     "source": "Cointelegraph",
@@ -1136,16 +1189,6 @@
     ]
   },
   {
-    "source": "Cointelegraph",
-    "title": "Hyperscale Data ends Michigan BTC mining as holdings fall 79%",
-    "link": "https://cointelegraph.com/news/hyperscale-data-ends-michigan-bitcoin-mining-ai",
-    "publishedAt": "2026-09-03T04:57:55.000Z",
-    "preview": "Hyperscale Data’s Bitcoin holdings have fallen about 79% since late July to 215 BTC as it redirects capital toward its Michigan AI data center.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "XRP’s Next Move Comes Down to These Key Price Levels: Analyst",
     "link": "https://cryptopotato.com/xrps-next-move-comes-down-to-these-key-price-levels-analyst/",
@@ -1214,14 +1257,6 @@
     ]
   },
   {
-    "source": "Cointelegraph",
-    "title": "US officials work with CrowdStrike to fight malware behind crypto theft",
-    "link": "https://cointelegraph.com/news/us-officials-crowdstrike-malware-stealing-crypto",
-    "publishedAt": "2026-09-02T21:27:15.000Z",
-    "preview": "Federal authorities and private-sector partners were part of an operation to disrupt malware that redirected about $150,000 in crypto over the last eight years.",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "35 More Bitcoin: Smarter Web Expands Its Growing BTC Treasury",
     "link": "https://cryptopotato.com/35-more-bitcoin-smarter-web-expands-its-growing-btc-treasury/",
@@ -1230,14 +1265,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Coinbase launches regulated crypto derivatives in Canada",
-    "link": "https://cointelegraph.com/news/coinbase-launches-regulated-crypto-derivatives-in-canada",
-    "publishedAt": "2026-09-02T20:55:55.000Z",
-    "preview": "Coinbase is offering eligible Canadian traders perpetual and dated futures with up to 10x leverage as major US trading platforms expand their crypto presence in Canada.",
-    "tags": []
   },
   {
     "source": "Decrypt",
@@ -1276,16 +1303,6 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "Analyst Says $15 Dogecoin Target Is Dead After Long-Term Channel Break",
-    "link": "https://cryptopotato.com/analyst-says-15-dogecoin-target-is-dead-after-long-term-channel-break/",
-    "publishedAt": "2026-09-02T18:35:52.000Z",
-    "preview": "The rising channel dates back to Dogecoin's earliest trading history, making its latest break more significant than a routine pullback.",
-    "tags": [
-      "DOGE"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Is Bitcoin About to Flash Crash? What a 'Bart Simpson' Pattern Would Actually Take",
     "link": "https://decrypt.co/377185/bitcoin-flash-crash-real-bart-simpson-pattern",
@@ -1319,22 +1336,6 @@
     "link": "https://decrypt.co/377171/tether-sued-freeze-42-4-million-usdt",
     "publishedAt": "2026-09-02T15:42:13.000Z",
     "preview": "Two Thai businessmen claim Tether blocked access to their stablecoins months before federal authorities secured a seizure warrant.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Norway Moves to Regulate 'Pervert Glasses,' Weighs Facial Recognition Ban",
-    "link": "https://decrypt.co/377169/norway-moves-to-regulate-pervert-glasses-weighs-facial-recognition-ban",
-    "publishedAt": "2026-09-02T15:18:44.000Z",
-    "preview": "The country's consumer watchdog went further, urging retailers to stop selling the devices until the law is clear.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61%",
-    "link": "https://decrypt.co/377162/ai-billionaires-fund-ad-blitz-as-data-center-opposition-hits-61",
-    "publishedAt": "2026-09-02T14:16:44.000Z",
-    "preview": "Marc Andreessen, Ben Horowitz and OpenAI's Greg Brockman have backed the super PAC behind the campaign, which faces surging opposition.",
     "tags": []
   }
 ]
