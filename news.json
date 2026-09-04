@@ -1,5 +1,21 @@
 [
   {
+    "source": "Cointelegraph",
+    "title": "Tether sued over frozen ‘pig butcher’ coins, 6,600 students get crypto loans: Asia Express",
+    "link": "https://cointelegraph.com/magazine/tether-sued-over-frozen-pig-butcher-coins-6600-students-get-crypto-loans-asia-express",
+    "publishedAt": "2026-09-03T23:40:09.000Z",
+    "preview": "Thai businessmen sue Tether over $42M frozen USDT tied to pig butchering scam, Aussie crypto firms face big fines unless they meet licensing deadline.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "Utah Becomes First State to Target VPNs in Age-Verification Crackdown",
+    "link": "https://decrypt.co/377370/utah-websites-check-vpn-age-verification",
+    "publishedAt": "2026-09-03T22:16:04.000Z",
+    "preview": "Privacy advocates say the law raises First Amendment questions the courts have yet to address.",
+    "tags": []
+  },
+  {
     "source": "CryptoPotato",
     "title": "Multicoin Sells Another 10% of HYPE Stack as Holdings Fall From 4 Million Tokens",
     "link": "https://cryptopotato.com/multicoin-sells-another-10-of-hype-stack-as-holdings-fall-from-4-million-tokens/",
@@ -1157,19 +1173,6 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "Japan’s Remixpoint dumps altcoins, leaves 1,506 BTC as sole crypto bet",
-    "link": "https://cointelegraph.com/news/remixpoint-dumps-altcoins-1506-btc-sole-crypto-bet",
-    "publishedAt": "2026-09-02T12:00:00.000Z",
-    "preview": "Remixpoint sold $5.5 million in ETH, SOL, XRP and DOGE, booking a $736,000 net gain as it narrowed its crypto strategy to focus on Bitcoin.",
-    "tags": [
-      "BTC",
-      "ETH",
-      "SOL",
-      "XRP"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Morning Minute: Bitcoin Enters ‘Rektember’ After Best August Since 2017",
     "link": "https://decrypt.co/377159/morning-minute-bitcoin-enters-rektember-after-best-august-since-2017",
@@ -1360,16 +1363,6 @@
     "preview": "Bitcoin just had one its best months in years amid a price rally that broke the crypto winter pattern. But the charts tell a complicated story.",
     "tags": [
       "BTC"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Solana Treasury DeFi Development Corp Eyes $20 Million Raise to Buy More SOL",
-    "link": "https://decrypt.co/377068/defi-development-corp-20-million-raise-more-solana",
-    "publishedAt": "2026-09-01T18:03:47.000Z",
-    "preview": "The publicly traded company recently bought 19,000 SOL, bringing its treasury to more than 2.33 million SOL and SOL equivalents.",
-    "tags": [
-      "SOL"
     ]
   }
 ]
