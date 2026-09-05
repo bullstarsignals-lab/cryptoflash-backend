@@ -1,5 +1,41 @@
 [
   {
+    "source": "CoinDesk",
+    "title": "Southeast Asia’s crypto funding rebounds to $680 million as investors focus on mature firms",
+    "link": "https://www.coindesk.com/business/2026/09/05/southeast-asia-s-crypto-funding-rebounds-to-usd680-million-as-investors-focus-on-mature-firms",
+    "publishedAt": "2026-09-05T05:00:00.000Z",
+    "preview": "Blockchain investment in Southeast Asia in 2026 has been led by crypto financial services, though funding remains heavily concentrated in Singapore and a handful of companies.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "CoinRabbit Wins “Best Crypto Lending Platform 2026” Award from International Business Magazine",
+    "link": "https://cryptopotato.com/coinrabbit-wins-best-crypto-lending-platform-2026-award-from-international-business-magazine/",
+    "publishedAt": "2026-09-05T04:59:33.000Z",
+    "preview": "[PRESS RELEASE – Toronto, Canada, September 4th, 2026] CoinRabbit has been named Best Crypto Lending Platform 2026 by International Business Magazine, highlighting a lending product that has issued more than $1.45 billio",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "XRP Bulls Defend Key Level as Analyst Envisions Another 100% Rally",
+    "link": "https://cryptopotato.com/xrp-bulls-defend-key-level-as-analyst-envisions-another-100-rally/",
+    "publishedAt": "2026-09-05T04:03:24.000Z",
+    "preview": "XRP is back on the offensive, but can it really reach the $2.70 target?",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Bitcoin dips below $80,000 as a hot August jobs report shifts Fed policy expectations",
+    "link": "https://cryptoslate.com/bitcoins-80000-rally-just-lost-the-feds-labor-market-escape-hatch/",
+    "publishedAt": "2026-09-05T04:00:32.000Z",
+    "preview": "August payrolls weakened the case for patience, leaving Sept. 11 CPI as Bitcoin’s next decisive volatility test. The post Bitcoin dips below $80,000 as a hot August jobs report shifts Fed policy expectations appeared fir",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
     "source": "CryptoSlate",
     "title": "A major outage and corporate backlash hit Robinhood Chain at the peak of its growth",
     "link": "https://cryptoslate.com/a-major-outage-and-corporate-backlash-hit-robinhood-chain-at-the-peak-of-its-growth/",
@@ -248,16 +284,6 @@
     "link": "https://decrypt.co/377445/zcash-price-high-decade-shorts-rekt",
     "publishedAt": "2026-09-04T16:24:46.000Z",
     "preview": "The privacy coin's squeeze rode a Fed-driven crypto rally that reversed hours later, when a stronger-than-expected jobs report sent Bitcoin back under $80,000.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Bitcoin falls below $80,000 as hot US payrolls revive Fed hike risk",
-    "link": "https://cryptoslate.com/bitcoin-falls-below-80000-as-hot-us-payrolls-revive-fed-hike-risk/",
-    "publishedAt": "2026-09-04T16:10:13.000Z",
-    "preview": "The 162,000 jobs gain lifted yields and the dollar, but the first selloff did not hold uniformly. The post Bitcoin falls below $80,000 as hot US payrolls revive Fed hike risk appeared first on CryptoSlate.",
     "tags": [
       "BTC"
     ]
@@ -1176,14 +1202,6 @@
     ]
   },
   {
-    "source": "CoinDesk",
-    "title": "Australia is cracking down on crypto businesses as its strict new regulatory deadline nears",
-    "link": "https://www.coindesk.com/business/2026/09/03/australia-is-cracking-down-on-crypto-businesses-as-its-strict-new-regulatory-deadline-nears",
-    "publishedAt": "2026-09-03T10:09:31.000Z",
-    "preview": "Firms that miss the deadline could breach financial services law from Oct. 1 and face civil or criminal penalties.",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "Viral Altcoin Enters Crypto’s Top 100 Club Following Support From Binance: Details",
     "link": "https://cryptopotato.com/viral-altcoin-enters-cryptos-top-100-club-following-support-from-binance-details/",
@@ -1246,27 +1264,6 @@
     "preview": "The $76,500 area became an important short-term reference after BTC slipped below it for the first time since August 23.",
     "tags": [
       "BTC"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "XRP’s Next Move Comes Down to These Key Price Levels: Analyst",
-    "link": "https://cryptopotato.com/xrps-next-move-comes-down-to-these-key-price-levels-analyst/",
-    "publishedAt": "2026-09-03T03:55:08.000Z",
-    "preview": "XRP faces resistance at $1.40 to $1.43 before reaching $1.47, creating several hurdles for bulls attempting to regain control.",
-    "tags": [
-      "XRP"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "DOGE, SHIB, PEPE, or Something Else: Which Meme Coin Can Make History in September? (3 AIs Weigh In)",
-    "link": "https://cryptopotato.com/doge-shib-pepe-or-something-else-which-meme-coin-can-make-history-in-september-3-ais-weigh-in/",
-    "publishedAt": "2026-09-03T00:41:21.000Z",
-    "preview": "\"DOGE remains the most likely to record the largest move in dollar terms and lead the entire sector,\" ChatGPT stated.",
-    "tags": [
-      "DOGE",
-      "SHIB"
     ]
   },
   {
