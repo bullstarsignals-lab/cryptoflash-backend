@@ -1,5 +1,59 @@
 [
   {
+    "source": "CryptoSlate",
+    "title": "Solana’s plan to cut account deposits by 90% could weaken a reason to hold SOL",
+    "link": "https://cryptoslate.com/solanas-plan-to-cut-account-deposits-by-90-could-weaken-a-reason-to-hold-sol/",
+    "publishedAt": "2026-09-05T15:30:17.000Z",
+    "preview": "Only the first cut is live; the full plan would require tenfold persistent account state to preserve the old minimum SOL reserves. The post Solana’s plan to cut account deposits by 90% could weaken a reason to hold SOL a",
+    "tags": [
+      "SOL"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using",
+    "link": "https://decrypt.co/377501/google-chrome-zero-day-exploited",
+    "publishedAt": "2026-09-05T15:01:04.000Z",
+    "preview": "The update fixes a high-severity flaw in Chrome’s V8 engine, but Google has not revealed who is using it or whom they targeted.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "BNB Hits 7-Month High After Major Kalshi Move and Explosive Chain Growth",
+    "link": "https://cryptopotato.com/bnb-hits-7-month-high-after-major-kalshi-move-and-explosive-chain-growth/",
+    "publishedAt": "2026-09-05T14:48:18.000Z",
+    "preview": "BNB just touched $770 for the first time since early February. Here's why.",
+    "tags": [
+      "BNB"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Zcash breaks $1,000 as its spot ETF crosses $400 million in assets",
+    "link": "https://cryptoslate.com/zcash-breaks-1000-as-its-spot-etf-crosses-400-million-in-assets/",
+    "publishedAt": "2026-09-05T14:00:05.000Z",
+    "preview": "Zcash broke above $1,000 on Sept. 4, pushing the asset value of Grayscale’s recently listed ZCSH ETF past $400 million less than two weeks after its debut. ZEC registered an intraday high of $1,050.70, up roughly 20% ove",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "XRP’s Breakout Rally Has Begun, Analysts Say – But Their Targets Will Shock You",
+    "link": "https://cryptopotato.com/xrps-breakout-rally-has-begun-analysts-say-but-their-targets-will-shock-you/",
+    "publishedAt": "2026-09-05T13:45:43.000Z",
+    "preview": "XRP has been the subject of some massive price predictions in the past, but this one is something else.",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "AI Just Solved a 350-Year-Old Math Problem By Writing the Longest Proof Ever",
+    "link": "https://decrypt.co/377491/ai-solved-350-year-old-math-problem",
+    "publishedAt": "2026-09-05T13:01:03.000Z",
+    "preview": "Anthropic says Claude spent 11 days turning Fermat's Last Theorem into 13 million lines of code a computer can check itself, no human trust required",
+    "tags": []
+  },
+  {
     "source": "CryptoPotato",
     "title": "We Asked AI: What Happens to Bitcoin’s Price if the Fed Hikes Rates in 11 Days?",
     "link": "https://cryptopotato.com/we-asked-ai-what-happens-to-bitcoins-price-if-the-fed-hikes-rates-in-11-days/",
@@ -253,14 +307,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Privacy coin flaw risks endless token creation, leaving node operators with a deadline in hours to fix it",
-    "link": "https://cryptoslate.com/privacy-coin-flaw-risks-endless-token-creation-leaving-node-operators-with-a-deadline-in-hours-to-fix-it/",
-    "publishedAt": "2026-09-04T20:05:37.000Z",
-    "preview": "At block 1,371,000, v0.14.18.0 restores multi-input private spending and makes older software incompatible. The post Privacy coin flaw risks endless token creation, leaving node operators with a deadline in hours to fix ",
-    "tags": []
-  },
-  {
     "source": "Cointelegraph",
     "title": "Pineapple Financial puts $1B in mortgage records on Injective",
     "link": "https://cointelegraph.com/news/pineapple-financial-puts-1b-in-mortgage-records-on-injective",
@@ -291,16 +337,6 @@
     "publishedAt": "2026-09-04T19:16:03.000Z",
     "preview": "A meme coin called BONER cornered half of Hims &amp; Hers Health's tokenized shares on Robinhood's new blockchain. It started a new trend that's spreading fast.",
     "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Bitcoin faces a two-week Fed trap as inflation rewrite threatens to upend rate cuts",
-    "link": "https://cryptoslate.com/bitcoin-faces-a-two-week-fed-trap-as-inflation-rewrite-threatens-to-upend-rate-cuts/",
-    "publishedAt": "2026-09-04T18:50:33.000Z",
-    "preview": "Policymakers will have CPI but not official August PCE when they decide, leaving a second market test on Sept. 30. The post Bitcoin faces a two-week Fed trap as inflation rewrite threatens to upend rate cuts appeared fir",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "Decrypt",
@@ -1171,30 +1207,12 @@
     "tags": []
   },
   {
-    "source": "CryptoPotato",
-    "title": "Top Pi Network Price Predictions as PI Rises 13% in a Month",
-    "link": "https://cryptopotato.com/top-pi-network-price-predictions-as-pi-rises-13-in-a-month/",
-    "publishedAt": "2026-09-03T12:57:23.000Z",
-    "preview": "\"The sleeping giant may not stay asleep forever,\" one X user claimed.",
-    "tags": []
-  },
-  {
     "source": "Cointelegraph",
     "title": "Nvidia buys Hugging Face for $12.9B in push into AI software",
     "link": "https://cointelegraph.com/news/nvidia-buys-hugging-face-12-9-billion-ai-software",
     "publishedAt": "2026-09-03T12:41:11.000Z",
     "preview": "Nvidia agreed to buy Hugging Face for $12.93 billion, gaining a platform used by more than 18 million developers to share and deploy AI models.",
     "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Arthur Hayes Says Ignore Warsh and Watch EUR/JPY for Bitcoin’s Next Move",
-    "link": "https://cryptopotato.com/arthur-hayes-says-ignore-warsh-and-watch-eur-jpy-for-bitcoins-next-move/",
-    "publishedAt": "2026-09-03T12:20:42.000Z",
-    "preview": "Hayes sees French banks as a potential fault line, with BNP Paribas, Credit Agricole, and Societe Generale tied to US repo lending.",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "CoinDesk",
@@ -1310,24 +1328,6 @@
     "publishedAt": "2026-09-02T20:46:04.000Z",
     "preview": "Emil Michael's latest financial filings show a summer exit from Perplexity, months after a January sale of xAI stock that reportedly netted him up to $24 million.",
     "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Goldman Sachs, BofA Among 21 Banks Planning Joint Dollar Stablecoin Launch",
-    "link": "https://decrypt.co/377216/goldman-sachs-bofa-banks-stablecoin",
-    "publishedAt": "2026-09-02T20:01:04.000Z",
-    "preview": "The bank-led consortium wants a U.S. dollar token live by the first half of 2027, with a euro version queued up next.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "'The Right Trade': Strategy CEO Has No Regrets Selling Bitcoin at $60K Before Buying Back Higher",
-    "link": "https://decrypt.co/377215/right-trade-strategy-no-regrets-selling-bitcoin",
-    "publishedAt": "2026-09-02T19:15:06.000Z",
-    "preview": "Phong Le said Strategy’s cost of capital—not Bitcoin’s price—drove its decision to sell nearly 7,000 BTC before resuming purchases above $80,000.",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "Decrypt",
