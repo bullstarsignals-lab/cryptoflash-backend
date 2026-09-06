@@ -1,9 +1,95 @@
 [
   {
+    "source": "Decrypt",
+    "title": "XRP Gets Another Boost Through Ripple Deal With Florida Athletics",
+    "link": "https://decrypt.co/377512/xrp-boost-ripple-florida-athletics",
+    "publishedAt": "2026-09-06T16:01:03.000Z",
+    "preview": "The multi-year deal will place the XRP logo on the field at Ben Hill Griffin Stadium starting this season, extending Ripple's push into college athletics.",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
+    "link": "https://www.coindesk.com/business/2026/09/06/ukrainian-police-took-down-a-crypto-scam-that-stole-up-to-usd1-million-a-month",
+    "publishedAt": "2026-09-06T16:00:00.000Z",
+    "preview": "Investigators have identified 62 victims and say more than 46 Ukrainians took part in the alleged operation.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Aave crypto lending proposal would let emergency tools freeze markets – but not unfreeze them",
+    "link": "https://cryptoslate.com/aave-lending-proposal-would-grant-emergency-powers-without-requiring-public-reports-on-their-use/",
+    "publishedAt": "2026-09-06T15:33:08.000Z",
+    "preview": "The proposal would grant bounded emergency roles now, but the current Risk Steward release cannot invoke their one-way safety calls. The post Aave crypto lending proposal would let emergency tools freeze markets – but no",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "Stablecoins Won't Scale Without Banks",
+    "link": "https://decrypt.co/377280/stablecoins-wont-scale-without-banks",
+    "publishedAt": "2026-09-06T15:01:03.000Z",
+    "preview": "With a growing number of institutions exploring stablecoins, the bottleneck is regulated infrastructure they can trust.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "The $63 billion revolving door carrying the entire US Bitcoin ETF market",
+    "link": "https://cryptoslate.com/the-63-billion-revolving-door-carrying-the-entire-us-bitcoin-etf-market/",
+    "publishedAt": "2026-09-06T15:00:20.000Z",
+    "preview": "Bitcoin's best and newest large buyer has no face, no investment committee, and no public opinion about whether the price looks cheap. It appears near the end of the US trading day as an entry beside an ETF ticker, and o",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Bitcoin ETFs Rake In Nearly $1 Billion as Ethereum Funds Keep the Streak Alive",
+    "link": "https://cryptopotato.com/bitcoin-etfs-rake-in-nearly-1-billion-as-ethereum-funds-keep-the-streak-alive/",
+    "publishedAt": "2026-09-06T14:31:41.000Z",
+    "preview": "Thursday was the best day for the BTC ETFs since January.",
+    "tags": [
+      "BTC",
+      "ETH"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Better and Coinbase’s bitcoin-backed mortgages can reuse borrowers’ collateral",
+    "link": "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral",
+    "publishedAt": "2026-09-06T14:00:00.000Z",
+    "preview": "Better Mortgage can reuse the pledged bitcoin, and borrowers cannot recover their crypto until the main conventional mortgage is fully repaid or refinanced.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "ZEC Just Hit $1,200: What You Need to Know About Its Meteoric 370% Surge in 3 Months",
+    "link": "https://cryptopotato.com/zec-just-hit-1200-what-you-need-to-know-about-its-meteoric-370-surge-in-3-months/",
+    "publishedAt": "2026-09-06T13:43:18.000Z",
+    "preview": "ZEC's market cap just reached $20 billion, surpassing the likes of HYPE and DOGE.",
+    "tags": [
+      "DOGE"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-09-06T13:24:43.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
     "source": "Cointelegraph",
     "title": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
     "link": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves",
-    "publishedAt": "2026-09-06T13:01:48.000Z",
+    "publishedAt": "2026-09-06T13:03:00.000Z",
     "preview": "Whale Alert identified 12 mining rewards totaling 600 BTC that moved after 16 years of dormancy, with the onchain tracking platform finding no connection to Satoshi Nakamoto.",
     "tags": [
       "BTC"
@@ -256,14 +342,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Zcash breaks $1,000 as its spot ETF crosses $400 million in assets",
-    "link": "https://cryptoslate.com/zcash-breaks-1000-as-its-spot-etf-crosses-400-million-in-assets/",
-    "publishedAt": "2026-09-05T14:00:05.000Z",
-    "preview": "Zcash broke above $1,000 on Sept. 4, pushing the asset value of Grayscale’s recently listed ZCSH ETF past $400 million less than two weeks after its debut. ZEC registered an intraday high of $1,050.70, up roughly 20% ove",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "XRP’s Breakout Rally Has Begun, Analysts Say – But Their Targets Will Shock You",
     "link": "https://cryptopotato.com/xrps-breakout-rally-has-begun-analysts-say-but-their-targets-will-shock-you/",
@@ -292,16 +370,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "How the “buy, borrow, die” tax trade is quietly loading DeFi pools with hidden credit risk",
-    "link": "https://cryptoslate.com/how-the-buy-borrow-die-tax-trade-is-quietly-loading-defi-pools-with-hidden-credit-risk/",
-    "publishedAt": "2026-09-05T12:00:05.000Z",
-    "preview": "Imagine someone who bought ETH for $1,000, watched it climb to $4,000, and now wants to cash out $1,000. Selling one-quarter of the ETH would provide the cash, but it would also realize a $750 gain under US tax treatment",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
     "source": "CoinDesk",
     "title": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
     "link": "https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million",
@@ -313,20 +381,9 @@
   },
   {
     "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-09-05T11:16:19.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
     "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
     "link": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens",
-    "publishedAt": "2026-09-05T10:44:29.000Z",
+    "publishedAt": "2026-09-05T10:46:00.000Z",
     "preview": "Polish lawmakers failed to overturn a presidential veto of crypto legislation as the Zondacrypto investigation expands and its Estonian operator enters bankruptcy.",
     "tags": []
   },
@@ -873,16 +930,6 @@
     "tags": []
   },
   {
-    "source": "CryptoPotato",
-    "title": "Ethereum Whale Keeps Offloading as ETH Price Rockets Past $2.5K",
-    "link": "https://cryptopotato.com/ethereum-whale-keeps-offloading-as-eth-price-rockets-past-2-5k/",
-    "publishedAt": "2026-09-04T07:38:10.000Z",
-    "preview": "Ethereum's dominance is above 11% after the latest leg up.",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "Bitcoin ETF inflows hit $731M, highest since January as BTC reclaims $80K",
     "link": "https://cointelegraph.com/markets/bitcoin-etf-draw-731-million-highest-january-btc-80k",
@@ -900,17 +947,6 @@
     "preview": "Net assets in spot bitcoin ETFs crossed $103 billion for the first time, with BlackRock's IBIT accounting for well over half the money.",
     "tags": [
       "BTC"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Bitcoin Is Back Above $80,000, But Fidelity Says the Bear Market May Not Be Over Yet",
-    "link": "https://cryptopotato.com/bitcoin-is-back-above-80000-but-fidelity-says-the-bear-market-may-not-be-over-yet/",
-    "publishedAt": "2026-09-04T07:11:43.000Z",
-    "preview": "Fidelity believes that while Bitcoin's strong August rally and other factors offer reasons for optimism, none confirm that the bear market has ended.",
-    "tags": [
-      "BTC",
-      "OP"
     ]
   },
   {
@@ -1243,14 +1279,6 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "Bitget in talks with Wall Street giants including BlackRock to fuel Asian distribution",
-    "link": "https://www.coindesk.com/business/2026/09/03/bitget-in-talks-with-wall-street-giants-including-blackrock-for-asian-distribution",
-    "publishedAt": "2026-09-03T14:41:25.000Z",
-    "preview": "Gracy Chen highlighted the world's largest asset manager as one example of such a firm seeking to expand distribution of their tokenized ETFs in the region.",
-    "tags": []
-  },
-  {
     "source": "Cointelegraph",
     "title": "Recovery specialists crack $1B crypto wallet... but find just $10",
     "link": "https://cointelegraph.com/magazine/recovery-specialists-crack-1b-crypto-wallet-but-find-just-10",
@@ -1264,14 +1292,6 @@
     "link": "https://cointelegraph.com/news/vara-securitize-mou-tokenization-dubai",
     "publishedAt": "2026-09-03T13:00:00.000Z",
     "preview": "VARA and Securitize signed an MoU to foster more tokenization innovation in Dubai and explore how tokenized financial innovation should be regulated in the region.",
-    "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "SoFi, Kraken tie up as crypto and banking push into each other's turf",
-    "link": "https://www.coindesk.com/business/2026/09/03/sofi-kraken-tie-up-as-crypto-and-banking-push-into-each-other-s-turf",
-    "publishedAt": "2026-09-03T12:00:00.000Z",
-    "preview": "Kraken is joining SoFi's settlement network and list SoFiUSD as the companies link traditional banking with crypto markets.",
     "tags": []
   },
   {
@@ -1306,22 +1326,6 @@
     "link": "https://decrypt.co/377238/michigan-judge-bars-kalshi-sports-bets-threatens-500k-daily-fine",
     "publishedAt": "2026-09-03T08:47:34.000Z",
     "preview": "The order calls the prediction market platform a sports betting operation \"masquerading as an investment opportunity.\"",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Anthropic Admits Security Failures Behind Claude Hacking Incidents",
-    "link": "https://decrypt.co/377232/anthropic-security-claude-ai-hacks",
-    "publishedAt": "2026-09-02T23:46:04.000Z",
-    "preview": "After Claude models accessed real systems during cyber tests, Anthropic tightened its safeguards and warned that flawed training can encourage dangerous behavior.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "An AI Training Data Startup Just Became Y Combinator's Fastest-Ever Unicorn",
-    "link": "https://decrypt.co/377231/afterquery-ai-tradining-data-unicorn-y-combinator",
-    "publishedAt": "2026-09-02T23:16:04.000Z",
-    "preview": "Afterquery's valuation jumped more than tenfold in five months, making it Y Combinator's fastest unicorn ever.",
     "tags": []
   }
 ]
