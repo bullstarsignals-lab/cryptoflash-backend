@@ -1,6 +1,71 @@
 [
   {
     "source": "Cointelegraph",
+    "title": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
+    "link": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves",
+    "publishedAt": "2026-09-06T13:01:48.000Z",
+    "preview": "Whale Alert identified 12 mining rewards totaling 600 BTC that moved after 16 years of dormancy, with the onchain tracking platform finding no connection to Satoshi Nakamoto.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "This Crypto Project Just Funded 1,000 Student Loans Entirely On-Chain",
+    "link": "https://decrypt.co/377494/pencil-finance-1-million-student-loan",
+    "publishedAt": "2026-09-06T13:01:04.000Z",
+    "preview": "The team behind Pencil Finance says the financing supported thousands of Southeast Asian students, but it did not disclose borrower costs, defaults, or investor returns.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Solana’s weekly ETF inflows fell 97% while CME funds became less net short",
+    "link": "https://cryptoslate.com/solanas-weekly-etf-inflows-fell-97-while-cme-funds-became-less-net-short/",
+    "publishedAt": "2026-09-06T12:30:38.000Z",
+    "preview": "SOL ETFs stayed net positive in the week ending Sept. 4, while a separate Sept. 1 snapshot showed reduced net short exposure. The post Solana’s weekly ETF inflows fell 97% while CME funds became less net short appeared f",
+    "tags": [
+      "SOL"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "CLARITY Act Gets a Major Boost, But Another Setback Threatens Its 2026 Passage",
+    "link": "https://cryptopotato.com/clarity-act-gets-a-major-boost-but-another-setback-threatens-its-2026-passage/",
+    "publishedAt": "2026-09-06T12:21:00.000Z",
+    "preview": "One major organization that was previously against the legislation has turned neutral.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Inside the 15-minute trading pulse that moves $14 billion in Bitcoin perpetual futures",
+    "link": "https://cryptoslate.com/the-invisible-opening-bell-inside-cryptos-endless-trading-day/",
+    "publishedAt": "2026-09-06T11:00:27.000Z",
+    "preview": "At 14:59:59 UTC, Bitcoin perpetual futures look like any other electronic market, with prices flickering and orders flowing from traders around the world. But when the clock turns to 15:00:00, the market instantly become",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Arbitrum (ARB) Rockets by 42% Daily, Bitcoin (BTC) Fights for $80K: Weekend Watch",
+    "link": "https://cryptopotato.com/arbitrum-arb-rockets-by-42-daily-bitcoin-btc-fights-for-80k-weekend-watch/",
+    "publishedAt": "2026-09-06T10:35:48.000Z",
+    "preview": "ZEC is the other major gainer today, surging toward $1,200.",
+    "tags": [
+      "BTC",
+      "ARB"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Strategy and Robinhood now lead a $4.5 billion large-cap ETF that was not built for crypto",
+    "link": "https://cryptoslate.com/strategy-and-robinhood-now-lead-a-4-5-billion-large-cap-etf-that-was-not-built-for-crypto/",
+    "publishedAt": "2026-09-06T10:00:43.000Z",
+    "preview": "Their 6.01% combined weight shows how crypto-linked volatility can reach a generalist stock portfolio. The post Strategy and Robinhood now lead a $4.5 billion large-cap ETF that was not built for crypto appeared first on",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
     "title": "Tether-backed Orionx to shut down after audit flags $7M custody gap",
     "link": "https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets",
     "publishedAt": "2026-09-06T09:07:08.000Z",
@@ -276,16 +341,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Robinhood rejects AMC CEO’s demand to halt AMC tokenized ‘meme stock’ which offers no shareholder rights",
-    "link": "https://cryptoslate.com/robinhood-rejects-amc-ceos-demand-to-halt-amc-tokenized-stock-offering-holders-no-shareholder-rights/",
-    "publishedAt": "2026-09-05T10:00:50.000Z",
-    "preview": "Adam Aron threatened legal and SEC scrutiny; Robinhood's legal chief said the Jersey-issued debt product will remain. The post Robinhood rejects AMC CEO’s demand to halt AMC tokenized ‘meme stock’ which offers no shareho",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "2 Major Ripple (XRP) News From The Past 24 Hours: Details",
     "link": "https://cryptopotato.com/2-major-ripple-xrp-news-from-the-past-24-hours-details/",
@@ -304,14 +359,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Wall Street is turning AI’s massive electricity appetite into a $61 billion bond market",
-    "link": "https://cryptoslate.com/wall-street-is-turning-ais-massive-electricity-appetite-into-a-61-billion-bond-market/",
-    "publishedAt": "2026-09-05T07:00:44.000Z",
-    "preview": "Every interaction with AI uses electricity in a data center. Servers calculate the answer, cooling equipment carries away the heat, and network connections send the result back to the user. Multiply that process across m",
-    "tags": []
   },
   {
     "source": "CryptoPotato",
@@ -365,16 +412,6 @@
     "preview": "XRP is back on the offensive, but can it really reach the $2.70 target?",
     "tags": [
       "XRP"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Bitcoin dips below $80,000 as a hot August jobs report shifts Fed policy expectations",
-    "link": "https://cryptoslate.com/bitcoins-80000-rally-just-lost-the-feds-labor-market-escape-hatch/",
-    "publishedAt": "2026-09-05T04:00:32.000Z",
-    "preview": "August payrolls weakened the case for patience, leaving Sept. 11 CPI as Bitcoin’s next decisive volatility test. The post Bitcoin dips below $80,000 as a hot August jobs report shifts Fed policy expectations appeared fir",
-    "tags": [
-      "BTC"
     ]
   },
   {
@@ -887,16 +924,6 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "XRP Trading Activity Hits Highest Level Since February as Price Jumps 8%",
-    "link": "https://cryptopotato.com/xrp-trading-activity-hits-highest-level-since-february-as-price-jumps-8/",
-    "publishedAt": "2026-09-04T06:01:38.000Z",
-    "preview": "Binance led the surge, handling about $7.28 billion in XRP spot trades during August, well ahead of other major exchanges.",
-    "tags": [
-      "XRP"
-    ]
-  },
-  {
     "source": "CoinDesk",
     "title": "OpenAI puts $1 billion behind cyber defense after unveiling AI that can find zero-days",
     "link": "https://www.coindesk.com/tech/2026/09/04/openai-puts-usd1-billion-behind-cyber-defense-after-unveiling-ai-that-can-find-zero-days",
@@ -930,18 +957,6 @@
     "preview": "Every major token gained on Friday as traders cut bets on a September Federal Reserve rate increase to a coin flip, though most of the majors are barely changed on the week.",
     "tags": [
       "BTC"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Remixpoint Cuts ETH, XRP Exposure After Market Review, Keeps 1,506 BTC in Treasury",
-    "link": "https://cryptopotato.com/remixpoint-cuts-eth-xrp-exposure-after-market-review-keeps-1506-btc-in-treasury/",
-    "publishedAt": "2026-09-04T04:02:42.000Z",
-    "preview": "Ethereum delivered Remixpoint's biggest altcoin profit, generating ¥60.2 million as the company exited its position on September 1.",
-    "tags": [
-      "BTC",
-      "ETH",
-      "XRP"
     ]
   },
   {
@@ -1252,14 +1267,6 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "Nvidia buys Hugging Face for $12.9B in push into AI software",
-    "link": "https://cointelegraph.com/news/nvidia-buys-hugging-face-12-9-billion-ai-software",
-    "publishedAt": "2026-09-03T12:41:11.000Z",
-    "preview": "Nvidia agreed to buy Hugging Face for $12.93 billion, gaining a platform used by more than 18 million developers to share and deploy AI models.",
-    "tags": []
-  },
-  {
     "source": "CoinDesk",
     "title": "SoFi, Kraken tie up as crypto and banking push into each other's turf",
     "link": "https://www.coindesk.com/business/2026/09/03/sofi-kraken-tie-up-as-crypto-and-banking-push-into-each-other-s-turf",
@@ -1315,14 +1322,6 @@
     "link": "https://decrypt.co/377231/afterquery-ai-tradining-data-unicorn-y-combinator",
     "publishedAt": "2026-09-02T23:16:04.000Z",
     "preview": "Afterquery's valuation jumped more than tenfold in five months, making it Y Combinator's fastest unicorn ever.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "FBI Seizes $560K in Crypto Bound for Hamas, Takes Over Fundraising Sites",
-    "link": "https://decrypt.co/377230/fbi-seizes-560k-crypto-hamas",
-    "publishedAt": "2026-09-02T22:47:06.000Z",
-    "preview": "Agents seized digital assets, domains, and servers allegedly used by Hamas’ military wing to collect donations and recruit supporters.",
     "tags": []
   }
 ]
