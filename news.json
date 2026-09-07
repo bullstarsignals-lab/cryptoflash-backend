@@ -1,5 +1,25 @@
 [
   {
+    "source": "CoinDesk",
+    "title": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
+    "link": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys",
+    "publishedAt": "2026-09-07T03:43:12.000Z",
+    "preview": "Liquid Network, a settlement layer used by exchanges, halted all transactions after losing $320 million worth of bitcoin in a security exploit.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "‘White hats’ take 4000 BTC from Liquid, ETFs see best inflows of 2026: Hodler’s Digest",
+    "link": "https://cointelegraph.com/magazine/white-hats-take-4000-btc-from-liquid-btc-etfs-best-week-of-2026-hodlers-digest",
+    "publishedAt": "2026-09-07T00:05:02.000Z",
+    "preview": "Purported white hat hackers have taken 4000 Bitcoin from the Liquid sidechain in a major security breach. The Bitcoin ETFs see the best three weeks of inflows in 2026.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
     "source": "CryptoPotato",
     "title": "No Public Money Behind El Salvador’s New Bitcoin, IMF Confirms",
     "link": "https://cryptopotato.com/no-public-money-behind-el-salvadors-new-bitcoin-imf-confirms/",
@@ -1290,27 +1310,11 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "Crypto for Advisors: Why crypto earnings reports can be misleading",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/09/03/crypto-for-advisors-why-crypto-earnings-reports-can-be-misleading",
-    "publishedAt": "2026-09-03T15:00:00.000Z",
-    "preview": "",
-    "tags": []
-  },
-  {
     "source": "Cointelegraph",
     "title": "Recovery specialists crack $1B crypto wallet... but find just $10",
     "link": "https://cointelegraph.com/magazine/recovery-specialists-crack-1b-crypto-wallet-but-find-just-10",
     "publishedAt": "2026-09-03T13:30:00.000Z",
     "preview": "Crypto recovery specialists reveal how lost wallets, passwords and seed phrases can sometimes be recovered — but that’s of no help if the money was never there in the first place.",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "VARA, Securitize sign MoU for tokenization innovation in Dubai",
-    "link": "https://cointelegraph.com/news/vara-securitize-mou-tokenization-dubai",
-    "publishedAt": "2026-09-03T13:00:00.000Z",
-    "preview": "VARA and Securitize signed an MoU to foster more tokenization innovation in Dubai and explore how tokenized financial innovation should be regulated in the region.",
     "tags": []
   },
   {
