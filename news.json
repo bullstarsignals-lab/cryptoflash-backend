@@ -1,6 +1,101 @@
 [
   {
     "source": "CryptoSlate",
+    "title": "Why Bitcoin bulls shouldn’t mistake a shrinking dollar reserve share for central bank buying",
+    "link": "https://cryptoslate.com/why-bitcoin-bulls-shouldnt-mistake-a-shrinking-dollar-reserve-share-for-central-bank-buying/",
+    "publishedAt": "2026-09-08T22:20:14.000Z",
+    "preview": "The New York Fed’s Sept. 2 analysis separates currency choices from reserve-size changes, leaving sovereign Bitcoin demand unproven. The post Why Bitcoin bulls shouldn’t mistake a shrinking dollar reserve share for centr",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Bitcoin Calms Below $80K as Fed Hike Odds Climb: Bitfinex Alpha",
+    "link": "https://cryptopotato.com/bitcoin-calms-below-80k-as-fed-hike-odds-climb-bitfinex-alpha/",
+    "publishedAt": "2026-09-08T22:09:44.000Z",
+    "preview": "ETF demand remains strong, but inflation data could determine where Bitcoin goes next.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "OpenAI Says It Solved a $1M Math Problem. A Rival Mathematician Says He Did It First",
+    "link": "https://decrypt.co/resources/openai-solved-1m-math-problem-rival-mathematician",
+    "publishedAt": "2026-09-08T21:38:34.000Z",
+    "preview": "NYU's Tristan Buckmaster accuses OpenAI's Sébastien Bubeck of racing to claim credit for a Navier-Stokes proof after learning about his unpublished work with Anthropic's Levent Alpöge.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "New York town weighs crypto mining and AI data center ban",
+    "link": "https://cointelegraph.com/news/new-york-plattsburgh-crypto-mining-ai-ban",
+    "publishedAt": "2026-09-08T21:33:49.000Z",
+    "preview": "One of the first towns in the US to ban Bitcoin mining for 18 months is considering another temporary moratorium extending to data centers and other crypto mining operations.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Strategy’s $250 Bitcoin Jordans sold out as Saylor turns 4% of BTC supply into a consumer brand",
+    "link": "https://cryptoslate.com/strategys-250-bitcoin-jordans-sold-out-as-saylor-turns-4-of-btc-supply-into-a-consumer-brand/",
+    "publishedAt": "2026-09-08T21:30:42.000Z",
+    "preview": "The store advertises cards, Apple Pay and Google Pay, while all nine listed shoe sizes are unavailable. The post Strategy’s $250 Bitcoin Jordans sold out as Saylor turns 4% of BTC supply into a consumer brand appeared fi",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Franklin Templeton digital asset veteran takes helm at StablecoinX",
+    "link": "https://cointelegraph.com/news/stablecoinx-franklin-templeton-veteran-to-oversee-roughly-480m-ena-treasury",
+    "publishedAt": "2026-09-08T20:59:20.000Z",
+    "preview": "Former Franklin Templeton digital asset executive Christopher Jensen will lead StablecoinX, the largest corporate holder of Ethena’s ENA token.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "$47M Still Missing After Liquid Hack as Blockstream Bargains With 'White Hats'",
+    "link": "https://decrypt.co/377723/liquid-hack-47m-blockstream-bargains-white-hat",
+    "publishedAt": "2026-09-08T20:46:34.000Z",
+    "preview": "The hackers have returned 3,400 of the roughly 4,000 BTC drained from the sidechain, but about 600 BTC remains outstanding—and some doubt the actors' \"white hat\" claims.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Bitcoin bulls are loading up on calls while spot traders keep selling",
+    "link": "https://cryptoslate.com/bitcoin-bulls-are-loading-up-on-calls-while-spot-traders-keep-selling/",
+    "publishedAt": "2026-09-08T20:20:50.000Z",
+    "preview": "Glassnode’s September 8 report shows richer calls and easing net spot selling, while stronger ETF inflows complicate the demand picture. The post Bitcoin bulls are loading up on calls while spot traders keep selling appe",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "DBS and Citi Settle 24/7 Cross-Border Dollar Payment on SWIFT’s Ledger",
+    "link": "https://cryptopotato.com/dbs-and-citi-settle-24-7-cross-border-dollar-payment-on-swifts-ledger/",
+    "publishedAt": "2026-09-08T20:18:02.000Z",
+    "preview": "What it used to take up to two business days was settled for minutes during the weekend.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-09-08T20:13:27.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
     "title": "Bitcoin could get the dollar drop bulls want this week without getting the liquidity rally they need",
     "link": "https://cryptoslate.com/bitcoin-could-get-the-dollar-drop-bulls-want-this-week-without-getting-the-liquidity-rally-they-need/",
     "publishedAt": "2026-09-08T19:10:34.000Z",
@@ -252,17 +347,6 @@
     ]
   },
   {
-    "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-09-08T13:24:08.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "CRO Rockets as Robinhood Takes Stakes in Crypto.com and OG.com",
     "link": "https://cryptopotato.com/cro-rockets-as-robinhood-takes-stakes-in-crypto-com-and-og-com/",
@@ -385,16 +469,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Cardano’s Leios 6x scaling breakthrough comes with a much harder ADA problem",
-    "link": "https://cryptoslate.com/cardanos-leios-6x-scaling-breakthrough-comes-with-a-much-harder-ada-problem/",
-    "publishedAt": "2026-09-08T11:50:28.000Z",
-    "preview": "The developers’ conditional 2029 fee benchmark depends on sustained paying usage, leaving delegators, pool operators and users exposed to different adjustments. The post Cardano’s Leios 6x scaling breakthrough comes with",
-    "tags": [
-      "ADA"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders",
     "link": "https://decrypt.co/resources/what-is-laptop-hunter-bidens-meme-coin-targeting-trump-holders",
@@ -421,16 +495,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Liquid recovers 3,400 BTC as hacker asks “is that ok?” after pocketing $47 million in Bitcoin",
-    "link": "https://cryptoslate.com/liquid-recovers-3400-btc-as-hacker-asks-is-that-ok-after-pocketing-47-million-in-bitcoin/",
-    "publishedAt": "2026-09-08T11:10:30.000Z",
-    "preview": "The Sept. 7 return replenished the federation wallet, but Blockstream still listed a public bridge outage the following morning. The post Liquid recovers 3,400 BTC as hacker asks “is that ok?” after pocketing $47 million",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "CoinDesk",
     "title": "How Curve's soft liquidation model lets borrowers survive market drawdowns",
     "link": "https://www.coindesk.com/tech/2026/09/08/hundreds-of-defi-loans-on-curve-stayed-in-liquidation-for-weeks-without-dying",
@@ -446,16 +510,6 @@
     "preview": "Athough XRP has been consolidating around $1.40, analysts have become significantly more bullish about its next potential move.",
     "tags": [
       "XRP"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Ethereum’s 2029 quantum deadline is starting to reshape what gets built next",
-    "link": "https://cryptoslate.com/ethereums-2029-quantum-deadline-is-starting-to-reshape-what-gets-built-next/",
-    "publishedAt": "2026-09-08T10:40:21.000Z",
-    "preview": "EF Protocol’s priorities make shorter slots and node efficiencies conditional, while a proposal could move mandatory execution proofs one fork later. The post Ethereum’s 2029 quantum deadline is starting to reshape what ",
-    "tags": [
-      "ETH"
     ]
   },
   {
@@ -1118,24 +1172,6 @@
     ]
   },
   {
-    "source": "Cointelegraph",
-    "title": "Philippines eyes payment operator registration freeze, tighter VASP checks",
-    "link": "https://cointelegraph.com/news/philippines-payment-operator-freeze-vasp-checks",
-    "publishedAt": "2026-09-07T09:51:00.000Z",
-    "preview": "A central bank proposal would pause new payment operator registrations while requiring enhanced monitoring and transaction limits for arrangements involving virtual asset firms.",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Coldcard third-wave attacker moves 45% of stolen Bitcoin",
-    "link": "https://cointelegraph.com/news/coldcard-third-wave-attacker-moves-bitcoin-stolen",
-    "publishedAt": "2026-09-07T09:36:19.000Z",
-    "preview": "Galaxy said 82% of Bitcoin stolen across all Coldcard attacks remains in the original addresses, with 18% moved in apparent laundering.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "Pi Network’s PI Remains Above Key Resistance, Bitcoin (BTC) Fails at $80K: Market Watch",
     "link": "https://cryptopotato.com/pi-networks-pi-remains-above-key-resistance-bitcoin-btc-fails-at-80k-market-watch/",
@@ -1258,27 +1294,6 @@
     "tags": []
   },
   {
-    "source": "CryptoPotato",
-    "title": "Bitcoin ETFs Rake In Nearly $1 Billion as Ethereum Funds Keep the Streak Alive",
-    "link": "https://cryptopotato.com/bitcoin-etfs-rake-in-nearly-1-billion-as-ethereum-funds-keep-the-streak-alive/",
-    "publishedAt": "2026-09-06T14:31:41.000Z",
-    "preview": "Thursday was the best day for the BTC ETFs since January.",
-    "tags": [
-      "BTC",
-      "ETH"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "ZEC Just Hit $1,200: What You Need to Know About Its Meteoric 370% Surge in 3 Months",
-    "link": "https://cryptopotato.com/zec-just-hit-1200-what-you-need-to-know-about-its-meteoric-370-surge-in-3-months/",
-    "publishedAt": "2026-09-06T13:43:18.000Z",
-    "preview": "ZEC's market cap just reached $20 billion, surpassing the likes of HYPE and DOGE.",
-    "tags": [
-      "DOGE"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "This Crypto Project Just Funded 1,000 Student Loans Entirely On-Chain",
     "link": "https://decrypt.co/377494/pencil-finance-1-million-student-loan",
@@ -1345,22 +1360,6 @@
     "link": "https://decrypt.co/377483/polymarket-crypto-perpetual-futures",
     "publishedAt": "2026-09-04T20:31:03.000Z",
     "preview": "The prediction market platform's new Perps product scaled from 10 markets to 67 on its first day—though the 20x leverage ceiling only applies to some of them, and none of it reaches U.S. traders.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Crypto Traders Are Pairing Meme Coins With Stocks on Robinhood—And It's Working (Sort Of)",
-    "link": "https://decrypt.co/377463/crypto-meme-coin-stock-pairs-robinhood",
-    "publishedAt": "2026-09-04T19:16:03.000Z",
-    "preview": "A meme coin called BONER cornered half of Hims &amp; Hers Health's tokenized shares on Robinhood's new blockchain. It started a new trend that's spreading fast.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "'Send Your Lawyers': Robinhood Isn't Backing Down From AMC Over Stock Tokens",
-    "link": "https://decrypt.co/377461/send-your-lawyers-robinhood-not-backing-down-amc",
-    "publishedAt": "2026-09-04T18:36:41.000Z",
-    "preview": "Lawyers question AMC’s grounds for a securities-law challenge, but say the tokens’ branding and marketing could leave room for a dispute.",
     "tags": []
   }
 ]
