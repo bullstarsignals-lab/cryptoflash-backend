@@ -1,5 +1,71 @@
 [
   {
+    "source": "CryptoSlate",
+    "title": "Bitcoin could get the dollar drop bulls want this week without getting the liquidity rally they need",
+    "link": "https://cryptoslate.com/bitcoin-could-get-the-dollar-drop-bulls-want-this-week-without-getting-the-liquidity-rally-they-need/",
+    "publishedAt": "2026-09-08T19:10:34.000Z",
+    "preview": "A euro-led decline in DXY would need confirmation from real yields, credit conditions and Bitcoin’s performance across currencies. The post Bitcoin could get the dollar drop bulls want this week without getting the liqui",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Bitcoin Holds, Wall Street Stalls as Oil Shock Revives Fed Hike Bets",
+    "link": "https://decrypt.co/377705/bitcoin-holds-wall-street-stalls-oil-shock-fed-hike",
+    "publishedAt": "2026-09-08T18:59:35.000Z",
+    "preview": "Bitcoin is defending its golden zone support while the S&#038;P 500 grinds inside its tightest range yet, both waiting on Friday's inflation report before the Fed's September 16 rate call.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Bybit launches 24/7 perpetuals for major currency pairs",
+    "link": "https://cointelegraph.com/news/bybit-expands-tradfi-push-with-100x-fx-perpetuals",
+    "publishedAt": "2026-09-08T18:51:08.000Z",
+    "preview": "Bybit added USDT-settled perpetuals tracking EUR/USD, GBP/USD and USD/JPY, with 24/7 trading and leverage of up to 100x.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "3 Red Flags Are Emerging for Chainlink After LINK’s Powerful 95% Rally",
+    "link": "https://cryptopotato.com/3-red-flags-are-emerging-for-chainlink-after-links-powerful-95-rally/",
+    "publishedAt": "2026-09-08T18:31:32.000Z",
+    "preview": "Declining Chainlink whale transactions and rising exchange balances create fresh selling concerns.",
+    "tags": [
+      "LINK"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Visa Taps Onchain Lending to Finance Stablecoin Card Programs",
+    "link": "https://decrypt.co/377696/visa-onchain-lending-finance-stablecoin-card",
+    "publishedAt": "2026-09-08T18:16:04.000Z",
+    "preview": "The payment processor giant is pairing payment settlement data with blockchain lending tools to help fintechs and stablecoin-linked card programs access working capital.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "AI agents are executing millions of micro-payments on XRP Ledger, but hardly any tokens are being bought",
+    "link": "https://cryptoslate.com/xrp-ai-agents-processed-4-5-million-payments-but-settled-just-5837-tokens/",
+    "publishedAt": "2026-09-08T18:05:14.000Z",
+    "preview": "t54’s September 8 dashboard also records 4,125 RLUSD settled, showing why payment counts alone cannot establish substantial XRP demand. The post AI agents are executing millions of micro-payments on XRP Ledger, but hardl",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Strive Buys $109 Million in Bitcoin, Pushes Preferred Stock Toward $1 Billion",
+    "link": "https://decrypt.co/377689/strive-buys-109-million-bitcoin-preferred-stock-1-billion",
+    "publishedAt": "2026-09-08T17:46:05.000Z",
+    "preview": "The Vivek Ramaswamy-founded asset manager added 1,375 BTC last week, its third straight week of 5%-plus growth.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
     "source": "Decrypt",
     "title": "Cronos Erased Two Hours of Transactions to Reverse $111 Million DeFi Exploit",
     "link": "https://decrypt.co/377686/cronos-erased-two-hours-transactions-defi-exploit",
@@ -470,14 +536,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Hunter Biden’s new “LAPTOP” memecoin targets traders who lost money on TRUMP",
-    "link": "https://cryptoslate.com/hunter-bidens-new-laptop-memecoin-targets-traders-who-lost-money-on-trump/",
-    "publishedAt": "2026-09-08T09:35:31.000Z",
-    "preview": "Hunter Biden is about to test whether his criticism of political profiteering through crypto applies to his own business ventures. According to The Wall Street Journal, former President Joe Biden's son plans to launch a ",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "XRP Dips Below Crucial Support, BTC Slides Toward $78K: Market Watch",
     "link": "https://cryptopotato.com/xrp-dips-below-crucial-support-btc-slides-toward-78k-market-watch/",
@@ -489,16 +547,8 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Poland’s crypto licensing deadlock is handing foreign EU firms an advantage",
-    "link": "https://cryptoslate.com/polands-crypto-licensing-deadlock-is-handing-foreign-eu-firms-an-advantage/",
-    "publishedAt": "2026-09-08T08:50:16.000Z",
-    "preview": "The Sept. 4 vote leaves domestic applicants waiting for a legal authorization route while qualifying EU providers retain access to Polish customers. The post Poland’s crypto licensing deadlock is handing foreign EU firms",
-    "tags": []
-  },
-  {
     "source": "CoinDesk",
-    "title": "Live updates: Bitcoin climbs from sessions lows as oil prices pull back",
+    "title": "Live updates: Bitcoin slips below $78,500 as stocks close lower",
     "link": "https://www.coindesk.com/tech/2026/09/08/live-updates",
     "publishedAt": "2026-09-08T08:30:30.000Z",
     "preview": "Copper rushed to a new record high amid supply shortages colliding with rising AI-related demand.",
@@ -1104,16 +1154,6 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "Fomo overtakes Pump.fun in daily revenue on Solana",
-    "link": "https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana",
-    "publishedAt": "2026-09-07T07:45:39.000Z",
-    "preview": "Fomo generated $1.76 million on Friday, beating Pump.fun’s $1.1 million, though the memecoin launchpad remains ahead over 30 days.",
-    "tags": [
-      "SOL"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "Supposed White-Hat Hackers Drain $320 Million in BTC From Liquid Network, Say They’ll Return It After Fix",
     "link": "https://cryptopotato.com/supposed-white-hat-hackers-drain-320-million-in-btc-from-liquid-network-say-theyll-return-it-after-fix/",
@@ -1247,14 +1287,6 @@
     "tags": []
   },
   {
-    "source": "CryptoPotato",
-    "title": "CLARITY Act Gets a Major Boost, But Another Setback Threatens Its 2026 Passage",
-    "link": "https://cryptopotato.com/clarity-act-gets-a-major-boost-but-another-setback-threatens-its-2026-passage/",
-    "publishedAt": "2026-09-06T12:21:00.000Z",
-    "preview": "One major organization that was previously against the legislation has turned neutral.",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up",
     "link": "https://decrypt.co/377510/ancient-bitcoin-wallet-3-million-wakes-up",
@@ -1330,23 +1362,5 @@
     "publishedAt": "2026-09-04T18:36:41.000Z",
     "preview": "Lawyers question AMC’s grounds for a securities-law challenge, but say the tokens’ branding and marketing could leave room for a dispute.",
     "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "A16z-Backed OpenReserve Gets Approval for Full-Service National Bank",
-    "link": "https://decrypt.co/377458/openreserve-occ-approval-full-service-national-bank",
-    "publishedAt": "2026-09-04T17:19:55.000Z",
-    "preview": "The a16z-backed startup chose a full national charter over the trust-bank route most crypto firms have taken, clearing a path toward insured deposits and conventional lending alongside stablecoin issuance.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Zcash Hits Highest Price in Nearly a Decade, Crushing Short Bets",
-    "link": "https://decrypt.co/377445/zcash-price-high-decade-shorts-rekt",
-    "publishedAt": "2026-09-04T16:24:46.000Z",
-    "preview": "The privacy coin's squeeze rode a Fed-driven crypto rally that reversed hours later, when a stronger-than-expected jobs report sent Bitcoin back under $80,000.",
-    "tags": [
-      "BTC"
-    ]
   }
 ]
