@@ -1,5 +1,43 @@
 [
   {
+    "source": "CoinDesk",
+    "title": "Liquid Network gets back 3,400 bitcoin from white-hat hackers; talks underway for the rest",
+    "link": "https://www.coindesk.com/markets/2026/09/08/white-hat-hackers-return-most-of-usd320m-bitcoin-taken-from-liquid-network",
+    "publishedAt": "2026-09-08T04:41:17.000Z",
+    "preview": "Supposed white-hat hackers behind Sunday’s Liquid Network breach have returned 3,400 of the 4,000 BTC they took, but nearly $47 million in bitcoin is still outstanding.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Bitcoin slips under $79,000, Zcash leads losses as Fed hike odds hold near 60%",
+    "link": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-under-usd79-000-zcash-leads-losses-as-fed-hike-odds-hold-near-60",
+    "publishedAt": "2026-09-08T04:40:57.000Z",
+    "preview": "Every major token fell on Tuesday, though most keep weekly gains, with traders pricing a 60% chance of a Fed hike next week.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Hunter Biden Is Launching a LAPTOP Meme Coin – and TRUMP Losers Are Getting an Airdrop",
+    "link": "https://cryptopotato.com/hunter-biden-is-launching-a-laptop-meme-coin-and-trump-losers-are-getting-an-airdrop/",
+    "publishedAt": "2026-09-08T04:07:23.000Z",
+    "preview": "Hunter Biden’s LAPTOP meme coin has already spawned counterfeit tokens ahead of its September 9 launch on Base.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart",
+    "link": "https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart",
+    "publishedAt": "2026-09-08T03:46:17.000Z",
+    "preview": "The actors returned 85% of the Bitcoin withdrawn from Liquid’s federation wallet following the security incident.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
     "source": "CryptoSlate",
     "title": "Tether-backed crypto exchange freezes withdrawals after $7 million leaves custody",
     "link": "https://cryptoslate.com/tether-backed-crypto-exchange-freezes-withdrawals-after-7-million-leaves-custody/",
@@ -1026,16 +1064,6 @@
     ]
   },
   {
-    "source": "CoinDesk",
-    "title": "Timing the bitcoin market is exciting but nearly impossible. Here's why",
-    "link": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
-    "publishedAt": "2026-09-05T18:05:11.000Z",
-    "preview": "A historical analysis of bitcoin price performance from 2010 through 2026 demonstrates that the vast majority of the asset's annual returns occur during a tiny fraction of the calendar year.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up",
     "link": "https://decrypt.co/377510/ancient-bitcoin-wallet-3-million-wakes-up",
@@ -1054,14 +1082,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
-    "link": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds",
-    "publishedAt": "2026-09-05T16:43:13.000Z",
-    "preview": "Buying pressure in Binance-paired currencies correlates with local currency depreciation as market makers balance positions.",
-    "tags": []
   },
   {
     "source": "CryptoPotato",
@@ -1146,16 +1166,6 @@
     "preview": "DASH follows suit in terms of daily gains, jumping by over 25% daily.",
     "tags": [
       "BTC"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "2 Major Ripple (XRP) News From The Past 24 Hours: Details",
-    "link": "https://cryptopotato.com/2-major-ripple-xrp-news-from-the-past-24-hours-details/",
-    "publishedAt": "2026-09-05T08:28:11.000Z",
-    "preview": "Ripple just expanded its presence in US sports.",
-    "tags": [
-      "XRP"
     ]
   },
   {
@@ -1348,14 +1358,6 @@
     "link": "https://decrypt.co/377389/67000-more-trezor-customers-exposed-as-data-breach-widens",
     "publishedAt": "2026-09-04T11:32:49.000Z",
     "preview": "Some records exposed in the breach date to 2019, years beyond the 90-day retention Trezor said its partners had agreed to.",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Kalshi US visits soar 1,500% as regulatory pressure mounts",
-    "link": "https://cointelegraph.com/news/kalshi-traffic-soars-regulatory-pressure-mounts",
-    "publishedAt": "2026-09-04T11:32:28.000Z",
-    "preview": "Kalshi’s US web traffic climbed more than 1,500% in less than a year, while trading volume grew even faster and legal scrutiny of its sports contracts intensified.",
     "tags": []
   },
   {
