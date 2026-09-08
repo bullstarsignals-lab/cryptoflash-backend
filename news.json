@@ -1,10 +1,119 @@
 [
   {
+    "source": "CryptoSlate",
+    "title": "Poland’s crypto licensing deadlock is handing foreign EU firms an advantage",
+    "link": "https://cryptoslate.com/polands-crypto-licensing-deadlock-is-handing-foreign-eu-firms-an-advantage/",
+    "publishedAt": "2026-09-08T08:50:16.000Z",
+    "preview": "The Sept. 4 vote leaves domestic applicants waiting for a legal authorization route while qualifying EU providers retain access to Polish customers. The post Poland’s crypto licensing deadlock is handing foreign EU firms",
+    "tags": []
+  },
+  {
     "source": "CoinDesk",
-    "title": "Liquid Network gets back 3,400 bitcoin from white-hat hackers; talks underway for the rest",
+    "title": "Live updates: Yen rally and rising bond yields pressure bitcoin and risk assets",
+    "link": "https://www.coindesk.com/tech/2026/09/08/live-updates",
+    "publishedAt": "2026-09-08T08:30:30.000Z",
+    "preview": "Bitcoin, gold and technology stocks fall as the yen rallies, while oil prices and government bond yields climb globally.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Bitcoin Must Reclaim This Level Soon or Risk Slide Toward $50K: Analyst",
+    "link": "https://cryptopotato.com/bitcoin-must-reclaim-this-level-soon-or-risk-slide-toward-50k-analyst/",
+    "publishedAt": "2026-09-08T08:29:32.000Z",
+    "preview": "A daily close above that level could shift Bitcoin's next targets toward $89,000-$91,000 before a potential run at $100,000.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Cronos confirms $9.2M slipped away before Tectonic exploit rollback",
+    "link": "https://cointelegraph.com/news/cronos-tectonic-rollback-111m-9m-escaped",
+    "publishedAt": "2026-09-08T08:10:44.000Z",
+    "preview": "Cronos’s post-mortem put the Tectonic exploit’s affected borrowing at $120.4 million, with 7.6% transferred off-network before validators intervened.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Liquid Gets 3,400 BTC Back – but What About the 598 Bitcoin Still Missing?",
+    "link": "https://cryptopotato.com/liquid-gets-3400-btc-back-but-what-about-the-598-bitcoin-still-missing/",
+    "publishedAt": "2026-09-08T07:33:55.000Z",
+    "preview": "Most withdrawn Bitcoin has returned to Liquid after network patches, but nearly 600 BTC remains with the alleged white-hat hackers.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Swiss stablecoin sandbox enters testing phase, adds two new partners",
+    "link": "https://cointelegraph.com/news/swiss-stablecoin-sandbox-testing-phase-two-new-partners",
+    "publishedAt": "2026-09-08T07:18:32.000Z",
+    "preview": "Financial market operator SIX and payment app TWINT have joined numerous banks in the sandbox seeking to develop a Swiss franc-based stablecoin.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Bit2Me sets up specialized unit to help law enforcement track down crypto assets",
+    "link": "https://www.coindesk.com/business/2026/09/02/bit2me-sets-up-specialized-unit-to-help-law-enforcement-track-down-crypto-assets",
+    "publishedAt": "2026-09-08T07:00:00.000Z",
+    "preview": "The unit formalizes past operations, building on 1.5 million euros in seized crypto the exchange processed in 2025 for agencies including Interpol and Europol.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Ethereum Aims for Quantum-Safe L1 by 2029 as Hegotá Upgrade Takes Form",
+    "link": "https://cryptopotato.com/ethereum-aims-for-quantum-safe-l1-by-2029-as-hegota-upgrade-takes-form/",
+    "publishedAt": "2026-09-08T06:35:19.000Z",
+    "preview": "The Ethereum Foundation assessed 62 proposed Hegotá changes, but only two received its highest \"must ship\" grade.",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Hunter Biden wants to launch a LAPTOP memecoin. Crypto traders hate it already",
+    "link": "https://www.coindesk.com/markets/2026/09/08/crypto-traders-turn-on-hunter-biden-s-laptop-memecoin-before-it-even-launches",
+    "publishedAt": "2026-09-08T06:23:53.000Z",
+    "preview": "Kraken deleted a promotional post after backlash, while a media group named in the token's distribution publicly distanced itself from the project.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Bitcoin’s golden cross is here",
+    "link": "https://www.coindesk.com/markets/2026/09/08/bitcoin-s-golden-cross-is-here",
+    "publishedAt": "2026-09-08T05:56:23.000Z",
+    "preview": "A golden cross has triggered on bitcoin's daily price chart, indicating a potential long-term bullish trend ahead.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-09-08T05:52:38.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Australia says it removed 45 crypto, remittance registrations over the past year",
+    "link": "https://cointelegraph.com/news/australia-removes-45-crypto-remittance-registrations",
+    "publishedAt": "2026-09-08T05:10:33.000Z",
+    "preview": "AUSTRAC said its yearlong sweep included canceled, suspended and unrenewed registrations, while its action against GetCoins helped disrupt organized investment scams.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Liquid Network gets back 3,400 bitcoin from whitehat hackers; talks underway for the rest",
     "link": "https://www.coindesk.com/markets/2026/09/08/white-hat-hackers-return-most-of-usd320m-bitcoin-taken-from-liquid-network",
     "publishedAt": "2026-09-08T04:41:17.000Z",
-    "preview": "Supposed white-hat hackers behind Sunday’s Liquid Network breach have returned 3,400 of the 4,000 BTC they took, but nearly $47 million in bitcoin is still outstanding.",
+    "preview": "Supposed whitehat hackers behind Sunday’s Liquid Network breach have returned 3,400 of the 4,000 BTC they took, but nearly $47 million in bitcoin is still outstanding.",
     "tags": [
       "BTC"
     ]
@@ -98,17 +207,6 @@
     "publishedAt": "2026-09-07T21:16:03.000Z",
     "preview": "Jakub Pachocki is calling for mandatory safety standards as OpenAI finds it harder to monitor advanced AI models’ reasoning.",
     "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-09-07T21:10:37.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
-    ]
   },
   {
     "source": "CryptoSlate",
@@ -405,16 +503,6 @@
     "tags": [
       "BTC",
       "LINK"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "XRP lending model leaves depositors with 90% of a bad loan’s loss despite reserves twice its size",
-    "link": "https://cryptoslate.com/xrp-lending-model-leaves-depositors-with-90-of-a-bad-loans-loss-despite-reserves-twice-its-size/",
-    "publishedAt": "2026-09-07T15:30:40.000Z",
-    "preview": "With the same reserve and cover rates, one modeled default leaves 90,000 tokens of vault loss; ten smaller loans leave 4,500. The post XRP lending model leaves depositors with 90% of a bad loan’s loss despite reserves tw",
-    "tags": [
-      "XRP"
     ]
   },
   {
@@ -806,16 +894,6 @@
     ]
   },
   {
-    "source": "CoinDesk",
-    "title": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
-    "link": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys",
-    "publishedAt": "2026-09-07T03:43:12.000Z",
-    "preview": "Liquid Network, a settlement layer used by exchanges, halted all transactions after losing $320 million worth of bitcoin in a security exploit.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "‘White hats’ take 4000 BTC from Liquid, ETFs see best inflows of 2026: Hodler’s Digest",
     "link": "https://cointelegraph.com/magazine/white-hats-take-4000-btc-from-liquid-btc-etfs-best-week-of-2026-hodlers-digest",
@@ -852,14 +930,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Prediction markets inch closer to the Supreme Court: State of Crypto",
-    "link": "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto",
-    "publishedAt": "2026-09-06T18:30:00.000Z",
-    "preview": "New Jersey petitioned for a writ of certiorari in Kalshi's case against it last week, finally throwing the ball to the high court.",
-    "tags": []
   },
   {
     "source": "CryptoPotato",
@@ -910,14 +980,6 @@
     ]
   },
   {
-    "source": "CoinDesk",
-    "title": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
-    "link": "https://www.coindesk.com/business/2026/09/06/ukrainian-police-took-down-a-crypto-scam-that-stole-up-to-usd1-million-a-month",
-    "publishedAt": "2026-09-06T16:00:00.000Z",
-    "preview": "Investigators have identified 62 victims and say more than 46 Ukrainians took part in the alleged operation.",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "Stablecoins Won't Scale Without Banks",
     "link": "https://decrypt.co/377280/stablecoins-wont-scale-without-banks",
@@ -934,16 +996,6 @@
     "tags": [
       "BTC",
       "ETH"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Better and Coinbase’s bitcoin-backed mortgages can reuse borrowers’ collateral",
-    "link": "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral",
-    "publishedAt": "2026-09-06T14:00:00.000Z",
-    "preview": "Better Mortgage can reuse the pledged bitcoin, and borrowers cannot recover their crypto until the main conventional mortgage is fully repaid or refinanced.",
-    "tags": [
-      "BTC"
     ]
   },
   {
@@ -1123,16 +1175,6 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "XRP’s Breakout Rally Has Begun, Analysts Say – But Their Targets Will Shock You",
-    "link": "https://cryptopotato.com/xrps-breakout-rally-has-begun-analysts-say-but-their-targets-will-shock-you/",
-    "publishedAt": "2026-09-05T13:45:43.000Z",
-    "preview": "XRP has been the subject of some massive price predictions in the past, but this one is something else.",
-    "tags": [
-      "XRP"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "AI Just Solved a 350-Year-Old Math Problem By Writing the Longest Proof Ever",
     "link": "https://decrypt.co/377491/ai-solved-350-year-old-math-problem",
@@ -1141,32 +1183,12 @@
     "tags": []
   },
   {
-    "source": "CryptoPotato",
-    "title": "We Asked AI: What Happens to Bitcoin’s Price if the Fed Hikes Rates in 11 Days?",
-    "link": "https://cryptopotato.com/we-asked-ai-what-happens-to-bitcoins-price-if-the-fed-hikes-rates-in-11-days/",
-    "publishedAt": "2026-09-05T12:07:09.000Z",
-    "preview": "The initial reaction would be quite negative, the AI platform said.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
     "link": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens",
     "publishedAt": "2026-09-05T10:46:00.000Z",
     "preview": "Polish lawmakers failed to overturn a presidential veto of crypto legislation as the Zondacrypto investigation expands and its Estonian operator enters bankruptcy.",
     "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "PONS Skyrockets Another 30% to New ATH, Bitcoin Loses $80K: Weekend Watch",
-    "link": "https://cryptopotato.com/pons-skyrockets-another-30-to-new-ath-bitcoin-loses-80k-weekend-watch/",
-    "publishedAt": "2026-09-05T10:32:01.000Z",
-    "preview": "DASH follows suit in terms of daily gains, jumping by over 25% daily.",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "Cointelegraph",
@@ -1273,14 +1295,6 @@
     ]
   },
   {
-    "source": "Cointelegraph",
-    "title": "US law enforcement group moves to ‘neutral’ position on CLARITY Act",
-    "link": "https://cointelegraph.com/news/national-sheriffs-association-clarity-act-neutral",
-    "publishedAt": "2026-09-04T17:05:34.000Z",
-    "preview": "Despite earlier opposition to the CLARITY Act over consumer protection, the National Sheriffs’ Association says it will now “step back and allow the legislative process to proceed.“",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "Zcash Hits Highest Price in Nearly a Decade, Crushing Short Bets",
     "link": "https://decrypt.co/377445/zcash-price-high-decade-shorts-rekt",
@@ -1314,22 +1328,6 @@
     "link": "https://decrypt.co/377411/bitmex-co-founder-ben-delo-gives-farages-reform-uk-another-4-million",
     "publishedAt": "2026-09-04T15:10:00.000Z",
     "preview": "Two April payments supplied three-quarters of the party's donations for the quarter, where the next largest single gift was £180,000.",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Revolut, OpenReserve get preliminary US bank approval with crypto plans",
-    "link": "https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan",
-    "publishedAt": "2026-09-04T13:34:30.000Z",
-    "preview": "Revolut and OpenReserve received preliminary OCC approval to form US national banks, with both planning cryptocurrency and stablecoin-related services.",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Token buybacks are booming. But are they good for crypto projects?",
-    "link": "https://cointelegraph.com/magazine/token-buybacks-are-booming-but-are-they-good-for-crypto-projects",
-    "publishedAt": "2026-09-04T13:30:00.000Z",
-    "preview": "Crypto projects are spending hundreds of millions buying their own tokens. But are buybacks creating lasting value — or just making tokens look more valuable than they really are?",
     "tags": []
   },
   {
