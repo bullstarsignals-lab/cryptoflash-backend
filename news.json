@@ -1,5 +1,75 @@
 [
   {
+    "source": "CoinDesk",
+    "title": "Hunter Biden defends LAPTOP ahead of Wednesday launch, calls TRUMP a ‘grift’",
+    "link": "https://www.coindesk.com/markets/2026/09/09/hunter-biden-defends-laptop-ahead-of-wednesday-launch-calls-trump-a-grift",
+    "publishedAt": "2026-09-09T05:22:57.000Z",
+    "preview": "Biden says the token is about “resilience, redemption and recovery” and will give coins to nearly one million wallets that lost money on TRUMP.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Bitcoin’s Historic Capitulation Zone Is Near $38.4K: But Something Is Changing",
+    "link": "https://cryptopotato.com/bitcoins-historic-capitulation-zone-is-near-38-4k-but-something-is-changing/",
+    "publishedAt": "2026-09-09T05:07:03.000Z",
+    "preview": "Balanced Price has historically identified deep-cycle bottoms, yet Bitcoin’s changing relationship with the metric raises a fundamental possibility.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Moonshot’s Kimi rattled markets. U.S. agencies now say it was trained on American models",
+    "link": "https://www.coindesk.com/tech/2026/09/09/moonshot-s-kimi-rattled-markets-u-s-agencies-now-say-it-was-trained-on-american-models",
+    "publishedAt": "2026-09-09T04:40:54.000Z",
+    "preview": "Moonshot, whose Kimi model rattled markets earlier this year, is among six Chinese AI firms accused of systematically extracting capabilities from U.S. models.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Bitcoin recovers toward $79,000 as Zcash records a $500 million ETF haul",
+    "link": "https://www.coindesk.com/markets/2026/09/09/bitcoin-recovers-toward-usd79-000-as-zcash-records-a-usd500-million-etf-haul",
+    "publishedAt": "2026-09-09T04:35:55.000Z",
+    "preview": "Bitcoin fell to nearly $77,600 on Tuesday before clawing most of it back, leaving it little changed on the day while zcash gained roughly 43% on the week and Grayscale's new fund crossed half a billion dollars.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Crypto lobbies launch a last-minute TV campaign against banks to pass the CLARITY Act",
+    "link": "https://cryptoslate.com/crypto-lobbies-launch-a-last-minute-tv-campaign-against-banks-to-pass-the-clarity-act/",
+    "publishedAt": "2026-09-09T04:20:00.000Z",
+    "preview": "The crypto industry is launching a seven-figure national advertising campaign to rescue the CLARITY Act ahead of a crucial Senate vote next week. The Senate is scheduled to vote Sept. 15 on whether to invoke cloture on a",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Cybercrime ringleader Malone Lam pleads guilty in $245M crypto theft conspiracy",
+    "link": "https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy",
+    "publishedAt": "2026-09-09T04:09:51.000Z",
+    "preview": "US prosecutors said Lam organized an international network that targeted cryptocurrency holders through social engineering and home break-ins.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "XRP and the CLARITY Act: Why September 15 Could Be a Major Test",
+    "link": "https://cryptopotato.com/xrp-and-the-clarity-act-why-september-15-could-be-a-major-test/",
+    "publishedAt": "2026-09-09T03:57:12.000Z",
+    "preview": "Here's why the vast XRP Army is counting the days until the September 15 CLARITY Act vote. But, can they be wrong?",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Strategy doubles its stock buyback to $2 billion to pull its STRC shares back to $100",
+    "link": "https://cryptoslate.com/strategy-doubles-its-stock-buyback-to-2-billion-to-pull-its-strc-shares-back-to-100/",
+    "publishedAt": "2026-09-09T02:10:04.000Z",
+    "preview": "Strategy doubled the size of its preferred-stock repurchase program to $2 billion Tuesday as Michael Saylor’s Sept. 8 recovery benchmark arrived with STRC still short of its $100 stated value. The board’s decision extend",
+    "tags": []
+  },
+  {
     "source": "CryptoSlate",
     "title": "Metaplanet’s Bitcoin boom quietly turned a 46 million-share executive pay plan into a 319 million-share windfall",
     "link": "https://cryptoslate.com/metaplanets-bitcoin-boom-quietly-turned-a-46-million-share-executive-pay-plan-into-a-319-million-share-windfall/",
@@ -283,14 +353,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Active crypto address “copy and paste attack” threatens users even after major malware cleanup cut off hackers",
-    "link": "https://cryptoslate.com/copy-and-paste-crypto-address-attack-remains-active-after-major-malware-cleanup-cut-off-hacker-controls/",
-    "publishedAt": "2026-09-08T14:35:04.000Z",
-    "preview": "CrowdStrike says the Aug. 31 disruption blocked new payload delivery while installed malware can still swap cryptocurrency payment addresses. The post Active crypto address “copy and paste attack” threatens users even af",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "Ethereum Price Analysis: ETH Struggles Below $2.5K, Is a Deeper Pullback Coming?",
     "link": "https://cryptopotato.com/ethereum-price-analysis-eth-struggles-below-2-5k-is-a-deeper-pullback-coming/",
@@ -334,16 +396,6 @@
     "preview": "While Bitmine’s completed 97% of its goal to acquire 5% of Ether’s supply, Tom Lee’s team faces a $5.1 billion unrealized loss on its main treasury asset.",
     "tags": [
       "ETH"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Bitcoin miner burns through millions in BTC to buy compute, but new coins are not returning to treasury",
-    "link": "https://cryptoslate.com/a-bitcoin-miner-burned-through-millions-in-btc-to-buy-compute-but-new-coins-are-not-returning-to-treasury/",
-    "publishedAt": "2026-09-08T13:30:09.000Z",
-    "preview": "Cloud customers accounted for about 74% of August’s production increase, while company holdings recovered only part of July’s decline. The post Bitcoin miner burns through millions in BTC to buy compute, but new coins ar",
-    "tags": [
-      "BTC"
     ]
   },
   {
@@ -1012,14 +1064,6 @@
     ]
   },
   {
-    "source": "CoinDesk",
-    "title": "Polish prosecutors charge fifth suspect in a massive crypto probe",
-    "link": "https://www.coindesk.com/policy/2026/09/07/polish-prosecutors-charge-fifth-suspect-in-a-massive-crypto-probe",
-    "publishedAt": "2026-09-07T15:28:43.000Z",
-    "preview": "BitBay became Zondacrypto in 2021. The exchange stopped trading in April after customers faced frozen withdrawals and estimated losses of at least $94 million.",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "Ethereum Proposal Would Let Users Pay Gas Without Holding ETH",
     "link": "https://decrypt.co/377559/ethereum-proposal-would-let-users-pay-gas-without-holding-eth",
@@ -1060,14 +1104,6 @@
     ]
   },
   {
-    "source": "CoinDesk",
-    "title": "Stablecoin wallets challenge traditional bank accounts as main consumer money hub",
-    "link": "https://www.coindesk.com/business/2026/09/07/stablecoin-wallets-challenge-traditional-bank-accounts-as-main-consumer-money-hub",
-    "publishedAt": "2026-09-07T14:12:15.000Z",
-    "preview": "Industry leaders debate whether digital dollar wallets will dismantle traditional bank accounts or simply modernize the underlying infrastructure.",
-    "tags": []
-  },
-  {
     "source": "NewsBTC",
     "title": "Liquid Network Pauses After Purported $320M White-Hat Bitcoin Withdrawal",
     "link": "https://www.newsbtc.com/news/liquid-network-pauses-after-purported-320m-white-hat-bitcoin-withdrawal/",
@@ -1075,16 +1111,6 @@
     "preview": "Read the latest update on Liquid Network Pauses After Purported $320M White-Hat Bitcoin Withdrawal.",
     "tags": [
       "BTC"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Ethereum commits to letting users pay gas fees without having to hold ETH",
-    "link": "https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth",
-    "publishedAt": "2026-09-07T13:54:07.000Z",
-    "preview": "The Frame Transactions feature was locked into the Hegotá upgrade last month, and Ethereum co-founder Vitalik Buterin says the work has moved quickly since.",
-    "tags": [
-      "ETH"
     ]
   },
   {
@@ -1142,14 +1168,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Citi, DBS complete first weekend tokenized cross-border deposit on Swift",
-    "link": "https://cointelegraph.com/news/dbs-citi-first-weekend-tokenized-deposit-swift",
-    "publishedAt": "2026-09-07T10:34:47.000Z",
-    "preview": "Citi and DBS completed their first tokenized cross-border transfer over the weekend, using Swift’s blockchain-based ledger to circumvent the constraints of traditional banking hours.",
-    "tags": []
   },
   {
     "source": "CryptoPotato",
@@ -1248,32 +1266,12 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "Ethereum Price Analysis: ETH Consolidates at $2.5K as Whale Participation Stalls",
-    "link": "https://cryptopotato.com/ethereum-price-analysis-eth-consolidates-at-2-5k-as-whale-participation-stalls/",
-    "publishedAt": "2026-09-06T17:04:50.000Z",
-    "preview": "Ethereum is attempting to stabilize after its explosive August breakout, but the follow-through has remained limited. ETH is holding around $2.5K, yet repeated swings within the same range suggest the market is still dig",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "OpenAI's GPT-6 Astra Is Shockingly Good at Almost Everything",
     "link": "https://decrypt.co/377514/openai-gpt-6-astra-review-shockingly-good",
     "publishedAt": "2026-09-06T17:01:04.000Z",
     "preview": "Early testers spent OpenAI's launch weekend pushing Astra through 3D cities, playable games, Bach chorales and research papers.",
     "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "8 in a Row: Ripple (XRP) ETFs Record Another Green Week but Warning Signs Return",
-    "link": "https://cryptopotato.com/8-in-a-row-ripple-xrp-etfs-record-another-green-week-but-warning-signs-return/",
-    "publishedAt": "2026-09-06T16:16:28.000Z",
-    "preview": "The ETFs saw the first red trading day in a month but there's more to the worrying story.",
-    "tags": [
-      "XRP"
-    ]
   },
   {
     "source": "Decrypt",
