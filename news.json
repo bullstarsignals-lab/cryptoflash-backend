@@ -1,6 +1,166 @@
 [
   {
     "source": "CoinDesk",
+    "title": "Iran eases currency controls to let traders bring earnings home in crypto: FT",
+    "link": "https://www.coindesk.com/business/2026/09/09/iran-eases-currency-controls-to-let-traders-bring-earnings-home-in-crypto-ft",
+    "publishedAt": "2026-09-09T09:59:39.000Z",
+    "preview": "Exporters can use overseas earnings to fund imports directly, bypassing the official foreign-exchange system, the FT reported.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Singaporean 22-year old pleads guilty to being the ringleader in $245 million crypto fraud case",
+    "link": "https://www.coindesk.com/business/2026/09/09/singaporean-22-year-old-pleads-guilty-to-being-the-ringleader-in-usd245-million-crypto-fraud-case",
+    "publishedAt": "2026-09-09T09:54:42.000Z",
+    "preview": "Malone Lam, a Miami resident charged with stealing 4,100 bitcoin, led a ring of fraudsters who stole crypto via online scams and home invasions.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Are Altcoins Really Beating Bitcoin? This Test Says No",
+    "link": "https://cryptopotato.com/are-altcoins-really-beating-bitcoin-this-test-says-no/",
+    "publishedAt": "2026-09-09T09:47:50.000Z",
+    "preview": "The data suggests recent altcoin strength may be concentrated in a few tokens rather than spread across the broader market.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Bitcoin just hit a decade-low S&P 500 correlation, but the daily data tells a different story",
+    "link": "https://cryptoslate.com/bitcoin-just-hit-a-decade-low-sp-500-correlation-but-the-daily-data-tells-a-different-story/",
+    "publishedAt": "2026-09-09T09:30:37.000Z",
+    "preview": "Bitwise’s negative trend measure coexists with positive return correlation in a FRED proxy, while portfolio results change across lookbacks. The post Bitcoin just hit a decade-low S&P 500 correlation, but the daily data ",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Mexico Seizes 300 Crypto Mining Rigs Wired Into a Hydroelectric Dam",
+    "link": "https://decrypt.co/377748/mexico-seizes-300-crypto-mining-rigs-wired-into-a-hydroelectric-dam",
+    "publishedAt": "2026-09-09T09:28:29.000Z",
+    "preview": "Forensic accountants are tracing who paid for the mining hardware, and money laundering has not been ruled out.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Bitcoin Core Lightning Docker bug leaves node operators exposed despite showing updated version",
+    "link": "https://cryptoslate.com/bitcoin-core-lightning-docker-bug-leaves-node-operators-exposed-despite-showing-updated-version/",
+    "publishedAt": "2026-09-09T08:30:48.000Z",
+    "preview": "Four tags served images that reported v26.06.7 without its fixes, prompting digest checks before planned source disclosure. The post Bitcoin Core Lightning Docker bug leaves node operators exposed despite showing updated",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Jack Dorsey's Block Applies for Bank Charter to Custody Bitcoin",
+    "link": "https://decrypt.co/377746/jack-dorseys-block-applies-for-bank-charter-to-custody-bitcoin",
+    "publishedAt": "2026-09-09T08:26:08.000Z",
+    "preview": "Builders Bank would consolidate custody work Block now runs under more than 50 state money transmitter licenses.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "India’s financial intelligence unit flags 15 crypto platforms for AML lapses",
+    "link": "https://www.coindesk.com/policy/2026/09/09/india-s-financial-intelligence-unit-flags-15-crypto-platforms-for-aml-lapses",
+    "publishedAt": "2026-09-09T08:17:54.000Z",
+    "preview": "The Financial Intelligence Unit-India (FIU-IND) issued non-compliance notices to what it calls virtual digital asset service providers.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Ripple’s XRP Rebounds Swiftly, Bitcoin (BTC) Reclaims $79K: Market Watch",
+    "link": "https://cryptopotato.com/ripples-xrp-rebounds-swiftly-bitcoin-btc-reclaims-79k-market-watch/",
+    "publishedAt": "2026-09-09T07:44:32.000Z",
+    "preview": "VVV has rocketed the most over the past 24 hours, jumping by more than 50%. LIT, ATOM, and DOT follow suit.",
+    "tags": [
+      "BTC",
+      "XRP"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Iran eases currency rules to bypass US sanctions with crypto: Report",
+    "link": "https://cointelegraph.com/news/iran-central-bank-encourages-crypto-evade-sanctions",
+    "publishedAt": "2026-09-09T07:36:39.000Z",
+    "preview": "Exporters can now fund imports with overseas earnings without first selling their foreign currency at official rates, the Financial Times reported.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin",
+    "link": "https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody",
+    "publishedAt": "2026-09-09T07:36:21.000Z",
+    "preview": "The proposed Builders Bank would offer federally supervised digital asset custody but would not accept deposits or issue loans.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Live updates: Brent crude hits $100 for first time since July as bitcoin trades around $79,000",
+    "link": "https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows",
+    "publishedAt": "2026-09-09T07:20:51.000Z",
+    "preview": "Japanese yen extends its rally against the U.S. dollar, briefly strengthening past 153 per dollar.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Strive adds $12 million to its dividend tab after issuing nearly one million new preferred shares to buy Bitcoin",
+    "link": "https://cryptoslate.com/strive-adds-12-million-to-its-dividend-tab-after-issuing-nearly-one-million-new-preferred-shares-to-buy-bitcoin/",
+    "publishedAt": "2026-09-09T07:10:06.000Z",
+    "preview": "At the current 13% rate, SATA payouts imply about $130 million annually, while higher cash keeps static coverage near 19 months. The post Strive adds $12 million to its dividend tab after issuing nearly one million new p",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Wintermute Flags Historic Shift: Bitcoin Bottoms Are Getting Less Brutal",
+    "link": "https://cryptopotato.com/wintermute-flags-historic-shift-bitcoin-bottoms-are-getting-less-brutal/",
+    "publishedAt": "2026-09-09T07:07:55.000Z",
+    "preview": "Bitcoin is spending less time near extreme capitulation levels, suggesting the market may be maturing compared with earlier cycles.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Anthropic researcher quits with a warning on AI that echoes 'The Terminator' script",
+    "link": "https://www.coindesk.com/markets/2026/09/09/anthropic-researcher-quits-with-a-warning-on-ai-that-echoes-the-terminator-script",
+    "publishedAt": "2026-09-09T06:20:38.000Z",
+    "preview": "The people building AI earnestly believe that it could kill us all by the end of the decade, Coxon said on X, explaining his resignation.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-09-09T05:51:21.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Gemini receives Singapore payment license for crypto services",
+    "link": "https://cointelegraph.com/news/gemini-singapore-mpi-license-crypto-services",
+    "publishedAt": "2026-09-09T05:27:12.000Z",
+    "preview": "Gemini’s local entity is authorized to provide digital payment token and cross-border money transfer services without standard transaction-volume limits.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
     "title": "Hunter Biden defends LAPTOP ahead of Wednesday launch, calls TRUMP a ‘grift’",
     "link": "https://www.coindesk.com/markets/2026/09/09/hunter-biden-defends-laptop-ahead-of-wednesday-launch-calls-trump-a-grift",
     "publishedAt": "2026-09-09T05:22:57.000Z",
@@ -164,17 +324,6 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-09-08T20:13:27.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
-    ]
-  },
-  {
     "source": "CryptoSlate",
     "title": "Bitcoin could get the dollar drop bulls want this week without getting the liquidity rally they need",
     "link": "https://cryptoslate.com/bitcoin-could-get-the-dollar-drop-bulls-want-this-week-without-getting-the-liquidity-rally-they-need/",
@@ -221,16 +370,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "AI agents are executing millions of micro-payments on XRP Ledger, but hardly any tokens are being bought",
-    "link": "https://cryptoslate.com/xrp-ai-agents-processed-4-5-million-payments-but-settled-just-5837-tokens/",
-    "publishedAt": "2026-09-08T18:05:14.000Z",
-    "preview": "t54’s September 8 dashboard also records 4,125 RLUSD settled, showing why payment counts alone cannot establish substantial XRP demand. The post AI agents are executing millions of micro-payments on XRP Ledger, but hardl",
-    "tags": [
-      "XRP"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Strive Buys $109 Million in Bitcoin, Pushes Preferred Stock Toward $1 Billion",
     "link": "https://decrypt.co/377689/strive-buys-109-million-bitcoin-preferred-stock-1-billion",
@@ -275,16 +414,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Fed inflation trap threatens Bitcoin below $80k as $100 oil blindsides Friday’s CPI report",
-    "link": "https://cryptoslate.com/fed-inflation-trap-threatens-bitcoin-below-80k-as-100-oil-blindsides-fridays-cpi-report/",
-    "publishedAt": "2026-09-08T16:55:09.000Z",
-    "preview": "Brent touched $99.46 after reported Saudi energy disruptions, while Friday's CPI measures August prices. The post Fed inflation trap threatens Bitcoin below $80k as $100 oil blindsides Friday’s CPI report appeared first ",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "Visa brings onchain credit to its growing stablecoin card business",
     "link": "https://cointelegraph.com/news/visa-stablecoin-blockchain-lending-payment-settlement",
@@ -301,14 +430,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Paolo Ardoino wants AI agents to hold Tether, but developers are left on the hook for overspending",
-    "link": "https://cryptoslate.com/paolo-ardoino-wants-ai-agents-to-hold-tether-but-developers-are-left-on-the-hook-for-overspending/",
-    "publishedAt": "2026-09-08T15:40:20.000Z",
-    "preview": "Tether’s WDK design separates wallet access from payment approval, leaving developers to enforce the limits users expect. The post Paolo Ardoino wants AI agents to hold Tether, but developers are left on the hook for ove",
-    "tags": []
   },
   {
     "source": "Decrypt",
@@ -725,42 +846,12 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "Bitcoin’s golden cross is here",
-    "link": "https://www.coindesk.com/markets/2026/09/08/bitcoin-s-golden-cross-is-here",
-    "publishedAt": "2026-09-08T05:56:23.000Z",
-    "preview": "A golden cross has triggered on bitcoin's daily price chart, indicating a potential long-term bullish trend ahead.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "Australia says it removed 45 crypto, remittance registrations over the past year",
     "link": "https://cointelegraph.com/news/australia-removes-45-crypto-remittance-registrations",
     "publishedAt": "2026-09-08T05:10:33.000Z",
     "preview": "AUSTRAC said its yearlong sweep included canceled, suspended and unrenewed registrations, while its action against GetCoins helped disrupt organized investment scams.",
     "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Liquid Network gets back 3,400 bitcoin from whitehat hackers; talks underway for the rest",
-    "link": "https://www.coindesk.com/markets/2026/09/08/white-hat-hackers-return-most-of-usd320m-bitcoin-taken-from-liquid-network",
-    "publishedAt": "2026-09-08T04:41:17.000Z",
-    "preview": "Supposed whitehat hackers behind Sunday’s Liquid Network breach have returned 3,400 of the 4,000 BTC they took, but nearly $47 million in bitcoin is still outstanding.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Bitcoin slips under $79,000, Zcash leads losses as Fed hike odds hold near 60%",
-    "link": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-under-usd79-000-zcash-leads-losses-as-fed-hike-odds-hold-near-60",
-    "publishedAt": "2026-09-08T04:40:57.000Z",
-    "preview": "Every major token fell on Tuesday, though most keep weekly gains, with traders pricing a 60% chance of a Fed hike next week.",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "CryptoPotato",
@@ -779,14 +870,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Metaplanet CEO breaks silence but shareholders say the hard questions remain unanswered",
-    "link": "https://www.coindesk.com/markets/2026/09/08/metaplanet-ceo-breaks-silence-but-shareholders-say-the-hard-questions-remain-unanswered",
-    "publishedAt": "2026-09-07T23:01:00.000Z",
-    "preview": "Simon Gerovich said Metaplanet had not adequately explained the structure, and denied involvement in MMXX Ventures’ trading decisions.",
-    "tags": []
   },
   {
     "source": "CryptoPotato",
@@ -1025,24 +1108,6 @@
     ]
   },
   {
-    "source": "Cointelegraph",
-    "title": "Bitcoin chips away at weekend upside as $80K hangs in the balance",
-    "link": "https://cointelegraph.com/markets/bitcoin-chips-away-at-weekend-upside-as-80k-hangs-in-the-balance",
-    "publishedAt": "2026-09-07T15:57:47.000Z",
-    "preview": "Bitcoin price fell 2% in low-liquidity conditions as the US Labor Day holiday saw $80,000 once again slip from bulls’ grasp.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Hunter Biden debuts 'LAPTOP' memecoin targeting TRUMP holders",
-    "link": "https://www.coindesk.com/business/2026/09/07/hunter-biden-is-launching-a-memecoin-named-after-his-laptop",
-    "publishedAt": "2026-09-07T15:44:30.000Z",
-    "preview": "LAPTOP debuts Wednesday on Base, with nearly a third of the supply set to be burned if a slate of political and market outcomes — including a Democratic win in 2028 — comes good.",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "Bitcoin Starts the Week Flat, But Chainlink Is Flying—Here's Why",
     "link": "https://decrypt.co/377566/bitcoin-starts-flat-chainlink-price-flying",
@@ -1130,24 +1195,6 @@
     "publishedAt": "2026-09-07T12:43:50.000Z",
     "preview": "Keys are going into rented boxes alongside cash, watches and passports, Ireland’s Criminal Assets Bureau says.",
     "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Zcash hits highest price since 2016 as market cap tops $20B",
-    "link": "https://cointelegraph.com/markets/zcash-highest-price-market-cap-20-billion",
-    "publishedAt": "2026-09-07T12:31:23.000Z",
-    "preview": "ZEC gained 45% over the past week, extending its rally since Grayscale converted its Zcash Trust into an ETF that began trading Aug. 25.",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Yen intervention meets US inflation data: Five things to know in Bitcoin this week",
-    "link": "https://cointelegraph.com/markets/markets-tilt-toward-september-rate-hikes-five-things-to-know-in-bitcoin-this-week",
-    "publishedAt": "2026-09-07T12:10:22.000Z",
-    "preview": "This week’s CPI and PPI prints, along with the Fed’s Sept. 16 rate decision, could determine whether Bitcoin can secure $80,000 as a support level.",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "CryptoPotato",
@@ -1238,34 +1285,6 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "Crypto Holders Turn to Loans as Markets Cool in 2026: CQ",
-    "link": "https://cryptopotato.com/crypto-holders-turn-to-loans-as-markets-cool-in-2026-cq/",
-    "publishedAt": "2026-09-06T21:20:26.000Z",
-    "preview": "Crypto holders increased their use of digital asset-backed loans in 2026 as weaker markets reshaped borrowing habits and collateral preferences.",
-    "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Bitcoin’s 4-Year Cycle Could Be Changing: Willy Woo Reveals What Could Replace It",
-    "link": "https://cryptopotato.com/bitcoins-4-year-cycle-could-be-changing-willy-woo-reveals-what-could-replace-it/",
-    "publishedAt": "2026-09-06T18:38:08.000Z",
-    "preview": "The 4-year cycle is back on topic, but Willy Woo believes there's a more apparent pattern in play.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Ripple Price Analysis: Where Is XRP Heading Next Week After Defending Its 200-Day EMA?",
-    "link": "https://cryptopotato.com/ripple-price-analysis-where-is-xrp-heading-next-week-after-defending-its-200-day-ema/",
-    "publishedAt": "2026-09-06T17:09:16.000Z",
-    "preview": "Ripple’s XRP remains in a corrective phase after its sharp August breakout, with buyers struggling to regain control of the key overhead supply zone. The current structure suggests that the market may need more consolida",
-    "tags": [
-      "XRP"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "OpenAI's GPT-6 Astra Is Shockingly Good at Almost Everything",
     "link": "https://decrypt.co/377514/openai-gpt-6-astra-review-shockingly-good",
@@ -1342,22 +1361,6 @@
     "link": "https://decrypt.co/377489/tiktok-bytedance-loan-ai",
     "publishedAt": "2026-09-04T21:46:03.000Z",
     "preview": "Nearly 30 banks backed the rare unsecured facility as TikTok’s parent company spends heavily on AI chips, models, and overseas data centers.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "G7 Warns Quantum Threat Demands Action as Crypto Industry Weighs Fixes",
-    "link": "https://decrypt.co/377486/g7-warns-quantum-threat-crypto-fixes",
-    "publishedAt": "2026-09-04T21:16:04.000Z",
-    "preview": "The group is urging organizations to adopt post-quantum security before powerful computers can compromise today’s encryption and digital signatures.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Polymarket Launches Crypto Perpetual Futures With Up to 20x Leverage",
-    "link": "https://decrypt.co/377483/polymarket-crypto-perpetual-futures",
-    "publishedAt": "2026-09-04T20:31:03.000Z",
-    "preview": "The prediction market platform's new Perps product scaled from 10 markets to 67 on its first day—though the 20x leverage ceiling only applies to some of them, and none of it reaches U.S. traders.",
     "tags": []
   }
 ]
