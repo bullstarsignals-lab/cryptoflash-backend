@@ -1,6 +1,172 @@
 [
   {
     "source": "CoinDesk",
+    "title": "OKX brings OpenAI and Anthropic bets to Europe as pre-IPO trading grows",
+    "link": "https://www.coindesk.com/markets/2026/09/10/okx-brings-openai-and-anthropic-bets-to-europe-as-pre-ipo-trading-grows",
+    "publishedAt": "2026-09-10T17:07:59.000Z",
+    "preview": "The exchange is offering up to 10x leverage on private-company valuations alongside 100 tokenized stocks and ETFs.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "This Guy Cloned Sam Altman, Elon Musk, and Zuckerberg Into AI Bots. They Immediately Started Fighting",
+    "link": "https://decrypt.co/377898/sam-altman-elon-musk-zuckerberg-ai-bots",
+    "publishedAt": "2026-09-10T17:07:50.000Z",
+    "preview": "Kun Chen built chatbot versions of four AI CEOs on SpaceXAI's new Grok Bot templates, locked them in one chat, and told them to debate the AI race until they agreed on something.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Europe’s top regulator questions Polymarket and Kalshi’s EU access, warns of authorization gaps",
+    "link": "https://www.coindesk.com/business/2026/09/10/europe-s-top-regulator-questions-polymarket-and-kalshi-s-eu-access-warns-of-authorization-gaps",
+    "publishedAt": "2026-09-10T17:03:34.000Z",
+    "preview": "ESMA said that event contracts may fall under existing EU binary-options bans, crypto-asset frameworks like MiCA or national gambling laws.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Top Solana Price Predictions as SOL Bulls Battle to Hold the $100 Line",
+    "link": "https://cryptopotato.com/top-solana-price-predictions-as-sol-bulls-battle-to-hold-the-100-line/",
+    "publishedAt": "2026-09-10T17:02:28.000Z",
+    "preview": "\"SOL is a $500 token trading at $100,\" X user The Black Bull claimed.",
+    "tags": [
+      "SOL"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "India moves to block 15 crypto apps, leaving users facing sudden account lockout",
+    "link": "https://cryptoslate.com/india-moves-to-block-15-crypto-apps-leaving-users-facing-sudden-account-lockout/",
+    "publishedAt": "2026-09-10T16:40:32.000Z",
+    "preview": "App and URL takedown notices raise disruption risks, but completed blocks and withdrawal limits remain unconfirmed. The post India moves to block 15 crypto apps, leaving users facing sudden account lockout appeared first",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Liquid Network resumes block production after $320M exploit",
+    "link": "https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit",
+    "publishedAt": "2026-09-10T16:38:16.000Z",
+    "preview": "Liquid restarted block production after deploying emergency software updates, though transactions and peg operations remain suspended as recovery efforts continue.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Polymarket names former Amazon finance chief Warren Jenson as its first CFO",
+    "link": "https://www.coindesk.com/markets/2026/09/10/polymarket-names-former-amazon-finance-chief-warren-jenson-as-its-first-cfo",
+    "publishedAt": "2026-09-10T16:10:03.000Z",
+    "preview": "Jenson becomes the prediction market’s first CFO as Polymarket builds its regulated U.S. exchange and global platform.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "MoneyGram launches Visa stablecoin card as remittance rivals expand",
+    "link": "https://cointelegraph.com/news/moneygram-launches-visa-stablecoin-card-as-remittance-rivals-expand",
+    "publishedAt": "2026-09-10T15:59:37.000Z",
+    "preview": "MoneyGram is following rival Western Union’s lead, rolling out a Visa stablecoin debit card as it expands blockchain-based payments.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Monument Bank delays retail tokenized deposits, cites regulatory issues in the UK",
+    "link": "https://www.coindesk.com/business/2026/09/10/monument-bank-delays-retail-tokenized-deposits-cites-regulatory-issues-in-the-uk",
+    "publishedAt": "2026-09-10T15:53:24.000Z",
+    "preview": "The London-based challenger bank tapped a Canadian custodian to meet the Financial Conduct Authority’s regulatory requirements. It now expects to roll out retail tokenized deposits by November.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "EU finance groups push to remove tokenized securities cap",
+    "link": "https://cointelegraph.com/news/european-finance-groups-urge-eu-to-scrap-tokenized-securities-cap-propose-15t-fallback",
+    "publishedAt": "2026-09-10T15:49:22.000Z",
+    "preview": "European finance and tokenization groups say Brussels should remove limits on assets admitted to DLT infrastructure or set a 1.5 trillion euro baseline if a cap remains.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "What Will Happen to Bitcoin (BTC) if Trump Distributes $5,000 to Each American: 3 AIs Speculate",
+    "link": "https://cryptopotato.com/what-will-happen-to-bitcoin-btc-if-trump-distributes-5000-to-each-american-3-ais-speculate/",
+    "publishedAt": "2026-09-10T15:41:23.000Z",
+    "preview": "\"Bitcoin might surge initially, then experience a sharp correction if the bond market or Fed pushed back,\" ChatGPT predicted.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows",
+    "link": "https://decrypt.co/377889/anthropic-discloses-fourth-claude-hacking-incident-as-debate-around-regulation-grows",
+    "publishedAt": "2026-09-10T15:33:11.000Z",
+    "preview": "The company now says attacks during security tests exposed model behavior failures, after initially emphasizing errors in its testing infrastructure.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "XRP Ledger crossed 5 billion transactions, but 92% of August activity came from just 767 bots",
+    "link": "https://cryptoslate.com/xrp-ledger-crossed-5-billion-transactions-but-92-of-august-activity-came-from-just-767-bots/",
+    "publishedAt": "2026-09-10T15:20:17.000Z",
+    "preview": "Bitquery’s audit says a 767-account machine subset generated 92%, separating ledger throughput from durable XRP demand. The post XRP Ledger crossed 5 billion transactions, but 92% of August activity came from just 767 bo",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Bitcoin Bancorp snaps up thousands of defunct Bitcoin Depot ATMs for $620,000",
+    "link": "https://www.coindesk.com/business/2026/09/10/a-quarter-of-bankrupt-bitcoin-depot-s-atms-snapped-up-for-less-than-usd1-million",
+    "publishedAt": "2026-09-10T15:14:49.000Z",
+    "preview": "Just over a quarter of Bitcoin Depot’s more than 9,200 kiosks have been sold for less than $1 million, court records show.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Crypto for Advisors: Hyperliquid and the future of finance",
+    "link": "https://www.coindesk.com/coindesk-indices/2026/09/10/crypto-for-advisors",
+    "publishedAt": "2026-09-10T15:00:16.000Z",
+    "preview": "",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high",
+    "link": "https://cointelegraph.com/markets/bitcoin-falls-on-us-ppi-overshoot-as-30-year-bond-yield-hits-new-19-year-high",
+    "publishedAt": "2026-09-10T14:52:15.000Z",
+    "preview": "Bitcoin fell with US stocks as high inflation and a further surge in oil prices coincided with another multidecade high for US bond yields.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending",
+    "link": "https://www.coindesk.com/business/2026/09/08/moneygram-unveils-stablecoin-backed-card-as-digital-dollars-move-into-everyday-spending",
+    "publishedAt": "2026-09-10T14:30:00.000Z",
+    "preview": "The remittance giant is rolling out a Visa card that lets customers hold dollars and spend from a stablecoin-backed balance.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Nasdaq Ventures to Invest $100M in Kraken Parent Payward at $21B Valuation",
+    "link": "https://cryptopotato.com/nasdaq-ventures-to-invest-100m-in-kraken-parent-payward-at-21b-valuation/",
+    "publishedAt": "2026-09-10T14:04:14.000Z",
+    "preview": "Kraken will also adopt Nasdaq’s market surveillance technology across its trading venues.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "US hit on $24 billion crypto black market sends rival money launderers running for exits",
+    "link": "https://cryptoslate.com/us-hit-on-24-billion-crypto-black-market-sends-rival-money-launderers-running-for-exits/",
+    "publishedAt": "2026-09-10T14:00:51.000Z",
+    "preview": "DOJ seized Telegram channels and two wallets while OFAC sanctioned Xinbi and the developers behind SafeW and XinbiPay. The post US hit on $24 billion crypto black market sends rival money launderers running for exits app",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
     "title": "Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial",
     "link": "https://www.coindesk.com/business/2026/09/10/nasdaq-boerse-stuttgart-others-ask-eu-to-remove-or-increase-cap-in-tokenization-trial",
     "publishedAt": "2026-09-10T13:56:54.000Z",
@@ -55,6 +221,14 @@
     "tags": [
       "SOL"
     ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Threatened with arrest online? Recognizing a law enforcement impersonation scam",
+    "link": "https://www.coindesk.com/opinion/2026/09/10/threatened-with-arrest-online-recognizing-a-law-enforcement-impersonation-scam",
+    "publishedAt": "2026-09-10T13:00:00.000Z",
+    "preview": "So-called digital arrest scams use false claims of authority to pressure victims virtually into making rapid digital payments, including cryptocurrency transactions, writes Moody's Rich Graham.",
+    "tags": []
   },
   {
     "source": "CoinDesk",
@@ -347,10 +521,10 @@
   },
   {
     "source": "CoinDesk",
-    "title": "Live updates: Bitcoin slumps as ECB hikes rates and U.S. core PPI eases, but remains hot",
+    "title": "Live updates: Bitcoin slumps as oil and bond yields surge to new highs",
     "link": "https://www.coindesk.com/business/2026/09/10/live-updates-bitcoin-etfs-post-a-second-straight-outflow-while-every-other-fund-turns-green",
     "publishedAt": "2026-09-10T07:45:46.000Z",
-    "preview": "Treasury yields and the price of oil continued to surge, with both hitting new cycle highs on Thursday.",
+    "preview": "The ECB hiked rates earlier Thursday, and U.S. core PPI was softer than expected, but still running hot.",
     "tags": [
       "BTC"
     ]
@@ -483,24 +657,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Bitcoin sell pressure reaches one-month low as long-term holders slow down profit taking",
-    "link": "https://cryptoslate.com/bitcoin-sell-pressure-reaches-one-month-low-as-long-term-holders-slow-down-profit-taking/",
-    "publishedAt": "2026-09-10T03:50:11.000Z",
-    "preview": "Glassnode’s seven-day measure fell to 7 basis points from 16 at August’s peak, while overhead holdings barely moved. The post Bitcoin sell pressure reaches one-month low as long-term holders slow down profit taking appea",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Hunter Biden launched LAPTOP to cure memecoin grift and created a whole new batch of losers",
-    "link": "https://cryptoslate.com/hunter-biden-launched-laptop-to-cure-memecoin-grift-and-created-a-whole-new-batch-of-losers/",
-    "publishedAt": "2026-09-10T01:20:52.000Z",
-    "preview": "Hunter Biden’s LAPTOP token left nearly 80% of traders underwater within hours despite being pitched as an answer to memecoin grift. Hunter Biden is the son of former US President Joe Biden. Data from Bubblemaps showed t",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
     "link": "https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email",
@@ -509,14 +665,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "OpenAI just showed why one of its former researchers thinks AI could kill everyone",
-    "link": "https://cryptoslate.com/openai-just-showed-why-one-of-its-former-researchers-thinks-ai-could-kill-everyone/",
-    "publishedAt": "2026-09-09T22:40:52.000Z",
-    "preview": "OpenAI says its latest AI system solved a 90-year-old math problem in 88 hours, reigniting fears over runaway intelligence. On Sept. 8, the company said that an internal model significantly more capable than its recently",
-    "tags": []
   },
   {
     "source": "CryptoPotato",
@@ -711,27 +859,6 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
-    "link": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push",
-    "publishedAt": "2026-09-09T15:30:00.000Z",
-    "preview": "The threat is not here yet, but fault-tolerant machines and crypto’s migration plans are starting to converge on the same 2029 window.",
-    "tags": [
-      "BTC",
-      "ETH"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Consensys to split MetaMask into its own firm while staying silent on IPO",
-    "link": "https://www.coindesk.com/business/2026/09/09/consensys-to-split-metamask-into-its-own-firm-while-staying-silent-on-ipo",
-    "publishedAt": "2026-09-09T15:24:01.000Z",
-    "preview": "The existing company, Consensys Software Inc., will rebrand as MetaMask under Ethereum co-founder Joe Lubin as chairman and CEO.",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "Tether, Fasanara launch $400M private credit fund targeting $3B",
     "link": "https://cointelegraph.com/news/tether-fasanara-launch-400m-private-credit-fund-targeting-3b",
@@ -766,14 +893,6 @@
     ]
   },
   {
-    "source": "CoinDesk",
-    "title": "Crypto Long & Short:  Inside the 300-to-1 onchain gap between the dollar and euro",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/09/08/crypto-long-and-short-inside-the-300-to-1-onchain-gap-between-the-dollar-and-euro",
-    "publishedAt": "2026-09-09T14:58:07.000Z",
-    "preview": "Ryan Connor of RockawayX writes that the dollar leads the euro about 3 to 1 across the offchain economy and more than 300 to 1 onchain. Euro-pegged stablecoins total €711 million, under 1% of supply. He traces the gap to",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "German Finance Ministry Drafts 25% Tax on Crypto Gains From 2027",
     "link": "https://decrypt.co/377764/german-finance-ministry-drafts-25-tax-on-crypto-gains-from-2027",
@@ -800,30 +919,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Kalshi election data goes live on DoubleZero ahead of U.S. midterms",
-    "link": "https://www.coindesk.com/tech/2026/09/09/kalshi-election-data-goes-live-on-doublezero-ahead-of-u-s-midterms",
-    "publishedAt": "2026-09-09T14:00:00.000Z",
-    "preview": "The expansion gives institutional and automated traders access to full-depth political prediction-market order books ahead of the U.S. midterms.",
-    "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "PayPal expands stablecoin rails with custom token issuance platform",
-    "link": "https://www.coindesk.com/business/2026/09/09/paypal-expands-stablecoin-rails-with-launch-of-custom-token-issuance-platform",
-    "publishedAt": "2026-09-09T14:00:00.000Z",
-    "preview": "The PYUSDx stablecoin developer platform, backed by PayPal USD (PYUSD), is built with the help of M0 and MoonPay.",
-    "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Hunter Biden's new LAPTOP token lost 98% of its value in under an hour after $1.6 billion debut",
-    "link": "https://www.coindesk.com/business/2026/09/09/hunter-biden-s-laptop-memecoin-debuts-at-usd1-6-billion-market-cap",
-    "publishedAt": "2026-09-09T13:57:57.000Z",
-    "preview": "LAPTOP swung from $190 to under $4 within minutes of opening on Base. Onchain records show tokens had been distributed to market makers for a week before trading began.",
-    "tags": []
   },
   {
     "source": "Cointelegraph",
@@ -868,24 +963,6 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "KYC data is an irresistible honeypot for hackers, and we must change how it is collected",
-    "link": "https://www.coindesk.com/opinion/2026/09/09/kyc-data-is-an-irresistible-honeypot-for-hackers-and-we-must-change-how-it-is-collected",
-    "publishedAt": "2026-09-09T13:02:49.000Z",
-    "preview": "Privacy-preserving identity verification systems could allow individuals to prove only what a service needs to know while keeping the underlying information under their control, writes Coin Center’s Laz Pieper.",
-    "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Algorand names former Chainlink executive William Herkelrath as CEO",
-    "link": "https://www.coindesk.com/business/2026/09/09/algorand-names-former-chainlink-executive-william-herkelrath-as-ceo",
-    "publishedAt": "2026-09-09T13:00:00.000Z",
-    "preview": "The former Chainlink and Curv executive will lead the blockchain organization’s push into institutional finance and quantum-resistant security.",
-    "tags": [
-      "LINK"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "Italy’s central bank orders sanctions screening for crypto transfers",
     "link": "https://cointelegraph.com/news/italys-central-bank-orders-sanctions-screening-for-crypto-transfers",
@@ -920,37 +997,11 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "Metaplanet’s executive stock pool sparks shareholder backlash as CEO addresses MMXX ties",
-    "link": "https://cointelegraph.com/news/metaplanets-executive-stock-pool-backlash-ceo-mmxx-ties",
-    "publishedAt": "2026-09-09T11:15:23.000Z",
-    "preview": "Metaplanet’s executive stock pool continues to draw backlash over dilution concerns, as investors urged the company to freeze the exercise rights tied to 273 million shares.",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "Viral Altcoin VVV Hits a New ATH: More Fuel Left or Time to Take Profits?",
     "link": "https://cryptopotato.com/viral-altcoin-vvv-hits-a-new-ath-more-fuel-left-or-time-to-take-profits/",
     "publishedAt": "2026-09-09T10:43:32.000Z",
     "preview": "The token reached its record after rallying by roughly 112% over the past month.",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Bitcoin SOPR metric sees longest profit run of 2026 as new analysis challenges bear market",
-    "link": "https://cointelegraph.com/markets/bitcoin-sopr-metric-sees-longest-profit-run-of-2026-as-new-analysis-challenges-bear-market",
-    "publishedAt": "2026-09-09T10:12:16.000Z",
-    "preview": "Bitcoin aggregate onchain profit entered its fourth week, but a popular analyst warned that BTC price “downside risk” remained in place.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Silvergate ex-CEO blames Biden pressure for bank’s 2023 wind-down",
-    "link": "https://cointelegraph.com/news/silvergate-ex-ceo-biden-pressure-bank-wind-down",
-    "publishedAt": "2026-09-09T10:05:00.000Z",
-    "preview": "Alan Lane said a “coordinated attack” by the Biden administration made Silvergate’s continued operation untenable and prompted its liquidation.",
     "tags": []
   },
   {
@@ -991,14 +1042,6 @@
       "BTC",
       "XRP"
     ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Iran eases currency rules to bypass US sanctions with crypto: Report",
-    "link": "https://cointelegraph.com/news/iran-central-bank-encourages-crypto-evade-sanctions",
-    "publishedAt": "2026-09-09T07:36:39.000Z",
-    "preview": "Exporters can now fund imports with overseas earnings without first selling their foreign currency at official rates, the Financial Times reported.",
-    "tags": []
   },
   {
     "source": "CryptoPotato",
@@ -1121,16 +1164,6 @@
     "tags": []
   },
   {
-    "source": "CryptoPotato",
-    "title": "BitMine Now Holds $15.7 Billion in Various Assets as Massive ETH Buying Spree Continues",
-    "link": "https://cryptopotato.com/bitmine-now-holds-15-7-billion-in-various-assets-as-massive-eth-buying-spree-continues/",
-    "publishedAt": "2026-09-08T16:59:08.000Z",
-    "preview": "BitMine now holds 5.93 million ETH, worth roughly $14.8 billion, representing 4.9% of total supply and bringing it close to its 5% target.",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "US Police Fear Meta Glasses Are Watching Them Back: Report",
     "link": "https://decrypt.co/377675/us-police-fear-meta-glasses-are-watching-them-back-report",
@@ -1157,16 +1190,6 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "Ethereum Price Analysis: ETH Struggles Below $2.5K, Is a Deeper Pullback Coming?",
-    "link": "https://cryptopotato.com/ethereum-price-analysis-eth-struggles-below-2-5k-is-a-deeper-pullback-coming/",
-    "publishedAt": "2026-09-08T14:33:50.000Z",
-    "preview": "Ethereum has entered a consolidation phase after a sharp recovery from the $1.5K area. The cryptocurrency is now trading slightly below $2.5K, holding relatively firm despite repeated tests of the upper end of its recent",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Strategy's Return to Bitcoin Buying Lasted Exactly One Week",
     "link": "https://decrypt.co/377664/strategys-return-to-bitcoin-buying-lasted-exactly-one-week",
@@ -1175,14 +1198,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "CRO Rockets as Robinhood Takes Stakes in Crypto.com and OG.com",
-    "link": "https://cryptopotato.com/cro-rockets-as-robinhood-takes-stakes-in-crypto-com-and-og-com/",
-    "publishedAt": "2026-09-08T13:22:30.000Z",
-    "preview": "Robinhood has selected OG.com as an infrastructure and clearing partner for its prediction markets business.",
-    "tags": []
   },
   {
     "source": "Decrypt",
@@ -1209,30 +1224,12 @@
     "tags": []
   },
   {
-    "source": "Decrypt",
-    "title": "OpenAI Chief Scientist Warns AI Labs May Need to Slow Down",
-    "link": "https://decrypt.co/377635/openai-chief-scientist-warns-ai-slow-down",
-    "publishedAt": "2026-09-07T21:16:03.000Z",
-    "preview": "Jakub Pachocki is calling for mandatory safety standards as OpenAI finds it harder to monitor advanced AI models’ reasoning.",
-    "tags": []
-  },
-  {
     "source": "NewsBTC",
     "title": "Tether Alloy Gold-Backed Reserves Cross $210M",
     "link": "https://www.newsbtc.com/news/tether-alloy-gold-backed-reserves-cross-210m/",
     "publishedAt": "2026-09-07T20:45:00.000Z",
     "preview": "Read the latest update on Tether Alloy Gold-Backed Reserves Cross $210M.",
     "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Brazilian Banks Expand Crypto Offerings as Regulation Takes Hold",
-    "link": "https://decrypt.co/377621/brazilian-banks-expand-crypto-offerings",
-    "publishedAt": "2026-09-07T20:31:03.000Z",
-    "preview": "Itaú, Nubank, and Banco do Brasil now sell more than a dozen tokens each to retail clients, even as none of them touch crypto with their own balance sheet.",
-    "tags": [
-      "Regulation"
-    ]
   },
   {
     "source": "NewsBTC",
@@ -1243,14 +1240,6 @@
     "tags": [
       "ETH"
     ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Will the Crypto Trenches Show Up for Hunter Biden's Meme Coin?",
-    "link": "https://decrypt.co/377613/will-crypto-traders-buy-hunter-biden-meme-coin",
-    "publishedAt": "2026-09-07T19:47:27.000Z",
-    "preview": "Biden's LAPTOP meme coin drops this week. Most crypto traders out there so far don't seem too enthused.",
-    "tags": []
   },
   {
     "source": "NewsBTC",
