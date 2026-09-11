@@ -1,6 +1,78 @@
 [
   {
     "source": "CryptoSlate",
+    "title": "Why Circle is spending $400M to fix the last mile holding stablecoins back from real-world payouts",
+    "link": "https://cryptoslate.com/why-circle-is-spending-400m-to-fix-the-last-mile-holding-stablecoins-back-from-real-world-payouts/",
+    "publishedAt": "2026-09-11T19:05:03.000Z",
+    "preview": "The purchase could tighten Circle’s control of regulated payout infrastructure while partner banks retain their own risks and duties. The post Why Circle is spending $400M to fix the last mile holding stablecoins back fr",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Hyperliquid’s biggest risk is regulation, says Ran Neuner",
+    "link": "https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner",
+    "publishedAt": "2026-09-11T18:45:15.000Z",
+    "preview": "The Crypto Banter founder said Hyperliquid’s network effects give it a strong competitive moat, but regulatory uncertainty remains its biggest threat.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Could Elon Musk’s X Money Use XRP? XRPL Foundation CTO Weighs In",
+    "link": "https://cryptopotato.com/could-elon-musks-x-money-use-xrp-xrpl-foundation-cto-weighs-in/",
+    "publishedAt": "2026-09-11T18:39:56.000Z",
+    "preview": "At the moment, X Money has no crypto or stablecoin support, keeping its payments system tied to fiat, but Angell hopes that can change.",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
+    "link": "https://decrypt.co/377990/openai-congress-ai-slowdown-legal",
+    "publishedAt": "2026-09-11T18:16:04.000Z",
+    "preview": "The company is seeking clarity on antitrust rules as researchers call for restraint and experts warn that competition encourages companies to overlook risks.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Crypto exchange recovery rules split NES holders into winners and losers after $286M exploit fallout",
+    "link": "https://cryptoslate.com/crypto-exchange-recovery-rules-split-nes-holders-into-winners-and-losers-after-286m-exploit-fallout/",
+    "publishedAt": "2026-09-11T18:15:55.000Z",
+    "preview": "Binance Alpha uses two eligibility snapshots for swaps and refunds, while Kraken now supports only Ethereum-based NES. The post Crypto exchange recovery rules split NES holders into winners and losers after $286M exploit",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Robinhood Crypto Trading Volume Jumps 61% in August",
+    "link": "https://decrypt.co/377982/robinhoods-crypto-volume-jumps-august",
+    "publishedAt": "2026-09-11T17:22:39.000Z",
+    "preview": "Fresh operating data shows crypto trading bouncing back, but the company's fastest-growing business these days isn't traditional trading at all.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Analyst Flags Ethereum Breakout Setup With $15K Target",
+    "link": "https://cryptopotato.com/analyst-flags-ethereum-breakout-setup-with-15k-target/",
+    "publishedAt": "2026-09-11T17:16:06.000Z",
+    "preview": "The analyst places $3,270 and $4,892 ahead of a longer path toward $10,000 and $15,000 in his bullish ETH roadmap",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act",
+    "link": "https://www.coindesk.com/news-analysis/2026/09/11/the-legal-drama-of-imprisoned-sam-bankman-fried-is-waiting-on-its-last-act",
+    "publishedAt": "2026-09-11T17:12:45.000Z",
+    "preview": "The fallen leader of the former top exchange FTX is looking for answers from the U.S. Supreme Court.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
     "title": "Nasdaq deepens Kraken ties with proposed $100 million Payward investment",
     "link": "https://cryptoslate.com/nasdaq-deepens-kraken-ties-with-proposed-100-million-payward-investment/",
     "publishedAt": "2026-09-11T17:00:43.000Z",
@@ -339,7 +411,7 @@
   },
   {
     "source": "CoinDesk",
-    "title": "Live updates: Bitcoin gives up early gains as markets fully price in Fed rate hike",
+    "title": "Live updates: Bitcoin gives up early gains, with markets moving to price in multiple rate hikes",
     "link": "https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70",
     "publishedAt": "2026-09-11T11:04:12.000Z",
     "preview": "Core CPI rose a faster-than-forecast 0.3% in August, but the yearly pace of 2.4% was in line and the slowest rate since early 2021.",
@@ -395,16 +467,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Crypto institutions are chasing a 3% return on Bitcoin, but the entire payout machine collapses if miners stop burning cash",
-    "link": "https://cryptoslate.com/crypto-institutions-are-chasing-a-3-return-on-bitcoin-but-the-entire-payout-machine-collapses-if-miners-stop-burning-cash/",
-    "publishedAt": "2026-09-11T10:30:50.000Z",
-    "preview": "The Genesis Bond puts roughly 250 BTC into a live institutional test that asks who funds the return, how it is delivered, and what can break. The post Crypto institutions are chasing a 3% return on Bitcoin, but the entir",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "CoinDesk",
     "title": "Bitcoin pulls back as another golden cross fails to deliver",
     "link": "https://www.coindesk.com/markets/2026/09/11/bitcoin-pulls-back-as-another-golden-cross-fails-to-deliver",
@@ -458,14 +520,6 @@
     "link": "https://cointelegraph.com/news/claude-ai-cyberattacks-surveillance-weapons-anthropic",
     "publishedAt": "2026-09-11T09:47:31.000Z",
     "preview": "A Russian-speaking operator targeted more than 20 organizations, while a Mali consultant used Claude to build a mass-surveillance platform.",
-    "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "CLARITY Act’s biggest Senate vote could happen before the bill is actually finished",
-    "link": "https://cryptoslate.com/clarity-acts-biggest-senate-vote-could-happen-before-the-bill-is-actually-finished/",
-    "publishedAt": "2026-09-11T09:20:53.000Z",
-    "preview": "The Sept. 15 cloture vote would open negotiations while ethics, stablecoin rewards and Tribal demands remain unresolved. The post CLARITY Act’s biggest Senate vote could happen before the bill is actually finished appear",
     "tags": []
   },
   {
@@ -919,17 +973,6 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "Crypto researchers cut Bitcoin and Ethereum quantum attack estimate by 50%",
-    "link": "https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50",
-    "publishedAt": "2026-09-10T13:00:00.000Z",
-    "preview": "A paper shared with CoinDesk shows humans and AI agents beating Google’s March result on a core calculation used by Shor’s algorithm, adding another variable to crypto’s quantum clock.",
-    "tags": [
-      "BTC",
-      "ETH"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "Bitcoin Drops Below $77K After the First Inflation Report of the Week",
     "link": "https://cryptopotato.com/bitcoin-drops-below-77k-after-the-first-inflation-report-of-the-week/",
@@ -1008,14 +1051,6 @@
     "tags": [
       "ETH"
     ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Hunter Biden denies profiting from memecoin after his LAPTOP crashes",
-    "link": "https://cointelegraph.com/news/hunter-biden-denies-profiting-memecoin-laptop-crash",
-    "publishedAt": "2026-09-10T10:08:46.000Z",
-    "preview": "Nansen found a $117,800 unrealized loss in one wallet as the team announced liquidity incentives and Bubblemaps flagged fresh top holders.",
-    "tags": []
   },
   {
     "source": "CryptoPotato",
@@ -1122,27 +1157,11 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "Crypto Crime Empire Crumbles as 22-Year-Old Ringleader Malone Lam Pleads Guilty",
-    "link": "https://cryptopotato.com/crypto-crime-empire-crumbles-as-22-year-old-ringleader-malone-lam-pleads-guilty/",
-    "publishedAt": "2026-09-09T22:14:33.000Z",
-    "preview": "\"If you build a cybercrime empire, we will find you, dismantle your operation, and hold you accountable,\" said US Attorney Pirro.",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns",
     "link": "https://decrypt.co/377818/ai-math-best-problems-terence-tao",
     "publishedAt": "2026-09-09T20:31:29.000Z",
     "preview": "The Fields medalist points to a real race between OpenAI and Anthropic as proof: AI can now flatten a hard problem the moment someone starts working on it.",
-    "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Jump’s Hyperliquid Footprint Explodes as Trading Volume Nears $150 Billion",
-    "link": "https://cryptopotato.com/jumps-hyperliquid-footprint-explodes-as-trading-volume-nears-150-billion/",
-    "publishedAt": "2026-09-09T20:20:35.000Z",
-    "preview": "Jump Trading's Hyperliquid volume nears $150 billion, making the firm responsible for nearly 8% of perpetual futures activity overall.",
     "tags": []
   },
   {
@@ -1245,14 +1264,6 @@
     "link": "https://decrypt.co/377757/uk-crime-agency-warns-of-innovative-use-of-crypto-by-launderers",
     "publishedAt": "2026-09-09T11:43:53.000Z",
     "preview": "The agency ranks cryptoassets third among nine economic crime priorities, and says it wants to generate its own targets.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Mexico Seizes 300 Crypto Mining Rigs Wired Into a Hydroelectric Dam",
-    "link": "https://decrypt.co/377748/mexico-seizes-300-crypto-mining-rigs-wired-into-a-hydroelectric-dam",
-    "publishedAt": "2026-09-09T09:28:29.000Z",
-    "preview": "Forensic accountants are tracing who paid for the mining hardware, and money laundering has not been ruled out.",
     "tags": []
   },
   {
