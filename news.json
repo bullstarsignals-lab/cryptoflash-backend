@@ -1,5 +1,33 @@
 [
   {
+    "source": "CryptoSlate",
+    "title": "This XRP project is shutting down after wallet flaw exposed 4,000 accounts and drained $450,000",
+    "link": "https://cryptoslate.com/this-xrp-project-is-shutting-down-after-wallet-flaw-exposed-4000-accounts-and-drained-450000/",
+    "publishedAt": "2026-09-11T00:00:10.000Z",
+    "preview": "Forensics traced 10,281 payments from 4,011 sender wallets, but the attacker’s exact route remains unproven and users need entirely new seeds. The post This XRP project is shutting down after wallet flaw exposed 4,000 ac",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express",
+    "link": "https://cointelegraph.com/magazine/metaplanet-equity-backlash-se-asia-crypto-funding-doubles-asia-express",
+    "publishedAt": "2026-09-10T23:21:26.000Z",
+    "preview": "Shareholders of Bitcoin treasury company Metaplanet are seething over equity allocations for insiders, while new figures cement Singapore’s role as the top Asian crypto hub.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "OpenAI’s math breakthrough exposes the next weak link in crypto security",
+    "link": "https://cryptoslate.com/openais-math-breakthrough-exposes-the-next-weak-link-in-crypto-security/",
+    "publishedAt": "2026-09-10T22:30:50.000Z",
+    "preview": "Its Navier–Stokes claim suggests a possible role for AI in contract verification, where flawed specifications can leave vulnerabilities undetected. The post OpenAI’s math breakthrough exposes the next weak link in crypto",
+    "tags": []
+  },
+  {
     "source": "CryptoPotato",
     "title": "Liquid Hackers Call Blockstream ‘Delusional, Greedy, and Arrogant,’ Demand 10% Bounty",
     "link": "https://cryptopotato.com/liquid-hackers-call-blockstream-delusional-greedy-and-arrogant-demand-10-bounty/",
@@ -448,14 +476,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Memecoin degens are providing the spark for Wall Street to turn stock tokens into real capital",
-    "link": "https://cryptoslate.com/memecoin-degens-are-providing-the-spark-for-wall-street-to-turn-stock-tokens-into-real-capital/",
-    "publishedAt": "2026-09-10T11:50:27.000Z",
-    "preview": "Speculative trading may seed inventory for lending and vaults, but the full adoption flywheel remains unproven. The post Memecoin degens are providing the spark for Wall Street to turn stock tokens into real capital appe",
-    "tags": []
-  },
-  {
     "source": "CoinDesk",
     "title": "Treasury yields continue to rise even as Bessent doubles down on bond buybacks",
     "link": "https://www.coindesk.com/markets/2026/09/10/scott-bessent-doubles-down-on-bond-buybacks-as-treasury-yields-continue-to-surge",
@@ -501,16 +521,6 @@
     "link": "https://www.coindesk.com/daybook-us/2026/09/10/bitcoin-traders-dial-down-bullish-plays-ahead-of-u-s-inflation-data",
     "publishedAt": "2026-09-10T11:15:00.000Z",
     "preview": "Your day-ahead look for Sept. 10, 2026",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Bitcoin holds near $78K as markets confront the macro shocks they may have underpriced this week",
-    "link": "https://cryptoslate.com/bitcoin-holds-near-78k-as-markets-confront-the-macro-shocks-they-may-have-underpriced-this-week/",
-    "publishedAt": "2026-09-10T10:50:04.000Z",
-    "preview": "The baseline is already hostile. A CPI, central-bank or oil deviation could decide whether Bitcoin breaks its current range. The post Bitcoin holds near $78K as markets confront the macro shocks they may have underpriced",
     "tags": [
       "BTC"
     ]
@@ -1052,14 +1062,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "BitMart misses roadmap deadline, appoints financial adviser",
-    "link": "https://cointelegraph.com/news/bitmart-misses-roadmap-deadline-appoints-financial-adviser",
-    "publishedAt": "2026-09-09T13:04:28.000Z",
-    "preview": "BitMart provided no asset figures or withdrawal timetable and will launch a feedback portal within five working days during a financial adviser review.",
-    "tags": []
   },
   {
     "source": "CryptoPotato",
