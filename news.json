@@ -1,5 +1,39 @@
 [
   {
+    "source": "CoinDesk",
+    "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
+    "link": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
+    "publishedAt": "2026-09-11T23:47:51.000Z",
+    "preview": "In a post on Friday, Vlad Tenev said securities issuers should control shareholder rights, but not separate products that track their publicly traded shares.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "US Bank moves USBDC across borders on Stellar, but only inside its own walls",
+    "link": "https://cryptoslate.com/us-bank-moves-usbdc-across-borders-on-stellar-but-only-inside-its-own-walls/",
+    "publishedAt": "2026-09-11T23:30:04.000Z",
+    "preview": "The live payment linked the bank's North American and European entities while testing minting, redemption and issuer controls. The post US Bank moves USBDC across borders on Stellar, but only inside its own walls appeare",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Banks get cross-exchange crypto hedge relief under Canada’s new 2027 capital rule",
+    "link": "https://cryptoslate.com/banks-get-cross-exchange-crypto-hedge-relief-under-canadas-new-2027-capital-rule/",
+    "publishedAt": "2026-09-11T22:30:05.000Z",
+    "preview": "OSFI’s final rule fixes a cross-exchange capital mismatch only for tightly matched, qualifying Group 2a positions. The post Banks get cross-exchange crypto hedge relief under Canada’s new 2027 capital rule appeared first",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Ethereum Targets October 6 for Glamsterdam Sepolia Fork",
+    "link": "https://cryptopotato.com/ethereum-targets-october-6-for-glamsterdam-sepolia-fork/",
+    "publishedAt": "2026-09-11T21:56:49.000Z",
+    "preview": "Developers still hope Glamsterdam can reach mainnet before the end of 2026, despite unresolved testing issues.",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
     "source": "Decrypt",
     "title": "Cyberattacks on Law Firms Nearly Double as Stolen Documents Hit the Dark Web",
     "link": "https://decrypt.co/378094/cyberattacks-law-firms-stolen-documents-dark-web",
@@ -282,19 +316,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Crypto never closes, but Bitcoin, Ethereum, XRP and Solana now move on Wall Street time",
-    "link": "https://cryptoslate.com/crypto-never-closes-but-bitcoin-ethereum-xrp-and-solana-now-move-on-wall-street-time/",
-    "publishedAt": "2026-09-11T13:50:46.000Z",
-    "preview": "Daylight-saving changes and NYSE holidays tie Kraken's 2016–2025 realized variance pattern to the U.S. cash-equity session. The post Crypto never closes, but Bitcoin, Ethereum, XRP and Solana now move on Wall Street time",
-    "tags": [
-      "BTC",
-      "ETH",
-      "SOL",
-      "XRP"
-    ]
-  },
-  {
     "source": "CoinDesk",
     "title": "Metaplanet cuts executive reward pool by 41%, extinguishes $220 million in value",
     "link": "https://www.coindesk.com/business/2026/09/11/metaplanet-cuts-executive-reward-pool-by-41-extinguishes-usd220-million-in-value",
@@ -342,16 +363,6 @@
     "publishedAt": "2026-09-11T13:30:00.000Z",
     "preview": "Why would anyone want to trade a healthcare stock for a memecoin like BONER? Why wouldn’t they, ask the degens on Robinhood Chain who are building a strange new corner of DeFi.",
     "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Bitcoin’s $2.24 billion Friday options expiry teased a reversal then fell to $76k again",
-    "link": "https://cryptoslate.com/bitcoins-2-24-billion-friday-options-expiry-teased-a-reversal-then-gave-it-back-within-hours/",
-    "publishedAt": "2026-09-11T13:15:57.000Z",
-    "preview": "BTC rose across three venues after Deribit settled at 08:00 UTC, then finished below its starting level by 10:00. The post Bitcoin’s $2.24 billion Friday options expiry teased a reversal then fell to $76k again appeared ",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "CryptoPotato",
@@ -1004,14 +1015,6 @@
     ]
   },
   {
-    "source": "CoinDesk",
-    "title": "Threatened with arrest online? Recognizing a law enforcement impersonation scam",
-    "link": "https://www.coindesk.com/opinion/2026/09/10/threatened-with-arrest-online-recognizing-a-law-enforcement-impersonation-scam",
-    "publishedAt": "2026-09-10T13:00:00.000Z",
-    "preview": "So-called digital arrest scams use false claims of authority to pressure victims virtually into making rapid digital payments, including cryptocurrency transactions, writes Moody's Rich Graham.",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "Bitcoin Drops Below $77K After the First Inflation Report of the Week",
     "link": "https://cryptopotato.com/bitcoin-drops-below-77k-after-the-first-inflation-report-of-the-week/",
@@ -1160,14 +1163,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Consensys and MetaMask to Separate Into Two Independent Companies by End of 2026",
-    "link": "https://cryptopotato.com/consensys-and-metamask-to-separate-into-two-independent-companies-by-end-of-2026/",
-    "publishedAt": "2026-09-10T04:53:17.000Z",
-    "preview": "\"Financial institutions and market infrastructure are moving to always-on operations with tokenization at the core,\" said David Cunningham, President of Consensys.",
-    "tags": []
   },
   {
     "source": "Decrypt",
