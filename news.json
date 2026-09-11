@@ -1,5 +1,75 @@
 [
   {
+    "source": "Decrypt",
+    "title": "Cyberattacks on Law Firms Nearly Double as Stolen Documents Hit the Dark Web",
+    "link": "https://decrypt.co/378094/cyberattacks-law-firms-stolen-documents-dark-web",
+    "publishedAt": "2026-09-11T21:45:05.000Z",
+    "preview": "Greenberg Traurig said documents were posted to the dark web, while BakerHostetler recorded a near-doubling of law-firm incidents in 2025.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-09-11T21:30:00.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Coinbase CEO sees Bitcoin at $400,000, but first it has to clear $81,000",
+    "link": "https://cryptoslate.com/coinbase-ceo-sees-bitcoin-at-400000-but-first-it-has-to-clear-81000/",
+    "publishedAt": "2026-09-11T21:20:06.000Z",
+    "preview": "The Coinbase CEO’s personal outlook anticipates gains ahead of the next halving, with Bitcoin still well below its previous peak. The post Coinbase CEO sees Bitcoin at $400,000, but first it has to clear $81,000 appeared",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Bitcoin Golden Cross Flickers Off as Rate-Hike Bets Firm Up",
+    "link": "https://decrypt.co/378081/bitcoin-golden-cross-flickers-off",
+    "publishedAt": "2026-09-11T20:53:39.000Z",
+    "preview": "A rapidly changing interest rates market has changed the near-term outlook on the Bitcoin chart. Here’s why.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Bitwise Pulls the Plug on Dogecoin ETF Just 10 Months After Launch",
+    "link": "https://cryptopotato.com/bitwise-pulls-the-plug-on-dogecoin-etf-just-10-months-after-launch/",
+    "publishedAt": "2026-09-11T20:17:50.000Z",
+    "preview": "Dogecoin ETF investors have pulled more than $343 million so far in September.",
+    "tags": [
+      "DOGE"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Philadelphia Fed finds Bitcoin traders follow whale signals faster than Ethereum users",
+    "link": "https://cryptoslate.com/philadelphia-fed-finds-bitcoin-traders-follow-whale-signals-faster-than-ethereum-users/",
+    "publishedAt": "2026-09-11T20:10:09.000Z",
+    "preview": "A Philadelphia Fed event study found broad same-direction activity among non-whale BTC wallets, while ETH's clearest response was concentrated among larger sellers. The post Philadelphia Fed finds Bitcoin traders follow ",
+    "tags": [
+      "BTC",
+      "ETH"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Bitcoin Suisse to shift up to half of Swiss jobs abroad",
+    "link": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad",
+    "publishedAt": "2026-09-11T19:46:24.000Z",
+    "preview": "The Swiss crypto financial services firm plans to move back-office functions to lower-cost international hubs as it expands its global wealth and asset management business, according to Finews.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
     "source": "CryptoSlate",
     "title": "Why Circle is spending $400M to fix the last mile holding stablecoins back from real-world payouts",
     "link": "https://cryptoslate.com/why-circle-is-spending-400m-to-fix-the-last-mile-holding-stablecoins-back-from-real-world-payouts/",
@@ -284,27 +354,6 @@
     ]
   },
   {
-    "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-09-11T12:57:24.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "BitMine’s staked ETH equals nearly 12% of Ethereum’s active stake, but who controls it?",
-    "link": "https://cryptoslate.com/bitmines-staked-eth-equals-nearly-12-of-ethereums-active-stake-but-who-controls-it/",
-    "publishedAt": "2026-09-11T12:40:50.000Z",
-    "preview": "Filings name MAVAN and staking partners but leave operator allocation and signing-key custody undisclosed. The post BitMine’s staked ETH equals nearly 12% of Ethereum’s active stake, but who controls it? appeared first o",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "Bitcoin Price Reacts to August US CPI Data: Here’s What Happened",
     "link": "https://cryptopotato.com/bitcoin-price-reacts-to-august-us-cpi-data-heres-what-happened/",
@@ -370,16 +419,6 @@
     "publishedAt": "2026-09-11T11:49:07.000Z",
     "preview": "Bitstamp accounted for $10.1 billion of Robinhood’s August crypto volume, while trading on the Robinhood app fell 46% from a year earlier.",
     "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Your Bitcoin trade can now get liquidated because a stock crashed",
-    "link": "https://cryptoslate.com/your-bitcoin-trade-can-now-get-liquidated-because-a-stock-crashed/",
-    "publishedAt": "2026-09-11T11:40:27.000Z",
-    "preview": "Monthly volume on real-world-asset perpetual futures grew from $85 billion in January to an August record of $799.5 billion, with stocks accounting for 62.3% of that total on both DeFi and centralized venues, according t",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "Cointelegraph",
@@ -1025,14 +1064,6 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "Treasury Secretary Bessent urges CLARITY Act passage after Senate returns",
-    "link": "https://cointelegraph.com/news/treasury-secretary-bessent-urges-clarity-act-passage-senate-returns",
-    "publishedAt": "2026-09-10T10:20:00.000Z",
-    "preview": "Secretary Scott Bessent warned that failing to pass the CLARITY Act would send a “troubling signal” about America’s leadership in the digital asset industry.",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "Important Ripple News and XRP Price Update: September 10",
     "link": "https://cryptopotato.com/important-ripple-news-and-xrp-price-update-september-10/",
@@ -1139,14 +1170,6 @@
     "tags": []
   },
   {
-    "source": "CryptoPotato",
-    "title": "XRPL Fixes Permission Delegation After Critical Bug Found",
-    "link": "https://cryptopotato.com/xrpl-fixes-permission-delegation-after-critical-bug-found/",
-    "publishedAt": "2026-09-10T04:01:55.000Z",
-    "preview": "XRPL also tightened delegation rules to prevent newer Vault and Lending features from being delegated by accident.",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
     "link": "https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email",
@@ -1248,22 +1271,6 @@
     "link": "https://decrypt.co/377764/german-finance-ministry-drafts-25-tax-on-crypto-gains-from-2027",
     "publishedAt": "2026-09-09T14:37:18.000Z",
     "preview": "Anything bought before 2027 keeps the twelve-month exemption, so the change lands only on Germany's future crypto buyers.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Morning Minute: Venice’s VVV Token Soars After OpenAI Dispute",
-    "link": "https://decrypt.co/377761/morning-minute-venices-vvv-token-soars-after-openai-dispute",
-    "publishedAt": "2026-09-09T13:28:52.000Z",
-    "preview": "Concerns over frontier AI labs stealing user data has driven demand for private inference (or at least tokens tied to private inference).",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "UK Crime Agency Warns of 'Innovative Use' of Crypto by Launderers",
-    "link": "https://decrypt.co/377757/uk-crime-agency-warns-of-innovative-use-of-crypto-by-launderers",
-    "publishedAt": "2026-09-09T11:43:53.000Z",
-    "preview": "The agency ranks cryptoassets third among nine economic crime priorities, and says it wants to generate its own targets.",
     "tags": []
   },
   {
