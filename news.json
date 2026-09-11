@@ -1,5 +1,71 @@
 [
   {
+    "source": "CryptoPotato",
+    "title": "Tag Markets Names Craig Lund Chief Executive Officer",
+    "link": "https://cryptopotato.com/tag-markets-names-craig-lund-chief-executive-officer/",
+    "publishedAt": "2026-09-11T04:33:29.000Z",
+    "preview": "[PRESS RELEASE – Dubai, United Arab Emirates, September 10th, 2026] The appointment brings a veteran of regulated digital-asset and brokerage businesses to a firm turning its focus from growth alone to the foundations th",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Ripple puts AI agents inside its $1 billion corporate treasury bet",
+    "link": "https://www.coindesk.com/markets/2026/09/11/ripple-puts-ai-agents-inside-its-usd1-billion-corporate-treasury-bet",
+    "publishedAt": "2026-09-11T04:25:21.000Z",
+    "preview": "The software can monitor cash, risk and forecasts and suggest financial moves, but humans still have to approve every action.",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Brevo login flaw enabled phishing email targeting 347K Trezor subscribers",
+    "link": "https://cointelegraph.com/news/brevo-login-flaw-trezor-bitbox-cointracking-phishing",
+    "publishedAt": "2026-09-11T04:21:14.000Z",
+    "preview": "Trezor told Cointelegraph that the phishing email was sent to 347,000 subscribers and said it is treating every address as “known to the attacker and possibly reusable for phishing.”",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "XRP Faces Key Test as Historical Pattern Points to Possible Pullback",
+    "link": "https://cryptopotato.com/xrp-faces-key-test-as-historical-pattern-points-to-possible-pullback/",
+    "publishedAt": "2026-09-11T04:03:55.000Z",
+    "preview": "XRP's weekly Super Trend turned bullish in August, but the same signal preceded sharp corrections in three earlier cycles.",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Bitcoin mining supplies 90% of HIVE’s $1 million daily revenue despite ongoing AI expansion",
+    "link": "https://cryptoslate.com/bitcoin-mining-supplies-90-of-hives-1-million-daily-revenue-despite-ongoing-ai-expansion/",
+    "publishedAt": "2026-09-11T03:50:27.000Z",
+    "preview": "Preliminary figures for Aug. 21 through Sept. 10 put GPU-cloud revenue at about $100,000 a day as Swedish reuse remains under evaluation. The post Bitcoin mining supplies 90% of HIVE’s $1 million daily revenue despite on",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Bitcoin tests critical $76,000 support cluster during macro energy shock",
+    "link": "https://cryptoslate.com/bitcoin-tests-critical-76000-support-cluster-during-macro-energy-shock/",
+    "publishedAt": "2026-09-11T02:40:34.000Z",
+    "preview": "Bitcoin fell below $77,000 on Sept. 10 as oil rose above $100, and a global bond selloff pushed traders toward another Fed hike. BTC reached an intraday low of $76,676.07, Nasdaq 100 futures fell 0.7%, and the 10-year Tr",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Strategy erased nearly $8 billion of net debt in 11 months and put S&P’s junk rating on the clock",
+    "link": "https://cryptoslate.com/strategy-erased-nearly-8-billion-of-net-debt-in-11-months-and-put-sps-junk-rating-on-the-clock/",
+    "publishedAt": "2026-09-11T01:20:25.000Z",
+    "preview": "Strategy, the largest Bitcoin treasury firm, is making a case for an escape from its B- junk credit rating after building billions of dollars in liquidity and reducing debt. On Sept. 10, Strategy’s head of investor relat",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
     "source": "CryptoSlate",
     "title": "This XRP project is shutting down after wallet flaw exposed 4,000 accounts and drained $450,000",
     "link": "https://cryptoslate.com/this-xrp-project-is-shutting-down-after-wallet-flaw-exposed-4000-accounts-and-drained-450000/",
@@ -259,7 +325,7 @@
   },
   {
     "source": "CoinDesk",
-    "title": "Monument Bank delays retail tokenized deposits, cites regulatory issues in the UK",
+    "title": "Monument Bank delays retail tokenized deposits while onboarding custody partner",
     "link": "https://www.coindesk.com/business/2026/09/10/monument-bank-delays-retail-tokenized-deposits-cites-regulatory-issues-in-the-uk",
     "publishedAt": "2026-09-10T15:53:24.000Z",
     "preview": "The London-based challenger bank tapped a Canadian custodian to meet the Financial Conduct Authority’s regulatory requirements. It now expects to roll out retail tokenized deposits by November.",
@@ -291,16 +357,6 @@
     "preview": "The company now says attacks during security tests exposed model behavior failures, after initially emphasizing errors in its testing infrastructure.",
     "tags": [
       "Regulation"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "XRP Ledger crossed 5 billion transactions, but 92% of August activity came from just 767 bots",
-    "link": "https://cryptoslate.com/xrp-ledger-crossed-5-billion-transactions-but-92-of-august-activity-came-from-just-767-bots/",
-    "publishedAt": "2026-09-10T15:20:17.000Z",
-    "preview": "Bitquery’s audit says a 767-account machine subset generated 92%, separating ledger throughput from durable XRP demand. The post XRP Ledger crossed 5 billion transactions, but 92% of August activity came from just 767 bo",
-    "tags": [
-      "XRP"
     ]
   },
   {
@@ -345,14 +401,6 @@
     "link": "https://cryptopotato.com/nasdaq-ventures-to-invest-100m-in-kraken-parent-payward-at-21b-valuation/",
     "publishedAt": "2026-09-10T14:04:14.000Z",
     "preview": "Kraken will also adopt Nasdaq’s market surveillance technology across its trading venues.",
-    "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "US hit on $24 billion crypto black market sends rival money launderers running for exits",
-    "link": "https://cryptoslate.com/us-hit-on-24-billion-crypto-black-market-sends-rival-money-launderers-running-for-exits/",
-    "publishedAt": "2026-09-10T14:00:51.000Z",
-    "preview": "DOJ seized Telegram channels and two wallets while OFAC sanctioned Xinbi and the developers behind SafeW and XinbiPay. The post US hit on $24 billion crypto black market sends rival money launderers running for exits app",
     "tags": []
   },
   {
@@ -428,17 +476,6 @@
     "preview": "BTC is down by over $3,000 from the Monday peak.",
     "tags": [
       "BTC"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "SEC gives Bitcoin-heavy trusts a new 15% window to venture beyond existing listing rules",
-    "link": "https://cryptoslate.com/sec-gives-bitcoin-heavy-trusts-new-15-percent-window-to-venture-beyond-existing-listing-rules/",
-    "publishedAt": "2026-09-10T12:50:37.000Z",
-    "preview": "Qualifying trusts can use a faster generic route while derivatives measured at gross notional can quickly exhaust the flexible sleeve. The post SEC gives Bitcoin-heavy trusts a new 15% window to venture beyond existing l",
-    "tags": [
-      "BTC",
-      "Regulation"
     ]
   },
   {
@@ -934,14 +971,6 @@
     ]
   },
   {
-    "source": "CoinDesk",
-    "title": "Robinhood CEO Vlad Tenev fires back at AMC's Aron in escalating fight over stock tokens",
-    "link": "https://www.coindesk.com/markets/2026/09/09/robinhood-s-ceo-vlad-tenev-defends-stock-tokens-in-escalating-fight-with-amc-ceo",
-    "publishedAt": "2026-09-09T16:11:07.000Z",
-    "preview": "Tenev told CNBC's \"Squawk Box\" on Wednesday that public companies shouldn't have veto power over third-party securities that reference their shares.",
-    "tags": []
-  },
-  {
     "source": "Cointelegraph",
     "title": "Hunter Biden’s laptop controversy gets a memecoin afterlife",
     "link": "https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife",
@@ -1035,14 +1064,6 @@
     "link": "https://cointelegraph.com/news/german-finance-ministry-25-crypto-tax-2028",
     "publishedAt": "2026-09-09T13:49:55.000Z",
     "preview": "The German Ministry of Finance is reportedly seeking to impose a 25% tax on cryptocurrencies, departing from current laws that make crypto gains tax-free after one year of holding.",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "10 of the greatest unsolved crypto mysteries",
-    "link": "https://cointelegraph.com/magazine/10-of-the-greatest-unsolved-crypto-mysteries",
-    "publishedAt": "2026-09-09T13:30:00.000Z",
-    "preview": "From the whereabouts of the CryptoQueen to a mysterious death involving a DeFi builder paranoid about the “pedo elite,” here are 10 crypto mysteries that still have no good answer.",
     "tags": []
   },
   {
@@ -1144,26 +1165,6 @@
     "link": "https://cryptopotato.com/bitcoins-historic-capitulation-zone-is-near-38-4k-but-something-is-changing/",
     "publishedAt": "2026-09-09T05:07:03.000Z",
     "preview": "Balanced Price has historically identified deep-cycle bottoms, yet Bitcoin’s changing relationship with the metric raises a fundamental possibility.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "XRP and the CLARITY Act: Why September 15 Could Be a Major Test",
-    "link": "https://cryptopotato.com/xrp-and-the-clarity-act-why-september-15-could-be-a-major-test/",
-    "publishedAt": "2026-09-09T03:57:12.000Z",
-    "preview": "Here's why the vast XRP Army is counting the days until the September 15 CLARITY Act vote. But, can they be wrong?",
-    "tags": [
-      "XRP"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Bitcoin Calms Below $80K as Fed Hike Odds Climb: Bitfinex Alpha",
-    "link": "https://cryptopotato.com/bitcoin-calms-below-80k-as-fed-hike-odds-climb-bitfinex-alpha/",
-    "publishedAt": "2026-09-08T22:09:44.000Z",
-    "preview": "ETF demand remains strong, but inflation data could determine where Bitcoin goes next.",
     "tags": [
       "BTC"
     ]
