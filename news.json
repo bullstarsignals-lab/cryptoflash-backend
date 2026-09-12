@@ -1,5 +1,59 @@
 [
   {
+    "source": "CryptoSlate",
+    "title": "Thailand’s stablecoin proposal would block transfers to other people’s wallets",
+    "link": "https://cryptoslate.com/thailands-stablecoin-proposal-would-block-transfers-to-other-peoples-wallets/",
+    "publishedAt": "2026-09-12T21:25:29.000Z",
+    "preview": "Licensed crypto firms could accept deposits and withdrawals only through accounts verified as the customer’s own. The post Thailand’s stablecoin proposal would block transfers to other people’s wallets appeared first on ",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "OpenAI IPO won't happen this year, says Sam Altman",
+    "link": "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman",
+    "publishedAt": "2026-09-12T21:09:31.000Z",
+    "preview": "\"Given everything happening with safety, right now would be an ill-advised moment to go public,\" OpenAI CEO Sam Altman told Fortune.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
+    "link": "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
+    "publishedAt": "2026-09-12T21:09:06.000Z",
+    "preview": "The company is closing its Copenhagen IT site while maintaining Bratislava and opening a new hub in Vietnam to reduce costs.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Bitcoin’s $80,000 ceiling looks fragile after stocks shrugged off near-5% Treasury yields",
+    "link": "https://cryptoslate.com/bitcoins-80000-ceiling-looks-different-after-stocks-shrugged-off-near-5-treasury-yields/",
+    "publishedAt": "2026-09-12T20:20:10.000Z",
+    "preview": "With Bitcoin near $77,743 and weekend options volatility elevated, Wednesday’s Fed decision will test whether the gap persists. The post Bitcoin’s $80,000 ceiling looks fragile after stocks shrugged off near-5% Treasury ",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "India’s Demat 2.0 Could Change Bond Tokenization: Here’s How It Works",
+    "link": "https://cryptopotato.com/indias-demat-2-0-could-change-bond-tokenization-heres-how-it-works/",
+    "publishedAt": "2026-09-12T20:04:30.000Z",
+    "preview": "The country has taken a major step toward bringing tokenized real-world assets (RWAs) into its mainstream financial system.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "The biggest vulnerability in your Bitcoin wallet might be the shipping label",
+    "link": "https://cryptoslate.com/your-bitcoin-wallet-has-a-shipping-problem/",
+    "publishedAt": "2026-09-12T19:30:23.000Z",
+    "preview": "Hardware wallets might be able to protect your keys, but the paperwork from buying them could expose your identity. To buy a hardware wallet, you give a company your name and address so it can send you a device designed ",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
     "source": "CoinDesk",
     "title": "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
     "link": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
@@ -247,14 +301,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Wall Street is building tokenized deposits to lock in customer balances",
-    "link": "https://cryptoslate.com/wall-street-is-building-tokenized-deposits-to-lock-in-customer-balances/",
-    "publishedAt": "2026-09-12T10:30:03.000Z",
-    "preview": "Imagine your company has enough money to pay a supplier, but the money is in its Singapore account and the bill must be paid from New York. If the transfer between those accounts has to wait until Monday, having enough c",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "BTC Settles at $77K After a Wild Ride, ETH Slumps Following Major Rally: Weekend Watch",
     "link": "https://cryptopotato.com/btc-settles-at-77k-after-a-wild-ride-eth-slumps-following-major-rally-weekend-watch/",
@@ -276,16 +322,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Bitwise is closing the lowest-fee Dogecoin ETF after rivals captured nearly all the capital",
-    "link": "https://cryptoslate.com/bitwise-is-closing-the-lowest-fee-dogecoin-etf-after-rivals-captured-nearly-all-the-capital/",
-    "publishedAt": "2026-09-12T09:00:19.000Z",
-    "preview": "BWOW held about $687,730 while the three spot products tracked by SoSoValue held $11.83 million as of Sept. 10. The post Bitwise is closing the lowest-fee Dogecoin ETF after rivals captured nearly all the capital appeare",
-    "tags": [
-      "DOGE"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "Ethereum Whales Just Woke Up as ETH Exploded to 8-Month High: What’s Next?",
     "link": "https://cryptopotato.com/ethereum-whales-just-woke-up-as-eth-exploded-to-8-month-high-whats-next/",
@@ -293,16 +329,6 @@
     "preview": "What happened within the ETH ecosystem on Friday when the asset rocketed to an 8-month high?",
     "tags": [
       "ETH"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Blockstream bets 600 Bitcoin by rejecting Liquid hacker’s $50 million bounty demand",
-    "link": "https://cryptoslate.com/blockstream-bets-600-bitcoin-by-rejecting-liquid-hackers-50-million-bounty-demand/",
-    "publishedAt": "2026-09-12T07:20:37.000Z",
-    "preview": "Blockstream is refusing to pay the Liquid attacker nearly 600 Bitcoin (roughly $50 million), escalating a dispute over how the crypto industry should reward partial restitution. The standoff follows an unusual recovery f",
-    "tags": [
-      "BTC"
     ]
   },
   {
@@ -1053,30 +1079,12 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "OKX brings OpenAI and Anthropic bets to Europe as pre-IPO trading grows",
-    "link": "https://www.coindesk.com/markets/2026/09/10/okx-brings-openai-and-anthropic-bets-to-europe-as-pre-ipo-trading-grows",
-    "publishedAt": "2026-09-10T17:07:59.000Z",
-    "preview": "The exchange is offering up to 10x leverage on private-company valuations alongside 100 tokenized stocks and ETFs.",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "This Guy Cloned Sam Altman, Elon Musk, and Zuckerberg Into AI Bots. They Immediately Started Fighting",
     "link": "https://decrypt.co/377898/sam-altman-elon-musk-zuckerberg-ai-bots",
     "publishedAt": "2026-09-10T17:07:50.000Z",
     "preview": "Kun Chen built chatbot versions of four AI CEOs on SpaceXAI's new Grok Bot templates, locked them in one chat, and told them to debate the AI race until they agreed on something.",
     "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Europe’s top regulator questions Polymarket and Kalshi’s EU access, warns of authorization gaps",
-    "link": "https://www.coindesk.com/business/2026/09/10/europe-s-top-regulator-questions-polymarket-and-kalshi-s-eu-access-warns-of-authorization-gaps",
-    "publishedAt": "2026-09-10T17:03:34.000Z",
-    "preview": "ESMA said that event contracts may fall under existing EU binary-options bans, crypto-asset frameworks like MiCA or national gambling laws.",
-    "tags": [
-      "Regulation"
-    ]
   },
   {
     "source": "CryptoPotato",
@@ -1195,16 +1203,6 @@
     "publishedAt": "2026-09-10T12:10:48.000Z",
     "preview": "The meme coin plunged on its debut, as recent alt leaders and many onchain darlings slipped in a nasty day for crypto.",
     "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Bitcoin’s (BTC) Rally Looks Strong, But the Real Money Behind It Is Still Missing",
-    "link": "https://cryptopotato.com/bitcoins-btc-rally-looks-strong-but-the-real-money-behind-it-is-still-missing/",
-    "publishedAt": "2026-09-10T12:01:57.000Z",
-    "preview": "Liquidity is showing early signs of recovery, but Bitcoin needs stronger stablecoin inflows before the rebound becomes truly convincing.",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "Decrypt",
