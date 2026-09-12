@@ -1,5 +1,23 @@
 [
   {
+    "source": "CryptoSlate",
+    "title": "Why Nasdaq surveillance cannot settle the fight over 24/7 tokenized markets",
+    "link": "https://cryptoslate.com/why-nasdaq-surveillance-cannot-settle-the-fight-over-24-7-tokenized-markets/",
+    "publishedAt": "2026-09-12T01:45:56.000Z",
+    "preview": "Payward plans monitoring across five market types, but legal classification still controls U.S. access and investor protections. The post Why Nasdaq surveillance cannot settle the fight over 24/7 tokenized markets appear",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "L-BTC resumes trading with reserves covering just 85% of supply",
+    "link": "https://cryptoslate.com/l-btc-resumes-trading-with-reserves-covering-just-85-of-supply/",
+    "publishedAt": "2026-09-12T00:30:41.000Z",
+    "preview": "A Sept. 10 onchain snapshot put backing at 85.15%, while federation peg-outs remained suspended and live market depth stayed unmeasured. The post L-BTC resumes trading with reserves covering just 85% of supply appeared f",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
     "source": "CoinDesk",
     "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
     "link": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
@@ -34,14 +52,6 @@
     ]
   },
   {
-    "source": "Decrypt",
-    "title": "Cyberattacks on Law Firms Nearly Double as Stolen Documents Hit the Dark Web",
-    "link": "https://decrypt.co/378094/cyberattacks-law-firms-stolen-documents-dark-web",
-    "publishedAt": "2026-09-11T21:45:05.000Z",
-    "preview": "Greenberg Traurig said documents were posted to the dark web, while BakerHostetler recorded a near-doubling of law-firm incidents in 2025.",
-    "tags": []
-  },
-  {
     "source": "Cointelegraph",
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
@@ -58,16 +68,6 @@
     "link": "https://cryptoslate.com/coinbase-ceo-sees-bitcoin-at-400000-but-first-it-has-to-clear-81000/",
     "publishedAt": "2026-09-11T21:20:06.000Z",
     "preview": "The Coinbase CEO’s personal outlook anticipates gains ahead of the next halving, with Bitcoin still well below its previous peak. The post Coinbase CEO sees Bitcoin at $400,000, but first it has to clear $81,000 appeared",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Bitcoin Golden Cross Flickers Off as Rate-Hike Bets Firm Up",
-    "link": "https://decrypt.co/378081/bitcoin-golden-cross-flickers-off",
-    "publishedAt": "2026-09-11T20:53:39.000Z",
-    "preview": "A rapidly changing interest rates market has changed the near-term outlook on the Bitcoin chart. Here’s why.",
     "tags": [
       "BTC"
     ]
@@ -132,14 +132,6 @@
     ]
   },
   {
-    "source": "Decrypt",
-    "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
-    "link": "https://decrypt.co/377990/openai-congress-ai-slowdown-legal",
-    "publishedAt": "2026-09-11T18:16:04.000Z",
-    "preview": "The company is seeking clarity on antitrust rules as researchers call for restraint and experts warn that competition encourages companies to overlook risks.",
-    "tags": []
-  },
-  {
     "source": "CryptoSlate",
     "title": "Crypto exchange recovery rules split NES holders into winners and losers after $286M exploit fallout",
     "link": "https://cryptoslate.com/crypto-exchange-recovery-rules-split-nes-holders-into-winners-and-losers-after-286m-exploit-fallout/",
@@ -148,14 +140,6 @@
     "tags": [
       "ETH"
     ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Robinhood Crypto Trading Volume Jumps 61% in August",
-    "link": "https://decrypt.co/377982/robinhoods-crypto-volume-jumps-august",
-    "publishedAt": "2026-09-11T17:22:39.000Z",
-    "preview": "Fresh operating data shows crypto trading bouncing back, but the company's fastest-growing business these days isn't traditional trading at all.",
-    "tags": []
   },
   {
     "source": "CryptoPotato",
@@ -182,16 +166,6 @@
     "publishedAt": "2026-09-11T17:00:43.000Z",
     "preview": "The expanded Payward relationship adds surveillance across five market categories while NETs remain a Q2 2027 target. The post Nasdaq deepens Kraken ties with proposed $100 million Payward investment appeared first on Cr",
     "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Bitwise to Close Dogecoin ETF Before Its First Anniversary",
-    "link": "https://decrypt.co/377973/bitwise-shuts-dogecoin-etf",
-    "publishedAt": "2026-09-11T16:16:05.000Z",
-    "preview": "BWOW will stop trading October 14, with cash payments to remaining shareholders expected October 22.",
-    "tags": [
-      "DOGE"
-    ]
   },
   {
     "source": "CryptoPotato",
@@ -248,16 +222,6 @@
     "tags": []
   },
   {
-    "source": "Decrypt",
-    "title": "Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision",
-    "link": "https://decrypt.co/377962/bitcoin-price-cpi-inflation-fed-rate-decision",
-    "publishedAt": "2026-09-11T15:32:08.000Z",
-    "preview": "Inflation held at 3.4% and core cooled annually, but a hot monthly core reading kept Fed hike odds near 62% while crypto markets rallied broadly.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "CoinDesk",
     "title": "India's richest state is exploring tokenizing its own assets to fund new infrastructure",
     "link": "https://www.coindesk.com/markets/2026/09/11/india-s-richest-state-is-exploring-tokenizing-its-own-assets-to-fund-new-infrastructure",
@@ -274,34 +238,6 @@
     "tags": [
       "BTC",
       "ETH"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Circle’s Noble shutdown leaves Cosmos racing to move $92 million in USDC",
-    "link": "https://cryptoslate.com/circles-noble-shutdown-leaves-cosmos-racing-to-move-92-million-in-usdc/",
-    "publishedAt": "2026-09-11T15:00:14.000Z",
-    "preview": "Holders can use supported exchanges, Noble DEXs or CCTP V1 beforehand; afterward, Circle’s manual redemption process requires approval. The post Circle’s Noble shutdown leaves Cosmos racing to move $92 million in USDC ap",
-    "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Treasury buys $5.2 billion of bonds as Bitcoin ETF flows stay negative",
-    "link": "https://cryptoslate.com/treasury-buys-5-2-billion-of-bonds-as-bitcoin-etf-flows-stay-negative/",
-    "publishedAt": "2026-09-11T14:30:12.000Z",
-    "preview": "The operation supported older bonds, but rising real yields showed why market plumbing had yet to ease Bitcoin’s funding backdrop. The post Treasury buys $5.2 billion of bonds as Bitcoin ETF flows stay negative appeared ",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Blockstream Refuses Ransom for Return of $47M in Bitcoin from Liquid Hack: 'It Is Theft'",
-    "link": "https://decrypt.co/377959/blockstream-refuses-ransom-for-return-of-47m-in-bitcoin-from-liquid-hack-it-is-theft",
-    "publishedAt": "2026-09-11T14:17:38.000Z",
-    "preview": "With 598.5 BTC still outstanding, the company says it will go to law enforcement should the funds not be returned.",
-    "tags": [
-      "BTC"
     ]
   },
   {
@@ -401,26 +337,6 @@
     "preview": "\"At what point do we stop calling this dude a gambler,\" one X user asked.",
     "tags": [
       "BTC"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Morning Minute: AI Agents Cut BTC Quantum Attack Benchmark by 86%",
-    "link": "https://decrypt.co/377948/morning-minute-ai-agents-cut-btc-quantum-attack-benchmark-by-86",
-    "publishedAt": "2026-09-11T12:10:23.000Z",
-    "preview": "Crypto majors are shaky ahead of this morning’s CPI print, but onchain is heating up for another big potential weekend.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "EU Regulator Says Prediction Markets Are 'Rife With Inside Trading'",
-    "link": "https://decrypt.co/377947/eu-regulator-says-prediction-markets-are-rife-with-inside-trading",
-    "publishedAt": "2026-09-11T12:06:24.000Z",
-    "preview": "ESMA also asks why Kalshi and Polymarket block some EU countries but not others, and notes VPNs get around the blocks.",
-    "tags": [
-      "Regulation"
     ]
   },
   {
@@ -535,16 +451,6 @@
     "tags": []
   },
   {
-    "source": "Decrypt",
-    "title": "Albuquerque Bans Bitcoin ATMs, Giving Operators 45 Days to Remove Them",
-    "link": "https://decrypt.co/377939/albuquerque-bans-bitcoin-atms-giving-operators-45-days-to-remove-them",
-    "publishedAt": "2026-09-11T10:10:41.000Z",
-    "preview": "A councilor said 90% of crypto kiosk transactions in the city are tied to fraud, calling the machines a conduit for crime.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "NewsBTC",
     "title": "TRON Expands MetaMask Connectivity Across B.AI, SUN.io, JustLend DAO and BitTorrent",
     "link": "https://www.newsbtc.com/news/tron-expands-metamask-connectivity-across-b-ai-sun-io-justlend-dao-and-bittorrent/",
@@ -581,14 +487,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Sam Bankman-Fried Asks Supreme Court to Overturn FTX Fraud Conviction",
-    "link": "https://decrypt.co/377931/sam-bankman-fried-asks-supreme-court-to-overturn-ftx-fraud-conviction",
-    "publishedAt": "2026-09-11T09:04:11.000Z",
-    "preview": "SBF’s lawyers say he was barred from arguing customers lost nothing, and call the $11 billion forfeiture an \"crushing fine.\"",
-    "tags": []
   },
   {
     "source": "Cointelegraph",
@@ -723,32 +621,6 @@
     "tags": []
   },
   {
-    "source": "Decrypt",
-    "title": "Senate Republicans Release Revised Clarity Act Ahead of September 15 Vote",
-    "link": "https://decrypt.co/377928/senate-republicans-revised-clarity-act-draft",
-    "publishedAt": "2026-09-10T21:18:48.000Z",
-    "preview": "The draft adds registration requirements for controlled trading protocols and leaves its ethics provisions largely unchanged.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "DeepSeek's New Model Nearly Matches GPT-6 Astra on Design—at 1.4% of the Cost",
-    "link": "https://decrypt.co/377917/deepseek-openai-gpt-6-astra-design-benchmark",
-    "publishedAt": "2026-09-10T21:16:03.000Z",
-    "preview": "OpenDesign put 13 AI models through the same design tasks. DeepSeek V4.1 Flash landed a point and a half behind GPT-6 Astra and roughly 70 times cheaper.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin",
-    "link": "https://decrypt.co/377925/ai-agents-slash-cost-quantum-attack-bitcoin",
-    "publishedAt": "2026-09-10T20:34:50.000Z",
-    "preview": "The ECDSA.Fail challenge cut a resource benchmark for one component of a potential quantum attack by 86%.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "CoinDesk",
     "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
     "link": "https://www.coindesk.com/policy/2026/09/10/new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-remains-murky",
@@ -785,24 +657,6 @@
     ]
   },
   {
-    "source": "Decrypt",
-    "title": "Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up",
-    "link": "https://decrypt.co/377601/coinbase-wallet-rebrand-robinhood-chain",
-    "publishedAt": "2026-09-10T18:51:04.000Z",
-    "preview": "Head of Product Ryan Kass says the return to Coinbase Wallet reflects a broader trading strategy, with the self-custody app serving as a testing ground for new assets and experiences.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Bitcoin Rally Cools, But a Golden Cross Is Coming",
-    "link": "https://decrypt.co/377903/bitcoin-price-golden-cross-coming",
-    "publishedAt": "2026-09-10T18:46:04.000Z",
-    "preview": "Bitcoin couldn't escape today's inflation-driven selloff, but a bearish pattern on its chart is about to flip for the first time since November.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "Coinbase CEO Backs CLARITY Act to Secure ‘Yes’ Vote on September 15",
     "link": "https://cryptopotato.com/coinbase-ceo-backs-clarity-act-to-secure-yes-vote-on-september-15/",
@@ -811,14 +665,6 @@
     "tags": [
       "Regulation"
     ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Banks Have Minutes, Not Weeks, to Fix Flaws as AI Speeds Up Attacks: BIS",
-    "link": "https://decrypt.co/377902/ai-hacks-shrinking-bank-time-fix-flaws-bis",
-    "publishedAt": "2026-09-10T18:13:13.000Z",
-    "preview": "The Bank for International Settlements says routine patching schedules are increasingly inadequate and cites guidance urging banks to accept planned downtime for urgent fixes.",
-    "tags": []
   },
   {
     "source": "Cointelegraph",
@@ -834,14 +680,6 @@
     "link": "https://www.coindesk.com/markets/2026/09/10/okx-brings-openai-and-anthropic-bets-to-europe-as-pre-ipo-trading-grows",
     "publishedAt": "2026-09-10T17:07:59.000Z",
     "preview": "The exchange is offering up to 10x leverage on private-company valuations alongside 100 tokenized stocks and ETFs.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "This Guy Cloned Sam Altman, Elon Musk, and Zuckerberg Into AI Bots. They Immediately Started Fighting",
-    "link": "https://decrypt.co/377898/sam-altman-elon-musk-zuckerberg-ai-bots",
-    "publishedAt": "2026-09-10T17:07:50.000Z",
-    "preview": "Kun Chen built chatbot versions of four AI CEOs on SpaceXAI's new Grok Bot templates, locked them in one chat, and told them to debate the AI race until they agreed on something.",
     "tags": []
   },
   {
@@ -915,16 +753,6 @@
     ]
   },
   {
-    "source": "Decrypt",
-    "title": "Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows",
-    "link": "https://decrypt.co/377889/anthropic-discloses-fourth-claude-hacking-incident-as-debate-around-regulation-grows",
-    "publishedAt": "2026-09-10T15:33:11.000Z",
-    "preview": "The company now says attacks during security tests exposed model behavior failures, after initially emphasizing errors in its testing infrastructure.",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
     "source": "CoinDesk",
     "title": "Bitcoin Bancorp snaps up thousands of defunct Bitcoin Depot ATMs for $620,000",
     "link": "https://www.coindesk.com/business/2026/09/10/a-quarter-of-bankrupt-bitcoin-depot-s-atms-snapped-up-for-less-than-usd1-million",
@@ -995,16 +823,6 @@
     "tags": []
   },
   {
-    "source": "Decrypt",
-    "title": "Bitcoin at $400K by 2030 Still 'Reasonable Target': Coinbase CEO",
-    "link": "https://decrypt.co/377875/bitcoin-at-400k-by-2030-still-reasonable-target-coinbase-ceo",
-    "publishedAt": "2026-09-10T13:04:27.000Z",
-    "preview": "Brian Armstrong argues the bottom is in, a year into the downturn, with the next halving roughly 18 months out.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "Solana sees record 263K tokens issued in a single day",
     "link": "https://cointelegraph.com/news/solana-record-263k-tokens-issued",
@@ -1023,14 +841,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Morning Minute: Hunter Biden’s LAPTOP Crashes",
-    "link": "https://decrypt.co/377867/morning-minute-hunter-bidens-laptop-crashes",
-    "publishedAt": "2026-09-10T12:10:48.000Z",
-    "preview": "The meme coin plunged on its debut, as recent alt leaders and many onchain darlings slipped in a nasty day for crypto.",
-    "tags": []
   },
   {
     "source": "Cointelegraph",
@@ -1059,14 +869,6 @@
     "tags": []
   },
   {
-    "source": "Decrypt",
-    "title": "Nasdaq Invests $100M in Kraken Parent Payward at $21B Valuation",
-    "link": "https://decrypt.co/377864/nasdaq-invests-100m-in-kraken-parent-payward-at-21b-valuation",
-    "publishedAt": "2026-09-10T11:28:55.000Z",
-    "preview": "Deutsche Börse's April stake implied a $13.3 billion valuation. Five months on, Nasdaq is paying at $21 billion.",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "Important Ripple News and XRP Price Update: September 10",
     "link": "https://cryptopotato.com/important-ripple-news-and-xrp-price-update-september-10/",
@@ -1074,16 +876,6 @@
     "preview": "Exchange Listed Funds Trust intends to launch an ETF that will let investors gain exposure to both S&P 500 and XRP.",
     "tags": [
       "XRP"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Vitalik Buterin Pushes Ethereum Plan to Slash Quantum-Safe Privacy Costs",
-    "link": "https://decrypt.co/377857/vitalik-buterin-pushes-ethereum-plan-to-slash-quantum-safe-privacy-costs",
-    "publishedAt": "2026-09-10T10:11:52.000Z",
-    "preview": "Buterin wants EIP-8288 in I-star, the upgrade after Hegota, and adopting it would make RISC-V Ethereum's canonical instruction set.",
-    "tags": [
-      "ETH"
     ]
   },
   {
@@ -1163,110 +955,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
-    "link": "https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email",
-    "publishedAt": "2026-09-09T23:02:23.000Z",
-    "preview": "The hardware wallet maker said a fake security alert claimed a hardware flaw could expose users’ recovery phrases.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns",
-    "link": "https://decrypt.co/377818/ai-math-best-problems-terence-tao",
-    "publishedAt": "2026-09-09T20:31:29.000Z",
-    "preview": "The Fields medalist points to a real race between OpenAI and Anthropic as proof: AI can now flatten a hard problem the moment someone starts working on it.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States",
-    "link": "https://decrypt.co/377810/crypto-banks-clarity-act-lobbying-senators",
-    "publishedAt": "2026-09-09T18:56:58.000Z",
-    "preview": "Crypto advocates and community bankers are targeting lawmakers in their home states as the Senate prepares for a September 15 procedural vote.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Apple Unveils Redesigned Siri AI and A20 Pro Chip as CEO John Ternus Makes Debut",
-    "link": "https://decrypt.co/377807/apple-redesigned-siri-ai-a20-pro-chip",
-    "publishedAt": "2026-09-09T17:50:14.000Z",
-    "preview": "The company's first fall keynote under new leadership paired a Gemini-powered Siri overhaul with Apple's first 2-nanometer chip, plus a $1,999 foldable iPhone that won't ship until October.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams",
-    "link": "https://decrypt.co/377804/secret-service-freezes-crypto-telegram-bazaar-xinbi",
-    "publishedAt": "2026-09-09T17:16:08.000Z",
-    "preview": "Blockchain sleuths at Elliptic traced the money, Treasury sanctioned the marketplace, and Xinbi—which ran $24 billion through a Telegram scam bazaar—called the freeze unfair.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "While Bitcoin Devs Debate Next Moves, IonQ Unveils Superion 256 Quantum Computer",
-    "link": "https://decrypt.co/377737/bitcoin-debate-ionq-quantum-computer",
-    "publishedAt": "2026-09-09T16:46:05.000Z",
-    "preview": "The company has built its first chips and begun testing prototypes as it seeks to manufacture quantum computers in larger quantities.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders",
-    "link": "https://decrypt.co/resources/what-is-laptop-hunter-bidens-meme-coin-targeting-trump-holders",
-    "publishedAt": "2026-09-09T16:40:50.000Z",
-    "preview": "The LAPTOP token launched on Base in September 2026, peaked two minutes later, and shed almost all of its value the same day.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Mexican Musician and Family Killed Over Bitcoin Cold Wallet Believed to Hold Millions",
-    "link": "https://decrypt.co/377795/mexican-family-killed-bitcoin-cold-wallet",
-    "publishedAt": "2026-09-09T16:16:04.000Z",
-    "preview": "Mexican prosecutors allege suspects targeted Camilo Séptimo keyboardist Jonathan Meléndez and his family while searching for a cold wallet they believed contained millions in Bitcoin.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Hunter Biden's LAPTOP Meme Coin Crashes 99% on Debut",
-    "link": "https://decrypt.co/377783/hunter-biden-laptop-meme-coin-crashes",
-    "publishedAt": "2026-09-09T15:47:09.000Z",
-    "preview": "LAPTOP hit a $190.81 peak within minutes of launching on Base, then shed roughly 99% as thin liquidity met a wave of selling.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Prediction Markets Abandon Cheap Oil as Brent Passes $100",
-    "link": "https://decrypt.co/377766/prediction-markets-abandon-cheap-oil-as-brent-passes-100",
-    "publishedAt": "2026-09-09T15:15:01.000Z",
-    "preview": "Myriad's $120 side overtook $55 at the start of September, while Polymarket puts WTI reaching $100 this month at 59%.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Consensys Is Splitting in Two as MetaMask Goes Its Own Way",
-    "link": "https://decrypt.co/377768/consensys-split-metamask-new-institutional-crypto-company",
-    "publishedAt": "2026-09-09T15:07:24.000Z",
-    "preview": "Consensys Software Inc. will become MetaMask, while a newly formed Consensys will take over the firm's Ethereum protocols and institutional blockchain infrastructure business.",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "German Finance Ministry Drafts 25% Tax on Crypto Gains From 2027",
-    "link": "https://decrypt.co/377764/german-finance-ministry-drafts-25-tax-on-crypto-gains-from-2027",
-    "publishedAt": "2026-09-09T14:37:18.000Z",
-    "preview": "Anything bought before 2027 keeps the twelve-month exemption, so the change lands only on Germany's future crypto buyers.",
-    "tags": []
   },
   {
     "source": "NewsBTC",
