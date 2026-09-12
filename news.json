@@ -1,5 +1,84 @@
 [
   {
+    "source": "NewsBTC",
+    "title": "Ethena Brings USDe and sUSDe to TRON, Expanding Digital Dollar Access Across Its Stablecoin Ecosystem",
+    "link": "https://www.newsbtc.com/news/ethena-brings-usde-and-susde-to-tron-expanding-digital-dollar-access-across-its-stablecoin-ecosystem/",
+    "publishedAt": "2026-09-12T11:31:26.000Z",
+    "preview": "Geneva and Lisbon, Sept. 12, 2026 – TRON DAO (“TRON”) and Ethena Labs (“Ethena”) today announced that USDe and sUSDe are live on the TRON network, expanding access to Ethena’s digital dollar products across one of the wo",
+    "tags": [
+      "TRX"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Ripple (XRP) Price Outlook: Two Key Metrics Are Flashing Warning Signs",
+    "link": "https://cryptopotato.com/ripple-xrp-price-outlook-two-key-metrics-are-flashing-warning-signs/",
+    "publishedAt": "2026-09-12T10:48:10.000Z",
+    "preview": "Meanwhile, another analyst outlined a different perspective, including a potential 600% rally in the making.",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Wall Street is building tokenized deposits to lock in customer balances",
+    "link": "https://cryptoslate.com/wall-street-is-building-tokenized-deposits-to-lock-in-customer-balances/",
+    "publishedAt": "2026-09-12T10:30:03.000Z",
+    "preview": "Imagine your company has enough money to pay a supplier, but the money is in its Singapore account and the bill must be paid from New York. If the transfer between those accounts has to wait until Monday, having enough c",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "BTC Settles at $77K After a Wild Ride, ETH Slumps Following Major Rally: Weekend Watch",
+    "link": "https://cryptopotato.com/btc-settles-at-77k-after-a-wild-ride-eth-slumps-following-major-rally-weekend-watch/",
+    "publishedAt": "2026-09-12T10:13:01.000Z",
+    "preview": "The privacy coins ZEC and XMR have rocketed once again on a daily scale.",
+    "tags": [
+      "BTC",
+      "ETH"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
+    "link": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
+    "publishedAt": "2026-09-12T10:11:01.000Z",
+    "preview": "Passports, selfies and home addresses were also handed over after the digital bank treated a fraudulent request as legitimate, but no customer funds were lost.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Bitwise is closing the lowest-fee Dogecoin ETF after rivals captured nearly all the capital",
+    "link": "https://cryptoslate.com/bitwise-is-closing-the-lowest-fee-dogecoin-etf-after-rivals-captured-nearly-all-the-capital/",
+    "publishedAt": "2026-09-12T09:00:19.000Z",
+    "preview": "BWOW held about $687,730 while the three spot products tracked by SoSoValue held $11.83 million as of Sept. 10. The post Bitwise is closing the lowest-fee Dogecoin ETF after rivals captured nearly all the capital appeare",
+    "tags": [
+      "DOGE"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Ethereum Whales Just Woke Up as ETH Exploded to 8-Month High: What’s Next?",
+    "link": "https://cryptopotato.com/ethereum-whales-just-woke-up-as-eth-exploded-to-8-month-high-whats-next/",
+    "publishedAt": "2026-09-12T07:40:37.000Z",
+    "preview": "What happened within the ETH ecosystem on Friday when the asset rocketed to an 8-month high?",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Blockstream bets 600 Bitcoin by rejecting Liquid hacker’s $50 million bounty demand",
+    "link": "https://cryptoslate.com/blockstream-bets-600-bitcoin-by-rejecting-liquid-hackers-50-million-bounty-demand/",
+    "publishedAt": "2026-09-12T07:20:37.000Z",
+    "preview": "Blockstream is refusing to pay the Liquid attacker nearly 600 Bitcoin (roughly $50 million), escalating a dispute over how the crypto industry should reward partial restitution. The standoff follows an unusual recovery f",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
     "source": "CryptoPotato",
     "title": "Bitcoin Investors Now Have the Full Picture Before the Fed’s Move: Here’s What It Says",
     "link": "https://cryptopotato.com/bitcoin-investors-now-have-the-full-picture-before-the-feds-move-heres-what-it-says/",
@@ -152,14 +231,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Why Circle is spending $400M to fix the last mile holding stablecoins back from real-world payouts",
-    "link": "https://cryptoslate.com/why-circle-is-spending-400m-to-fix-the-last-mile-holding-stablecoins-back-from-real-world-payouts/",
-    "publishedAt": "2026-09-11T19:05:03.000Z",
-    "preview": "The purchase could tighten Circle’s control of regulated payout infrastructure while partner banks retain their own risks and duties. The post Why Circle is spending $400M to fix the last mile holding stablecoins back fr",
-    "tags": []
-  },
-  {
     "source": "Cointelegraph",
     "title": "Hyperliquid’s biggest risk is regulation, says Ran Neuner",
     "link": "https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner",
@@ -188,16 +259,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Crypto exchange recovery rules split NES holders into winners and losers after $286M exploit fallout",
-    "link": "https://cryptoslate.com/crypto-exchange-recovery-rules-split-nes-holders-into-winners-and-losers-after-286m-exploit-fallout/",
-    "publishedAt": "2026-09-11T18:15:55.000Z",
-    "preview": "Binance Alpha uses two eligibility snapshots for swaps and refunds, while Kraken now supports only Ethereum-based NES. The post Crypto exchange recovery rules split NES holders into winners and losers after $286M exploit",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Robinhood Crypto Trading Volume Jumps 61% in August",
     "link": "https://decrypt.co/377982/robinhoods-crypto-volume-jumps-august",
@@ -221,14 +282,6 @@
     "link": "https://www.coindesk.com/news-analysis/2026/09/11/the-legal-drama-of-imprisoned-sam-bankman-fried-is-waiting-on-its-last-act",
     "publishedAt": "2026-09-11T17:12:45.000Z",
     "preview": "The fallen leader of the former top exchange FTX is looking for answers from the U.S. Supreme Court.",
-    "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Nasdaq deepens Kraken ties with proposed $100 million Payward investment",
-    "link": "https://cryptoslate.com/nasdaq-deepens-kraken-ties-with-proposed-100-million-payward-investment/",
-    "publishedAt": "2026-09-11T17:00:43.000Z",
-    "preview": "The expanded Payward relationship adds surveillance across five market categories while NETs remain a Q2 2027 target. The post Nasdaq deepens Kraken ties with proposed $100 million Payward investment appeared first on Cr",
     "tags": []
   },
   {
@@ -989,14 +1042,6 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial",
-    "link": "https://www.coindesk.com/business/2026/09/10/nasdaq-boerse-stuttgart-others-ask-eu-to-remove-or-increase-cap-in-tokenization-trial",
-    "publishedAt": "2026-09-10T13:56:54.000Z",
-    "preview": "The coalition warned that the current limit is too low, noting some existing European projects already exceed it.",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "Ethereum Price Analysis: Consolidation at $2.5K Tests Momentum as On-Chain Activity Surges",
     "link": "https://cryptopotato.com/ethereum-price-analysis-consolidation-at-2-5k-tests-momentum-as-on-chain-activity-surges/",
@@ -1133,37 +1178,11 @@
     "tags": []
   },
   {
-    "source": "CryptoPotato",
-    "title": "Alessio Vinassa Unveils an Emerging Technology Investment Approach Shaped by Financial Challenges",
-    "link": "https://cryptopotato.com/alessio-vinassa-unveils-an-emerging-technology-investment-approach-shaped-by-financial-challenges/",
-    "publishedAt": "2026-09-10T09:06:55.000Z",
-    "preview": "[PRESS RELEASE – Dubai, United Arab Emirates, September 10th, 2026] Tech entrepreneur and angel investor Alessio Vinassa today announced the expansion of his investment framework focusing on the convergence of artificial",
-    "tags": []
-  },
-  {
     "source": "NewsBTC",
     "title": "Zoomex Launches ZWTC 2026 Multi-Asset Trading Championship With a Record Prize Pool of Up to 5 Million USDT",
     "link": "https://www.newsbtc.com/news/zoomex-launches-zwtc-2026-multi-asset-trading-championship-with-a-record-prize-pool-of-up-to-5-million-usdt/",
     "publishedAt": "2026-09-10T07:37:04.000Z",
     "preview": "Returning for its third year, Zoomex’s flagship global trading competition expands across crypto perpetuals, stock contracts, AI-powered trading, team competition, and interactive rewards Global, 10 September 2026 — Zoom",
-    "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Bitcoin Whales Remain on the Sidelines Ahead of Chaotic 10 Days: What’s Coming?",
-    "link": "https://cryptopotato.com/bitcoin-whales-remain-on-the-sidelines-ahead-of-chaotic-10-days-whats-coming/",
-    "publishedAt": "2026-09-10T07:30:34.000Z",
-    "preview": "The largest market participants appear reluctant to make a move as the asset struggles below $80,000. Or, maybe there are waiting for these major developments to unfold.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Another Major Pi Network (PI) Update Is Here – What Changes for Pioneers?",
-    "link": "https://cryptopotato.com/another-major-pi-network-pi-update-is-here-what-changes-for-pioneers/",
-    "publishedAt": "2026-09-10T06:35:19.000Z",
-    "preview": "Pi Network rolled out another update as it continues expanding the utility of its vast Node ecosystem.",
     "tags": []
   },
   {
@@ -1311,15 +1330,5 @@
     "publishedAt": "2026-09-07T17:45:00.000Z",
     "preview": "Read the latest update on Philippines Central Bank Weighs Freeze On New Payment Operator Licenses.",
     "tags": []
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Capital B Raises €25.3M And Buys 376 Bitcoin For Treasury",
-    "link": "https://www.newsbtc.com/news/capital-b-raises-25-3m-and-buys-376-bitcoin-for-treasury/",
-    "publishedAt": "2026-09-07T17:00:00.000Z",
-    "preview": "Read the latest update on Capital B Raises €25.3M And Buys 376 Bitcoin For Treasury.",
-    "tags": [
-      "BTC"
-    ]
   }
 ]
