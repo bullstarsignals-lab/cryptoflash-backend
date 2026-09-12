@@ -1,5 +1,41 @@
 [
   {
+    "source": "CoinDesk",
+    "title": "Staked ether should be seen as the benchmark of the decentralized economy",
+    "link": "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy",
+    "publishedAt": "2026-09-12T14:00:00.000Z",
+    "preview": "The yield-generating asset has a special place in the digital asset investor’s portfolio, argues GlobalStake’s Ryan Haczynski.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "The dilution trap where Bitcoin holdings rise while shareholder value stalls",
+    "link": "https://cryptoslate.com/the-dilution-trap-where-bitcoin-holdings-rise-while-shareholder-value-stalls/",
+    "publishedAt": "2026-09-12T13:40:26.000Z",
+    "preview": "Buying shares in a Bitcoin treasury company gives ownership in a business that holds Bitcoin, and management decides how to pay for the coins and when to buy or sell them. The company also has bills to pay and may owe mo",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "ChatGPT Images 2.5 vs Nano Banana 2: Which One is Better?",
+    "link": "https://decrypt.co/377998/chatgpt-images-2-5-vs-nano-banana-2-review",
+    "publishedAt": "2026-09-12T13:01:03.000Z",
+    "preview": "OpenAI's new image model promises sharper detail and more precise editing. We ran it against Google's Nano Banana 2 across six categories to see how it compares.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Revolut Exposed Passports and Bitcoin Records After Fake Government Request: Report",
+    "link": "https://cryptopotato.com/revolut-exposed-passports-and-bitcoin-records-after-fake-government-request-report/",
+    "publishedAt": "2026-09-12T12:50:32.000Z",
+    "preview": "The exposed information was sensitive, extensive, and included identity documents, financial records, and crypto activity.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
     "source": "NewsBTC",
     "title": "Ethena Brings USDe and sUSDe to TRON, Expanding Digital Dollar Access Across Its Stablecoin Ecosystem",
     "link": "https://www.newsbtc.com/news/ethena-brings-usde-and-susde-to-tron-expanding-digital-dollar-access-across-its-stablecoin-ecosystem/",
@@ -207,17 +243,6 @@
     "preview": "Dogecoin ETF investors have pulled more than $343 million so far in September.",
     "tags": [
       "DOGE"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Philadelphia Fed finds Bitcoin traders follow whale signals faster than Ethereum users",
-    "link": "https://cryptoslate.com/philadelphia-fed-finds-bitcoin-traders-follow-whale-signals-faster-than-ethereum-users/",
-    "publishedAt": "2026-09-11T20:10:09.000Z",
-    "preview": "A Philadelphia Fed event study found broad same-direction activity among non-whale BTC wallets, while ETH's clearest response was concentrated among larger sellers. The post Philadelphia Fed finds Bitcoin traders follow ",
-    "tags": [
-      "BTC",
-      "ETH"
     ]
   },
   {
@@ -1026,14 +1051,6 @@
     ]
   },
   {
-    "source": "CoinDesk",
-    "title": "MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending",
-    "link": "https://www.coindesk.com/business/2026/09/08/moneygram-unveils-stablecoin-backed-card-as-digital-dollars-move-into-everyday-spending",
-    "publishedAt": "2026-09-10T14:30:00.000Z",
-    "preview": "The remittance giant is rolling out a Visa card that lets customers hold dollars and spend from a stablecoin-backed balance.",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "Nasdaq Ventures to Invest $100M in Kraken Parent Payward at $21B Valuation",
     "link": "https://cryptopotato.com/nasdaq-ventures-to-invest-100m-in-kraken-parent-payward-at-21b-valuation/",
@@ -1170,14 +1187,6 @@
     "tags": []
   },
   {
-    "source": "CryptoPotato",
-    "title": "Zamanat Targets GCC’s $250 Billion SME Financing Gap With Up to $100 Million Tokenized Private Credit Fund",
-    "link": "https://cryptopotato.com/zamanat-targets-gccs-250-billion-sme-financing-gap-with-up-to-100-million-tokenized-private-credit-fund/",
-    "publishedAt": "2026-09-10T09:07:05.000Z",
-    "preview": "[PRESS RELEASE – Dubai, UAE, September 10th, 2026] Zamanat Fund CEIC Limited is the company’s first live proof point for regulated fund tokenization on ZIGChain focused on GCC private credit. Zamanat today announced its ",
-    "tags": []
-  },
-  {
     "source": "NewsBTC",
     "title": "Zoomex Launches ZWTC 2026 Multi-Asset Trading Championship With a Record Prize Pool of Up to 5 Million USDT",
     "link": "https://www.newsbtc.com/news/zoomex-launches-zwtc-2026-multi-asset-trading-championship-with-a-record-prize-pool-of-up-to-5-million-usdt/",
@@ -1280,14 +1289,6 @@
     "tags": [
       "ETH"
     ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "German Finance Ministry Drafts 25% Tax on Crypto Gains From 2027",
-    "link": "https://decrypt.co/377764/german-finance-ministry-drafts-25-tax-on-crypto-gains-from-2027",
-    "publishedAt": "2026-09-09T14:37:18.000Z",
-    "preview": "Anything bought before 2027 keeps the twelve-month exemption, so the change lands only on Germany's future crypto buyers.",
-    "tags": []
   },
   {
     "source": "NewsBTC",
