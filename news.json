@@ -1,5 +1,49 @@
 [
   {
+    "source": "CryptoSlate",
+    "title": "Audited DeFi protocols lost $885M to attacks that occurred completely outside their audit scopes",
+    "link": "https://cryptoslate.com/audited-defi-protocols-lost-885m-to-attacks-that-occurred-completely-outside-their-audit-scopes/",
+    "publishedAt": "2026-09-13T20:15:08.000Z",
+    "preview": "The ack3-affiliated preprint found a 72.1% outside-scope share after excluding two H1 2026 outliers, while August incidents add operational context. The post Audited DeFi protocols lost $885M to attacks that occurred com",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Bitcoin Price Analysis: BTC Faces a Make-or-Break Week – What’s the Most Likely Scenario?",
+    "link": "https://cryptopotato.com/bitcoin-price-analysis-btc-faces-a-make-or-break-week-whats-the-most-likely-scenario/",
+    "publishedAt": "2026-09-13T19:36:50.000Z",
+    "preview": "Bitcoin is consolidating around $77.3K after a powerful breakout from the $67K area. While the broader structure has improved significantly, BTC is now facing an important resistance cluster near $80K-$82K. Meanwhile, th",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Coinbase gives community banks a stablecoin bridge while supplying infrastructure underneath",
+    "link": "https://cryptoslate.com/coinbase-gives-community-banks-a-stablecoin-bridge-while-supplying-infrastructure-underneath/",
+    "publishedAt": "2026-09-13T19:10:30.000Z",
+    "preview": "Banks retain the customer interface, while undisclosed pricing, data, compliance and settlement terms will determine who captures the value. The post Coinbase gives community banks a stablecoin bridge while supplying inf",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Is Clarity dead? A vibes-based analysis: State of Crypto",
+    "link": "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto",
+    "publishedAt": "2026-09-13T18:45:08.000Z",
+    "preview": "I dunno, flip a coin.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Malicious bots are actively probing exposed Bitcoin payment servers to steal master administrative keys",
+    "link": "https://cryptoslate.com/malicious-bots-are-actively-probing-exposed-bitcoin-payment-servers-to-steal-master-administrative-keys/",
+    "publishedAt": "2026-09-13T18:30:17.000Z",
+    "preview": "The risk is limited to manually exposed APIs, and version 2.4.4 closes the standard public path. The post Malicious bots are actively probing exposed Bitcoin payment servers to steal master administrative keys appeared f",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
     "source": "CryptoPotato",
     "title": "What Happens to XRP if the CLARITY Act Vote Fails on September 15? AI Maps the Downside",
     "link": "https://cryptopotato.com/what-happens-to-xrp-if-the-clarity-act-vote-fails-on-september-15-ai-maps-the-downside/",
@@ -149,14 +193,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Crypto wallet creators now have just 24 hours to alert regulators when flaws are exploited",
-    "link": "https://cryptoslate.com/crypto-wallet-creators-now-have-just-24-hours-to-alert-regulators-when-flaws-are-exploited/",
-    "publishedAt": "2026-09-13T11:45:33.000Z",
-    "preview": "Qualifying commercial wallet hardware and software now face a rapid three-stage reporting process for serious security events. The post Crypto wallet creators now have just 24 hours to alert regulators when flaws are exp",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "Ethereum ETFs Stay Strong as Bitcoin Funds Lose $460M in a Week",
     "link": "https://cryptopotato.com/ethereum-etfs-stay-strong-as-bitcoin-funds-lose-460m-in-a-week/",
@@ -252,14 +288,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Thailand’s stablecoin proposal would block transfers to other people’s wallets",
-    "link": "https://cryptoslate.com/thailands-stablecoin-proposal-would-block-transfers-to-other-peoples-wallets/",
-    "publishedAt": "2026-09-12T21:25:29.000Z",
-    "preview": "Licensed crypto firms could accept deposits and withdrawals only through accounts verified as the customer’s own. The post Thailand’s stablecoin proposal would block transfers to other people’s wallets appeared first on ",
-    "tags": []
-  },
-  {
     "source": "CoinDesk",
     "title": "OpenAI IPO won't happen this year, says Sam Altman",
     "link": "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman",
@@ -273,16 +301,6 @@
     "link": "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
     "publishedAt": "2026-09-12T21:09:06.000Z",
     "preview": "The company is closing its Copenhagen IT site while maintaining Bratislava and opening a new hub in Vietnam to reduce costs.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Bitcoin’s $80,000 ceiling looks fragile after stocks shrugged off near-5% Treasury yields",
-    "link": "https://cryptoslate.com/bitcoins-80000-ceiling-looks-different-after-stocks-shrugged-off-near-5-treasury-yields/",
-    "publishedAt": "2026-09-12T20:20:10.000Z",
-    "preview": "With Bitcoin near $77,743 and weekend options volatility elevated, Wednesday’s Fed decision will test whether the gap persists. The post Bitcoin’s $80,000 ceiling looks fragile after stocks shrugged off near-5% Treasury ",
     "tags": [
       "BTC"
     ]
@@ -1016,14 +1034,6 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "The 3 Most Important Things to Know About the CLARITY Act",
-    "link": "https://cryptopotato.com/the-3-most-important-things-to-know-about-the-clarity-act/",
-    "publishedAt": "2026-09-11T08:04:05.000Z",
-    "preview": "Here are some of the most important things about the CLARITY Act as it heads for a critical Senate vote set for September 15.",
-    "tags": []
-  },
-  {
     "source": "Cointelegraph",
     "title": "Bitwise to put down Dogecoin ETF less than a year after launch",
     "link": "https://cointelegraph.com/news/bitwise-put-down-dogecoin-etf-year-launch",
@@ -1055,14 +1065,6 @@
     "link": "https://cointelegraph.com/news/revised-clarity-act-targets-non-decentralized-defi-operators",
     "publishedAt": "2026-09-11T06:08:26.000Z",
     "preview": "The bill’s ethics section remained largely unchanged despite being one of the main points of contention ahead of a pivotal Senate vote.",
-    "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "India starts tokenizing $620 billion corporate bond market with digital rupee settlement",
-    "link": "https://www.coindesk.com/markets/2026/09/11/india-starts-tokenizing-usd620-billion-corporate-bond-market-with-digital-rupee-settlement",
-    "publishedAt": "2026-09-11T05:13:15.000Z",
-    "preview": "SEBI’s Demat 2.0 pilot turns corporate bonds into digital tokens and settles payment through the RBI’s wholesale digital rupee, with secondary trading and retail access expected in later phases.",
     "tags": []
   },
   {
