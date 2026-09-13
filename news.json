@@ -1,6 +1,80 @@
 [
   {
     "source": "CryptoSlate",
+    "title": "Bitcoin’s oil risk stretches into 2027 as IEA cuts supply outlook again",
+    "link": "https://cryptoslate.com/bitcoins-oil-risk-stretches-into-2027-as-iea-cuts-supply-outlook-again/",
+    "publishedAt": "2026-09-13T14:50:15.000Z",
+    "preview": "Weaker oil demand offers a counterweight, but the lower supply forecast complicates the case for financing relief. The post Bitcoin’s oil risk stretches into 2027 as IEA cuts supply outlook again appeared first on Crypto",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Why 90% of your DeFi trades are quietly being routed back to Wall Street market makers",
+    "link": "https://cryptoslate.com/why-90-of-your-defi-trades-are-quietly-being-routed-back-to-wall-street-market-makers/",
+    "publishedAt": "2026-09-13T13:45:40.000Z",
+    "preview": "Open Jupiter, tell it you want to swap SOL for USDC, check the price, and press the button. From the user's point of view, there is not much more to it. So it's only natural to assume that Jupiter is where the trade happ",
+    "tags": [
+      "SOL"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Could XRP Actually Flip Bitcoin? Former Ripple CTO Says Yes – But the Math Is Brutal",
+    "link": "https://cryptopotato.com/could-xrp-actually-flip-bitcoin-former-ripple-cto-says-yes-but-the-math-is-brutal/",
+    "publishedAt": "2026-09-13T13:30:35.000Z",
+    "preview": "ETH couldn't do it, but can XRP?",
+    "tags": [
+      "BTC",
+      "ETH",
+      "XRP"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "AI Agents Spending Money Online? New Research Says Not Really",
+    "link": "https://decrypt.co/378103/ai-agents-spending-money-research",
+    "publishedAt": "2026-09-13T13:01:03.000Z",
+    "preview": "TRM examined roughly $52.7 million across 198.9 million settlements using the x402 protocol. Most of it isn’t coming from AI agents, it says.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Fed rate hike is about Wall Street, not inflation, says economist",
+    "link": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
+    "publishedAt": "2026-09-13T13:00:00.000Z",
+    "preview": "Goldman Sachs late Friday became the last of the major banks to retract its forecast of no rate hike next week.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
+    "link": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
+    "publishedAt": "2026-09-13T13:00:00.000Z",
+    "preview": "Stablecoins' “next battleground is in emerging markets,” one expert said, as Circle looks to expand USDC's reach where rival Tether has long been strong.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "UK company sells entire Bitcoin reserve to return 669 BTC to shareholders – here is who actually gets paid",
+    "link": "https://cryptoslate.com/uk-company-sells-entire-bitcoin-reserve-to-return-669-btc-to-shareholders-here-is-who-actually-gets-paid/",
+    "publishedAt": "2026-09-13T12:50:18.000Z",
+    "preview": "The company expects settlement by Sept. 28 after selling its entire 669.4867 BTC treasury. The post UK company sells entire Bitcoin reserve to return 669 BTC to shareholders – here is who actually gets paid appeared firs",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns",
+    "link": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
+    "publishedAt": "2026-09-13T12:00:00.000Z",
+    "preview": "The crypto industry eagerly awaits a September 15 vote, though it might not happen. Or maybe it will. Or it might get delayed or reappear in some other form.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
     "title": "Crypto wallet creators now have just 24 hours to alert regulators when flaws are exploited",
     "link": "https://cryptoslate.com/crypto-wallet-creators-now-have-just-24-hours-to-alert-regulators-when-flaws-are-exploited/",
     "publishedAt": "2026-09-13T11:45:33.000Z",
@@ -219,16 +293,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "XRP’s 30% monthly rebound meets a $4.6 million liquidity trial inside XRPL’s $1.1 billion stablecoin boom",
-    "link": "https://cryptoslate.com/xrps-30-monthly-rebound-meets-a-4-6-million-liquidity-trial-inside-xrpls-1-1-billion-stablecoin-boom/",
-    "publishedAt": "2026-09-12T16:15:05.000Z",
-    "preview": "Monthly DEX volume more than doubled, yet XRP routing and market-maker holding time remain unmeasured. The post XRP’s 30% monthly rebound meets a $4.6 million liquidity trial inside XRPL’s $1.1 billion stablecoin boom ap",
-    "tags": [
-      "XRP"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "Bitcoin’s 24% Rally Hit a Wall: CryptoQuant Reveals What Comes Next",
     "link": "https://cryptopotato.com/bitcoins-24-rally-hit-a-wall-cryptoquant-reveals-what-comes-next/",
@@ -302,16 +366,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Revolut tricked into handing hackers the passports and Bitcoin histories of wealthy customers",
-    "link": "https://cryptoslate.com/revolut-tricked-into-handing-hackers-the-passports-and-bitcoin-histories-of-wealthy-customers/",
-    "publishedAt": "2026-09-12T15:30:34.000Z",
-    "preview": "Revolut disclosed customers’ passports, verification selfies and Bitcoin transaction histories after treating a fraudulent government request as legitimate. Affected customers were told Friday that the disclosed informat",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "Nvidia considers $10B investment in potential record Anthropic IPO: Reuters",
     "link": "https://cointelegraph.com/news/nvidia-considers-10b-investment-in-anthropic-record-ipo-reuters",
@@ -336,16 +390,6 @@
     "publishedAt": "2026-09-12T15:01:03.000Z",
     "preview": "The surveillance mod on GTA V brings the privacy fight to Los Santos, where players can demolish the cameras tracking them.",
     "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "XRP Ledger just quietly activated critical foundation for its upcoming new lending protocol",
-    "link": "https://cryptoslate.com/xrp-ledger-just-quietly-activated-critical-foundation-for-its-upcoming-new-lending-protocol/",
-    "publishedAt": "2026-09-12T14:40:43.000Z",
-    "preview": "fixCleanup3_3_0 corrects AMM, vault, lending, Checks and pseudo-account code paths without launching XRPL’s pending feature amendments. The post XRP Ledger just quietly activated critical foundation for its upcoming new ",
-    "tags": [
-      "XRP"
-    ]
   },
   {
     "source": "CoinDesk",
@@ -1020,32 +1064,12 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "Ripple puts AI agents inside its $1 billion corporate treasury bet",
-    "link": "https://www.coindesk.com/markets/2026/09/11/ripple-puts-ai-agents-inside-its-usd1-billion-corporate-treasury-bet",
-    "publishedAt": "2026-09-11T04:25:21.000Z",
-    "preview": "The software can monitor cash, risk and forecasts and suggest financial moves, but humans still have to approve every action.",
-    "tags": [
-      "XRP"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "Brevo login flaw enabled phishing email targeting 347K Trezor subscribers",
     "link": "https://cointelegraph.com/news/brevo-login-flaw-trezor-bitbox-cointracking-phishing",
     "publishedAt": "2026-09-11T04:21:14.000Z",
     "preview": "Trezor told Cointelegraph that the phishing email was sent to 347,000 subscribers and said it is treating every address as “known to the attacker and possibly reusable for phishing.”",
     "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "XRP Faces Key Test as Historical Pattern Points to Possible Pullback",
-    "link": "https://cryptopotato.com/xrp-faces-key-test-as-historical-pattern-points-to-possible-pullback/",
-    "publishedAt": "2026-09-11T04:03:55.000Z",
-    "preview": "XRP's weekly Super Trend turned bullish in August, but the same signal preceded sharp corrections in three earlier cycles.",
-    "tags": [
-      "XRP"
-    ]
   },
   {
     "source": "Cointelegraph",
@@ -1084,29 +1108,11 @@
     ]
   },
   {
-    "source": "CoinDesk",
-    "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
-    "link": "https://www.coindesk.com/policy/2026/09/10/new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-remains-murky",
-    "publishedAt": "2026-09-10T20:21:57.000Z",
-    "preview": "The Clarity Act needs 60 votes when the Senate returns from its recess next week. Republicans circulated a fresh draft on Thursday ahead of the vote.",
-    "tags": []
-  },
-  {
     "source": "Cointelegraph",
     "title": "ESMA warns growing crypto ties could amplify risks to traditional finance",
     "link": "https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance",
     "publishedAt": "2026-09-10T20:10:29.000Z",
     "preview": "The EU securities regulator flagged tokenized equities, DeFi exploits and prediction markets as areas where growing crypto ties could pose risks to the broader financial system.",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Why a new SEC plan could ease a legal headache for tokenized securities",
-    "link": "https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities",
-    "publishedAt": "2026-09-10T19:01:30.000Z",
-    "preview": "The SEC's new proposal to overhaul transfer-agent rules could eliminate duplicate offchain shareholder records, reducing reconciliation costs and legal uncertainty for tokenized securities.",
     "tags": [
       "Regulation"
     ]
@@ -1282,14 +1288,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders",
-    "link": "https://decrypt.co/resources/what-is-laptop-hunter-bidens-meme-coin-targeting-trump-holders",
-    "publishedAt": "2026-09-09T16:40:50.000Z",
-    "preview": "The LAPTOP token launched on Base in September 2026, peaked two minutes later, and shed almost all of its value the same day.",
-    "tags": []
   },
   {
     "source": "NewsBTC",
