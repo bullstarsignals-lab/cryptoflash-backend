@@ -1,5 +1,80 @@
 [
   {
+    "source": "CryptoPotato",
+    "title": "What Happens to XRP if the CLARITY Act Vote Fails on September 15? AI Maps the Downside",
+    "link": "https://cryptopotato.com/what-happens-to-xrp-if-the-clarity-act-vote-fails-on-september-15-ai-maps-the-downside/",
+    "publishedAt": "2026-09-13T18:10:33.000Z",
+    "preview": "XRP investors brace for a potentially volatile 48-hour period as US Senate is scheuled to hold a cloture vote on the motion to proceed with the CLARITY Act.",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Cosmos is back online after outage, but Ledger users still can’t see or send their ATOM",
+    "link": "https://cryptoslate.com/cosmos-is-back-online-after-outage-but-ledger-users-still-cant-see-or-send-their-atom/",
+    "publishedAt": "2026-09-13T17:55:22.000Z",
+    "preview": "Balances, history and transactions remain unavailable in the app, but Ledger lists Cosmostation and Keplr for urgent access. The post Cosmos is back online after outage, but Ledger users still can’t see or send their ATO",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Quantum-proof blockchain: why math, not machines, holds the key",
+    "link": "https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key",
+    "publishedAt": "2026-09-13T17:00:00.000Z",
+    "preview": "lockchains don’t need quantum computers to be quantum-safe, argues Optimum co-founder and MIT professor Muriel Médard. Classic math already gives us the tools.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Why AI faces an immediately difficult choice: Nationalize or decentralize – AI’s 2026 slowdown dilemma",
+    "link": "https://cryptoslate.com/does-ai-face-an-immediately-difficult-choice-nationalize-or-decentralize-ais-2026-slowdown-dilemma/",
+    "publishedAt": "2026-09-13T16:55:14.000Z",
+    "preview": "His three-stage proposal points toward binding cross-lab limits, a narrow public brake and independently distributed scrutiny. The post Why AI faces an immediately difficult choice: Nationalize or decentralize – AI’s 202",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-09-13T16:47:53.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Critical Bitcoin Lightning bugs exposed nodes to fund theft and restart failure",
+    "link": "https://cryptoslate.com/critical-bitcoin-lightning-bugs-exposed-nodes-to-fund-theft-and-restart-failure/",
+    "publishedAt": "2026-09-13T15:55:14.000Z",
+    "preview": "LDK v0.2.6 addresses small splice-related fund losses and a payment-handling flaw that could prevent saved channel state from loading. The post Critical Bitcoin Lightning bugs exposed nodes to fund theft and restart fail",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "US Bond Market Is Flashing a Major Warning: Is This the Setup Bitcoin Was Built For?",
+    "link": "https://cryptopotato.com/us-bond-market-is-flashing-a-major-warning-is-this-the-setup-bitcoin-was-built-for/",
+    "publishedAt": "2026-09-13T15:44:34.000Z",
+    "preview": "The US bond market is sending increasingly uncomfortable signals. How does BTC fit into this?",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Bitcoin’s slide below $77,000 sets up a Monday tech test as AI leaders sound warning",
+    "link": "https://cryptoslate.com/bitcoins-slide-below-77000-sets-up-a-monday-tech-test-as-ai-leaders-sound-warning/",
+    "publishedAt": "2026-09-13T15:20:10.000Z",
+    "preview": "Sunday’s 0.8% decline extends earlier weakness, while AI slowdown calls and the coming Fed meeting pose separate risks. The post Bitcoin’s slide below $77,000 sets up a Monday tech test as AI leaders sound warning appear",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
     "source": "CryptoSlate",
     "title": "Bitcoin’s oil risk stretches into 2027 as IEA cuts supply outlook again",
     "link": "https://cryptoslate.com/bitcoins-oil-risk-stretches-into-2027-as-iea-cuts-supply-outlook-again/",
@@ -221,16 +296,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "The biggest vulnerability in your Bitcoin wallet might be the shipping label",
-    "link": "https://cryptoslate.com/your-bitcoin-wallet-has-a-shipping-problem/",
-    "publishedAt": "2026-09-12T19:30:23.000Z",
-    "preview": "Hardware wallets might be able to protect your keys, but the paperwork from buying them could expose your identity. To buy a hardware wallet, you give a company your name and address so it can send you a device designed ",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "CoinDesk",
     "title": "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
     "link": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
@@ -247,16 +312,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Why Bitcoin initially held its gain as rate traders put September hike odds at 85%",
-    "link": "https://cryptoslate.com/why-bitcoin-initially-held-its-gain-as-rate-traders-put-september-hike-odds-at-85/",
-    "publishedAt": "2026-09-12T18:20:06.000Z",
-    "preview": "Gasoline drove much of August's headline jump, but faster monthly core inflation kept Waller's warning alive. The post Why Bitcoin initially held its gain as rate traders put September hike odds at 85% appeared first on ",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "Why Ripple (XRP)? 21Shares Highlights 4 Reasons Investors Should Take Notice",
     "link": "https://cryptopotato.com/why-ripple-xrp-21shares-highlights-4-reasons-investors-should-take-notice/",
@@ -265,14 +320,6 @@
     "tags": [
       "XRP"
     ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Stablecoins make sending money easy until someone needs to spend it",
-    "link": "https://cryptoslate.com/stablecoins-make-sending-money-easy-until-someone-needs-to-spend-it/",
-    "publishedAt": "2026-09-12T17:30:53.000Z",
-    "preview": "When you send money to someone abroad, the confirmation on your phone is only your half of the transaction: the other half belongs to the person who has to use it. Their rent may be due in local currency. Their nearest c",
-    "tags": []
   },
   {
     "source": "Decrypt",
@@ -285,14 +332,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "The challenge for AI agents is deciding who pays for automated errors",
-    "link": "https://cryptoslate.com/your-ai-shopping-agent-has-a-wallet-but-needs-a-refund-policy/",
-    "publishedAt": "2026-09-12T16:50:51.000Z",
-    "preview": "Imagine asking an AI assistant to book a decent hotel for a weekend away. You give it a budget and say you’d like somewhere near the center, then it finds a room, pays, and sends you the confirmation. The hotel is within",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "Bitcoin’s 24% Rally Hit a Wall: CryptoQuant Reveals What Comes Next",
     "link": "https://cryptopotato.com/bitcoins-24-rally-hit-a-wall-cryptoquant-reveals-what-comes-next/",
@@ -300,17 +339,6 @@
     "preview": "Bitcoin's impressive recovery that started in mid-August ran into trouble. The question is what's next?",
     "tags": [
       "BTC"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-09-12T16:09:41.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
     ]
   },
   {
@@ -1014,14 +1042,6 @@
     "tags": []
   },
   {
-    "source": "CryptoPotato",
-    "title": "Senate Republicans Update CLARITY Act Before September 15 Vote",
-    "link": "https://cryptopotato.com/senate-republicans-update-clarity-act-before-september-15-vote/",
-    "publishedAt": "2026-09-11T06:45:58.000Z",
-    "preview": "More than 115 Democratic \"wins\" are now reportedly part of the CLARITY Act, but ethics rules remain unchanged.",
-    "tags": []
-  },
-  {
     "source": "CoinDesk",
     "title": "Kalshi wants 24/7 Tesla and Nvidia perps as Wall Street fights over who regulates them",
     "link": "https://www.coindesk.com/markets/2026/09/11/kalshi-wants-24-7-tesla-and-nvidia-perps-as-wall-street-fights-over-who-regulates-them",
@@ -1043,24 +1063,6 @@
     "link": "https://www.coindesk.com/markets/2026/09/11/india-starts-tokenizing-usd620-billion-corporate-bond-market-with-digital-rupee-settlement",
     "publishedAt": "2026-09-11T05:13:15.000Z",
     "preview": "SEBI’s Demat 2.0 pilot turns corporate bonds into digital tokens and settles payment through the RBI’s wholesale digital rupee, with secondary trading and retail access expected in later phases.",
-    "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Bitcoin below $77,000, Zcash leads losses as traders bet on a Fed rate hike",
-    "link": "https://www.coindesk.com/markets/2026/09/11/bitcoin-below-usd77-000-zcash-leads-losses-as-traders-bet-on-a-fed-rate-hike",
-    "publishedAt": "2026-09-11T04:46:15.000Z",
-    "preview": "Ninety-five of the CoinDesk 100 fell over the past 24 hours, and bitcoin has shed more than 5% on the week.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Tag Markets Names Craig Lund Chief Executive Officer",
-    "link": "https://cryptopotato.com/tag-markets-names-craig-lund-chief-executive-officer/",
-    "publishedAt": "2026-09-11T04:33:29.000Z",
-    "preview": "[PRESS RELEASE – Dubai, United Arab Emirates, September 10th, 2026] The appointment brings a veteran of regulated digital-asset and brokerage businesses to a firm turning its focus from growth alone to the foundations th",
     "tags": []
   },
   {
