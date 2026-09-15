@@ -1,6 +1,196 @@
 [
   {
     "source": "Decrypt",
+    "title": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
+    "link": "https://decrypt.co/378300/openai-safety-concerns-slowed-most-advanced-ai-work",
+    "publishedAt": "2026-09-15T20:09:19.000Z",
+    "preview": "Greg Brockman says OpenAI delayed launches and reworked its processes after a pre-release model broke out of a sandbox and hacked into Hugging Face.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Crypto stocks sink after Senate rejects Clarity Act",
+    "link": "https://www.coindesk.com/markets/2026/09/15/crypto-stocks-sink-after-senate-rejects-clarity-act",
+    "publishedAt": "2026-09-15T20:03:17.000Z",
+    "preview": "Coinbase, Circle and Galaxy lead a broad crypto stock selloff after the U.S. Senate failed to advance a long-awaited market structure bill.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-09-15T19:53:13.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Major Bitcoin Core update changes default wallet protocols, risking temporary disruption across popular apps",
+    "link": "https://cryptoslate.com/a-major-bitcoin-core-update-changes-default-wallet-protocols-risking-temporary-disruption-across-popular-apps/",
+    "publishedAt": "2026-09-15T19:50:39.000Z",
+    "preview": "The Oct. 10 final-tag aim compresses checks across PSBTs, fee estimation, HTTP clients, indexes and private broadcast. The post Major Bitcoin Core update changes default wallet protocols, risking temporary disruption acr",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Trump ethics fight sinks CLARITY Act in dramatic Senate defeat",
+    "link": "https://cryptoslate.com/trump-ethics-fight-sinks-clarity-act-in-dramatic-senate-defeat/",
+    "publishedAt": "2026-09-15T19:20:33.000Z",
+    "preview": "The CLARITY Act stalled in the Senate after a final round of bipartisan negotiations broke down and several Democrats who helped shape the bill refused to advance it. The measure failed to secure the 60 votes needed to i",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "Crypto Reacts: Bitcoin Slides as Clarity Act Fails to Clear Senate Vote",
+    "link": "https://decrypt.co/378286/crypto-clarity-act-fails-clear-senate-bitcoin-slides",
+    "publishedAt": "2026-09-15T19:18:29.000Z",
+    "preview": "The Senate fell short of the 60 votes needed to advance the crypto industry's marquee bill Tuesday. Bitcoin dropped as the no tally mounted, but the move stopped well short of panic.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Bitcoin’s Price Plunges to $75,000 as Senate Votes Against Advancing Crypto CLARITY Act",
+    "link": "https://cryptopotato.com/bitcoins-price-plunges-to-75000-as-senate-votes-against-advancing-crypto-clarity-act/",
+    "publishedAt": "2026-09-15T19:06:59.000Z",
+    "preview": "Bitcoin's price tumbled immediately after it became clear that the CLARITY Act will not receive the necessary support in the Senate.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Crypto industry reacts after Clarity Act fails Senate vote",
+    "link": "https://www.coindesk.com/policy/2026/09/15/clarity-act-fails-in-senate-here-is-how-the-crypto-industry-is-reacting",
+    "publishedAt": "2026-09-15T19:06:31.000Z",
+    "preview": "One of the most crucial U.S. regulations for crypto markets couldn't secure enough support to clear the Senate's final 60-vote hurdle.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Hyperliquid’s $319 Target Hinges on Token Dilution: Analyst",
+    "link": "https://cryptopotato.com/hyperliquids-319-target-hinges-on-token-dilution-analyst/",
+    "publishedAt": "2026-09-15T19:02:24.000Z",
+    "preview": "The $319 scenario depends on earnings scaling quickly enough to keep new HYPE supply from weighing on each token's value.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "Clarity Act Stalls in Senate as Crypto Bill Fails to Clear Key Vote",
+    "link": "https://decrypt.co/378283/clarity-act-fails-senate-hurdle",
+    "publishedAt": "2026-09-15T18:54:10.000Z",
+    "preview": "The crypto market structure bill failed to receive enough votes to advance in the Senate.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "BREAKING: US Senate Fails to Advance Crypto CLARITY Act, Here’s What It Means",
+    "link": "https://cryptopotato.com/breaking-us-senate-fails-to-advance-crypto-clarity-act-heres-what-this-means/",
+    "publishedAt": "2026-09-15T18:51:32.000Z",
+    "preview": "The US Senate failed to advance the critical crypto regulation called the Digital Asset Market Clarity Act, which means that debate around it will continue.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Crypto Clarity Act flames out in failed U.S. Senate vote",
+    "link": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-flames-out-in-failed-u-s-senate-vote",
+    "publishedAt": "2026-09-15T18:50:58.000Z",
+    "preview": "The years-long effort to set U.S. regulations for crypto markets couldn't muster enough support to make the leap over the Senate's final 60-vote hurdle.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "US Senate fails to advance CLARITY Act",
+    "link": "https://cointelegraph.com/news/us-senate-fails-to-advance-clarity-act",
+    "publishedAt": "2026-09-15T18:46:51.000Z",
+    "preview": "The failed procedural vote leaves the CLARITY Act facing an uncertain future after months of negotiations over crypto oversight and ethics provisions.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Did crypto’s $20 Billion DeFi surge just get stolen by price inflation?",
+    "link": "https://cryptoslate.com/did-cryptos-20-billion-defi-surge-just-get-stolen-by-price-inflation/",
+    "publishedAt": "2026-09-15T18:15:37.000Z",
+    "preview": "Stablecoin growth stayed below 6% while ETH and SOL gained more than 32%, leaving the inflow picture unresolved. The post Did crypto’s $20 Billion DeFi surge just get stolen by price inflation? appeared first on CryptoSl",
+    "tags": [
+      "ETH",
+      "SOL"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion",
+    "link": "https://www.coindesk.com/business/2026/09/15/solana-lender-kamino-taps-yieldstreet-co-founder-as-ceo-in-wall-street-expansion",
+    "publishedAt": "2026-09-15T18:02:05.000Z",
+    "preview": "Michael Weisz will lead Kamino from a new New York headquarters as the DeFi lender is expanding into tokenized assets.",
+    "tags": [
+      "SOL"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official",
+    "link": "https://cointelegraph.com/news/stablecoins-us-dollar-dominance-treasury-demand-boe",
+    "publishedAt": "2026-09-15T17:53:04.000Z",
+    "preview": "A Bank of England policy maker said digital dollars could expand access to the US currency while turning stablecoin issuers into bigger buyers of government debt.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "Robinhood Engineers Charged With Fraud Over Alleged Crypto Listing Trades",
+    "link": "https://decrypt.co/378267/robinhood-engineers-charged-fraud-over-crypto-listing-trades",
+    "publishedAt": "2026-09-15T17:49:23.000Z",
+    "preview": "Two employees allegedly earned more than $50,000 each by trading Hyperliquid perpetual futures before Robinhood announced new token listings.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "'It's Now or Never' for Clarity Act, Says 'Bitcoin Senator' Lummis",
+    "link": "https://decrypt.co/378268/now-or-never-clarity-act-bitcoin-cynthia-lummis",
+    "publishedAt": "2026-09-15T17:43:01.000Z",
+    "preview": "The Wyoming Republican says the final text hands Democrats more than 120 of their own demands, including sweeping new ethics rules, as the Senate holds a make-or-break cloture vote Tuesday afternoon.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "240,000,000 DOGE in a Week: Where Is Dogecoin Headed Next?",
+    "link": "https://cryptopotato.com/240000000-doge-in-a-week-where-is-dogecoin-headed-next/",
+    "publishedAt": "2026-09-15T17:40:22.000Z",
+    "preview": "Whales now control around 12% of Dogecoin's circulating supply.",
+    "tags": [
+      "DOGE"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Why Japan’s 3.8% bond shock is quietly setting a trap for Bitcoin",
+    "link": "https://cryptoslate.com/why-japans-3-8-bond-shock-is-quietly-setting-a-trap-for-bitcoin/",
+    "publishedAt": "2026-09-15T17:30:39.000Z",
+    "preview": "Japan’s 20-year auction cleared at 3.856% with slightly stronger coverage, shifting the next test to the BOJ. The post Why Japan’s 3.8% bond shock is quietly setting a trap for Bitcoin appeared first on CryptoSlate.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Binance adds 11 US-listed ETFs to wealth management offering",
+    "link": "https://cointelegraph.com/news/binance-adds-11-us-listed-etfs-to-wealth-management-offering",
+    "publishedAt": "2026-09-15T17:22:04.000Z",
+    "preview": "The crypto exchange is expanding its traditional finance offerings with 11 US-listed exchange-traded funds focused on US Treasurys and investment-grade bonds.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
     "title": "US Seeks Forfeiture of $61 Million in Crypto Linked to Alleged Iranian Oil Scheme",
     "link": "https://decrypt.co/378261/us-forfeiture-61-million-crypto-iranian-oil-scheme",
     "publishedAt": "2026-09-15T17:06:03.000Z",
@@ -220,14 +410,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "A DeFi giant that once held $3 billion is now proposing to wind itself down",
-    "link": "https://cryptoslate.com/a-defi-giant-that-once-held-3-billion-is-now-proposing-to-wind-itself-down/",
-    "publishedAt": "2026-09-15T12:30:43.000Z",
-    "preview": "A Sept. 25–29 vote would decide the wind-down, while BAL holders’ treasury claim would wait until May 2027. The post A DeFi giant that once held $3 billion is now proposing to wind itself down appeared first on CryptoSla",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "Huge Day for XRP: CLARITY Act Vote Could Spark the Next Big Move",
     "link": "https://cryptopotato.com/huge-day-for-xrp-clarity-act-vote-could-spark-the-next-big-move/",
@@ -253,16 +435,6 @@
     "preview": "As Ethereum supply leaves exchanges, demand may not need to surge because fewer available coins can magnify smaller buying waves.",
     "tags": [
       "ETH"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Bitcoin needs to reach $82,900 to outrun a looming miner margin squeeze",
-    "link": "https://cryptoslate.com/bitcoin-needs-to-reach-82900-to-outrun-a-looming-miner-margin-squeeze/",
-    "publishedAt": "2026-09-15T11:20:30.000Z",
-    "preview": "A projected 4.70% difficulty increase could cut hashprice 4.49% and push older machines below power-only breakeven. The post Bitcoin needs to reach $82,900 to outrun a looming miner margin squeeze appeared first on Crypt",
-    "tags": [
-      "BTC"
     ]
   },
   {
@@ -339,16 +511,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Altcoins gained 21% and still lost ground to Bitcoin. What would finally turn the tables?",
-    "link": "https://cryptoslate.com/altcoins-gained-21-and-still-lost-ground-to-bitcoin-what-would-finally-turn-the-tables/",
-    "publishedAt": "2026-09-15T10:25:57.000Z",
-    "preview": "Glassnode reported that altcoin market capitalization climbed 21% over the past month, while altcoins' share of the combined Bitcoin-and-altcoin market fell 0.9 percentage points over 90 days, based on data as of Sept. 7",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "Important Pi Network News and PI Price Update: September 15",
     "link": "https://cryptopotato.com/important-pi-network-news-and-pi-price-update-september-15/",
@@ -413,16 +575,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "The US Bitcoin reserve faces a crucial bipartisan test Wednesday",
-    "link": "https://cryptoslate.com/us-bitcoin-reserve-faces-crucial-bipartisan-test-wednesday/",
-    "publishedAt": "2026-09-15T09:40:26.000Z",
-    "preview": "The American Reserve Modernization Act (ARMA) would put the federal government's Bitcoin reserve into law for the first time. But ahead of its first House committee vote on Sept. 16, the bill has attracted just one Democ",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "CoinDesk",
     "title": "Hong Kong crypto exchange CoinEx to cease operations after 9 years in business",
     "link": "https://www.coindesk.com/business/2026/09/15/hong-kong-crypto-exchange-coinex-to-cease-operations-after-9-years-in-business",
@@ -480,13 +632,11 @@
   },
   {
     "source": "CoinDesk",
-    "title": "Live updates: Bitcoin slumps as Clarity Act passage odds fade",
+    "title": "Live updates: Clarity Act fails in Senate, sending crypto lower",
     "link": "https://www.coindesk.com/business/2026/09/15/live-updates-bitcoin-slides-from-nearly-usd80-000-as-senate-votes-on-clarity-act",
     "publishedAt": "2026-09-15T06:37:24.000Z",
-    "preview": "CoinDesk will be live-streaming and blogging the vote on our website, which is expected to start at 2:15pm ET.",
-    "tags": [
-      "BTC"
-    ]
+    "preview": "The failure essentially ends market structure legislative work in the Senate for 2026 and is a major blow to the crypto industry, which has invested years and hundreds of millions of dollars trying to support its interes",
+    "tags": []
   },
   {
     "source": "CryptoPotato",
@@ -504,17 +654,6 @@
     "preview": "Batch V1.1 would let users bundle up to eight linked transactions into one operation, with 27 of 35 trusted validators now backing the change.",
     "tags": [
       "XRP"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-09-15T05:50:00.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
     ]
   },
   {
@@ -624,24 +763,6 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "SEC's Atkins backs Clarity Act but says agency will keep pushing crypto rules without it",
-    "link": "https://www.coindesk.com/policy/2026/09/14/sec-s-atkins-backs-clarity-act-but-says-agency-will-keep-pushing-crypto-rules-without-it",
-    "publishedAt": "2026-09-14T23:30:40.000Z",
-    "preview": "The SEC chair said crypto issuance, transfer agent modernization and custody will form the backbone of the agency’s regulatory push.",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act",
-    "link": "https://www.coindesk.com/policy/2026/09/14/u-s-senator-lummis-says-democrats-won-t-quit-asking-for-more-on-crypto-clarity-act",
-    "publishedAt": "2026-09-14T22:34:18.000Z",
-    "preview": "One of the top crypto market structure negotiators in Washington says she's run out of gas on new revisions for the bill she's worked on for more than five years.",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "Vitalik Buterin Says Crypto Anti-Collusion Rules Could Apply to AI Safety",
     "link": "https://cryptopotato.com/vitalik-buterin-says-crypto-anti-collusion-rules-could-apply-to-ai-safety/",
@@ -663,14 +784,6 @@
     "link": "https://decrypt.co/378179/openai-sam-altman-humans-lose-control-ai",
     "publishedAt": "2026-09-14T21:16:04.000Z",
     "preview": "The OpenAI chief called for safeguards during training and shared industry standards, saying developers can act before legislation arrives.",
-    "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Robinhood plans share redemptions, voting rights for stock tokens, after criticism",
-    "link": "https://www.coindesk.com/business/2026/09/14/robinhood-plans-share-redemptions-voting-rights-for-stock-tokens-after-criticism",
-    "publishedAt": "2026-09-14T21:05:13.000Z",
-    "preview": "CEO Vlad Tenev said more shareholder features are coming as Robinhood’s offshore stock tokens draw scrutiny over ownership rights.",
     "tags": []
   },
   {
@@ -698,14 +811,6 @@
     "tags": [
       "SOL"
     ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Trump's $800 million stake into World Liberty Financial's token now has a timeline to becoming sellable",
-    "link": "https://www.coindesk.com/business/2026/09/14/trump-s-usd800-million-stake-into-world-liberty-financial-s-token-now-has-a-timeline-to-becoming-sellable",
-    "publishedAt": "2026-09-14T19:21:58.000Z",
-    "preview": "Onchain records show that an $800 million crypto stake that matched Donald Trump's holding was moved into a vesting contract, locking any sales until 2028 after a mandatory 10% token burn.",
-    "tags": []
   },
   {
     "source": "Decrypt",
@@ -1030,37 +1135,11 @@
     ]
   },
   {
-    "source": "Cointelegraph",
-    "title": "Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M",
-    "link": "https://cointelegraph.com/markets/bitcoin-etfs-shed-463m-ether-etfs-gain-197m",
-    "publishedAt": "2026-09-14T07:07:54.000Z",
-    "preview": "ARKB, GBTC and IBIT led Bitcoin ETF withdrawals, while BlackRock’s ETHA pushed Ether ETFs into weekly inflows.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "Last-Minute Changes to the CLARITY Act: Will Democrats Finally Back the Crypto Bill?",
     "link": "https://cryptopotato.com/last-minute-changes-to-the-clarity-act-will-democrats-finally-back-the-crypto-bill/",
     "publishedAt": "2026-09-14T05:53:35.000Z",
     "preview": "Senate Republicans unveiled major CLARITY Act changes, which include crypto divestment rules and new enforcement powers for federal and state officials.",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "King Charles to host AI chiefs amid industry call to slow development",
-    "link": "https://cointelegraph.com/news/king-charles-host-ai-chiefs-amid-industry-call-slow-development",
-    "publishedAt": "2026-09-14T05:16:59.000Z",
-    "preview": "The gathering comes days after Dario Amodei and Sam Altman called for greater restraint at the AI frontier, warning that rapidly improving systems could pose increasingly difficult-to-control risks.",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Robinhood CEO says issuers should not have veto over tokenized stocks",
-    "link": "https://cointelegraph.com/news/robinhood-ceo-issuer-veto-tokenized-stocks",
-    "publishedAt": "2026-09-14T04:55:28.000Z",
-    "preview": "Robinhood CEO Vlad Tenev said issuers should be involved if tokenized products change shareholder rights or company obligations, but not when they create separate instruments backed by shares.",
     "tags": []
   },
   {
@@ -1112,53 +1191,12 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "Could XRP Actually Flip Bitcoin? Former Ripple CTO Says Yes – But the Math Is Brutal",
-    "link": "https://cryptopotato.com/could-xrp-actually-flip-bitcoin-former-ripple-cto-says-yes-but-the-math-is-brutal/",
-    "publishedAt": "2026-09-13T13:30:35.000Z",
-    "preview": "ETH couldn't do it, but can XRP?",
-    "tags": [
-      "BTC",
-      "ETH",
-      "XRP"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "AI Agents Spending Money Online? New Research Says Not Really",
     "link": "https://decrypt.co/378103/ai-agents-spending-money-research",
     "publishedAt": "2026-09-13T13:01:03.000Z",
     "preview": "TRM examined roughly $52.7 million across 198.9 million settlements using the x402 protocol. Most of it isn’t coming from AI agents, it says.",
     "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Ethereum ETFs Stay Strong as Bitcoin Funds Lose $460M in a Week",
-    "link": "https://cryptopotato.com/ethereum-etfs-stay-strong-as-bitcoin-funds-lose-460m-in-a-week/",
-    "publishedAt": "2026-09-13T11:11:32.000Z",
-    "preview": "Friday was particularly positive day for the ETH ETFs, which coincided with the major surge to an eight-month high.",
-    "tags": [
-      "BTC",
-      "ETH"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Web3 Games Aren’t Dying — They’re Finally Being Forced to Become Good Games. What About Wanted Network?",
-    "link": "https://cryptopotato.com/web3-games-arent-dying-theyre-finally-being-forced-to-become-good-games-what-about-wanted-network/",
-    "publishedAt": "2026-09-13T11:00:39.000Z",
-    "preview": "Web3 gaming has spent years promising that blockchain would change what it means to own, earn, and trade inside games. The problem was that too many projects tried to prove the economics before they proved the game. A to",
-    "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Can Zcash Really Follow Bitcoin? This Model Puts ZEC to the Test",
-    "link": "https://cryptopotato.com/can-zcash-really-follow-bitcoin-this-model-puts-zec-to-the-test/",
-    "publishedAt": "2026-09-13T10:21:01.000Z",
-    "preview": "A new Bitcoin-based valuation framework from prominent analyst and crypto O.G. filbfilb suggests ZEC already trades above levels justified by current network activity.",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "Decrypt",
@@ -1245,56 +1283,6 @@
     "publishedAt": "2026-09-11T17:22:39.000Z",
     "preview": "Fresh operating data shows crypto trading bouncing back, but the company's fastest-growing business these days isn't traditional trading at all.",
     "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Bitwise to Close Dogecoin ETF Before Its First Anniversary",
-    "link": "https://decrypt.co/377973/bitwise-shuts-dogecoin-etf",
-    "publishedAt": "2026-09-11T16:16:05.000Z",
-    "preview": "BWOW will stop trading October 14, with cash payments to remaining shareholders expected October 22.",
-    "tags": [
-      "DOGE"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision",
-    "link": "https://decrypt.co/377962/bitcoin-price-cpi-inflation-fed-rate-decision",
-    "publishedAt": "2026-09-11T15:32:08.000Z",
-    "preview": "Inflation held at 3.4% and core cooled annually, but a hot monthly core reading kept Fed hike odds near 62% while crypto markets rallied broadly.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Blockstream Refuses Ransom for Return of $47M in Bitcoin from Liquid Hack: 'It Is Theft'",
-    "link": "https://decrypt.co/377959/blockstream-refuses-ransom-for-return-of-47m-in-bitcoin-from-liquid-hack-it-is-theft",
-    "publishedAt": "2026-09-11T14:17:38.000Z",
-    "preview": "With 598.5 BTC still outstanding, the company says it will go to law enforcement should the funds not be returned.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Morning Minute: AI Agents Cut BTC Quantum Attack Benchmark by 86%",
-    "link": "https://decrypt.co/377948/morning-minute-ai-agents-cut-btc-quantum-attack-benchmark-by-86",
-    "publishedAt": "2026-09-11T12:10:23.000Z",
-    "preview": "Crypto majors are shaky ahead of this morning’s CPI print, but onchain is heating up for another big potential weekend.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "EU Regulator Says Prediction Markets Are 'Rife With Inside Trading'",
-    "link": "https://decrypt.co/377947/eu-regulator-says-prediction-markets-are-rife-with-inside-trading",
-    "publishedAt": "2026-09-11T12:06:24.000Z",
-    "preview": "ESMA also asks why Kalshi and Polymarket block some EU countries but not others, and notes VPNs get around the blocks.",
-    "tags": [
-      "Regulation"
-    ]
   },
   {
     "source": "NewsBTC",
