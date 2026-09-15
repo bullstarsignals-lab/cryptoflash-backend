@@ -1,5 +1,155 @@
 [
   {
+    "source": "CoinDesk",
+    "title": "Live updates: Bitcoin slides from nearly $80,000 as Senate votes on Clarity Act",
+    "link": "https://www.coindesk.com/business/2026/09/15/live-updates-bitcoin-slides-from-nearly-usd80-000-as-senate-votes-on-clarity-act",
+    "publishedAt": "2026-09-15T06:37:24.000Z",
+    "preview": "Senators take a procedural vote on the crypto market structure bill later Tuesday. Bitcoin has given back 3% since touching $79,530 overnight, with XRP and zcash the only majors gaining ground.",
+    "tags": [
+      "BTC",
+      "XRP"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "CLARITY Act Hits Final Stretch as Democrats Push Back Before Senate Vote",
+    "link": "https://cryptopotato.com/clarity-act-hits-final-stretch-as-democrats-push-back-before-senate-vote/",
+    "publishedAt": "2026-09-15T06:06:41.000Z",
+    "preview": "A Democratic counterproposal landed ahead of the Senate vote as lawmakers remained divided over ethics language and other CLARITY Act provisions.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "XRP Ledger is one vote away from starting its next big payments upgrade",
+    "link": "https://www.coindesk.com/tech/2026/09/15/xrp-ledger-is-one-vote-away-from-starting-its-next-big-payments-upgrade",
+    "publishedAt": "2026-09-15T05:58:41.000Z",
+    "preview": "Batch V1.1 would let users bundle up to eight linked transactions into one operation, with 27 of 35 trusted validators now backing the change.",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Strategy prioritizes $950 million STRC buyback over expanding its Bitcoin treasury",
+    "link": "https://cryptoslate.com/strategy-prioritizes-950-million-strc-buyback-over-expanding-its-bitcoin-treasury/",
+    "publishedAt": "2026-09-15T05:40:30.000Z",
+    "preview": "From July 20 to Sept. 13, STRC repurchases absorbed about $2.57 for every $1 Strategy spent buying Bitcoin. The post Strategy prioritizes $950 million STRC buyback over expanding its Bitcoin treasury appeared first on Cr",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-09-15T05:39:15.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "CLARITY Act odds fall to 16% as key Democrats resist GOP’s ‘final’ offer",
+    "link": "https://cointelegraph.com/news/clarity-act-odds-fall-democrats-gop-final-offer",
+    "publishedAt": "2026-09-15T05:32:12.000Z",
+    "preview": "Banking groups also said the GOP’s final text leaves stablecoin reward loopholes, while tribal gaming interests warn that its prediction market provisions threaten tribal sovereignty.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "U.S. DOJ seeks $61 million in what it calls Iran's crypto-laundered black market oil sales",
+    "link": "https://www.coindesk.com/markets/2026/09/15/u-s-doj-seeks-usd61-million-in-what-it-calls-crypto-laundered-iranian-oil-proceeds",
+    "publishedAt": "2026-09-15T05:12:06.000Z",
+    "preview": "Prosecutors have filed a civil forfeiture complaint against what they call Iran's illegal crypto proceeds that are used to fund its military.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Revolut Hackers Publish Client Data and Demand 10,000 Bitcoin Ransom",
+    "link": "https://cryptopotato.com/revolut-hackers-publish-client-data-and-demand-10000-bitcoin-ransom/",
+    "publishedAt": "2026-09-15T04:58:49.000Z",
+    "preview": "Attackers who exploited a fake government request to access Revolut customer records have made their first move.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Solana transactions just got more than 3 times bigger, narrowing the gap with Ethereum",
+    "link": "https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum",
+    "publishedAt": "2026-09-15T04:34:10.000Z",
+    "preview": "Transaction V1 raises Solana’s limit to 4,096 bytes from 1,232, giving developers more room for multi-step trades, company-wallet approvals and privacy proofs.",
+    "tags": [
+      "ETH",
+      "SOL"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "CoinEx to cease operation after 9 years, citing ‘significant’ crypto contraction",
+    "link": "https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction",
+    "publishedAt": "2026-09-15T04:19:16.000Z",
+    "preview": "CoinEx said falling trading volumes and liquidity, along with rising regulatory and compliance costs, had exceeded “reasonable boundaries,” with withdrawals remaining open until Dec. 22.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Democrats send counteroffer to Republicans over Clarity Act provisions",
+    "link": "https://www.coindesk.com/policy/2026/09/15/democrats-send-counteroffer-to-republicans-over-clarity-act-provisions",
+    "publishedAt": "2026-09-15T04:09:01.000Z",
+    "preview": "Democratic Senators were said to be meeting late Monday to discuss the latest proposed draft text.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Bitcoin Is Holding Firm, Ethereum Is Pulling In Money: Here’s What Crypto Positioning Shows",
+    "link": "https://cryptopotato.com/bitcoin-is-holding-firm-ethereum-is-pulling-in-money-heres-what-crypto-positioning-shows/",
+    "publishedAt": "2026-09-15T03:56:20.000Z",
+    "preview": "Bitcoin remains relatively resilient despite technology stock weakness, while Ethereum continues to attract institutional money through strong ETF inflows.",
+    "tags": [
+      "BTC",
+      "ETH"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Balancer eyes wind-down after restructuring fails to revive revenue",
+    "link": "https://cointelegraph.com/news/balancer-eyes-wind-down-after-restructuring-fails-revive-revenue",
+    "publishedAt": "2026-09-15T03:33:23.000Z",
+    "preview": "Balancer cut costs and shipped new products after restructuring, but Marcus Hardt says v3 failed to replace legacy revenue as November’s $128 million exploit continued to weigh on adoption.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "U.S. House panel shares crypto tax bill ahead of hearing later this week",
+    "link": "https://www.coindesk.com/policy/2026/09/14/u-s-house-panel-shares-crypto-tax-bill-ahead-of-hearing-later-this-week",
+    "publishedAt": "2026-09-15T03:27:38.000Z",
+    "preview": "The House Ways and Means Committee published a crypto tax bill addressing de minimis transactions, staking and other issues for which the industry's clamored for policies.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Bitcoin slips to $77,800 as Senate Clarity Act vote nears and oil prices climb",
+    "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-slips-to-usd77-800-as-senate-clarity-act-vote-nears-and-oil-prices-climb",
+    "publishedAt": "2026-09-15T03:23:28.000Z",
+    "preview": "Bitcoin pulls back from $79,000 as the Senate prepares to vote on the Clarity Act and oil prices rise.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Coinbase-backed Base just exposed the uncomfortable truth about Ethereum’s L2s",
+    "link": "https://cryptoslate.com/coinbase-backed-base-just-exposed-the-uncomfortable-truth-about-ethereums-l2s/",
+    "publishedAt": "2026-09-15T03:20:48.000Z",
+    "preview": "Ethereum and Coinbase-backed layer-2 network Base have abandoned an effort to agree on how the next generation of crypto wallets should work. On Sept. 14, Ethlabs researcher Derek Chiang said collaboration between develo",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
     "source": "CryptoSlate",
     "title": "Ethereum builders face a choice between locking up too much cash or relying on trusted brokers",
     "link": "https://cryptoslate.com/ethereum-builders-face-a-choice-between-locking-up-too-much-cash-or-relying-on-trusted-brokers/",
@@ -120,17 +270,6 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-09-14T20:41:38.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Trump Says He 'Likes' Flock Surveillance Cameras Amid Bipartisan Pushback",
     "link": "https://decrypt.co/378171/trump-likes-flocks-ai-surveillance-cameras",
@@ -243,14 +382,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "$55 million Aave stablecoin pool sees just $4.4 million available for withdrawals",
-    "link": "https://cryptoslate.com/55-million-aave-stablecoin-pool-sees-just-4-4-million-available-for-withdrawals/",
-    "publishedAt": "2026-09-14T17:45:51.000Z",
-    "preview": "Monad USDT0 displayed a 6.10% APR with roughly $4.4 million unborrowed, showing why yield and withdrawal capacity need separate scrutiny. The post $55 million Aave stablecoin pool sees just $4.4 million available for wit",
-    "tags": []
-  },
-  {
     "source": "Cointelegraph",
     "title": "CLARITY Act faces state AGs opposition ahead of key Senate vote",
     "link": "https://cointelegraph.com/news/clarity-act-faces-new-opposition-ahead-of-key-senate-vote",
@@ -283,16 +414,6 @@
     "publishedAt": "2026-09-14T17:05:21.000Z",
     "preview": "\"This could mark the beginning of the next leg higher,\" Martinez said.",
     "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Bitcoin exchanges can reduce quantum exposure before a network upgrade",
-    "link": "https://cryptoslate.com/bitcoins-quantum-plan-faces-a-1-6-million-btc-custody-test/",
-    "publishedAt": "2026-09-14T16:50:59.000Z",
-    "preview": "Coinbase's September workshop shows signature choices and operational migration must advance together across exchanges, wallets and key-management systems. The post Bitcoin exchanges can reduce quantum exposure before a ",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "Cointelegraph",
@@ -544,14 +665,6 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "Crypto market outperforms as call for slower AI development weighs on tech stocks",
-    "link": "https://www.coindesk.com/daybook-us/2026/09/14/crypto-market-outperforms-as-call-for-slower-ai-development-weighs-on-tech-stocks",
-    "publishedAt": "2026-09-14T11:15:00.000Z",
-    "preview": "Your day-ahead look for Sept. 14, 2026",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "India Begins Tokenizing Its $620 Billion Corporate Bond Market",
     "link": "https://decrypt.co/378120/india-begins-tokenizing-its-620-billion-corporate-bond-market",
@@ -586,16 +699,6 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
-    "link": "https://www.coindesk.com/markets/2026/09/14/bitcoin-climbs-to-usd78-000-as-crypto-sits-out-the-ai-selloff",
-    "publishedAt": "2026-09-14T10:09:41.000Z",
-    "preview": "Bitcoin rose 1.9% since midnight UTC while Nasdaq 100 index futures fell 1.65% on calls to slow AI development and crude gained almost 4% on a Saudi pipeline closure.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week",
     "link": "https://cointelegraph.com/markets/clarity-act-vote-meets-fed-rate-hike-five-things-to-know-in-bitcoin-this-week",
@@ -626,22 +729,6 @@
     ]
   },
   {
-    "source": "CoinDesk",
-    "title": "TikTok developer ByteDance arranges $29.6 billion loan as it builds AI ambitions",
-    "link": "https://www.coindesk.com/business/2026/09/14/tiktok-developer-bytedance-arranges-usd29-6-billion-loan-as-it-builds-ai-ambitions",
-    "publishedAt": "2026-09-14T09:43:45.000Z",
-    "preview": "ByteDance was reportedly considering spending $70 billion on AI data centers and infrastructure. The news comes as U.S. AI giants call for slowing the AI race.",
-    "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Fed, BOE, BOJ interest-rate decisions: Crypto Week Ahead",
-    "link": "https://www.coindesk.com/markets/2026/09/14/fed-boe-boj-interest-rate-decisions-crypto-week-ahead",
-    "publishedAt": "2026-09-14T09:29:57.000Z",
-    "preview": "Your look at what's coming in the week starting Sept. 14.",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "Bitcoin Suisse to Cut Up to Half Its Swiss Jobs in Overseas Shift",
     "link": "https://decrypt.co/378119/bitcoin-suisse-cut-half-swiss-jobs",
@@ -665,16 +752,6 @@
     "link": "https://cryptopotato.com/japanese-yen-us-yields-pose-biggest-near-term-bitcoin-risk-analysts/",
     "publishedAt": "2026-09-14T08:26:44.000Z",
     "preview": "A stronger yen could accelerate the unwinding of carry trades, putting stocks and crypto under pressure at the same time.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Bitcoin bucks tech selloff as AI safety concerns weigh on stocks",
-    "link": "https://www.coindesk.com/markets/2026/09/14/bitcoin-bucks-tech-selloff-as-ai-safety-concerns-weigh-on-stocks",
-    "publishedAt": "2026-09-14T08:07:16.000Z",
-    "preview": "Bitcoin rose above $77,000 as calls to slow AI development hit technology shares, while rising oil prices added to market pressure.",
     "tags": [
       "BTC"
     ]
@@ -766,14 +843,6 @@
     ]
   },
   {
-    "source": "CoinDesk",
-    "title": "Is Clarity dead? A vibes-based analysis: State of Crypto",
-    "link": "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto",
-    "publishedAt": "2026-09-13T18:45:08.000Z",
-    "preview": "I dunno, flip a coin.",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "What Happens to XRP if the CLARITY Act Vote Fails on September 15? AI Maps the Downside",
     "link": "https://cryptopotato.com/what-happens-to-xrp-if-the-clarity-act-vote-fails-on-september-15-ai-maps-the-downside/",
@@ -782,14 +851,6 @@
     "tags": [
       "XRP"
     ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Quantum-proof blockchain: why math, not machines, holds the key",
-    "link": "https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key",
-    "publishedAt": "2026-09-13T17:00:00.000Z",
-    "preview": "Blockchains don’t need quantum computers to be quantum-safe, argues Optimum co-founder and MIT professor Muriel Médard. Classic math already gives us the tools.",
-    "tags": []
   },
   {
     "source": "CryptoPotato",
@@ -1051,37 +1112,6 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "BTC Settles at $77K After a Wild Ride, ETH Slumps Following Major Rally: Weekend Watch",
-    "link": "https://cryptopotato.com/btc-settles-at-77k-after-a-wild-ride-eth-slumps-following-major-rally-weekend-watch/",
-    "publishedAt": "2026-09-12T10:13:01.000Z",
-    "preview": "The privacy coins ZEC and XMR have rocketed once again on a daily scale.",
-    "tags": [
-      "BTC",
-      "ETH"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Ethereum Whales Just Woke Up as ETH Exploded to 8-Month High: What’s Next?",
-    "link": "https://cryptopotato.com/ethereum-whales-just-woke-up-as-eth-exploded-to-8-month-high-whats-next/",
-    "publishedAt": "2026-09-12T07:40:37.000Z",
-    "preview": "What happened within the ETH ecosystem on Friday when the asset rocketed to an 8-month high?",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Bitcoin Investors Now Have the Full Picture Before the Fed’s Move: Here’s What It Says",
-    "link": "https://cryptopotato.com/bitcoin-investors-now-have-the-full-picture-before-the-feds-move-heres-what-it-says/",
-    "publishedAt": "2026-09-12T05:50:29.000Z",
-    "preview": "BTC, alongside stocks and gold, went through intense volatility on Friday after the release of the CPI data. But what comes next?",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Cyberattacks on Law Firms Nearly Double as Stolen Documents Hit the Dark Web",
     "link": "https://decrypt.co/378094/cyberattacks-law-firms-stolen-documents-dark-web",
@@ -1110,16 +1140,6 @@
     ]
   },
   {
-    "source": "Cointelegraph",
-    "title": "Hyperliquid’s biggest risk is regulation, says Ran Neuner",
-    "link": "https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner",
-    "publishedAt": "2026-09-11T18:45:15.000Z",
-    "preview": "The Crypto Banter founder said Hyperliquid’s network effects give it a strong competitive moat, but regulatory uncertainty remains its biggest threat.",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
     "link": "https://decrypt.co/377990/openai-congress-ai-slowdown-legal",
@@ -1143,24 +1163,6 @@
     "preview": "BWOW will stop trading October 14, with cash payments to remaining shareholders expected October 22.",
     "tags": [
       "DOGE"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
-    "link": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin",
-    "publishedAt": "2026-09-11T16:05:15.000Z",
-    "preview": "The US federally chartered crypto bank will allow institutional clients to hold, mint, redeem and stake Frgmnt’s fUSD stablecoin through its custody platform.",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields",
-    "link": "https://cointelegraph.com/markets/bitcoin-spikes-toward-80k-as-us-cpi-data-delivers-new-22-year-high-in-bond-yields",
-    "publishedAt": "2026-09-11T16:03:37.000Z",
-    "preview": "Bitcoin briefly rebounded past $79,000 and US stocks turned green as US CPI inflation data met expectations.",
-    "tags": [
-      "BTC"
     ]
   },
   {
