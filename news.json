@@ -1,5 +1,82 @@
 [
   {
+    "source": "Cointelegraph",
+    "title": "US charges ex-Robinhood engineers over alleged pre-listing crypto trades",
+    "link": "https://cointelegraph.com/news/robinhood-engineers-hyperliquid-listing-trades-charges",
+    "publishedAt": "2026-09-16T04:48:20.000Z",
+    "preview": "The former employees allegedly earned more than $50,000 each by trading Hyperliquid perpetuals ahead of Robinhood token listings.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Solana nearly froze as a single routing error took 29% of the network stake offline",
+    "link": "https://cryptoslate.com/solana-nearly-froze-as-a-single-routing-error-took-29-of-the-network-stake-offline/",
+    "publishedAt": "2026-09-16T04:40:21.000Z",
+    "preview": "The newly detailed Teraswitch failure stayed below Solana’s finality-halt threshold, while independent telemetry showed delayed finality and sharply lower throughput. The post Solana nearly froze as a single routing erro",
+    "tags": [
+      "SOL"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Crypto longs worth $570 million wiped out as Clarity Act fails",
+    "link": "https://www.coindesk.com/markets/2026/09/16/crypto-bulls-take-a-usd570-million-liquidation-hit-as-clarity-act-fails",
+    "publishedAt": "2026-09-16T04:07:27.000Z",
+    "preview": "Bullish crypto futures bets worth millions have been liquidated in 24 hours. Bitcoin and ether longs have taken in the most losses.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Bitcoin ETFs shed $450M in biggest outflow since June",
+    "link": "https://cointelegraph.com/news/bitcoin-etfs-shed-450m-in-biggest-outflow-since-june",
+    "publishedAt": "2026-09-16T04:05:39.000Z",
+    "preview": "The $450 million withdrawal came as Bitcoin fell 2.5% and the CLARITY Act failed to advance in the Senate, with Fidelity and BlackRock funds leading the outflows.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "This Crypto Sector Is Up 213% Since Bitcoin’s 2025 Peak – One Coin Is Driving It",
+    "link": "https://cryptopotato.com/this-crypto-sector-is-up-213-since-bitcoins-2025-peak-one-coin-is-driving-it/",
+    "publishedAt": "2026-09-16T04:03:48.000Z",
+    "preview": "Much of that sector-wide gain comes down to one token, Zcash, which now represents about 62% of the privacy market.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000",
+    "link": "https://www.coindesk.com/markets/2026/09/16/xrp-sinks-10-as-the-clarity-act-fails-and-bitcoin-slides-toward-usd76-000",
+    "publishedAt": "2026-09-16T03:37:45.000Z",
+    "preview": "The Senate's 49-50 procedural vote left the crypto market structure bill 11 short of what it needed, and every major token fell.",
+    "tags": [
+      "BTC",
+      "XRP"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Crypto industry turns to US regulators after CLARITY setback",
+    "link": "https://cointelegraph.com/news/crypto-industry-turns-to-us-regulators-after-clarity-setback",
+    "publishedAt": "2026-09-16T02:24:07.000Z",
+    "preview": "The CLARITY Act still has a procedural path after Senator Thom Tillis moved to reconsider the failed cloture vote, though industry executives are divided over whether Congress has enough time left.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Ripple’s university strategy is evolving from blockchain labs to XRP logos in packed stadiums",
+    "link": "https://cryptoslate.com/ripples-university-strategy-is-evolving-from-blockchain-labs-to-xrp-logos-in-packed-stadiums/",
+    "publishedAt": "2026-09-16T01:40:28.000Z",
+    "preview": "The 69-day rollout spans Kansas uniforms, Florida’s football field and Louisville basketball, but stops short of token adoption. The post Ripple’s university strategy is evolving from blockchain labs to XRP logos in pack",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
     "source": "CryptoSlate",
     "title": "Congress wants to make crypto easier to use and still collect $500 million more in taxes",
     "link": "https://cryptoslate.com/congress-wants-to-make-crypto-easier-to-use-and-still-collect-500-million-more-in-taxes/",
@@ -297,29 +374,11 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Why a CLARITY victory may still leave Bitcoin trapped at $76,000",
-    "link": "https://cryptoslate.com/why-a-clarity-victory-may-still-leave-bitcoin-trapped-at-76000/",
-    "publishedAt": "2026-09-15T17:00:53.000Z",
-    "preview": "Regulatory progress could encourage buyers, but oil prices and real yields will shape whether a recovery lasts. The post Why a CLARITY victory may still leave Bitcoin trapped at $76,000 appeared first on CryptoSlate.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Crypto's Long-Sought 'De Minimis' Tax Break Gets a House Markup This Week",
     "link": "https://decrypt.co/378260/house-crypto-tax-bill-de-minimis-captail-gains",
     "publishedAt": "2026-09-15T16:34:35.000Z",
     "preview": "The proposal would overhaul federal tax treatment of digital assets but still requires approval from Congress.",
-    "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "DeFi governance gap allows one wallet to request 98% of Ampleforth treasury’s USDC balance",
-    "link": "https://cryptoslate.com/defi-governance-gap-allows-one-wallet-to-request-98-of-ampleforth-treasurys-usdc-balance/",
-    "publishedAt": "2026-09-15T16:30:02.000Z",
-    "preview": "The proposing wallet submitted after receiving 87,238 FORTH of delegated power; the action ended with zero votes and no transfer. The post DeFi governance gap allows one wallet to request 98% of Ampleforth treasury’s USD",
     "tags": []
   },
   {
@@ -790,24 +849,6 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "U.S. House panel shares crypto tax bill ahead of hearing later this week",
-    "link": "https://www.coindesk.com/policy/2026/09/14/u-s-house-panel-shares-crypto-tax-bill-ahead-of-hearing-later-this-week",
-    "publishedAt": "2026-09-15T03:27:38.000Z",
-    "preview": "The House Ways and Means Committee published a crypto tax bill addressing de minimis transactions, staking and other issues for which the industry's clamored for policies.",
-    "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Bitcoin slips to $77,800 as Senate Clarity Act vote nears and oil prices climb",
-    "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-slips-to-usd77-800-as-senate-clarity-act-vote-nears-and-oil-prices-climb",
-    "publishedAt": "2026-09-15T03:23:28.000Z",
-    "preview": "Bitcoin pulls back from $79,000 as the Senate prepares to vote on the Clarity Act and oil prices rise.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "Democrats push back on GOP’s ‘final’ CLARITY offer with counterproposal: Politico",
     "link": "https://cointelegraph.com/news/democrats-push-back-on-gops-final-clarity-offer-with-counterproposal",
@@ -1054,14 +1095,6 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "HYPE price could suffer as Binance takes its revenue: Alice Liu",
-    "link": "https://cointelegraph.com/magazine/hype-price-could-suffer-as-binance-takes-its-revenue-alice-liu",
-    "publishedAt": "2026-09-14T13:30:00.000Z",
-    "preview": "Token buybacks have pushed Hyperliquid to all time highs, but Alice Liu from CoinMarketCap warns that Binance poses a threat to the revenue stream it depends on to pay for them.",
-    "tags": []
-  },
-  {
     "source": "NewsBTC",
     "title": "From Concrete to Compute: Why Clichmont Is Building AI Infrastructure Instead of Renting It",
     "link": "https://www.newsbtc.com/interview/from-concrete-to-compute-why-clichmont-is-building-ai-infrastructure-instead-of-renting-it/",
@@ -1085,14 +1118,6 @@
     "link": "https://cryptopotato.com/betfury-launches-100000-fury-cruise-all-aboard-with-an-opportunity-to-become-a-vip/",
     "publishedAt": "2026-09-14T12:15:16.000Z",
     "preview": "[PRESS RELEASE – Willemstad, Curaçao, September 14th, 2026] BetFury, a leading crypto casino, is setting sail this autumn with Fury Cruise: All Aboard – a platform-wide event running from September 14 to 27, 2026. Across",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "EU cyber rules put crypto wallet makers on 24-hour reporting clock",
-    "link": "https://cointelegraph.com/news/eu-cyber-rules-put-crypto-wallet-24-hour-reporting",
-    "publishedAt": "2026-09-14T11:38:44.000Z",
-    "preview": "Crypto wallet providers must submit an early vulnerability report within 24 hours and a full notification within 72 hours of exploits, or risk administrative fines of as much as $17.3 million.",
     "tags": []
   },
   {
@@ -1128,16 +1153,6 @@
     "publishedAt": "2026-09-14T10:13:50.000Z",
     "preview": "KuCoin Spotlight returns with a pre-listing subscription for 7,751,938 GNOT at a subscription price of $0.0645 per token. The oversubscription model uses pro-rata allocation, under which eligible subscribers may receive ",
     "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week",
-    "link": "https://cointelegraph.com/markets/clarity-act-vote-meets-fed-rate-hike-five-things-to-know-in-bitcoin-this-week",
-    "publishedAt": "2026-09-14T10:02:00.000Z",
-    "preview": "Bitcoin traders brace for volatility as the CLARITY Act awaits a Senate vote to move forward and the Fed is due to announce its latest rate decision.",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "CryptoPotato",
@@ -1194,16 +1209,6 @@
     "publishedAt": "2026-09-13T22:11:25.000Z",
     "preview": "Treasury designated Xinbi a transnational criminal organization as prosecutors moved against its crypto holdings.",
     "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Bitcoin Price Analysis: BTC Faces a Make-or-Break Week – What’s the Most Likely Scenario?",
-    "link": "https://cryptopotato.com/bitcoin-price-analysis-btc-faces-a-make-or-break-week-whats-the-most-likely-scenario/",
-    "publishedAt": "2026-09-13T19:36:50.000Z",
-    "preview": "Bitcoin is consolidating around $77.3K after a powerful breakout from the $67K area. While the broader structure has improved significantly, BTC is now facing an important resistance cluster near $80K-$82K. Meanwhile, th",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "Decrypt",
