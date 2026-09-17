@@ -1,5 +1,217 @@
 [
   {
+    "source": "Decrypt",
+    "title": "Andrew Yang Calls for AI Kill Switch as Safety Fears Mount",
+    "link": "https://decrypt.co/378522/andrew-yang-ai-kill-switch-safety-fears",
+    "publishedAt": "2026-09-17T18:06:03.000Z",
+    "preview": "The former presidential candidate said lawmakers should impose liability rules and waiting periods on frontier AI firms as autonomous agents raise new cyber and labor concerns.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "From Bear to Bull: Analyst Says Bitcoin UTXO Data Points to a Cycle Shift",
+    "link": "https://cryptopotato.com/from-bear-to-bull-analyst-says-bitcoin-utxo-data-points-to-a-cycle-shift/",
+    "publishedAt": "2026-09-17T17:46:42.000Z",
+    "preview": "Bitcoin barely reacted to CLARITY's failure, and one analyst says it's the clearest sign that markets are in a bad news doesn't matter phase.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
+    "link": "https://decrypt.co/378504/king-charles-openai-anthropic-nvidia-google-deepmind-ai-safety",
+    "publishedAt": "2026-09-17T17:36:02.000Z",
+    "preview": "King Charles hosted senior AI executives at his Scottish estate to discuss keeping the technology \"in the service of humanity,\" days after industry leaders called for a slowdown.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "WisdomTree, MoonPay team up to expand US access to tokenized money market fund",
+    "link": "https://cointelegraph.com/news/wisdomtree-moonpay-team-up-to-expand-us-access-to-tokenized-money-market-fund",
+    "publishedAt": "2026-09-17T17:31:12.000Z",
+    "preview": "MoonPay plans to use WisdomTree’s $1.2 billion WTGXX tokenized fund as part of its stablecoin reserves while helping expand access to US investors.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Crypto’s first big tax win comes with a catch for stakers and everyday payments",
+    "link": "https://cryptoslate.com/cryptos-first-big-tax-win-comes-with-a-catch-for-stakers-and-everyday-payments/",
+    "publishedAt": "2026-09-17T17:30:26.000Z",
+    "preview": "H.R. 10357 advances toward full House consideration with targeted fee and stablecoin relief alongside expanded anti-abuse rules. The post Crypto’s first big tax win comes with a catch for stakers and everyday payments ap",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "Bitcoin Bounces as Markets Brace for the Fed’s Next Move",
+    "link": "https://decrypt.co/378506/bitcoin-bounces-wall-street-fed-next-move",
+    "publishedAt": "2026-09-17T17:01:03.000Z",
+    "preview": "The Federal Reserve's first rate increase since 2023 barely dented crypto prices, but what comes next could change calculations on Wall Street.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Is there any chance left to save the CLARITY Act?",
+    "link": "https://cointelegraph.com/magazine/is-there-any-chance-left-to-save-the-clarity-act",
+    "publishedAt": "2026-09-17T17:00:00.000Z",
+    "preview": "CLARITY isn’t dead after failing a key Senate vote, but with time running short and Democrats still demanding changes, its path forward is narrowing.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "Financial Data Giant S&#038;P Global Moves Deeper Into Crypto With OpenZeppelin Deal",
+    "link": "https://decrypt.co/378505/sp-global-acquire-crypto-openzeppelin",
+    "publishedAt": "2026-09-17T16:33:12.000Z",
+    "preview": "S&#038;P Global is expanding into the technology risks underpinning stablecoins, tokenized funds, and other onchain financial products.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Stani’s Aave “Uber plan” could turn everyday crypto savers into Washington’s worst political nightmare",
+    "link": "https://cryptoslate.com/stani-kulechovs-uber-plan-for-aave-could-turn-everyday-crypto-savers-into-washingtons-worst-political-nightmare/",
+    "publishedAt": "2026-09-17T16:30:50.000Z",
+    "preview": "After a Senate setback for CLARITY, Stani Kulechov wants DeFi to force Washington’s hand through adoption, but Aave’s product layers reveal where regulators can still reach. The post Stani’s Aave “Uber plan” could turn e",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike",
+    "link": "https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike",
+    "publishedAt": "2026-09-17T16:22:23.000Z",
+    "preview": "Bitcoin made modest daily gains as US stocks saw upside in the aftermath of the US Federal Reserve’s first interest-rate hike since July 2023.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Vitalik Buterin Has a Different Take on AI Hackers and the Future of Cybersecurity",
+    "link": "https://cryptopotato.com/vitalik-buterin-has-a-different-take-on-ai-hackers-and-the-future-of-cybersecurity/",
+    "publishedAt": "2026-09-17T16:10:31.000Z",
+    "preview": "Buterin said that modern AI could allow developers to verify entire programs instead of checking only the parts they consider security-critical.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Zcash miner Fortitude taps former Hut 8 CEO to lead ahead of public listing",
+    "link": "https://cointelegraph.com/news/former-hut-8-ceo-jaime-leverton-to-lead-zcash-miner-fortitude-ahead-of-nasdaq-listing",
+    "publishedAt": "2026-09-17T15:58:33.000Z",
+    "preview": "Former Hut 8 CEO Jaime Leverton will take the helm at Fortitude as the Zcash-focused miner expands its operations and moves toward a planned public listing.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Cardano’s Splash fix patches the exploit, but leaves 2.4M ADA missing and holders trapped",
+    "link": "https://cryptoslate.com/cardanos-splash-fix-patches-the-exploit-but-leaves-2-4m-ada-missing-and-holders-trapped/",
+    "publishedAt": "2026-09-17T15:45:48.000Z",
+    "preview": "The exploit drained 2.42 million ADA net, while OADA lacks protocol redemption and faces a thin-pool overhang. The post Cardano’s Splash fix patches the exploit, but leaves 2.4M ADA missing and holders trapped appeared f",
+    "tags": [
+      "ADA"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "FCA Targets Three More London Sites Over Unregistered P2P Crypto Trading",
+    "link": "https://decrypt.co/378495/fca-targets-three-more-london-sites-over-unregistered-p2p-crypto-trading",
+    "publishedAt": "2026-09-17T15:21:19.000Z",
+    "preview": "\"Anyone running an unregistered peer-to-peer crypto business should assume we are looking at them,\" the FCA's enforcement chief said.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "UK signals end of 'light-touch' era with multi-agency raid on peer-to-peer crypto hubs",
+    "link": "https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs",
+    "publishedAt": "2026-09-17T15:08:24.000Z",
+    "preview": "Increased enforcement coincides with detailed regulatory guidance issued to crypto firms ahead of the full framework taking effect in late 2027.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "U.S. SEC begins prepping for around-the-clock trading that crypto treats as the norm",
+    "link": "https://www.coindesk.com/policy/2026/09/17/u-s-sec-begins-prepping-for-round-the-clock-trading-that-crypto-treats-as-the-norm",
+    "publishedAt": "2026-09-17T15:03:19.000Z",
+    "preview": "The U.S. Securities and Exchange Commission dug into plans for around-the-clock trading in an event on the same morning it approved tokenized securities.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Crypto for Advisors: Beyond bitcoin and ether",
+    "link": "https://www.coindesk.com/coindesk-indices/2026/09/17/crypto-for-advisors-beyond-bitcoin-and-ether",
+    "publishedAt": "2026-09-17T14:57:11.000Z",
+    "preview": "",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "SEC Clears a Path for Tokenized Stocks After Clarity Act Stumbles",
+    "link": "https://decrypt.co/378492/sec-innovation-exemption-tokenized-stocks-clarity-act",
+    "publishedAt": "2026-09-17T14:52:03.000Z",
+    "preview": "The \"innovation exemption\" lets qualifying venues trade tokenized versions of U.S. stocks on public blockchains without registering as exchanges—though it excludes price-tracking \"synthetics\" and lets companies block tok",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Clarity Act failure may hamper U.S. crypto as industry seeks legal clarity elsewhere",
+    "link": "https://www.coindesk.com/policy/2026/09/17/crypto-industry-leaders-debate-who-the-winners-and-losers-of-the-clarity-act-vote-failure-are",
+    "publishedAt": "2026-09-17T14:50:58.000Z",
+    "preview": "The U.S. is likely to lose out to foreign markets in the short term, but SEC and CFTC rules will help underpin the industry.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
+    "link": "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
+    "publishedAt": "2026-09-17T14:40:07.000Z",
+    "preview": "Arc is a new layer-1 blockchain developed by USDC issuer Circle, designed specifically for stablecoin-native finance.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Lawmakers pass bill to freeze federal Bitcoin holdings for two decades",
+    "link": "https://cryptoslate.com/lawmakers-pass-bill-to-freeze-federal-bitcoin-holdings-for-two-decades/",
+    "publishedAt": "2026-09-17T14:30:16.000Z",
+    "preview": "ARMA would lock qualifying reserve Bitcoin in place from enactment and require annual audited reporting, while purchases remain a study. The post Lawmakers pass bill to freeze federal Bitcoin holdings for two decades app",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Bitcoin Price Prediction: Is BTC About to Break Above $80K or Crash Below $72K?",
+    "link": "https://cryptopotato.com/bitcoin-price-prediction-is-btc-about-to-break-80k-or-crash-below-72k/",
+    "publishedAt": "2026-09-17T14:27:03.000Z",
+    "preview": "Bitcoin has absorbed a fresh macro shock without losing its broader post-breakout structure. The Federal Reserve raised its target rate by 25 basis points to 4.00% on Wednesday, a tightening move that also strengthened t",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "1win Adds Provably Fair Technology to Its Crypto Games",
+    "link": "https://cryptopotato.com/1win-adds-provably-fair-technology-to-its-crypto-games/",
+    "publishedAt": "2026-09-17T14:24:02.000Z",
+    "preview": "Willemstad, Curacao, 17th September 2026, PlayNewswire",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Arc Blockchain Explained: Everything You Need to Know About Circle’s Layer 1",
+    "link": "https://cryptopotato.com/what-is-circle-arc-blockchain/",
+    "publishedAt": "2026-09-17T14:19:16.000Z",
+    "preview": "A complete guide to Arc, Circle’s stablecoin-native Layer 1 blockchain, covering its architecture, USDC gas model, ecosystem, use cases and competition.",
+    "tags": []
+  },
+  {
     "source": "CryptoPotato",
     "title": "SEC Opens Door to Onchain Stock Trading With New ‘Innovation Exemption’",
     "link": "https://cryptopotato.com/sec-opens-door-to-onchain-stock-trading-with-new-innovation-exemption/",
@@ -364,16 +576,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Chainflip to reset TRON USDT provider balances to zero following $736,000 exploit",
-    "link": "https://cryptoslate.com/chainflip-to-reset-tron-usdt-provider-balances-to-zero-following-736000-exploit/",
-    "publishedAt": "2026-09-17T08:00:08.000Z",
-    "preview": "Providers retain a separate on-chain record of what they are owed, but Chainflip has not disclosed repayment timing. The post Chainflip to reset TRON USDT provider balances to zero following $736,000 exploit appeared fir",
-    "tags": [
-      "TRX"
-    ]
-  },
-  {
     "source": "CoinDesk",
     "title": "Ripple adds XRP payments to Stripe and Tempo’s AI standard in new developer kit",
     "link": "https://www.coindesk.com/tech/2026/09/17/ripple-adds-xrp-payments-to-stripe-and-tempo-s-ai-standard-in-new-developer-kit",
@@ -423,16 +625,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Avalanche just slashed validator lockups to 48 hours, but there’s a catch",
-    "link": "https://cryptoslate.com/avalanches-helicon-upgrade-cuts-validator-lockups-from-14-days-to-48-hours/",
-    "publishedAt": "2026-09-17T05:40:12.000Z",
-    "preview": "Scheduled for Sept. 22, the upgrade adds validator auto-renewal while making full cycle rewards harder to secure. The post Avalanche just slashed validator lockups to 48 hours, but there’s a catch appeared first on Crypt",
-    "tags": [
-      "AVAX"
-    ]
-  },
-  {
     "source": "CoinDesk",
     "title": "Zcash jumps 23% as bitcoin and major tokens rise despite Fed’s first hike since 2023",
     "link": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023",
@@ -461,16 +653,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Ethereum client diversity metrics split three ways as key tracking tools break",
-    "link": "https://cryptoslate.com/ethereums-client-diversity-picture-fractures-under-incompatible-estimates/",
-    "publishedAt": "2026-09-17T03:30:37.000Z",
-    "preview": "Client estimates already disagree, while daily key rotation could weaken the public traces used to detect concentrated risk. The post Ethereum client diversity metrics split three ways as key tracking tools break appeare",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "Bitcoin absorbs Fed rate hike as officials see more tightening",
     "link": "https://cointelegraph.com/markets/bitcoin-absorbs-fed-rate-hike-as-officials-see-more-tightening",
@@ -479,14 +661,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Circle opens Arc mainnet as it seeks an edge for USDC utility",
-    "link": "https://cryptoslate.com/circle-opens-arc-mainnet-as-it-seeks-an-edge-for-usdc-utility/",
-    "publishedAt": "2026-09-17T01:50:26.000Z",
-    "preview": "The network uses one USDC balance for payments and fees, but catching its rival depends on additional demand. The post Circle opens Arc mainnet as it seeks an edge for USDC utility appeared first on CryptoSlate.",
-    "tags": []
   },
   {
     "source": "Cointelegraph",
@@ -795,16 +969,6 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "A LatAm telecom operator is putting part of its finances on Avalanche",
-    "link": "https://www.coindesk.com/business/2026/09/15/a-latam-telecom-operator-is-putting-part-of-its-finances-on-avalanche",
-    "publishedAt": "2026-09-16T14:00:00.000Z",
-    "preview": "Led by former IBM Blockchain partner Jules Miller, Iris is helping Bolivia's VIVA use stablecoins for settlement, dollar reserves and new financial services without replacing its existing telecom systems.",
-    "tags": [
-      "AVAX"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "Revolut ID thefts highlight KYC’s dangers: Here’s how to fix it",
     "link": "https://cointelegraph.com/magazine/revolut-id-thefts-highlight-kycs-dangers-heres-how-to-fix-it",
@@ -828,14 +992,6 @@
     "link": "https://decrypt.co/378363/fca-guidance-lands-two-weeks-before-uk-crypto-authorization-window-opens",
     "publishedAt": "2026-09-16T13:12:33.000Z",
     "preview": "Overseas firms serving UK retail customers need authorization too, and nobody trades under the new rules before October 2027.",
-    "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "A stolen coin can be returned. A leaked identity cannot.",
-    "link": "https://www.coindesk.com/opinion/2026/09/16/a-stolen-coin-can-be-returned-a-leaked-identity-cannot",
-    "publishedAt": "2026-09-16T13:00:00.000Z",
-    "preview": "We keep building the honeypots, and we are about to hand the same architecture to billions of AI agents, writes Evin McMullen, CEO and co-founder of Billions.",
     "tags": []
   },
   {
@@ -895,16 +1051,6 @@
     ]
   },
   {
-    "source": "CoinDesk",
-    "title": "Bitcoin Core 32 enters final testing with faster validation, fee changes and security fixes",
-    "link": "https://www.coindesk.com/tech/2026/09/16/bitcoin-core-32-enters-final-testing-with-faster-validation-fee-changes-and-security-fixes",
-    "publishedAt": "2026-09-16T12:00:41.000Z",
-    "preview": "The October update changes how nodes estimate transaction fees and process blocks, while fixing a wallet flaw that could let an authenticated user run commands on a node.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "Zcash holders back 25-second blocks, vote to keep ZEC halving schedule",
     "link": "https://cointelegraph.com/news/zcash-nu7-poll-faster-blocks-zec-halvings",
@@ -919,16 +1065,6 @@
     "publishedAt": "2026-09-16T11:39:44.000Z",
     "preview": "Circle’s Arc mainnet is live with USDC for transaction fees, support for more than 20 fiat stablecoins and links to over 20 blockchains.",
     "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Bitcoin loses touch with the Dollar Index, U.S. stocks ahead of the Fed",
-    "link": "https://www.coindesk.com/daybook-us/2026/09/16/bitcoin-loses-touch-with-the-dollar-index-u-s-stocks-ahead-of-the-fed",
-    "publishedAt": "2026-09-16T11:16:51.000Z",
-    "preview": "Your day-ahead look for Sept. 16, 2026",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "CryptoPotato",
@@ -951,32 +1087,12 @@
     ]
   },
   {
-    "source": "Cointelegraph",
-    "title": "Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions",
-    "link": "https://cointelegraph.com/news/deutsche-bank-regulatory-nod-institutional-crypto-custody",
-    "publishedAt": "2026-09-16T10:33:12.000Z",
-    "preview": "Germany’s largest bank is awaiting regulatory approval to launch institutional custody solutions for Bitcoin, Ether and select stablecoins before expanding into tokenized assets.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "NewsBTC",
     "title": "Justin Sun Establishes the Justin Sun Prize: “My Wealth Came from Mathematics and Will Return to Mathematics”",
     "link": "https://www.newsbtc.com/news/justin-sun-establishes-the-justin-sun-prize-my-wealth-came-from-mathematics-and-will-return-to-mathematics/",
     "publishedAt": "2026-09-16T10:16:35.000Z",
     "preview": "Geneva, Switzerland — September 16, 2026 — The Office of Justin Sun today announced the establishment of the Justin Sun Prize, a zero-trust, decentralized academic bounty mechanism based on a “problem list,” with breakth",
     "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Ethiopia cuts Bitcoin miners’ power by 77% amid hydropower shortage: Report",
-    "link": "https://cointelegraph.com/news/ethiopia-bitcoin-mining-power-cut-hydro-shortage",
-    "publishedAt": "2026-09-16T10:11:39.000Z",
-    "preview": "Bitcoin miners generated 35% of the state-owned power producer’s revenue last year, but declining reservoir inflows led the utility to prioritize households and manufacturers.",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "NewsBTC",
@@ -987,30 +1103,12 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "Italy investigates government email breach linked to Revolut data leak",
-    "link": "https://cointelegraph.com/news/italy-government-email-breach-revolut-data-leak",
-    "publishedAt": "2026-09-16T09:58:48.000Z",
-    "preview": "Italy is probing the Revolut-linked breach after its cyber agency reported more than 650 cases involving abused or illicit certified email accounts.",
-    "tags": []
-  },
-  {
     "source": "NewsBTC",
     "title": "AI Agent Statistics 2026: Every Number Checked at Its Source",
     "link": "https://www.newsbtc.com/news/ai-agent-statistics-2026-every-number-checked-at-its-source/",
     "publishedAt": "2026-09-16T09:57:29.000Z",
     "preview": "The most-quoted AI agent statistics count intent, and real use in any single department is no more than 10 percent, finds a source-checked analysis by bdautomated 75 figures from 18 publishers traced to the original repo",
     "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Bitcoin Coinbase Premium hits monthly low as CLARITY Act vote squeezes US demand",
-    "link": "https://cointelegraph.com/markets/bitcoin-coinbase-premium-hits-monthly-low-as-clarity-act-vote-squeezes-us-demand",
-    "publishedAt": "2026-09-16T09:55:16.000Z",
-    "preview": "Bitcoin exchange demand on Coinbase declined after the US Senate voted against the CLARITY Act, while traders sent BTC to exchanges at an unrealized loss.",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "NewsBTC",
@@ -1198,109 +1296,6 @@
     "publishedAt": "2026-09-15T17:49:23.000Z",
     "preview": "Two employees allegedly earned more than $50,000 each by trading Hyperliquid perpetual futures before Robinhood announced new token listings.",
     "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "'It's Now or Never' for Clarity Act, Says 'Bitcoin Senator' Lummis",
-    "link": "https://decrypt.co/378268/now-or-never-clarity-act-bitcoin-cynthia-lummis",
-    "publishedAt": "2026-09-15T17:43:01.000Z",
-    "preview": "The Wyoming Republican says the final text hands Democrats more than 120 of their own demands, including sweeping new ethics rules, as the Senate holds a make-or-break cloture vote Tuesday afternoon.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "240,000,000 DOGE in a Week: Where Is Dogecoin Headed Next?",
-    "link": "https://cryptopotato.com/240000000-doge-in-a-week-where-is-dogecoin-headed-next/",
-    "publishedAt": "2026-09-15T17:40:22.000Z",
-    "preview": "Whales now control around 12% of Dogecoin's circulating supply.",
-    "tags": [
-      "DOGE"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "US Seeks Forfeiture of $61 Million in Crypto Linked to Alleged Iranian Oil Scheme",
-    "link": "https://decrypt.co/378261/us-forfeiture-61-million-crypto-iranian-oil-scheme",
-    "publishedAt": "2026-09-15T17:06:03.000Z",
-    "preview": "Prosecutors allege two Chinese companies used Binance accounts to launder oil proceeds benefiting Iran’s government and military.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Crypto's Long-Sought 'De Minimis' Tax Break Gets a House Markup This Week",
-    "link": "https://decrypt.co/378260/house-crypto-tax-bill-de-minimis-captail-gains",
-    "publishedAt": "2026-09-15T16:34:35.000Z",
-    "preview": "The proposal would overhaul federal tax treatment of digital assets but still requires approval from Congress.",
-    "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Preparing for a Post-CLARITY Crash? Whale Opens Massive BTC, ETH, and ZEC Shorts",
-    "link": "https://cryptopotato.com/preparing-for-a-post-clarity-crash-whale-opens-massive-btc-eth-and-zec-shorts/",
-    "publishedAt": "2026-09-15T16:16:53.000Z",
-    "preview": "The trader has maintained a perfect track record so far.",
-    "tags": [
-      "BTC",
-      "ETH"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Democrats 'Move the Goalposts' on Clarity Act Hours Before Key Senate Vote",
-    "link": "https://decrypt.co/378246/democrats-goalposts-clarity-act-key-senate-vote",
-    "publishedAt": "2026-09-15T15:08:07.000Z",
-    "preview": "Democrats are pushing for further concessions as Republicans insist their latest text is their final offer ahead of today’s 60-vote test.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Bitcoin Sinks as the Senate's Clarity Act Showdown Looms",
-    "link": "https://decrypt.co/378233/bitcoin-sinks-senate-clarity-act-showdown",
-    "publishedAt": "2026-09-15T14:58:57.000Z",
-    "preview": "Bitcoin just gave back its entire post-golden-cross rally in one red candle, with a make-or-break Senate vote landing this afternoon and the Fed staring down a rate hike.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Ripple Price Analysis: XRP Trapped in Descending Channel as Key Levels Loom",
-    "link": "https://cryptopotato.com/ripple-price-analysis-xrp-trapped-in-descending-channel-as-key-levels-loom/",
-    "publishedAt": "2026-09-15T14:36:08.000Z",
-    "preview": "XRP’s post-rally cooldown continues to take shape, with the asset struggling to convert its August surge into a renewed impulsive advance. The price remains trapped within a corrective structure, leaving the next breakou",
-    "tags": [
-      "XRP"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Morning Minute: Clarity Act Odds Slump After Democrat Pushback",
-    "link": "https://decrypt.co/378230/morning-minute-clarity-act-odds-slump-after-democrat-pushback",
-    "publishedAt": "2026-09-15T14:05:47.000Z",
-    "preview": "The odds of the Clarity Act passing have fully reversed their recent move, and crypto majors have reversed alongside. Is there any hope left for the bill to pass?",
-    "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Bitcoin Price Analysis: BTC Tests Key Support Ahead of Crucial FOMC Decision",
-    "link": "https://cryptopotato.com/bitcoin-price-analysis-btc-tests-key-support-ahead-of-crucial-fomc-decision/",
-    "publishedAt": "2026-09-15T13:46:50.000Z",
-    "preview": "Bitcoin is entering a potentially decisive macro catalyst with its short-term structure already under pressure. The asset has drifted back toward the lower boundary of its recent consolidation, while the market awaits to",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Huge Day for XRP: CLARITY Act Vote Could Spark the Next Big Move",
-    "link": "https://cryptopotato.com/huge-day-for-xrp-clarity-act-vote-could-spark-the-next-big-move/",
-    "publishedAt": "2026-09-15T12:13:59.000Z",
-    "preview": "XRP jumped hard on Monday afternoon but it was stopped. It remains at a crucial level now, just hours ahead of the highly important CLARITY Act vote.",
-    "tags": [
-      "XRP"
-    ]
   },
   {
     "source": "NewsBTC",
