@@ -1,5 +1,149 @@
 [
   {
+    "source": "NewsBTC",
+    "title": "HTX Research Examines Stock-Linked Memecoins: A New Connection Between Equity Assets and Crypto Liquidity",
+    "link": "https://www.newsbtc.com/news/htx-research-examines-stock-linked-memecoins-a-new-connection-between-equity-assets-and-crypto-liquidity/",
+    "publishedAt": "2026-09-17T08:45:50.000Z",
+    "preview": "Apia, Samoa, September 17 – HTX Research, the dedicated research arm of HTX, has released a new report titled Stock-Linked Memecoins: Issuance, Liquidity, and the Emerging AMM Stack, a systematic study of a new asset cat",
+    "tags": []
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Unlocking the Trillion-Token Era: B.AI’s Global Settlement Layer for the Agent Economy",
+    "link": "https://www.newsbtc.com/news/unlocking-the-trillion-token-era-b-ais-global-settlement-layer-for-the-agent-economy/",
+    "publishedAt": "2026-09-17T08:42:08.000Z",
+    "preview": "Summary: Positioned squarely between foundation models and AI agents, B.AI is integrating compute routing, decentralized settlement, and full-stack agent infrastructure to establish itself as an undoubted spearhead in AI",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Bitcoin faces 2022 parallels as federal reserve resumes rate hikes",
+    "link": "https://www.coindesk.com/markets/2026/09/17/bitcoin-faces-2022-parallels-as-federal-reserve-resumes-rate-hikes",
+    "publishedAt": "2026-09-17T08:41:48.000Z",
+    "preview": "Bitcoin’s drawdown mirrors its position before the Fed’s first hike in March 2022, raising questions over whether a relief rally could precede further losses.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Bitcoin (BTC) Reacts to Fed Rate Hike: Analysts Split on What Comes Next",
+    "link": "https://cryptopotato.com/bitcoin-btc-reacts-to-fed-rate-hike-analysts-split-on-what-comes-next/",
+    "publishedAt": "2026-09-17T08:29:07.000Z",
+    "preview": "Bitcoin's reaction may depend less on this rate hike and more on whether the Fed continues tightening monetary policy.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Chainflip to reset TRON USDT provider balances to zero following $736,000 exploit",
+    "link": "https://cryptoslate.com/chainflip-to-reset-tron-usdt-provider-balances-to-zero-following-736000-exploit/",
+    "publishedAt": "2026-09-17T08:00:08.000Z",
+    "preview": "Providers retain a separate on-chain record of what they are owed, but Chainflip has not disclosed repayment timing. The post Chainflip to reset TRON USDT provider balances to zero following $736,000 exploit appeared fir",
+    "tags": [
+      "TRX"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Ripple adds XRP payments to Stripe and Tempo’s AI standard in new developer kit",
+    "link": "https://www.coindesk.com/tech/2026/09/17/ripple-adds-xrp-payments-to-stripe-and-tempo-s-ai-standard-in-new-developer-kit",
+    "publishedAt": "2026-09-17T07:54:33.000Z",
+    "preview": "The update expands support for automated payments in XRP and RLUSD, with tools that let agents pay repeatedly for services and manage wallets across blockchains.",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "U.S. diesel prices hit record high as bitcoin and gold struggle",
+    "link": "https://www.coindesk.com/markets/2026/09/17/u-s-diesel-prices-hit-record-high-as-bitcoin-and-gold-struggle",
+    "publishedAt": "2026-09-17T07:27:07.000Z",
+    "preview": "Record diesel prices could feed through to consumer price inflation, confirming more Fed rate hikes. The central bank appears determined to raise rates into a oil supply shock.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Bitcoin Survives First Fed Rate Hike in 3 Years, Zcash Explodes Again: Market Watch",
+    "link": "https://cryptopotato.com/bitcoin-survives-first-fed-rate-hike-in-3-years-zcash-explodes-again-market-watch/",
+    "publishedAt": "2026-09-17T07:14:00.000Z",
+    "preview": "Several altcoins have marked major gains today, which is rather unexpected given yesterday's rate hike and CLARITY Act's failure.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-09-17T06:01:31.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "BitMEX faces Celsius lawsuit ahead of exchange closure",
+    "link": "https://cointelegraph.com/news/celsius-estate-bitmex-6360-btc-liquidation-lawsuit",
+    "publishedAt": "2026-09-17T05:55:18.000Z",
+    "preview": "The Celsius estate alleges BitMEX wrongfully liquidated and seized 6,360 BTC, worth nearly $490 million, during the March 2020 market crash.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "OpenAI discloses 6 new cases of ‘misaligned’ AI behavior",
+    "link": "https://cointelegraph.com/news/openai-discloses-6-new-cases-of-misaligned-ai-behavior",
+    "publishedAt": "2026-09-17T05:49:06.000Z",
+    "preview": "The six cases are separate from July’s incident, when OpenAI models escaped containment and hacked Hugging Face during a security evaluation.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Avalanche’s Helicon upgrade cuts validator lockups from 14 days to 48 hours",
+    "link": "https://cryptoslate.com/avalanches-helicon-upgrade-cuts-validator-lockups-from-14-days-to-48-hours/",
+    "publishedAt": "2026-09-17T05:40:12.000Z",
+    "preview": "Scheduled for Sept. 22, the upgrade adds validator auto-renewal while making full cycle rewards harder to secure. The post Avalanche’s Helicon upgrade cuts validator lockups from 14 days to 48 hours appeared first on Cry",
+    "tags": [
+      "AVAX"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Zcash jumps 23% as bitcoin and major tokens rise despite Fed’s first hike since 2023",
+    "link": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023",
+    "publishedAt": "2026-09-17T04:47:27.000Z",
+    "preview": "Bitcoin traded above $76,000 as the Fed projected limited further tightening, while Paradigm’s Matt Huang discussed Zcash’s role as a privacy complement to bitcoin.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Goldman pivots, now forecasts Fed rate hike in October",
+    "link": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october",
+    "publishedAt": "2026-09-17T04:17:55.000Z",
+    "preview": "The Fed is likely to raise rates by 25 basis points in October, Goldman said, drawing attention to Fed's own hawkish near term rate projections.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "XRP’s 70% Breakout Had a Warning Sign: 85 Millionaire Wallets Moved First",
+    "link": "https://cryptopotato.com/xrps-70-breakout-had-a-warning-sign-85-millionaire-wallets-moved-first/",
+    "publishedAt": "2026-09-17T04:05:38.000Z",
+    "preview": "XRP whales moved early as 85 new millionaire wallets appeared before the dramatic August breakout.",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
     "source": "CryptoSlate",
     "title": "Ethereum’s client diversity picture fractures under incompatible estimates",
     "link": "https://cryptoslate.com/ethereums-client-diversity-picture-fractures-under-incompatible-estimates/",
@@ -134,17 +278,6 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-09-16T19:25:46.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
-    ]
-  },
-  {
     "source": "CryptoSlate",
     "title": "Solana triples transaction size as major upgrades meet record network activity",
     "link": "https://cryptoslate.com/solana-triples-transaction-size-as-major-upgrades-meet-record-network-activity/",
@@ -175,7 +308,7 @@
     "title": "Revolut hackers demand $3 million in Monero, threaten to sell customer data",
     "link": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
     "publishedAt": "2026-09-16T19:07:34.000Z",
-    "preview": "The group gave Revolut 24 hours to pay and said it targeted customers with significant crypto holdings.",
+    "preview": "The group gave Revolut 24 hours to pay and said it targeted customers with significant crypto holdings. Revolut said it has not not received any direct contact from the individuals.",
     "tags": []
   },
   {
@@ -279,16 +412,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Solana treasury giant DeFi Development opens $300M CHAD offering backed by a massive 13% dividend catch",
-    "link": "https://cryptoslate.com/solana-treasury-giant-defi-development-opens-300m-chad-offering-backed-by-a-massive-13-dividend-catch/",
-    "publishedAt": "2026-09-16T16:35:31.000Z",
-    "preview": "The company can sell up to 30 million shares, while actual proceeds and the SOL allocation remain undetermined. The post Solana treasury giant DeFi Development opens $300M CHAD offering backed by a massive 13% dividend c",
-    "tags": [
-      "SOL"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Zuckerberg Pushes Back on Coordinated AI Slowdown, Says Labs Can Act Alone",
     "link": "https://decrypt.co/378381/zuckerberg-pushes-back-ai-slowdown",
@@ -302,14 +425,6 @@
     "link": "https://www.coindesk.com/policy/2026/09/16/u-s-house-s-tax-committee-advances-crypto-tax-bill-in-wake-of-clarity-act-loss",
     "publishedAt": "2026-09-16T16:21:44.000Z",
     "preview": "The Digital Asset Tax Certainty Act would ease complicated tax burdens for everyday use of cryptocurrencies, though Trump's industry ties spurred some pushback.",
-    "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "XRPL proved it can handle over 3,000 transactions, but the traffic was entirely synthetic",
-    "link": "https://cryptoslate.com/xrpl-proved-it-can-handle-over-3000-transactions-but-the-traffic-was-entirely-synthetic/",
-    "publishedAt": "2026-09-16T16:17:06.000Z",
-    "preview": "The ledger cleared consensus, but 2,000 one-drop payments from 20 accounts and tiny fee burn limit the adoption case. The post XRPL proved it can handle over 3,000 transactions, but the traffic was entirely synthetic app",
     "tags": []
   },
   {
@@ -751,16 +866,6 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "Ethereum, Base give up on common wallet standard after months of talks",
-    "link": "https://www.coindesk.com/tech/2026/09/16/ethereum-base-give-up-on-common-wallet-standard-after-months-of-talks",
-    "publishedAt": "2026-09-16T08:07:59.000Z",
-    "preview": "Ethereum is moving ahead with EIP-8141 while Coinbase-backed Base backs EIP-8130, leaving wallets and apps that span both networks facing different transaction systems.",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Crypto Exchange CoinEx Is Shutting Down After Nine Years, Giving Users Until December to Cash Out",
     "link": "https://decrypt.co/378324/coinex-shutting-down",
@@ -792,32 +897,12 @@
     ]
   },
   {
-    "source": "CoinDesk",
-    "title": "Fed meeting is shaping up to be a nightmare for Warsh. Bitcoin might still shine",
-    "link": "https://www.coindesk.com/markets/2026/09/16/fed-meeting-is-shaping-up-to-be-a-nightmare-for-warsh-bitcoin-might-still-shine",
-    "publishedAt": "2026-09-16T06:42:22.000Z",
-    "preview": "An aggressive market expectations trap and a strict aversion to forward guidance have backed the Fed chair into a corner, where failing to deliver a hawkish message risks destroying the central bank’s inflation-fighting ",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "AI has been a ‘net negative’ for crypto: Phemex CEO",
     "link": "https://cointelegraph.com/news/ai-has-been-a-net-negative-for-crypto-phemex-ceo",
     "publishedAt": "2026-09-16T06:38:48.000Z",
     "preview": "Federico Variola says AI has diverted capital from crypto and is empowering attackers, while rising cybersecurity costs could push the industry toward greater centralization.",
     "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Zcash holders overwhelmingly back faster transactions and bitcoin-style halvings",
-    "link": "https://www.coindesk.com/tech/2026/09/16/zcash-holders-overwhelmingly-back-faster-transactions-and-bitcoin-style-halvings",
-    "publishedAt": "2026-09-16T05:54:04.000Z",
-    "preview": "Nearly 2.4 million ZEC participated, with 99.9% backing 25-second blocks and 98.9% voting to preserve the network’s existing halving schedule.",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "CryptoPotato",
@@ -838,16 +923,6 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "Crypto longs worth $570 million wiped out as Clarity Act fails",
-    "link": "https://www.coindesk.com/markets/2026/09/16/crypto-bulls-take-a-usd570-million-liquidation-hit-as-clarity-act-fails",
-    "publishedAt": "2026-09-16T04:07:27.000Z",
-    "preview": "Bullish crypto futures bets worth millions have been liquidated in 24 hours. Bitcoin and ether longs have taken in the most losses.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "Bitcoin ETFs shed $450M in biggest outflow since June",
     "link": "https://cointelegraph.com/news/bitcoin-etfs-shed-450m-in-biggest-outflow-since-june",
@@ -865,17 +940,6 @@
     "preview": "Much of that sector-wide gain comes down to one token, Zcash, which now represents about 62% of the privacy market.",
     "tags": [
       "BTC"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000",
-    "link": "https://www.coindesk.com/markets/2026/09/16/xrp-sinks-10-as-the-clarity-act-fails-and-bitcoin-slides-toward-usd76-000",
-    "publishedAt": "2026-09-16T03:37:45.000Z",
-    "preview": "The Senate's 49-50 procedural vote left the crypto market structure bill 11 short of what it needed, and every major token fell.",
-    "tags": [
-      "BTC",
-      "XRP"
     ]
   },
   {
@@ -1087,27 +1151,6 @@
     ]
   },
   {
-    "source": "Cointelegraph",
-    "title": "Standard Chartered says Arbitrum could outperform Bitcoin, Ether through 2030",
-    "link": "https://cointelegraph.com/news/standard-chartered-arbitrum-arb-price-10-2030",
-    "publishedAt": "2026-09-15T15:50:49.000Z",
-    "preview": "Standard Chartered sees Robinhood Chain as an early sign that tokenization could transform Arbitrum’s economics and drive ARB sharply higher by 2030.",
-    "tags": [
-      "BTC",
-      "ARB"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address",
-    "link": "https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit",
-    "publishedAt": "2026-09-15T15:21:26.000Z",
-    "preview": "An MEV bot known as “Yoink” front-ran an attacker attempting to exploit a custom Safe module, capturing the stolen rsETH before Kelp temporarily froze the receiving address.",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Democrats 'Move the Goalposts' on Clarity Act Hours Before Key Senate Vote",
     "link": "https://decrypt.co/378246/democrats-goalposts-clarity-act-key-senate-vote",
@@ -1234,16 +1277,6 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "Bitcoin Rejected at $80K Again Ahead of Crucial CLARITY Act Senate Vote: Market Watch",
-    "link": "https://cryptopotato.com/bitcoin-rejected-at-80k-again-ahead-of-crucial-clarity-act-senate-vote-market-watch/",
-    "publishedAt": "2026-09-15T09:43:10.000Z",
-    "preview": "RAIN has plummeted the most from the larger-cap alts, while UNI and XLM are among the few exceptions in the green today.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Strive's Bitcoin Stash Hits an Even 25,000 BTC After $36.6 Million Buy",
     "link": "https://decrypt.co/378190/strive-bitcoin-25000-btc-after-buy",
@@ -1252,22 +1285,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "World Liberty Financial Unveils Token-Lock Rewards to Boost Governance Turnout",
-    "link": "https://cryptopotato.com/world-liberty-financial-unveils-token-lock-rewards-to-boost-governance-turnout/",
-    "publishedAt": "2026-09-15T07:28:08.000Z",
-    "preview": "The proposal contains a 5% voting-power cap designed to stop large locked positions from gaining too much influence over voting.",
-    "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "CLARITY Act Hits Final Stretch as Democrats Push Back Before Senate Vote",
-    "link": "https://cryptopotato.com/clarity-act-hits-final-stretch-as-democrats-push-back-before-senate-vote/",
-    "publishedAt": "2026-09-15T06:06:41.000Z",
-    "preview": "A Democratic counterproposal landed ahead of the Senate vote as lawmakers remained divided over ethics language and other CLARITY Act provisions.",
-    "tags": []
   },
   {
     "source": "Decrypt",
@@ -1307,24 +1324,6 @@
     "link": "https://www.newsbtc.com/news/kucoin-spotlight-returns-with-a-gno-land-gnot-pre-listing-subscription-featuring-pro-rata-allocation-kcs-holder-benefits-and-conditional-buyback-mechanism/",
     "publishedAt": "2026-09-14T10:13:50.000Z",
     "preview": "KuCoin Spotlight returns with a pre-listing subscription for 7,751,938 GNOT at a subscription price of $0.0645 per token. The oversubscription model uses pro-rata allocation, under which eligible subscribers may receive ",
-    "tags": []
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Ethena Brings USDe and sUSDe to TRON, Expanding Digital Dollar Access Across Its Stablecoin Ecosystem",
-    "link": "https://www.newsbtc.com/news/ethena-brings-usde-and-susde-to-tron-expanding-digital-dollar-access-across-its-stablecoin-ecosystem/",
-    "publishedAt": "2026-09-12T11:31:26.000Z",
-    "preview": "Geneva and Lisbon, Sept. 12, 2026 – TRON DAO (“TRON”) and Ethena Labs (“Ethena”) today announced that USDe and sUSDe are live on the TRON network, expanding access to Ethena’s digital dollar products across one of the wo",
-    "tags": [
-      "TRX"
-    ]
-  },
-  {
-    "source": "NewsBTC",
-    "title": "MEXC Stock Futures Trading Volume Rises 130% in August as Trading Activity Broadens Across U.S. and Korean emory and Semiconductor Sectors",
-    "link": "https://www.newsbtc.com/news/mexc-stock-futures-trading-volume-rises-130-in-august-as-trading-activity-broadens-across-u-s-and-korean-emory-and-semiconductor-sectors/",
-    "publishedAt": "2026-09-11T10:11:20.000Z",
-    "preview": "Mutsamudu, Comoros, September 11, 2026 — MEXC, a pioneer in 0-fee digital asset trading, released its August TradFi trading data. Trading volume across stock, index, and ETF Futures rose 130% month-on-month, while the nu",
     "tags": []
   }
 ]
