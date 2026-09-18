@@ -1,5 +1,13 @@
 [
   {
+    "source": "Cointelegraph",
+    "title": "North Korea drives onchain malware surge, CoinEx shuts: Asia Express",
+    "link": "https://cointelegraph.com/magazine/north-korea-drives-onchain-malware-surge-coinex-shuts-asia-express",
+    "publishedAt": "2026-09-17T23:49:23.000Z",
+    "preview": "North Korea and Iran account for the majority of onchain malware, while Malaysia has been named among the most crypto curious Islamic nations.",
+    "tags": []
+  },
+  {
     "source": "CryptoSlate",
     "title": "Aave V4’s Arc market is swimming in $76 million of USDC nobody is borrowing",
     "link": "https://cryptoslate.com/aave-v4s-arc-market-is-swimming-in-76-million-of-usdc-nobody-is-borrowing/",
@@ -1141,14 +1149,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Zcash holders back 25-second blocks, vote to keep ZEC halving schedule",
-    "link": "https://cointelegraph.com/news/zcash-nu7-poll-faster-blocks-zec-halvings",
-    "publishedAt": "2026-09-16T11:46:39.000Z",
-    "preview": "Nearly 99% of ZEC holders voted to reduce block times to 25 seconds, while keeping ZEC issuance and halving schedules unchanged.",
-    "tags": []
   },
   {
     "source": "CryptoPotato",
