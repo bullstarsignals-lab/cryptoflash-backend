@@ -1,5 +1,149 @@
 [
   {
+    "source": "CoinDesk",
+    "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
+    "link": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
+    "publishedAt": "2026-09-18T06:16:57.000Z",
+    "preview": "The network is cutting its target slot time to 250 milliseconds, giving apps fresher blockchain data and validators shorter control windows while reducing the amount of work allowed in each slot.",
+    "tags": [
+      "SOL"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-09-18T06:00:00.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Bitcoin Could Get More Support Than Gold as ETF Hedging Eases: JPMorgan",
+    "link": "https://cryptopotato.com/bitcoin-could-get-more-support-than-gold-as-etf-hedging-eases-jpmorgan/",
+    "publishedAt": "2026-09-18T05:56:29.000Z",
+    "preview": "JPMorgan analysts say Bitcoin could see stronger price support than gold if ETF hedging eases, as short interest in BlackRock’s IBIT reaches its highest level of 2026.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Corporate treasuries bought just 5,900 bitcoin in 3 months. Other demand signals look weak, too.",
+    "link": "https://www.coindesk.com/markets/2026/09/18/corporate-treasuries-bought-just-5-900-bitcoin-in-3-months-other-demand-signals-look-weak-too",
+    "publishedAt": "2026-09-18T05:43:21.000Z",
+    "preview": "Corporate treasuries bought just 5,900 bitcoin in three months, while broader demand signals remain weak.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Ethereum confirms Glamsterdam dates, but warns 'fake' builders could stall the chain",
+    "link": "https://www.coindesk.com/tech/2026/09/18/ethereum-confirms-glamsterdam-dates-but-warns-fake-builders-could-stall-the-chain",
+    "publishedAt": "2026-09-18T05:23:29.000Z",
+    "preview": "Free test ether lets fake builders outbid rivals and withhold transaction payloads, while client teams get half the usual review time before Sepolia.",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Fake AI crypto software is secretly replacing browser wallet extensions",
+    "link": "https://cryptoslate.com/hp-says-fake-ai-trading-bot-swapped-crypto-wallet-extensions-for-credential-stealing-copies/",
+    "publishedAt": "2026-09-18T05:10:30.000Z",
+    "preview": "Needle Stealer used signed Microsoft software to target seven browser wallets without breaching Coinbase or MetaMask. The post Fake AI crypto software is secretly replacing browser wallet extensions appeared first on Cry",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Zcash targets November for NU7 mainnet upgrade with 25-second blocks",
+    "link": "https://cointelegraph.com/news/zcash-nu7-november-mainnet-activation",
+    "publishedAt": "2026-09-18T04:51:29.000Z",
+    "preview": "NU7 will cut Zcash block times to 25 seconds and preserve its halving schedule, with testnet activation planned for Oct. 6.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Ether and XRP ETFs post outflows as bitcoin moves above $77,000",
+    "link": "https://www.coindesk.com/markets/2026/09/18/ether-and-xrp-etfs-post-outflows-as-bitcoin-moves-above-usd77-000",
+    "publishedAt": "2026-09-18T04:49:17.000Z",
+    "preview": "Ether funds shed money for a third straight session even as the token rose, while every major gained and zcash extended its run.",
+    "tags": [
+      "BTC",
+      "XRP"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Cardano’s IOG warns users to avoid YouTube channel amid apparent hijack",
+    "link": "https://cointelegraph.com/news/cardanos-iog-warns-users-to-avoid-youtube-channel-amid-giveaway-scam",
+    "publishedAt": "2026-09-18T04:11:40.000Z",
+    "preview": "Input Output Group told users to avoid its YouTube channel after it began livestreaming a suspected AI-manipulated Charles Hoskinson video promising to “double your wealth.”",
+    "tags": [
+      "ADA"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Ripple (XRP) Prints an Extremely Bullish Signal: Is This the Perfect Buying Opportunity?",
+    "link": "https://cryptopotato.com/ripple-xrp-prints-an-extremely-bullish-signal-is-this-the-perfect-buying-opportunity/",
+    "publishedAt": "2026-09-18T04:04:51.000Z",
+    "preview": "\"By the time the crowd feels safe again, you may already be looking at XRP from behind,\" one popular analyst stated.",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "XRPL’s new lending tool could lock up your XRP from minutes to decades",
+    "link": "https://cryptoslate.com/xrpls-new-lending-tool-could-lock-up-your-xrp-from-minutes-to-decades/",
+    "publishedAt": "2026-09-18T03:40:57.000Z",
+    "preview": "Closed-ended vaults would bar withdrawals during fixed investment terms and count interest only when paid, but activation and XRP-denominated use remain unproven. The post XRPL’s new lending tool could lock up your XRP f",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "World launches self-custodial ‘super app’ World Money",
+    "link": "https://cointelegraph.com/news/world-launches-self-custodial-super-app-world-money",
+    "publishedAt": "2026-09-18T03:40:28.000Z",
+    "preview": "World Money is rolling out across more than 150 countries, combining stablecoin payments, digital asset rewards and trading in a self-custodial app.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Bank of Japan raises interest rates by 25 basis points. Bitcoin tops $77,000",
+    "link": "https://www.coindesk.com/markets/2026/09/17/boj-rate-hike",
+    "publishedAt": "2026-09-18T03:03:38.000Z",
+    "preview": "The yen declined and BTC rose after the BOJ hiked rates to the highest level in 31 years.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "US sanctions Iran’s BitBank, saying it processes ‘Hormuz Safe’ Bitcoin payments",
+    "link": "https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments",
+    "publishedAt": "2026-09-18T01:33:54.000Z",
+    "preview": "US Treasury says the Iranian exchange processed payments received through Iran’s Strait of Hormuz maritime scheme and helped move hundreds of millions of dollars in Bitcoin to the IRGC.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "From Kaiko to OpenZeppelin, S&P Global is quietly preparing for markets that never close",
+    "link": "https://cryptoslate.com/from-kaiko-to-openzeppelin-sp-global-is-quietly-preparing-for-markets-that-never-close/",
+    "publishedAt": "2026-09-18T01:30:37.000Z",
+    "preview": "S&P Global agreed to acquire smart contract security firm OpenZeppelin, expanding its digital asset business into the technology underpinning tokenized finance. On Sept. 17, the financial data and ratings company said th",
+    "tags": []
+  },
+  {
     "source": "Cointelegraph",
     "title": "North Korea drives onchain malware surge, CoinEx shuts: Asia Express",
     "link": "https://cointelegraph.com/magazine/north-korea-drives-onchain-malware-surge-coinex-shuts-asia-express",
@@ -90,17 +234,6 @@
     "publishedAt": "2026-09-17T20:46:03.000Z",
     "preview": "Chipotle is piloting a Palantir-built food safety dashboard after a summer of outbreaks, putting employee data in the hands of a company seeded by the CIA's venture arm.",
     "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-09-17T20:44:00.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
-    ]
   },
   {
     "source": "Decrypt",
@@ -359,16 +492,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Lawmakers pass bill to freeze federal Bitcoin holdings for two decades",
-    "link": "https://cryptoslate.com/lawmakers-pass-bill-to-freeze-federal-bitcoin-holdings-for-two-decades/",
-    "publishedAt": "2026-09-17T14:30:16.000Z",
-    "preview": "ARMA would lock qualifying reserve Bitcoin in place from enactment and require annual audited reporting, while purchases remain a study. The post Lawmakers pass bill to freeze federal Bitcoin holdings for two decades app",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "Bitcoin Price Prediction: Is BTC About to Break Above $80K or Crash Below $72K?",
     "link": "https://cryptopotato.com/bitcoin-price-prediction-is-btc-about-to-break-80k-or-crash-below-72k/",
@@ -425,16 +548,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Why standard Bitcoin transfer figures are off by up to six times, according to the BIS",
-    "link": "https://cryptoslate.com/why-standard-bitcoin-transfer-figures-are-off-by-up-to-six-times-according-to-the-bis/",
-    "publishedAt": "2026-09-17T13:30:22.000Z",
-    "preview": "The working paper says contract proliferation and cross-chain stablecoin use make raw activity totals noisy measures of economic reality. The post Why standard Bitcoin transfer figures are off by up to six times, accordi",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "Bitcoin treasury firms can outperform BTC... but is the risk worth taking?",
     "link": "https://cointelegraph.com/magazine/bitcoin-treasuries-can-outperform-btc-but-is-it-a-risk-worth-taking",
@@ -487,16 +600,6 @@
     "publishedAt": "2026-09-17T12:53:01.000Z",
     "preview": "The group says it chose whom to target by scanning the blockchain for Revolut accounts holding significant crypto.",
     "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "A $29B private exodus from US bonds is threatening Bitcoin’s next big rally",
-    "link": "https://cryptoslate.com/a-29b-private-exodus-from-us-bonds-is-threatening-bitcoins-next-big-rally/",
-    "publishedAt": "2026-09-17T12:40:18.000Z",
-    "preview": "July’s bill rebound masked a split at longer maturities as official buying offset most private selling and September’s 10-year yield held near 5%. The post A $29B private exodus from US bonds is threatening Bitcoin’s nex",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "CoinDesk",
@@ -769,14 +872,6 @@
     ]
   },
   {
-    "source": "CoinDesk",
-    "title": "Goldman pivots, now forecasts Fed rate hike in October",
-    "link": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october",
-    "publishedAt": "2026-09-17T04:17:55.000Z",
-    "preview": "The Fed is likely to raise rates by 25 basis points in October, Goldman said, drawing attention to Fed's own hawkish near term rate projections.",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "XRP’s 70% Breakout Had a Warning Sign: 85 Millionaire Wallets Moved First",
     "link": "https://cryptopotato.com/xrps-70-breakout-had-a-warning-sign-85-millionaire-wallets-moved-first/",
@@ -899,14 +994,6 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "Group behind Revolut data breach demands $3 million in Monero, threaten to sell customer data",
-    "link": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
-    "publishedAt": "2026-09-16T19:07:34.000Z",
-    "preview": "The group gave Revolut 24 hours to pay and said it targeted customers with significant crypto holdings. Revolut said it has not not received any direct contact from the individuals.",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "Bitcoin Core Software Update Aims for Speed and Security Patches",
     "link": "https://decrypt.co/378430/bitcoin-core-software-october-update",
@@ -945,30 +1032,12 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "Fed raises rates by 25 basis points in first hike since July 2023",
-    "link": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
-    "publishedAt": "2026-09-16T17:54:55.000Z",
-    "preview": "The widely expected move places the U.S. Federal Reserve's benchmark fed funds rate range at 3.75%-4.0%.",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "Robinhood Chain’s TVL Nears $1B, but Failed L1s Raise Sustainability Question",
     "link": "https://cryptopotato.com/robinhood-chains-tvl-nears-1b-but-failed-l1s-raise-sustainability-question/",
     "publishedAt": "2026-09-16T17:49:37.000Z",
     "preview": "The chain's one-month TVL growth stands at 71%, yet net outflows of $11.11 million over 24 hours show capital can still move quickly.",
     "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Celsius sues BitMEX for $495 million over 2020 crash liquidations",
-    "link": "https://www.coindesk.com/business/2026/09/16/celsius-sues-bitmex-for-usd495-million-over-2020-crash-liquidations",
-    "publishedAt": "2026-09-16T17:34:04.000Z",
-    "preview": "The estate is chasing 6,360 BTC lost in the Covid crash — a leveraged long position that sits awkwardly with the lender's delta-neutral marketing.",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "Decrypt",
@@ -997,27 +1066,11 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "U.S. House's tax committee advances crypto tax bill in wake of Clarity Act loss",
-    "link": "https://www.coindesk.com/policy/2026/09/16/u-s-house-s-tax-committee-advances-crypto-tax-bill-in-wake-of-clarity-act-loss",
-    "publishedAt": "2026-09-16T16:21:44.000Z",
-    "preview": "The Digital Asset Tax Certainty Act would ease complicated tax burdens for everyday use of cryptocurrencies, though Trump's industry ties spurred some pushback.",
-    "tags": []
-  },
-  {
     "source": "Cointelegraph",
     "title": "Anchorage expands institutional custody to Etherlink, tokenized uranium",
     "link": "https://cointelegraph.com/news/anchorage-digital-brings-tokenized-uranium-custody-to-federally-chartered-crypto-bank",
     "publishedAt": "2026-09-16T16:03:35.000Z",
     "preview": "Anchorage Digital Bank added custody support for Etherlink and several Etherlink-based assets, including xU3O8, a token representing physical uranium.",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Coinbase faces greater fallout from CLARITY Act setback: Saxo",
-    "link": "https://cointelegraph.com/news/coinbase-clarity-act-exposure-saxo",
-    "publishedAt": "2026-09-16T15:52:17.000Z",
-    "preview": "A strategist at the Danish bank said Coinbase has more at stake in the CLARITY setback because its trading business is directly exposed to US market-structure rules.",
     "tags": []
   },
   {
@@ -1043,16 +1096,6 @@
     ]
   },
   {
-    "source": "Cointelegraph",
-    "title": "Bitcoin awaits Fed rate decision below $76K as analysis discounts ‘dovish surprise’ odds",
-    "link": "https://cointelegraph.com/markets/bitcoin-awaits-fed-rate-decision-below-76k-as-analysis-discounts-dovish-surprise-odds",
-    "publishedAt": "2026-09-16T15:30:49.000Z",
-    "preview": "Bitcoin price support materialized around $68,000 as markets saw a 93% chance of the Fed hiking rates by 0.25% on Wednesday.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Circle Launches Arc Mainnet With BlackRock, DTCC and Visa as Validators",
     "link": "https://decrypt.co/378374/circle-launches-arc-mainnet-with-blackrock-dtcc-and-visa-as-validators",
@@ -1066,14 +1109,6 @@
     "link": "https://decrypt.co/378323/ai-pause-protect-giants-not-safety-cato-jack-dorsey",
     "publishedAt": "2026-09-16T14:36:29.000Z",
     "preview": "Cato favors voluntary safeguards, while Block Chairman Jack Dorsey backs independent testing and narrowly justified restrictions.",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Revolut ID thefts highlight KYC’s dangers: Here’s how to fix it",
-    "link": "https://cointelegraph.com/magazine/revolut-id-thefts-highlight-kycs-dangers-heres-how-to-fix-it",
-    "publishedAt": "2026-09-16T13:30:00.000Z",
-    "preview": "Zero-knowledge technology could let companies verify who you are without storing your identity documents. So why isn’t it already standard practice?",
     "tags": []
   },
   {
@@ -1102,16 +1137,6 @@
     "preview": "Will BTC jump above $82,000 or face another leg down?",
     "tags": [
       "BTC"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Bernstein expects ‘aggressive’ rulemaking from SEC, CFTC, following CLARITY Act failure",
-    "link": "https://cointelegraph.com/news/bernstein-aggressive-rulemaking-sec-cftc-clarity-act",
-    "publishedAt": "2026-09-16T12:36:20.000Z",
-    "preview": "Bernstein said the federal agencies will publish new regulations to compensate for the time lost negotiating the CLARITY Act, after its cloture vote failed on Tuesday.",
-    "tags": [
-      "Regulation"
     ]
   },
   {
@@ -1282,24 +1307,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "XRP Ledger Batch V1.1 Nears Activation After Security Rebuild",
-    "link": "https://cryptopotato.com/xrp-ledger-batch-v1-1-nears-activation-after-security-rebuild/",
-    "publishedAt": "2026-09-15T22:24:22.000Z",
-    "preview": "The bug could have let a malformed signer setup pass validation without requiring the private keys of every other account involved.",
-    "tags": [
-      "XRP"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "CoinEx Calls Time After Nearly Nine Years as Crypto Market Pressure Mounts",
-    "link": "https://cryptopotato.com/coinex-calls-time-after-nearly-nine-years-as-crypto-market-pressure-mounts/",
-    "publishedAt": "2026-09-15T20:33:33.000Z",
-    "preview": "CoinEx joins BitMart and BitMEX among established exchanges closing this year.",
-    "tags": []
   },
   {
     "source": "NewsBTC",
