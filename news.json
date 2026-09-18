@@ -1,11 +1,40 @@
 [
   {
+    "source": "CryptoPotato",
+    "title": "Report: ECB President Personally Blocked Binance’s EU License",
+    "link": "https://cryptopotato.com/report-ecb-president-personally-blocked-binances-eu-license/",
+    "publishedAt": "2026-09-18T22:04:07.000Z",
+    "preview": "Greece's own finance minister reportedly had a different read on the case, a view that did not survive the ECB president's intervention.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Bitcoin faces an eight-year rates test as the BOE unwinds £368 billion",
+    "link": "https://cryptoslate.com/bitcoin-faces-an-eight-year-rates-test-as-the-boe-unwinds-368-billion/",
+    "publishedAt": "2026-09-18T21:25:23.000Z",
+    "preview": "Gilt yields fell as active auctions paused, yet the Bank’s full portfolio unwind keeps a slow-burn rates risk alive. The post Bitcoin faces an eight-year rates test as the BOE unwinds £368 billion appeared first on Crypt",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
     "source": "Decrypt",
     "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
     "link": "https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia",
     "publishedAt": "2026-09-18T21:01:30.000Z",
     "preview": "The filing seeks CFTC approval for contracts giving US traders 24/5 leveraged exposure to individual stocks without ownership.",
     "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-09-18T21:00:00.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
   },
   {
     "source": "CryptoSlate",
@@ -296,17 +325,6 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-09-18T13:34:11.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
-    ]
-  },
-  {
     "source": "CoinDesk",
     "title": "DHS’s predictive policing is unconstitutional, un-American and should be stopped",
     "link": "https://www.coindesk.com/opinion/2026/09/18/dhs-s-predictive-policing-is-unconstitutional-un-american-and-should-be-stopped",
@@ -347,16 +365,6 @@
     "publishedAt": "2026-09-18T12:50:01.000Z",
     "preview": "NU7 would reduce block times to 25 seconds while setting aside at least 60% of transaction fees to supplement mining rewards beginning in 2031.",
     "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "SEC and CFTC bypass Congress to open crypto access after CLARITY fails  – with a catch",
-    "link": "https://cryptoslate.com/sec-and-cftc-bypass-congress-after-clarity-failed-to-open-crypto-access-with-a-catch/",
-    "publishedAt": "2026-09-18T12:46:01.000Z",
-    "preview": "Tokenized stocks and wallet-linked derivatives can launch under new relief, while durable rights and jurisdiction remain unresolved. The post SEC and CFTC bypass Congress to open crypto access after CLARITY fails – with ",
-    "tags": [
-      "Regulation"
-    ]
   },
   {
     "source": "Cointelegraph",
@@ -1216,16 +1224,6 @@
     "publishedAt": "2026-09-16T21:16:03.000Z",
     "preview": "Meta is reportedly developing a version of its smart glasses without a camera, potentially addressing one of the biggest privacy objections to AI wearables.",
     "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Solana (SOL) Correction or Short-Lived Dip? Here’s Why Bulls Aren’t Giving Up",
-    "link": "https://cryptopotato.com/solana-sol-correction-or-short-lived-dip-heres-why-bulls-arent-giving-up/",
-    "publishedAt": "2026-09-16T20:49:52.000Z",
-    "preview": "Solana falls below $100 after the CLARITY Act setback, but certain factors suggest this correction could be short-lived.",
-    "tags": [
-      "SOL"
-    ]
   },
   {
     "source": "Decrypt",
