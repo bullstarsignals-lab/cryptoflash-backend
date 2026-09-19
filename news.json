@@ -1,5 +1,57 @@
 [
   {
+    "source": "CryptoSlate",
+    "title": "Brazil blocks stablecoins from key cross-border payment rail as $1.1 trillion market faces new limits",
+    "link": "https://cryptoslate.com/brazil-blocks-stablecoins-from-key-cross-border-payment-rail-as-1-1-trillion-market-faces-new-limits/",
+    "publishedAt": "2026-09-19T10:40:55.000Z",
+    "preview": "Brazil's central bank will bar virtual assets, including stablecoins, from settling one specific type of international payment flow starting Oct. 1. Resolution 561 targets the settlement leg between regulated foreign-exc",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Dtcpay welcomes SBI Group as strategic investor extending Series A to $25M",
+    "link": "https://cointelegraph.com/news/dtcpay-welcomes-sbi-group-as-strategic-investor-extending-series-a-to-25m",
+    "publishedAt": "2026-09-19T09:56:47.000Z",
+    "preview": "Singapore-based payments company completes Series A funding round with Japanese investor SBI Group.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Bitcoin survived the Fed and CLARITY, and now faces the next major test at $82,000 this weekend",
+    "link": "https://cryptoslate.com/bitcoin-survived-the-fed-and-clarity-and-now-faces-the-next-major-test-at-82000-this-weekend/",
+    "publishedAt": "2026-09-19T09:06:06.000Z",
+    "preview": "Bitcoin hit an intraday high of $81,400 on Friday, approaching the low-$82,000 zone that has capped every recovery attempt since late August. US spot Bitcoin ETF shares stop trading once American markets close for the we",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Bitcoin Survived the CLARITY Act Setback: What Happens Next?",
+    "link": "https://cryptopotato.com/bitcoin-survived-the-clarity-act-setback-what-happens-next/",
+    "publishedAt": "2026-09-19T08:24:48.000Z",
+    "preview": "Aside from the initial dip to $75,000, BTC has shown impressive resilience.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
+    "link": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report",
+    "publishedAt": "2026-09-19T07:50:58.000Z",
+    "preview": "Former banking official gets four years in prison over false letters of credit and accepting $470,000 in cryptocurrency bribes.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Zcash (ZEC) Keeps Flying: What’s Next After Crossing $1,500?",
+    "link": "https://cryptopotato.com/zcash-zec-keeps-flying-whats-next-after-crossing-1500/",
+    "publishedAt": "2026-09-19T06:51:25.000Z",
+    "preview": "Is ZEC headed toward a surreal pump to $14,000?",
+    "tags": []
+  },
+  {
     "source": "CryptoPotato",
     "title": "Bitcoin Reclaims $80K as SEC and CFTC Push Ahead After CLARITY Failure",
     "link": "https://cryptopotato.com/bitcoin-reclaims-80k-as-sec-and-cftc-push-ahead-after-clarity-failure/",
@@ -193,14 +245,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "3-year-old bug triggers $1.3 million drain and forces 10-day blockchain halt",
-    "link": "https://cryptoslate.com/3-year-old-bug-triggers-1-3-million-drain-and-forces-10-day-blockchain-halt/",
-    "publishedAt": "2026-09-18T17:50:45.000Z",
-    "preview": "The flaw survived a 2024 security review and led validators to halt transaction finalization during the Aug. 31, 2026 incident. The post 3-year-old bug triggers $1.3 million drain and forces 10-day blockchain halt appear",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross",
     "link": "https://decrypt.co/378641/xrp-surges-bitcoin-rebound-reopens-golden-cross",
@@ -209,16 +253,6 @@
     "tags": [
       "BTC",
       "XRP"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "US sanctions Iranian crypto exchange and its software developer over alleged IRGC Bitcoin transfers",
-    "link": "https://cryptoslate.com/us-sanctions-iranian-crypto-exchange-and-its-software-developer-over-alleged-irgc-bitcoin-transfers/",
-    "publishedAt": "2026-09-18T16:40:47.000Z",
-    "preview": "Treasury also says the Iranian exchange moved Hormuz Safe payments to the regime, without equating that stream with the IRGC total. The post US sanctions Iranian crypto exchange and its software developer over alleged IR",
-    "tags": [
-      "BTC"
     ]
   },
   {
@@ -1091,14 +1125,6 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "Crypto adoption blooming in Germany, while UK is falling ‘behind,’ says CoinShares researcher",
-    "link": "https://cointelegraph.com/news/crypto-adoption-blooming-germany-uk-behind-researcher",
-    "publishedAt": "2026-09-17T12:34:11.000Z",
-    "preview": "German crypto adoption is progressing through family offices and wealth managers, while the UK’s retail-facing cryptocurrency market remains “nascent,” according to the researcher.",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "Morning Minute: Crypto Rebounds After The Fed’s First Hike Since 2023",
     "link": "https://decrypt.co/378462/morning-minute-crypto-rebounds-after-the-feds-first-hike-since-2023",
@@ -1114,18 +1140,6 @@
     "preview": "The privacy coin rose double digits Thursday and 168% over the past month in the wake of the NU7 upgrade vote.",
     "tags": [
       "BTC"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "State hackers drive 420% surge in onchain malware, Chainalysis finds",
-    "link": "https://cointelegraph.com/news/onchain-malware-writes-surge-420-north-korea-iran-chainalysis",
-    "publishedAt": "2026-09-17T12:00:00.000Z",
-    "preview": "North Korea-linked hackers used Tron, Aptos and BNB Chain to maintain malware infrastructure, while suspected Iran-linked actors embedded directions in Bitcoin transactions.",
-    "tags": [
-      "BTC",
-      "BNB",
-      "TRX"
     ]
   },
   {
@@ -1187,26 +1201,6 @@
     "publishedAt": "2026-09-17T08:42:08.000Z",
     "preview": "Summary: Positioned squarely between foundation models and AI agents, B.AI is integrating compute routing, decentralized settlement, and full-stack agent infrastructure to establish itself as an undoubted spearhead in AI",
     "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Bitcoin (BTC) Reacts to Fed Rate Hike: Analysts Split on What Comes Next",
-    "link": "https://cryptopotato.com/bitcoin-btc-reacts-to-fed-rate-hike-analysts-split-on-what-comes-next/",
-    "publishedAt": "2026-09-17T08:29:07.000Z",
-    "preview": "Bitcoin's reaction may depend less on this rate hike and more on whether the Fed continues tightening monetary policy.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Bitcoin Survives First Fed Rate Hike in 3 Years, Zcash Explodes Again: Market Watch",
-    "link": "https://cryptopotato.com/bitcoin-survives-first-fed-rate-hike-in-3-years-zcash-explodes-again-market-watch/",
-    "publishedAt": "2026-09-17T07:14:00.000Z",
-    "preview": "Several altcoins have marked major gains today, which is rather unexpected given yesterday's rate hike and CLARITY Act's failure.",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "Decrypt",
