@@ -1,6 +1,76 @@
 [
   {
     "source": "CryptoSlate",
+    "title": "Circle wants you to love USDC a little like you love Chelsea",
+    "link": "https://cryptoslate.com/circle-wants-you-to-love-usdc-a-little-like-you-love-chelsea/",
+    "publishedAt": "2026-09-19T19:00:16.000Z",
+    "preview": "Chelsea has found a cool new shirt sponsor whose main product is…a stablecoin? USDC is designed to be worth one dollar. Today, tomorrow, next Tuesday: one dollar. If everything is working properly, absolutely nothing sho",
+    "tags": []
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Coinbase And Stablecore Open Digital Asset Rails To 3,000+ Banks And Credit Unions",
+    "link": "https://www.newsbtc.com/news/coinbase-and-stablecore-open-digital-asset-rails-to-3-000-banks-and-credit/",
+    "publishedAt": "2026-09-19T19:00:00.000Z",
+    "preview": "Read the latest update on Coinbase And Stablecore Open Digital Asset Rails To 3,000+ Banks And Credit Unions.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Warren Buffett Steps Down After 60 Years – And His Bitcoin Views Are Unforgettable",
+    "link": "https://cryptopotato.com/warren-buffett-steps-down-after-60-years-and-his-bitcoin-views-are-unforgettable/",
+    "publishedAt": "2026-09-19T18:47:00.000Z",
+    "preview": "From \"rat poison squared\" to \"stay away from it\" - some of his remarks have been quite brutal. Yet, BTC's market cap is bigger than Berkshire's.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Kalshi joins Coinbase with filing for US stock perpetual futures",
+    "link": "https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures",
+    "publishedAt": "2026-09-19T18:35:16.000Z",
+    "preview": "Kalshi’s proposal would bring perpetual futures tied to individual stocks to US traders, as Coinbase and Bitnomial pursue similar products.",
+    "tags": []
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Treasury Sanctions BitBank Over Iranian Crypto Sanctions-Evasion Network",
+    "link": "https://www.newsbtc.com/news/treasury-sanctions-bitbank-over-iranian-crypto-sanctions-evasion-network/",
+    "publishedAt": "2026-09-19T18:15:00.000Z",
+    "preview": "Read the latest update on Treasury Sanctions BitBank Over Iranian Crypto Sanctions-Evasion Network.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Anthropic’s potential $2 trillion IPO is fueling an $80 million crypto trade",
+    "link": "https://cryptoslate.com/anthropics-potential-2-trillion-ipo-is-fueling-an-80-million-crypto-trade/",
+    "publishedAt": "2026-09-19T18:05:02.000Z",
+    "preview": "Anthropic’s prospective $2 trillion IPO has already spawned nearly $80 million in crypto derivatives bets before its public debut. Open interest in futures linked to the Claude developer has climbed to about $79.27 milli",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "The Fed Hiked Rates and Bitcoin Went Up: Here’s Why That Matters",
+    "link": "https://cryptopotato.com/the-fed-hiked-rates-and-bitcoin-went-up-heres-why-that-matters/",
+    "publishedAt": "2026-09-19T17:46:55.000Z",
+    "preview": "The first Fed rate hike in over three years didn't bring BTC down for long.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "NewsBTC",
+    "title": "SEC Grants Five-Year Exemption For Tokenized Stock Trading Venues",
+    "link": "https://www.newsbtc.com/news/sec-grants-five-year-exemption-for-tokenized-stock-trading-venues/",
+    "publishedAt": "2026-09-19T17:30:00.000Z",
+    "preview": "Read the latest update on SEC Grants Five-Year Exemption For Tokenized Stock Trading Venues.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
     "title": "AI was supposed to take scammers’ jobs, but it gave them superpowers instead",
     "link": "https://cryptoslate.com/ai-was-supposed-to-take-scammers-jobs-but-it-gave-them-superpowers-instead/",
     "publishedAt": "2026-09-19T17:10:40.000Z",
@@ -327,22 +397,6 @@
     "tags": [
       "XRP"
     ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Anthropic’s Claude helped 3 researchers breach OpenAI in under 72 hours",
-    "link": "https://cryptoslate.com/anthropics-claude-helped-3-researchers-breach-openai-in-under-72-hours/",
-    "publishedAt": "2026-09-19T00:40:50.000Z",
-    "preview": "Anthropic’s Claude helped three security researchers breach OpenAI accounts and reach an internal code repository within 72 hours. Researchers at cybersecurity startup Hacktron chained an image-processing vulnerability w",
-    "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Exchanges lower token risk values, leaving leveraged traders with less breathing room",
-    "link": "https://cryptoslate.com/exchanges-lower-token-risk-values-leaving-leveraged-traders-with-less-breathing-room/",
-    "publishedAt": "2026-09-18T22:50:13.000Z",
-    "preview": "Exchange-set rules can shrink borrowing power even when the underlying holdings keep the same market value. The post Exchanges lower token risk values, leaving leveraged traders with less breathing room appeared first on",
-    "tags": []
   },
   {
     "source": "CryptoPotato",
@@ -1187,22 +1241,6 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "1win Adds Provably Fair Technology to Its Crypto Games",
-    "link": "https://cryptopotato.com/1win-adds-provably-fair-technology-to-its-crypto-games/",
-    "publishedAt": "2026-09-17T14:24:02.000Z",
-    "preview": "Willemstad, Curacao, 17th September 2026, PlayNewswire",
-    "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Arc Blockchain Explained: Everything You Need to Know About Circle’s Layer 1",
-    "link": "https://cryptopotato.com/what-is-circle-arc-blockchain/",
-    "publishedAt": "2026-09-17T14:19:16.000Z",
-    "preview": "A complete guide to Arc, Circle’s stablecoin-native Layer 1 blockchain, covering its architecture, USDC gas model, ecosystem, use cases and competition.",
-    "tags": []
-  },
-  {
     "source": "Cointelegraph",
     "title": "OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO",
     "link": "https://cointelegraph.com/news/ogcom-cleared-sec-stock-futures-cryptocom-ceo",
@@ -1220,16 +1258,6 @@
     "preview": "The SEC’s Innovation Exemption allows limited tokenized US stock trading on onchain venues with trading caps and transparency requirements.",
     "tags": [
       "Regulation"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Bitcoin treasury firms can outperform BTC... but is the risk worth taking?",
-    "link": "https://cointelegraph.com/magazine/bitcoin-treasuries-can-outperform-btc-but-is-it-a-risk-worth-taking",
-    "publishedAt": "2026-09-17T13:30:00.000Z",
-    "preview": "Bitcoin treasury companies promise to amplify returns over investing in Bitcoin alone, but does the potential upside outweigh the risks to the downside?",
-    "tags": [
-      "BTC"
     ]
   },
   {
@@ -1277,22 +1305,6 @@
     ]
   },
   {
-    "source": "NewsBTC",
-    "title": "HTX Research Examines Stock-Linked Memecoins: A New Connection Between Equity Assets and Crypto Liquidity",
-    "link": "https://www.newsbtc.com/news/htx-research-examines-stock-linked-memecoins-a-new-connection-between-equity-assets-and-crypto-liquidity/",
-    "publishedAt": "2026-09-17T08:45:50.000Z",
-    "preview": "Apia, Samoa, September 17 – HTX Research, the dedicated research arm of HTX, has released a new report titled Stock-Linked Memecoins: Issuance, Liquidity, and the Emerging AMM Stack, a systematic study of a new asset cat",
-    "tags": []
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Unlocking the Trillion-Token Era: B.AI’s Global Settlement Layer for the Agent Economy",
-    "link": "https://www.newsbtc.com/news/unlocking-the-trillion-token-era-b-ais-global-settlement-layer-for-the-agent-economy/",
-    "publishedAt": "2026-09-17T08:42:08.000Z",
-    "preview": "Summary: Positioned squarely between foundation models and AI agents, B.AI is integrating compute routing, decentralized settlement, and full-stack agent infrastructure to establish itself as an undoubted spearhead in AI",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "Crypto Tax Bill Clears House Committee After Clarity Act Setback",
     "link": "https://decrypt.co/378449/crypto-tax-bill-clears-house-committee",
@@ -1333,13 +1345,5 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Justin Sun Establishes the Justin Sun Prize: “My Wealth Came from Mathematics and Will Return to Mathematics”",
-    "link": "https://www.newsbtc.com/news/justin-sun-establishes-the-justin-sun-prize-my-wealth-came-from-mathematics-and-will-return-to-mathematics/",
-    "publishedAt": "2026-09-16T10:16:35.000Z",
-    "preview": "Geneva, Switzerland — September 16, 2026 — The Office of Justin Sun today announced the establishment of the Justin Sun Prize, a zero-trust, decentralized academic bounty mechanism based on a “problem list,” with breakth",
-    "tags": []
   }
 ]
