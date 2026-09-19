@@ -1,18 +1,140 @@
 [
   {
+    "source": "CoinDesk",
+    "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
+    "link": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
+    "publishedAt": "2026-09-19T14:00:00.000Z",
+    "preview": "Marc van der Chijs sold much of his bitcoin to invest in AI. Now, growing concerns about the technology accompany a move to put some profits back into crypto.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Bitcoin ETFs Add $324.6M As Fidelity Dominates Friday Flows",
+    "link": "https://www.newsbtc.com/news/bitcoin-etfs-add-324-6m-as-fidelity-dominates-friday-flows/",
+    "publishedAt": "2026-09-19T13:45:00.000Z",
+    "preview": "Read the latest update on Bitcoin ETFs Add $324.6M As Fidelity Dominates Friday Flows.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
+    "link": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
+    "publishedAt": "2026-09-19T13:39:15.000Z",
+    "preview": "The upcoming Batch V1.1 can make linked asset and payment transfers succeed together or fail together, and Ripple says commercial projects are already being built around the feature after an extensive security review.",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Bitcoin faces an October 18 test as Trump prepares new Russia tariffs",
+    "link": "https://cryptoslate.com/bitcoin-faces-an-october-18-test-as-trump-prepares-new-russia-tariffs/",
+    "publishedAt": "2026-09-19T13:20:13.000Z",
+    "preview": "Trump’s new law sets the clock, but rates, targets and energy-market spillovers will decide whether crypto feels it. The post Bitcoin faces an October 18 test as Trump prepares new Russia tariffs appeared first on Crypto",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "ETH Breaks Out as Whales Wake Up and Ethereum Wallets Hit Record High",
+    "link": "https://cryptopotato.com/eth-breaks-out-as-whales-wake-up-and-ethereum-wallets-hit-record-high/",
+    "publishedAt": "2026-09-19T13:03:36.000Z",
+    "preview": "ETH surged past $2,600 on Friday for the second time this month. Can this break out be different?",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade",
+    "link": "https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade",
+    "publishedAt": "2026-09-19T13:01:04.000Z",
+    "preview": "The network's clock just sped up again, but the extra speed goes to freshness, not capacity.",
+    "tags": [
+      "SOL"
+    ]
+  },
+  {
+    "source": "NewsBTC",
+    "title": "CFTC Crypto Asset Rules Enter White House Review",
+    "link": "https://www.newsbtc.com/news/cftc-crypto-asset-rules-enter-white-house-review/",
+    "publishedAt": "2026-09-19T13:00:00.000Z",
+    "preview": "Read the latest update on CFTC Crypto Asset Rules Enter White House Review.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
+    "link": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
+    "publishedAt": "2026-09-19T12:13:57.000Z",
+    "preview": "\"Bitcoin feels like the CD in the age of Spotify, the DVD in the age of Netflix,\" wrote Jason Calacanis.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Did RWA futures really overtake crypto? Only if you ignore 90% of the market",
+    "link": "https://cryptoslate.com/rwa-futures-only-overtook-crypto-in-one-narrow-market-sample/",
+    "publishedAt": "2026-09-19T12:05:28.000Z",
+    "preview": "A $107.6 billion crossover on selected venues shrinks to about 15.2% when compared with CoinDesk's broader CEX derivatives total. The post Did RWA futures really overtake crypto? Only if you ignore 90% of the market appe",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Bitcoin Bull Market Confirmed If BTC Closes the Week Above This Key Level: Analysts",
+    "link": "https://cryptopotato.com/bitcoin-bull-market-confirmed-if-btc-closes-the-week-above-this-key-level-analysts/",
+    "publishedAt": "2026-09-19T12:03:13.000Z",
+    "preview": "BTC is above $81,000 despite the week it had. But the real test comes now.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Robinhood Chain fees collapse 97% even as transactions stay near record highs",
+    "link": "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs",
+    "publishedAt": "2026-09-19T12:00:00.000Z",
+    "preview": "Seven-day average fees fell 82% while transaction counts slipped 6%, with about $1.5 billion a day still changing hands.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Why Wall Street giants build tokenization money for institutions, not regular consumers",
+    "link": "https://www.coindesk.com/business/2026/09/15/why-wall-street-giants-build-tokenization-money-for-institutions-not-regular-consumers",
+    "publishedAt": "2026-09-19T12:00:00.000Z",
+    "preview": "JPMorgan and Citi move billions in tokenized deposits, but only among their branches. A U.K. challenger bank is about to do something neither has done.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Bastion wins conditional OCC approval for national trust bank charter",
+    "link": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter",
+    "publishedAt": "2026-09-19T11:47:29.000Z",
+    "preview": "Bastion Platforms National Trust Company will offer stablecoin custody and wallets, payment infrastructure and white-label issuance from a single federally regulated entity.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Crypto Market Cap Adds $150B Daily as Bitcoin (BTC) Soars Past $81K: Weekend Watch",
+    "link": "https://cryptopotato.com/crypto-market-cap-adds-150b-daily-as-bitcoin-btc-soars-past-81k-weekend-watch/",
+    "publishedAt": "2026-09-19T11:08:35.000Z",
+    "preview": "Many alts have marked double-digit pumps, including PIEVERSE, MORPHO, INJ, and ENA.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
     "source": "CryptoSlate",
     "title": "Brazil blocks stablecoins from key cross-border payment rail as $1.1 trillion market faces new limits",
     "link": "https://cryptoslate.com/brazil-blocks-stablecoins-from-key-cross-border-payment-rail-as-1-1-trillion-market-faces-new-limits/",
     "publishedAt": "2026-09-19T10:40:55.000Z",
     "preview": "Brazil's central bank will bar virtual assets, including stablecoins, from settling one specific type of international payment flow starting Oct. 1. Resolution 561 targets the settlement leg between regulated foreign-exc",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Dtcpay welcomes SBI Group as strategic investor extending Series A to $25M",
-    "link": "https://cointelegraph.com/news/dtcpay-welcomes-sbi-group-as-strategic-investor-extending-series-a-to-25m",
-    "publishedAt": "2026-09-19T09:56:47.000Z",
-    "preview": "Singapore-based payments company completes Series A funding round with Japanese investor SBI Group.",
     "tags": []
   },
   {
@@ -172,14 +294,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Why SBI just put millions behind a Singapore startup’s stablecoin push",
-    "link": "https://cryptoslate.com/why-sbi-just-put-millions-behind-a-singapore-startups-stablecoin-push/",
-    "publishedAt": "2026-09-18T19:50:45.000Z",
-    "preview": "The Singapore firm plans merchant, enterprise-portal and app expansion as SBI joins the Vertex-led round. The post Why SBI just put millions behind a Singapore startup’s stablecoin push appeared first on CryptoSlate.",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "Zcash Is Running—Devs Want to Make It Faster",
     "link": "https://decrypt.co/378667/zcash-upgrade-make-private-payments-3x-faster",
@@ -203,14 +317,6 @@
     "link": "https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals",
     "publishedAt": "2026-09-18T19:06:30.000Z",
     "preview": "Binance is joining a growing number of crypto exchanges offering around-the-clock exposure to foreign exchange markets through perpetual futures.",
-    "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "FCA draws the UK boundary for offshore crypto platforms ahead of 2027 rules",
-    "link": "https://cryptoslate.com/fca-draws-the-uk-boundary-for-offshore-crypto-platforms-ahead-of-2027-rules/",
-    "publishedAt": "2026-09-18T18:45:35.000Z",
-    "preview": "Direct consumer access and agency trading can bring offshore services within scope when the rules begin in October 2027. The post FCA draws the UK boundary for offshore crypto platforms ahead of 2027 rules appeared first",
     "tags": []
   },
   {
@@ -969,49 +1075,11 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "UK signals end of 'light-touch' era with multi-agency raid on peer-to-peer crypto hubs",
-    "link": "https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs",
-    "publishedAt": "2026-09-17T15:08:24.000Z",
-    "preview": "Increased enforcement coincides with detailed regulatory guidance issued to crypto firms ahead of the full framework taking effect in late 2027.",
-    "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "U.S. SEC begins prepping for around-the-clock trading that crypto treats as the norm",
-    "link": "https://www.coindesk.com/policy/2026/09/17/u-s-sec-begins-prepping-for-round-the-clock-trading-that-crypto-treats-as-the-norm",
-    "publishedAt": "2026-09-17T15:03:19.000Z",
-    "preview": "The U.S. Securities and Exchange Commission dug into plans for around-the-clock trading in an event on the same morning it approved tokenized securities.",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Crypto for Advisors: The case for diversifying beyond bitcoin and ether",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/09/17/crypto-for-advisors-beyond-bitcoin-and-ether",
-    "publishedAt": "2026-09-17T14:57:11.000Z",
-    "preview": "",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "SEC Clears a Path for Tokenized Stocks After Clarity Act Stumbles",
     "link": "https://decrypt.co/378492/sec-innovation-exemption-tokenized-stocks-clarity-act",
     "publishedAt": "2026-09-17T14:52:03.000Z",
     "preview": "The \"innovation exemption\" lets qualifying venues trade tokenized versions of U.S. stocks on public blockchains without registering as exchanges—though it excludes price-tracking \"synthetics\" and lets companies block tok",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Clarity Act failure may hamper U.S. crypto as industry seeks legal clarity elsewhere",
-    "link": "https://www.coindesk.com/policy/2026/09/17/crypto-industry-leaders-debate-who-the-winners-and-losers-of-the-clarity-act-vote-failure-are",
-    "publishedAt": "2026-09-17T14:50:58.000Z",
-    "preview": "The U.S. is likely to lose out to foreign markets in the short term, but SEC and CFTC rules will help underpin the industry.",
     "tags": [
       "Regulation"
     ]
@@ -1091,14 +1159,6 @@
     ]
   },
   {
-    "source": "CoinDesk",
-    "title": "Ratings giant S&P Global acquires OpenZeppelin in tokenized finance risk push",
-    "link": "https://www.coindesk.com/business/2026/09/17/ratings-giant-s-and-p-global-acquires-openzeppelin-in-tokenized-finance-risk-push",
-    "publishedAt": "2026-09-17T13:15:21.000Z",
-    "preview": "Building on its recent market-data investment in Kaiko, S&P Global’s latest purchase targets the technological risks facing banks and asset managers onchain.",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "Ethereum’s Path to $3,000: All Eyes on This Level Now",
     "link": "https://cryptopotato.com/ethereums-path-to-3000-all-eyes-on-this-level-now/",
@@ -1143,22 +1203,6 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "Seven Democrats Refuse to Give Up on CLARITY Act After Senate Setback",
-    "link": "https://cryptopotato.com/seven-democrats-refuse-to-give-up-on-clarity-act-after-senate-setback/",
-    "publishedAt": "2026-09-17T11:32:09.000Z",
-    "preview": "The CLARITY setback is not fatal for crypto, but institutional participation could remain on the sidelines longer than expected, according to Trace Finance co-founder Bernardo Brites.",
-    "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Zama Opens Confidential Access to DeFi’s Existing Yield Venues",
-    "link": "https://cryptopotato.com/zama-opens-confidential-access-to-defis-existing-yield-venues/",
-    "publishedAt": "2026-09-17T11:28:51.000Z",
-    "preview": "Paris, France, 17th September 2026, Chainwire",
-    "tags": []
-  },
-  {
     "source": "NewsBTC",
     "title": "From Information to Action: MEXC Upgrades AI Across the Trading Journey",
     "link": "https://www.newsbtc.com/news/from-information-to-action-mexc-upgrades-ai-across-the-trading-journey/",
@@ -1174,16 +1218,6 @@
     "preview": "A substitute text adopted before the vote strips out the Federal Reserve funding routes and thins the transparency rules.",
     "tags": [
       "BTC"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "XRP Open Interest Plunges 23% as Traders Unwind Leverage",
-    "link": "https://cryptopotato.com/xrp-open-interest-plunges-23-as-traders-unwind-leverage/",
-    "publishedAt": "2026-09-17T09:59:26.000Z",
-    "preview": "XRP open interest on Binance alone dropped from $558 million in August to roughly $423 million now, the steepest slide of any exchange.",
-    "tags": [
-      "XRP"
     ]
   },
   {
@@ -1273,14 +1307,6 @@
     "tags": []
   },
   {
-    "source": "Decrypt",
-    "title": "Zuckerberg Pushes Back on Coordinated AI Slowdown, Says Labs Can Act Alone",
-    "link": "https://decrypt.co/378381/zuckerberg-pushes-back-ai-slowdown",
-    "publishedAt": "2026-09-16T16:31:03.000Z",
-    "preview": "Meta’s CEO says competition and potential liability give AI developers reasons to prioritize safety, citing the company’s decision to delay Muse.",
-    "tags": []
-  },
-  {
     "source": "NewsBTC",
     "title": "Justin Sun Establishes the Justin Sun Prize: “My Wealth Came from Mathematics and Will Return to Mathematics”",
     "link": "https://www.newsbtc.com/news/justin-sun-establishes-the-justin-sun-prize-my-wealth-came-from-mathematics-and-will-return-to-mathematics/",
@@ -1321,21 +1347,5 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "NewsBTC",
-    "title": "From Concrete to Compute: Why Clichmont Is Building AI Infrastructure Instead of Renting It",
-    "link": "https://www.newsbtc.com/interview/from-concrete-to-compute-why-clichmont-is-building-ai-infrastructure-instead-of-renting-it/",
-    "publishedAt": "2026-09-14T13:28:11.000Z",
-    "preview": "Spokesperson: Alexis Cathalifaud, CEO As demand for artificial intelligence compute continues to grow, the infrastructure supporting that demand is becoming a strategic consideration in its own right. Companies across th",
-    "tags": []
-  },
-  {
-    "source": "NewsBTC",
-    "title": "MEXC Reports 21% MoM Growth in New-Token Traders and 31% Increase in Tokenized Stock Trading Volume in August",
-    "link": "https://www.newsbtc.com/news/mexc-reports-21-mom-growth-in-new-token-traders-and-31-increase-in-tokenized-stock-trading-volume-in-august/",
-    "publishedAt": "2026-09-14T10:15:34.000Z",
-    "preview": "Mutsamudu, Comoros, September 14, 2026 – MEXC, a pioneer in 0-fee digital asset trading, has released its August trading data for new tokens and TradFi assets. The number of users trading new tokens rose 21% month over m",
-    "tags": []
   }
 ]
