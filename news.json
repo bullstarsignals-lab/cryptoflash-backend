@@ -1,6 +1,50 @@
 [
   {
     "source": "CryptoSlate",
+    "title": "Why Trump backed a crypto ethics rule that stopped at the family business",
+    "link": "https://cryptoslate.com/trump-backed-a-crypto-ethics-rule-that-stopped-at-the-family-business/",
+    "publishedAt": "2026-09-19T21:02:29.000Z",
+    "preview": "Washington came surprisingly close this week to writing a dollar amount into one of its thorniest crypto ethics rule debates. Under the final Senate draft of the CLARITY Act, senior federal officials holding equity worth",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Fidelity surge brings in $310M BTC saving Bitcoin ETFs from a disastrous week",
+    "link": "https://cryptoslate.com/fidelity-surge-brings-in-310m-btc-saving-bitcoin-etfs-from-a-disastrous-week/",
+    "publishedAt": "2026-09-19T20:10:27.000Z",
+    "preview": "Friday broadened demand, yet the two-day rebound left the midweek withdrawal gap partly open. The post Fidelity surge brings in $310M BTC saving Bitcoin ETFs from a disastrous week appeared first on CryptoSlate.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Massive Crypto Acquisition: Why S&P Global Is Buying Blockchain Security Giant OpenZeppelin",
+    "link": "https://cryptopotato.com/massive-crypto-acquisition-why-sp-global-is-buying-blockchain-security-giant-openzeppelin/",
+    "publishedAt": "2026-09-19T20:05:35.000Z",
+    "preview": "S&P Global is acquiring OpenZeppelin to enhance its push into digital assets and onchain markets.",
+    "tags": []
+  },
+  {
+    "source": "NewsBTC",
+    "title": "EU Cyber Resilience Act Brings 24-Hour Vulnerability Reporting Into Force",
+    "link": "https://www.newsbtc.com/news/eu-cyber-resilience-act-brings-24-hour-vulnerability-reporting-into-force/",
+    "publishedAt": "2026-09-19T19:45:00.000Z",
+    "preview": "Read the latest update on EU Cyber Resilience Act Brings 24-Hour Vulnerability Reporting Into Force.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive",
+    "link": "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive",
+    "publishedAt": "2026-09-19T19:14:38.000Z",
+    "preview": "The new ASSX fund offers 2x daily exposure to Strive shares, giving traders a leveraged way to bet on the Bitcoin treasury company.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
     "title": "Circle wants you to love USDC a little like you love Chelsea",
     "link": "https://cryptoslate.com/circle-wants-you-to-love-usdc-a-little-like-you-love-chelsea/",
     "publishedAt": "2026-09-19T19:00:16.000Z",
@@ -369,31 +413,11 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Ethereum co-founder Vitalik Buterin argues that local AI can protect your privacy without losing speed",
-    "link": "https://cryptoslate.com/ethereum-cofounder-vitalik-says-local-ai-is-nearly-ready-but-crypto-wallets-still-cannot-trust-it-alone/",
-    "publishedAt": "2026-09-19T04:30:33.000Z",
-    "preview": "Faster private inference makes laptop orchestration practical, while spending authority remains behind hard limits, transaction checks and human approval. The post Ethereum co-founder Vitalik Buterin argues that local AI",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "XRP Could Be Setting Up for Its Next Big Move: Here Are the Levels to Watch",
     "link": "https://cryptopotato.com/xrp-could-be-setting-up-for-its-next-big-move-here-are-the-levels-to-watch/",
     "publishedAt": "2026-09-19T03:47:16.000Z",
     "preview": "XRP is trying to regain momentum after one of the most volatile weeks in recent months.",
-    "tags": [
-      "XRP"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "XRP ETFs hit a speed bump, but big investors aren’t dumping their tokens yet",
-    "link": "https://cryptoslate.com/xrp-etfs-hit-a-speed-bump-but-big-investors-arent-dumping-their-tokens-yet/",
-    "publishedAt": "2026-09-19T02:50:47.000Z",
-    "preview": "A $5.15 million redemption was concentrated in two funds, leaving the next weekly flow pattern to decide whether the pause becomes a broader retreat. The post XRP ETFs hit a speed bump, but big investors aren’t dumping t",
     "tags": [
       "XRP"
     ]
@@ -1231,31 +1255,11 @@
     "tags": []
   },
   {
-    "source": "CryptoPotato",
-    "title": "Bitcoin Price Prediction: Is BTC About to Break Above $80K or Crash Below $72K?",
-    "link": "https://cryptopotato.com/bitcoin-price-prediction-is-btc-about-to-break-80k-or-crash-below-72k/",
-    "publishedAt": "2026-09-17T14:27:03.000Z",
-    "preview": "Bitcoin has absorbed a fresh macro shock without losing its broader post-breakout structure. The Federal Reserve raised its target rate by 25 basis points to 4.00% on Wednesday, a tightening move that also strengthened t",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO",
     "link": "https://cointelegraph.com/news/ogcom-cleared-sec-stock-futures-cryptocom-ceo",
     "publishedAt": "2026-09-17T13:35:57.000Z",
     "preview": "Crypto.com’s CEO said its sister exchange was cleared to offer US access to single-stock perpetual futures, as the latest platform to bridge TradFi and digital assets.",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "SEC grants temporary exemption for tokenized US stock trading",
-    "link": "https://cointelegraph.com/news/sec-temporary-exemption-tokenized-us-stock-trading",
-    "publishedAt": "2026-09-17T13:34:17.000Z",
-    "preview": "The SEC’s Innovation Exemption allows limited tokenized US stock trading on onchain venues with trading caps and transparency requirements.",
     "tags": [
       "Regulation"
     ]
@@ -1285,14 +1289,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "NewsBTC",
-    "title": "From Information to Action: MEXC Upgrades AI Across the Trading Journey",
-    "link": "https://www.newsbtc.com/news/from-information-to-action-mexc-upgrades-ai-across-the-trading-journey/",
-    "publishedAt": "2026-09-17T10:55:03.000Z",
-    "preview": "Mutsamudu, Comoros, September 17, 2026 – MEXC, a pioneer in 0-fee digital asset trading, has announced a major upgrade to MEXC AI under its philosophy of “Intelligence for Every Opportunity.” With enhanced AI Assistant a",
-    "tags": []
   },
   {
     "source": "Decrypt",
