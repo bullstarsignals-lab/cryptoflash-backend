@@ -1,5 +1,33 @@
 [
   {
+    "source": "CryptoSlate",
+    "title": "Why keeping your private keys safe won’t always stop crypto theft",
+    "link": "https://cryptoslate.com/who-pays-when-bitcoin-disappears-without-anyone-stealing-the-keys/",
+    "publishedAt": "2026-09-20T20:30:43.000Z",
+    "preview": "Almost 4,000 Bitcoin left Liquid's reserve on Sept. 6 through a withdrawal the network approved, even though the private keys used to authorize it hadn't been stolen. Software had accepted a withdrawal that should never ",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Iranian Crypto Exchange BitBank Lands on US Treasury’s Sanctions List",
+    "link": "https://cryptopotato.com/iranian-crypto-exchange-bitbank-lands-on-us-treasurys-sanctions-list/",
+    "publishedAt": "2026-09-20T20:20:39.000Z",
+    "preview": "US Treasury has expanded its Iran crackdown by targeting BitBank, its developer, and executives linked to financier Babak Zanjani.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Why Solana’s new 250ms speed boost could actually trigger network instability",
+    "link": "https://cryptoslate.com/solanas-250ms-slots-turn-validator-coordination-into-the-networks-next-security-test/",
+    "publishedAt": "2026-09-20T19:20:38.000Z",
+    "preview": "Early mainnet data look stable, but the path to 200ms may depend more on leader handoffs, client agreement and infrastructure diversity than headline throughput. The post Why Solana’s new 250ms speed boost could actually",
+    "tags": [
+      "SOL"
+    ]
+  },
+  {
     "source": "CryptoPotato",
     "title": "Younger Investors Could Help Bitcoin ETFs Overtake Gold: Analyst",
     "link": "https://cryptopotato.com/younger-investors-could-help-bitcoin-etfs-overtake-gold-analyst/",
@@ -265,22 +293,6 @@
     "tags": [
       "XRP"
     ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Gen Z are investing like Boomers – with some surprising portfolio decisions",
-    "link": "https://cryptoslate.com/gen-z-investors-have-portfolios-boomers-would-approve-of/",
-    "publishedAt": "2026-09-19T22:05:40.000Z",
-    "preview": "Like fashion, investing eventually finds something embarrassing in the back of the wardrobe and puts it on again. Millennial-era crypto gave us yield-bearing dog coins and all kinds of food-themed financial contraptions.",
-    "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Why Trump backed a crypto ethics rule that stopped at the family business",
-    "link": "https://cryptoslate.com/trump-backed-a-crypto-ethics-rule-that-stopped-at-the-family-business/",
-    "publishedAt": "2026-09-19T21:02:29.000Z",
-    "preview": "Washington came surprisingly close this week to writing a dollar amount into one of its thorniest crypto ethics rule debates. Under the final Senate draft of the CLARITY Act, senior federal officials holding equity worth",
-    "tags": []
   },
   {
     "source": "CryptoPotato",
@@ -867,16 +879,6 @@
     "publishedAt": "2026-09-18T12:57:06.000Z",
     "preview": "Although the ECB holds no formal licensing authority under MiCA, high-level intervention led Greece to stall an application that regulators had previously deemed complete, the Journal said.",
     "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "1.6 Billion XRP Sent to Binance as Whale Activity Explodes to a Six-Month High",
-    "link": "https://cryptopotato.com/1-6-billion-xrp-sent-to-binance-as-whale-activity-explodes-to-a-six-month-high/",
-    "publishedAt": "2026-09-18T12:54:55.000Z",
-    "preview": "Large XRP holders are moving more tokens to Binance as 30-day whale inflows reach their highest level since March.",
-    "tags": [
-      "XRP"
-    ]
   },
   {
     "source": "Decrypt",
