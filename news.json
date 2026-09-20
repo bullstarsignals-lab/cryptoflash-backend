@@ -1,10 +1,94 @@
 [
   {
     "source": "CryptoSlate",
+    "title": "EU staking review threatens crypto yields and network security could pay the price",
+    "link": "https://cryptoslate.com/staking-is-becoming-too-large-for-europe-to-leave-alone/",
+    "publishedAt": "2026-09-20T15:05:37.000Z",
+    "preview": "Some of the most consequential financial rules begin with surprisingly little text. For example, on page 36 of the European Commission's current MiCA review, item 66 asks whether Europe's treatment of staking is adequate",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation",
+    "link": "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation",
+    "publishedAt": "2026-09-20T14:54:48.000Z",
+    "preview": "The crypto platform’s market value has fallen to about $753 million, putting fresh attention on the licenses, custody infrastructure and customer relationships a buyer could inherit.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Ripple (XRP) ETFs Hit 10-Week Green Streak, but Solana (SOL) Funds Go Even Further",
+    "link": "https://cryptopotato.com/ripple-xrp-etfs-hit-10-week-green-streak-but-solana-sol-funds-go-even-further/",
+    "publishedAt": "2026-09-20T14:50:01.000Z",
+    "preview": "New all-time high for the XRP ETFs in terms of total cumulative net inflows.",
+    "tags": [
+      "SOL",
+      "XRP"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Why Holding Anything But Bitcoin Has Been a Losing Bet for Two Years",
+    "link": "https://decrypt.co/378695/holding-anything-but-bitcoin-losing-bet",
+    "publishedAt": "2026-09-20T14:01:03.000Z",
+    "preview": "A Glassnode and Bybit report frames the divergence as the defining feature of this cycle, with froth pooling in the market's riskiest corners even as Bitcoin does the heavy lifting.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Why Russia’s harsh 1% crypto cap actually protects bank customer assets",
+    "link": "https://cryptoslate.com/bank-of-russia-proposes-1-crypto-capital-cap-while-carving-out-some-client-custody/",
+    "publishedAt": "2026-09-20T13:35:19.000Z",
+    "preview": "The draft counts banks’ own holdings and crypto-linked instruments against capital but conditionally excludes customer assets. The post Why Russia’s harsh 1% crypto cap actually protects bank customer assets appeared fir",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Strategy’s Saylor Teases New Bitcoin Buy Despite Fed Hike and CLARITY Setback",
+    "link": "https://cryptopotato.com/strategys-saylor-teases-new-bitcoin-buy-despite-fed-hike-and-clarity-setback/",
+    "publishedAt": "2026-09-20T13:30:18.000Z",
+    "preview": "Will this be Strategy's first purchase in three weeks?",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "What Happened to Bitcoin and Ethereum ETFs During the Crucial Macro Week?",
+    "link": "https://cryptopotato.com/what-happened-to-bitcoin-and-ethereum-etfs-during-the-crucial-macro-week/",
+    "publishedAt": "2026-09-20T13:06:05.000Z",
+    "preview": "Here's how Friday changed the entire week for the BTC ETFs.",
+    "tags": [
+      "BTC",
+      "ETH"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Ethereum Price Prediction: Is $3K in Sight After ETH’s Latest Breakout?",
+    "link": "https://cryptopotato.com/ethereum-price-prediction-is-3k-in-sight-after-eths-latest-breakout/",
+    "publishedAt": "2026-09-20T12:37:43.000Z",
+    "preview": "Ethereum’s latest rally has carried the price back into a major supply area, but sellers have started to respond around the highs. With the asset now near $2.58K, the next reaction could determine whether the recent adva",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
     "title": "Stablecoin salaries can leave workers paying to access their wages",
     "link": "https://cryptoslate.com/stablecoin-salaries-can-leave-workers-paying-to-access-their-wages/",
     "publishedAt": "2026-09-20T12:05:36.000Z",
     "preview": "Every paycheck eventually has to pay for something: rent, groceries, transport, or bills. Stablecoins can move between wallets in seconds. But that does not mean an employee can spend the money immediately. They may stil",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Trump says US will form ‘AI Force’ and appoint AI czar: Reports",
+    "link": "https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports",
+    "publishedAt": "2026-09-20T12:00:52.000Z",
+    "preview": "Trump posted on Truth Social that his new project would manage the fast-growing sector without adding regulations that could slow innovation.",
     "tags": []
   },
   {
@@ -191,14 +275,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Circle wants you to love USDC a little like you love Chelsea",
-    "link": "https://cryptoslate.com/circle-wants-you-to-love-usdc-a-little-like-you-love-chelsea/",
-    "publishedAt": "2026-09-19T19:00:16.000Z",
-    "preview": "Chelsea has found a cool new shirt sponsor whose main product is…a stablecoin? USDC is designed to be worth one dollar. Today, tomorrow, next Tuesday: one dollar. If everything is working properly, absolutely nothing sho",
-    "tags": []
-  },
-  {
     "source": "NewsBTC",
     "title": "Coinbase And Stablecore Open Digital Asset Rails To 3,000+ Banks And Credit Unions",
     "link": "https://www.newsbtc.com/news/coinbase-and-stablecore-open-digital-asset-rails-to-3-000-banks-and-credit/",
@@ -230,14 +306,6 @@
     "link": "https://www.newsbtc.com/news/treasury-sanctions-bitbank-over-iranian-crypto-sanctions-evasion-network/",
     "publishedAt": "2026-09-19T18:15:00.000Z",
     "preview": "Read the latest update on Treasury Sanctions BitBank Over Iranian Crypto Sanctions-Evasion Network.",
-    "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Anthropic’s potential $2 trillion IPO is fueling an $80 million crypto trade",
-    "link": "https://cryptoslate.com/anthropics-potential-2-trillion-ipo-is-fueling-an-80-million-crypto-trade/",
-    "publishedAt": "2026-09-19T18:05:02.000Z",
-    "preview": "Anthropic’s prospective $2 trillion IPO has already spawned nearly $80 million in crypto derivatives bets before its public debut. Open interest in futures linked to the Claude developer has climbed to about $79.27 milli",
     "tags": []
   },
   {
@@ -921,18 +989,6 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "Major Ripple (XRP) Opportunity, Shiba Inu (SHIB) Updates, and More: Bits Recap September 18",
-    "link": "https://cryptopotato.com/major-ripple-xrp-opportunity-shiba-inu-shib-updates-and-more-bits-recap-september-18/",
-    "publishedAt": "2026-09-18T09:37:52.000Z",
-    "preview": "Here's everything most interesting related to XRP, SHIB, and ETH.",
-    "tags": [
-      "ETH",
-      "XRP",
-      "SHIB"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "Stablecoin payments firm dtcpay closes $25M round with SBI backing",
     "link": "https://cointelegraph.com/news/dtcpay-25m-series-a-sbi-stablecoin-payments",
@@ -969,31 +1025,12 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "Huge Pi Network Update Affects Over 900,000 Pioneers: Details",
-    "link": "https://cryptopotato.com/huge-pi-network-update-affects-over-900000-pioneers-details/",
-    "publishedAt": "2026-09-18T08:45:16.000Z",
-    "preview": "Pi Network has rolled out a new batch of KYC and Mainnet migration changes that could unblock more than 900,000 users.",
-    "tags": []
-  },
-  {
     "source": "CoinDesk",
     "title": "SBI Group backs payments firm dtcpay in $25 million funding round",
     "link": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
     "publishedAt": "2026-09-18T07:37:32.000Z",
     "preview": "Stablecoin payments company dtcpay completed a $25 million Series A funding round with a strategic investment from Japan’s SBI Group.",
     "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Cardano Founder Warns IOG YouTube Channel Has Been Compromised",
-    "link": "https://cryptopotato.com/cardano-founder-warns-iog-youtube-channel-has-been-compromised/",
-    "publishedAt": "2026-09-18T07:32:22.000Z",
-    "preview": "The hijack lands during a rough stretch for crypto security, just days after a fintech's leaked data turned into a Bitcoin ransom demand.",
-    "tags": [
-      "BTC",
-      "ADA"
-    ]
   },
   {
     "source": "CoinDesk",
@@ -1013,16 +1050,6 @@
     "preview": "The network is cutting its target slot time to 250 milliseconds, giving apps fresher blockchain data and validators shorter control windows while reducing the amount of work allowed in each slot.",
     "tags": [
       "SOL"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Bitcoin Could Get More Support Than Gold as ETF Hedging Eases: JPMorgan",
-    "link": "https://cryptopotato.com/bitcoin-could-get-more-support-than-gold-as-etf-hedging-eases-jpmorgan/",
-    "publishedAt": "2026-09-18T05:56:29.000Z",
-    "preview": "JPMorgan analysts say Bitcoin could see stronger price support than gold if ETF hedging eases, as short interest in BlackRock’s IBIT reaches its highest level of 2026.",
-    "tags": [
-      "BTC"
     ]
   },
   {
@@ -1116,16 +1143,6 @@
     "publishedAt": "2026-09-17T22:31:03.000Z",
     "preview": "OpenAI's new transparency framework reveals AI models that invented fake \"breach alerts,\" coached themselves to hide mistakes, and smuggled a file onto the public internet to talk to each other.",
     "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Real stocks are finally coming on blockchain. Here’s how the SEC wants it to work",
-    "link": "https://www.coindesk.com/business/2026/09/17/real-stocks-are-finally-coming-on-blockchain-here-s-how-the-sec-wants-it-to-work",
-    "publishedAt": "2026-09-17T21:47:22.000Z",
-    "preview": "The SEC is giving tokenized stocks a regulated U.S. pathway, while keeping trading volumes, access and issuer rights tightly controlled.",
-    "tags": [
-      "Regulation"
-    ]
   },
   {
     "source": "Decrypt",
@@ -1238,16 +1255,6 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike",
-    "link": "https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike",
-    "publishedAt": "2026-09-17T16:22:23.000Z",
-    "preview": "Bitcoin made modest daily gains as US stocks saw upside in the aftermath of the US Federal Reserve’s first interest-rate hike since July 2023.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "FCA Targets Three More London Sites Over Unregistered P2P Crypto Trading",
     "link": "https://decrypt.co/378495/fca-targets-three-more-london-sites-over-unregistered-p2p-crypto-trading",
@@ -1332,24 +1339,6 @@
     "publishedAt": "2026-09-16T20:31:03.000Z",
     "preview": "An independent researcher found the agents hijacked Hugging Face accounts and mapped the platform's defenses as early as May 13—activity OpenAI's own incident report never fully described.",
     "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Fed Chair Implies Trump Is Only Half Right on the Economy Following Rate Hike",
-    "link": "https://decrypt.co/378433/fed-hikes-rates-warsh-implies-trump-only-half-right",
-    "publishedAt": "2026-09-16T19:43:24.000Z",
-    "preview": "Chair Kevin Warsh credited Trump's economy, then ignored his rate-cut wishes entirely.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Bitcoin Core Software Update Aims for Speed and Security Patches",
-    "link": "https://decrypt.co/378430/bitcoin-core-software-october-update",
-    "publishedAt": "2026-09-16T18:53:48.000Z",
-    "preview": "Bitcoin Core 32.0 has entered final testing, bringing faster block checks and changes to how wallets prepare payments.",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "Decrypt",
