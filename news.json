@@ -1,6 +1,154 @@
 [
   {
     "source": "Decrypt",
+    "title": "Robinhood CEO Says Crypto Will Beat Sports at Prediction Markets' Own Game",
+    "link": "https://decrypt.co/378889/robinhood-ceo-crypto-will-beat-sports-prediction-markets",
+    "publishedAt": "2026-09-21T21:46:03.000Z",
+    "preview": "Robinhood CEO Vlad Tenev says crypto event contracts are already outpacing sports bets, and could become the platform's dominant category within a few years.",
+    "tags": []
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Bitcoin Reclaims $85,000 For First Time In Eight Months",
+    "link": "https://www.newsbtc.com/news/bitcoin-reclaims-85000-for-first-time-in-eight-months/",
+    "publishedAt": "2026-09-21T21:30:00.000Z",
+    "preview": "TL;DR Bitcoin crossed $85,000 on September 21, reaching a session high of $85,174.35. That marked BTC’s highest spot level since January 2026. The move is a price milestone, not confirmation of a new bull-market leg. Bit",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "ECB launches ‘digital euro for banks’ and prepares to buy tokenized bonds",
+    "link": "https://cryptoslate.com/ecb-launches-digital-euro-for-banks-and-prepares-to-buy-tokenized-bonds/",
+    "publishedAt": "2026-09-21T21:00:23.000Z",
+    "preview": "The Eurosystem launched the wholesale settlement system while the ECB began work on a small, undisclosed investment in tokenized public-sector securities. The post ECB launches ‘digital euro for banks’ and prepares to bu",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building",
+    "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building",
+    "publishedAt": "2026-09-21T20:39:39.000Z",
+    "preview": "Bitcoin has broken out to $86,000, but analysts say the next leg depends on whether spot buyers continue to show up as leverage builds.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Saudi Arabia exits China-backed mBridge CBDC project: FT",
+    "link": "https://cointelegraph.com/news/saudi-arabia-exits-china-backed-mbridge-cbdc-project-ft",
+    "publishedAt": "2026-09-21T20:37:15.000Z",
+    "preview": "Saudi Arabia has left mBridge, a cross-border CBDC platform that has drawn scrutiny from US policymakers, according to the Financial Times.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Massive $1 Billion in Liquidations as Bitcoin Taps $87K: What’s Next?",
+    "link": "https://cryptopotato.com/massive-1-billion-in-liquidations-as-bitcoin-taps-87k-whats-next/",
+    "publishedAt": "2026-09-21T20:34:58.000Z",
+    "preview": "Bitcoin has surged to an eight-month high as a massive short squeeze accelerates the rally, putting $90,000 firmly in focus.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Why Quantum Computers Could Steal Satoshi’s Bitcoin First",
+    "link": "https://cryptopotato.com/why-quantum-computers-could-steal-satoshis-bitcoin-first/",
+    "publishedAt": "2026-09-21T20:25:11.000Z",
+    "preview": "Rushing early into post-quantum cryptography could create risks, including bugs or scams posing as wallet upgrades.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "X Sues Two Bitcoin Influencers Over Bot Army That Milked Creator Payouts",
+    "link": "https://decrypt.co/378877/x-sues-bitcoin-influencers-bot-army-creator-payout",
+    "publishedAt": "2026-09-21T20:16:03.000Z",
+    "preview": "A lawsuit accuses UK users of running six coordinated accounts to pull at least $278,000 from X's now-defunct Creator Revenue Sharing Program.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-09-21T19:53:04.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "How cutting power to Bitcoin miners can actually burn more energy",
+    "link": "https://cryptoslate.com/why-cutting-power-to-bitcoin-miners-can-actually-burn-more-energy/",
+    "publishedAt": "2026-09-21T19:50:07.000Z",
+    "preview": "A share-triggered controller can leave slowed machines hashing through a finite window with few or no accepted shares. The post How cutting power to Bitcoin miners can actually burn more energy appeared first on CryptoSl",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First",
+    "link": "https://decrypt.co/378874/coinbase-ipo-shares-us-traders-oura",
+    "publishedAt": "2026-09-21T19:26:49.000Z",
+    "preview": "Eligible customers can request shares at the offering price, but allocations are not guaranteed.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules",
+    "link": "https://www.coindesk.com/markets/2026/09/21/why-this-investment-bank-sees-little-demand-for-tokenized-stocks-despite-sec-s-new-trading-rules",
+    "publishedAt": "2026-09-21T19:08:40.000Z",
+    "preview": "TD Cowen expects limited demand for tokenized stocks despite new SEC rules opening a path for trading outside traditional markets.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Shiba Inu (SHIB) Takes a Serious Hit: Is the Worst Yet to Come?",
+    "link": "https://cryptopotato.com/shiba-inu-shib-takes-a-serious-hit-is-the-worst-yet-to-come/",
+    "publishedAt": "2026-09-21T19:02:56.000Z",
+    "preview": "After the latest reshuffle, SHIB is now the 34th-largest cryptocurrency.",
+    "tags": [
+      "SHIB"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Europe’s Central Bank Prepares to Invest Own Funds in Tokenized Securities",
+    "link": "https://decrypt.co/378872/europe-central-bank-invest-funds-tokenized-securities",
+    "publishedAt": "2026-09-21T19:00:04.000Z",
+    "preview": "The central bank plans to buy euro-denominated public-sector debt and settle the transactions through its new Pontes service.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "One wallet links $1.55 million FetchAI theft to massive 408.5 million NTX mint",
+    "link": "https://cryptoslate.com/one-wallet-links-1-55-million-fetchai-theft-to-massive-408-5-million-ntx-mint/",
+    "publishedAt": "2026-09-21T18:40:14.000Z",
+    "preview": "Fetch.ai says its own contracts were unaffected, while shared bridge routes leave an unresolved NTX supply question. The post One wallet links $1.55 million FetchAI theft to massive 408.5 million NTX mint appeared first ",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Ondo lets institutions convert stocks directly into tokenized shares",
+    "link": "https://cointelegraph.com/news/ondo-lets-institutions-convert-stocks-directly-into-tokenized-shares",
+    "publishedAt": "2026-09-21T18:35:43.000Z",
+    "preview": "Ondo’s new in-kind conversion system allows approved institutions to mint and redeem tokenized stocks and ETFs using the underlying securities instead of cash.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
     "title": "What Is VVV? The Privacy-Obsessed AI Token That’s Up 3,000% in 2026",
     "link": "https://decrypt.co/378840/what-is-vvv-privacy-ai-token-up-3000-percent-2026",
     "publishedAt": "2026-09-21T18:31:03.000Z",
@@ -9,7 +157,7 @@
   },
   {
     "source": "Cointelegraph",
-    "title": "Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again: NYT",
+    "title": "Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again",
     "link": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-sherrod-brown-ohio-senate-race",
     "publishedAt": "2026-09-21T18:15:22.000Z",
     "preview": "The digital asset-aligned PAC joined other groups to spend more than a combined $300 million in the 2024 Ohio Senate race, resulting in Sherrod Brown’s loss to Bernie Moreno.",
@@ -434,16 +582,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Bitcoin hits $85,000 after $648M wipeout forces mass buying",
-    "link": "https://cryptoslate.com/bitcoin-just-broke-85000-but-the-rally-is-being-powered-by-traders-forced-to-buy/",
-    "publishedAt": "2026-09-21T11:10:15.000Z",
-    "preview": "Bitcoin surged above $85,000 as a wave of short liquidations accelerated the cryptocurrency’s strongest advance since January. Data from CryptoSlate showed BTC gained more than 5% over the past 24 hours to reach $85,193,",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "NEAR jumps nearly 80% in a week as Intents volume nears $30B",
     "link": "https://cointelegraph.com/markets/near-price-surge-intents-zcash-privacy",
@@ -465,16 +603,6 @@
     "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-hits-usd85-000-as-short-squeeze-forces-out-usd648-million-of-bearish-bets",
     "publishedAt": "2026-09-21T10:30:00.000Z",
     "preview": "Open interest climbed 7.59% to $156 billion even as positions were closed out, a sign traders are chasing the move rather than stepping back.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "A Bitcoin Lightning flaw could send a node’s entire balance straight to miners",
-    "link": "https://cryptoslate.com/a-bitcoin-lightning-flaw-could-send-a-nodes-entire-balance-straight-to-miners/",
-    "publishedAt": "2026-09-21T10:25:59.000Z",
-    "preview": "ACINQ says operators can install the security fixes without closing existing Lightning channels. The post A Bitcoin Lightning flaw could send a node’s entire balance straight to miners appeared first on CryptoSlate.",
     "tags": [
       "BTC"
     ]
@@ -538,16 +666,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Bitcoin shattered $80,000 after a $148 billion US liquidity shock failed to break markets",
-    "link": "https://cryptoslate.com/bitcoin-shattered-80000-after-a-148-billion-us-liquidity-shock-failed-to-break-markets/",
-    "publishedAt": "2026-09-21T09:10:21.000Z",
-    "preview": "Federal Reserve data show a large tax-date transfer, but SOFR remained five basis points below the new reserve rate. The post Bitcoin shattered $80,000 after a $148 billion US liquidity shock failed to break markets appe",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "Bitcoin (BTC) Skyrockets to 8-Month High Above $84K as Altcoins Mark Big Gains: Market Watch",
     "link": "https://cryptopotato.com/bitcoin-btc-skyrockets-to-8-month-high-above-84k-as-altcoins-mark-big-gains-market-watch/",
@@ -567,7 +685,7 @@
   },
   {
     "source": "CoinDesk",
-    "title": "Live updates: Bitcoin tops $86,000, while Saylor returns to BTC buying",
+    "title": "Live updates: Bitcoin hits $87,000, while traders pile into leveraged bets",
     "link": "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets",
     "publishedAt": "2026-09-21T08:39:26.000Z",
     "preview": "Crypto majors climbed alongside equity futures on Monday, with Monero's XMR up 13%, as Brent fell for a fourth straight session and traders positioned for Trump-Xi summit later this week.",
@@ -620,17 +738,6 @@
     "publishedAt": "2026-09-21T06:20:47.000Z",
     "preview": "A trader alleged on X that Kalshi is inflating trading volumes in its ether perpetual futures.",
     "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-09-21T04:44:48.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
-    ]
   },
   {
     "source": "Cointelegraph",
@@ -797,7 +904,7 @@
   },
   {
     "source": "Decrypt",
-    "title": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
+    "title": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole: Source",
     "link": "https://decrypt.co/378697/visa-close-meme-coin-credit-card-rewards-loophole",
     "publishedAt": "2026-09-20T16:01:03.000Z",
     "preview": "After banks lost their push for tighter stablecoin rules in the failed Clarity Act, JP Morgan scored a narrower win as Visa moves to stop meme coin purchases from being coded as ordinary \"digital media\" and earning card ",
@@ -1003,16 +1110,6 @@
     "tags": []
   },
   {
-    "source": "CryptoPotato",
-    "title": "The Fed Hiked Rates and Bitcoin Went Up: Here’s Why That Matters",
-    "link": "https://cryptopotato.com/the-fed-hiked-rates-and-bitcoin-went-up-heres-why-that-matters/",
-    "publishedAt": "2026-09-19T17:46:55.000Z",
-    "preview": "The first Fed rate hike in over three years didn't bring BTC down for long.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "How the Clarity Act's Defeat Handed the SEC and CFTC the Wheel on Crypto",
     "link": "https://decrypt.co/378688/how-clarity-act-defeat-sec-cftc-wheel-crypto",
@@ -1049,32 +1146,12 @@
     "tags": []
   },
   {
-    "source": "CryptoPotato",
-    "title": "Ripple Whales Go on Massive Accumulation Spree: Bigger XRP Price Move Coming?",
-    "link": "https://cryptopotato.com/ripple-whales-go-on-massive-accumulation-spree-bigger-xrp-price-move-coming/",
-    "publishedAt": "2026-09-19T15:38:11.000Z",
-    "preview": "XRP rebounded past a key resistance level after the Friday resurgence but can it climb higher?",
-    "tags": [
-      "XRP"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Grayscale Is Making Its Red-Hot Zcash ETF More Affordable",
     "link": "https://decrypt.co/378675/grayscale-zcash-etf-more-affordable-split",
     "publishedAt": "2026-09-19T15:01:03.000Z",
     "preview": "The Zcash ETF is splitting its shares three ways after pulling in more than $233 million in under a month, as Wall Street piles into crypto's hottest privacy trade.",
     "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Bitcoin Price Analysis: Explosive BTC Rally Faces One Major Obstacle",
-    "link": "https://cryptopotato.com/bitcoin-price-analysis-explosive-btc-rally-faces-one-major-obstacle/",
-    "publishedAt": "2026-09-19T14:59:52.000Z",
-    "preview": "Bitcoin has recovered sharply from the latest pullback and is once again pressing against the upper boundary of its consolidation. With BTC trading around $81.5K, the market is approaching a decisive area where a confirm",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "CoinDesk",
@@ -1087,16 +1164,6 @@
     ]
   },
   {
-    "source": "CoinDesk",
-    "title": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
-    "link": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
-    "publishedAt": "2026-09-19T13:39:15.000Z",
-    "preview": "The upcoming Batch V1.1 can make linked asset and payment transfers succeed together or fail together, and Ripple says commercial projects are already being built around the feature after an extensive security review.",
-    "tags": [
-      "XRP"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade",
     "link": "https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade",
@@ -1104,16 +1171,6 @@
     "preview": "The network's clock just sped up again, but the extra speed goes to freshness, not capacity.",
     "tags": [
       "SOL"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
-    "link": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
-    "publishedAt": "2026-09-19T12:13:57.000Z",
-    "preview": "\"Bitcoin feels like the CD in the age of Spotify, the DVD in the age of Netflix,\" wrote Jason Calacanis.",
-    "tags": [
-      "BTC"
     ]
   },
   {
@@ -1203,26 +1260,6 @@
     "publishedAt": "2026-09-18T16:08:13.000Z",
     "preview": "The agency submitted a prerule on crypto asset transactions and markets to the White House for review, signaling it will build a derivatives framework on its own authority after the Clarity Act's collapse.",
     "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "CFTC submits crypto market regulation plan for White House review",
-    "link": "https://cointelegraph.com/news/cftc-submits-crypto-market-regulation-plan-for-white-house-review",
-    "publishedAt": "2026-09-18T16:04:22.000Z",
-    "preview": "The US commodities regulator submitted a new crypto market regulatory action for White House review days after the Senate failed to advance the CLARITY Act.",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Bitcoin hits $81K as US bond yields rebound on global oil woes",
-    "link": "https://cointelegraph.com/markets/bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes",
-    "publishedAt": "2026-09-18T15:35:59.000Z",
-    "preview": "Bitcoin price action made swift gains at the start of Friday’s Wall Street trading session as US 30-year bond yields began rising again.",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "Decrypt",
@@ -1327,39 +1364,5 @@
     "tags": [
       "ETH"
     ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Andrew Yang Calls for AI Kill Switch as Safety Fears Mount",
-    "link": "https://decrypt.co/378522/andrew-yang-ai-kill-switch-safety-fears",
-    "publishedAt": "2026-09-17T18:06:03.000Z",
-    "preview": "The former presidential candidate said lawmakers should impose liability rules and waiting periods on frontier AI firms as autonomous agents raise new cyber and labor concerns.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
-    "link": "https://decrypt.co/378504/king-charles-openai-anthropic-nvidia-google-deepmind-ai-safety",
-    "publishedAt": "2026-09-17T17:36:02.000Z",
-    "preview": "King Charles hosted senior AI executives at his Scottish estate to discuss keeping the technology \"in the service of humanity,\" days after industry leaders called for a slowdown.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Bitcoin Bounces as Markets Brace for the Fed’s Next Move",
-    "link": "https://decrypt.co/378506/bitcoin-bounces-wall-street-fed-next-move",
-    "publishedAt": "2026-09-17T17:01:03.000Z",
-    "preview": "The Federal Reserve's first rate increase since 2023 barely dented crypto prices, but what comes next could change calculations on Wall Street.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Financial Data Giant S&#038;P Global Moves Deeper Into Crypto With OpenZeppelin Deal",
-    "link": "https://decrypt.co/378505/sp-global-acquire-crypto-openzeppelin",
-    "publishedAt": "2026-09-17T16:33:12.000Z",
-    "preview": "S&#038;P Global is expanding into the technology risks underpinning stablecoins, tokenized funds, and other onchain financial products.",
-    "tags": []
   }
 ]
