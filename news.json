@@ -1,5 +1,333 @@
 [
   {
+    "source": "Decrypt",
+    "title": "Strategy's Bitcoin Pile Nears June Record After $76M Purchase",
+    "link": "https://decrypt.co/378737/strategys-bitcoin-pile-nears-june-record-after-76m-purchase",
+    "publishedAt": "2026-09-21T12:56:46.000Z",
+    "preview": "The Bitcoin treasury firm’s holdings bottomed at 840,447 BTC in August. They have since climbed 5,553 BTC, to within 0.2% of the high.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Near Protocol (NEAR) Soars 25% Daily: Is That the Easiest Crypto to Hold?",
+    "link": "https://cryptopotato.com/near-protocol-near-soars-25-daily-is-that-the-easiest-crypto-to-hold/",
+    "publishedAt": "2026-09-21T12:54:59.000Z",
+    "preview": "Is NEAR headed toward a new ATH?",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Strategy buys 950 Bitcoin for $76M, repurchases $174M in STRC",
+    "link": "https://cointelegraph.com/news/strategy-950-btc-buy-strc-repurchase-174-million",
+    "publishedAt": "2026-09-21T12:48:21.000Z",
+    "preview": "Strategy bought 950 Bitcoin for $75.7 million after a two-week pause and spent another $174 million repurchasing its STRC preferred stock.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "This blockchain just voted to shut itself down for a Solana-powered AI pivot",
+    "link": "https://cryptoslate.com/this-blockchain-just-voted-to-shut-itself-down-for-a-solana-powered-ai-pivot/",
+    "publishedAt": "2026-09-21T12:30:27.000Z",
+    "preview": "Proposal 68 approved the direction of a 1:1 native ZETA move, while a follow-up vote must still set the snapshot, shutdown block and claims process. The post This blockchain just voted to shut itself down for a Solana-po",
+    "tags": [
+      "SOL"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Bitcoin Tops $85K as $648M in Crypto Shorts Liquidated",
+    "link": "https://decrypt.co/378729/bitcoin-tops-85k-as-648m-in-crypto-shorts-liquidated",
+    "publishedAt": "2026-09-21T12:22:00.000Z",
+    "preview": "A short squeeze started the move, but spot buyers have sustained it, and one measure of selling pressure is near a record low.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Google and Apple seek crypto talent as Big Tech eyes stablecoin and tokenization rails",
+    "link": "https://www.coindesk.com/business/2026/09/21/google-and-apple-seek-crypto-talent-as-big-tech-eyes-stablecoin-and-tokenization-rails",
+    "publishedAt": "2026-09-21T12:17:48.000Z",
+    "preview": "The tech giants’ job listings could indicate that they are separately pursuing experts in stablecoins and tokenized deposits for future projects.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Strives Buys 1,355 BTC as Bitcoin’s Price Crosses $85K",
+    "link": "https://cryptopotato.com/strives-buys-1355-btc-as-bitcoins-price-crosses-85k/",
+    "publishedAt": "2026-09-21T12:15:40.000Z",
+    "preview": "The company has been quite consistent lately with its BTC purchases.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Strategy returns to bitcoin buys, adding $75 million of BTC last week",
+    "link": "https://www.coindesk.com/markets/2026/09/21/strategy-returns-to-bitcoin-buys-adding-usd75-million-of-btc-last-week",
+    "publishedAt": "2026-09-21T12:08:02.000Z",
+    "preview": "It's the first week of bitcoin purchases for Strategy in about three weeks.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Strategy’s Bitcoin Stash Hits 846,000 After Fresh 950 BTC Purchase",
+    "link": "https://cryptopotato.com/strategys-bitcoin-stash-hits-846000-after-fresh-950-btc-purchase/",
+    "publishedAt": "2026-09-21T12:07:19.000Z",
+    "preview": "The move now comes as the company's BTC holdings have turned green after months of struggle.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Zoomex to Host Traders After Party During TOKEN2049 Singapore, Connecting Traders and the Web3 Community",
+    "link": "https://www.newsbtc.com/news/zoomex-to-host-traders-after-party-during-token2049-singapore-connecting-traders-and-the-web3-community/",
+    "publishedAt": "2026-09-21T11:57:37.000Z",
+    "preview": "Industry KOL panels, an interactive session with F1 driver Ollie Bearman, live music, and grand prizes including a MacBook Air and iPhone Duo will highlight the evening. Global cryptocurrency derivatives platform Zoomex ",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Bitcoin's 44% gain in third quarter teases full-blown crypto bull run",
+    "link": "https://www.coindesk.com/daybook-us/2026/09/21/bitcoin-s-44-gain-in-third-quarter-teases-full-blown-crypto-bull-run",
+    "publishedAt": "2026-09-21T11:36:11.000Z",
+    "preview": "Your day-ahead look for Sept. 21, 2026",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Perp futures linked to 'bitcoin VIX' debut on Hyperliquid",
+    "link": "https://www.coindesk.com/markets/2026/09/21/perp-futures-linked-to-bitcoin-vix-debut-on-hyperliquid",
+    "publishedAt": "2026-09-21T11:30:00.000Z",
+    "preview": "Deployed via Kinetiq's Markets frontend and led by Volmex CEO Cole Kennelly, Hyperliquid's new BVIV perpetuals let traders easily go long or short on 30-day bitcoin volatility.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "ECB launches Pontes to settle tokenized assets without stablecoins",
+    "link": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
+    "publishedAt": "2026-09-21T11:27:00.000Z",
+    "preview": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "ECB deploys Pontes platform to settle wholesale tokenized assets in central-bank money",
+    "link": "https://www.coindesk.com/business/2026/09/21/ecb-deploys-pontes-platform-to-settle-wholesale-tokenized-assets-in-central-bank-money",
+    "publishedAt": "2026-09-21T11:18:55.000Z",
+    "preview": "The EU central bank's new wholesale platform connects DLT market infrastructure to its payment rails, separate from the retail digital euro pilot planned for 2027.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Bitcoin hits $85,000 after $648M wipeout forces mass buying",
+    "link": "https://cryptoslate.com/bitcoin-just-broke-85000-but-the-rally-is-being-powered-by-traders-forced-to-buy/",
+    "publishedAt": "2026-09-21T11:10:15.000Z",
+    "preview": "Bitcoin surged above $85,000 as a wave of short liquidations accelerated the cryptocurrency’s strongest advance since January. Data from CryptoSlate showed BTC gained more than 5% over the past 24 hours to reach $85,193,",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "NEAR jumps nearly 80% in a week as Intents volume nears $30B",
+    "link": "https://cointelegraph.com/markets/near-price-surge-intents-zcash-privacy",
+    "publishedAt": "2026-09-21T10:52:35.000Z",
+    "preview": "Near expanded privacy features for traders as NEAR Intents recorded $29.3 billion in cumulative volume, including swaps involving Zcash.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Sui (SUI) Hits a 4-Month High: 3 Reasons Why It Can Pump Even More",
+    "link": "https://cryptopotato.com/sui-sui-hits-a-4-month-high-3-reasons-why-it-can-pump-even-more/",
+    "publishedAt": "2026-09-21T10:41:21.000Z",
+    "preview": "SUI has finally reclaimed the $1 psychological level.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Bitcoin hits $85,000 as short squeeze forces out $648 million of bearish bets",
+    "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-hits-usd85-000-as-short-squeeze-forces-out-usd648-million-of-bearish-bets",
+    "publishedAt": "2026-09-21T10:30:00.000Z",
+    "preview": "Open interest climbed 7.59% to $156 billion even as positions were closed out, a sign traders are chasing the move rather than stepping back.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "A Bitcoin Lightning flaw could send a node’s entire balance straight to miners",
+    "link": "https://cryptoslate.com/a-bitcoin-lightning-flaw-could-send-a-nodes-entire-balance-straight-to-miners/",
+    "publishedAt": "2026-09-21T10:25:59.000Z",
+    "preview": "ACINQ says operators can install the security fixes without closing existing Lightning channels. The post A Bitcoin Lightning flaw could send a node’s entire balance straight to miners appeared first on CryptoSlate.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Liquidations Top $750M as BTC, ETH, and XRP Rocket to New Local Peaks",
+    "link": "https://cryptopotato.com/liquidations-top-750m-as-btc-eth-and-xrp-rocket-to-new-local-peaks/",
+    "publishedAt": "2026-09-21T10:22:40.000Z",
+    "preview": "Roughly $650 million out of the total came from short positions as BTC and the alts are on fire on Monday.",
+    "tags": [
+      "BTC",
+      "ETH",
+      "XRP"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "BTC price nears eight-month high above $85K: Five things to know in Bitcoin this week",
+    "link": "https://cointelegraph.com/markets/btc-price-nears-eight-month-high-above-85k-five-things-to-know-in-bitcoin-this-week",
+    "publishedAt": "2026-09-21T10:15:51.000Z",
+    "preview": "Bitcoin hit $85,000 for the first time since January as markets focused on cooling oil prices.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "X sues its own users for running a fake bitcoin news bot farm",
+    "link": "https://www.coindesk.com/markets/2026/09/21/x-sues-its-won-users-for-running-a-fake-bitcoin-news-bot-farm",
+    "publishedAt": "2026-09-21T10:15:44.000Z",
+    "preview": "X has sued Vivek Kumar Sen and Zmyang Sherpa for running fake bitcoin headline accounts to fraudulently earn creator rewards from the platform.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Crypto Worker's Children Held Hostage in Latest French ‘Wrench Attack,’ $46,000 Taken",
+    "link": "https://decrypt.co/378720/crypto-workers-children-held-hostage-in-latest-french-wrench-attack-46000-taken",
+    "publishedAt": "2026-09-21T09:51:24.000Z",
+    "preview": "France is the worst-hit country in the world for these attacks, with more than 70 logged in the first eight months of 2026.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "X sues Bitcoin account operators over alleged $278K payout fraud",
+    "link": "https://cointelegraph.com/news/x-lawsuit-bitcoin-accounts-alleged-scheme",
+    "publishedAt": "2026-09-21T09:35:25.000Z",
+    "preview": "X alleges six Bitcoin-focused accounts coordinated posts and engagement to inflate creator payouts, with claimed and projected losses of at least $378,000.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Crypto enjoys bullish bounce post-Fed rate hike: Crypto Week Ahead",
+    "link": "https://www.coindesk.com/markets/2026/09/21/crypto-week-ahead",
+    "publishedAt": "2026-09-21T09:12:42.000Z",
+    "preview": "Your look at what's coming in the week starting Sept. 21.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Bitcoin shattered $80,000 after a $148 billion US liquidity shock failed to break markets",
+    "link": "https://cryptoslate.com/bitcoin-shattered-80000-after-a-148-billion-us-liquidity-shock-failed-to-break-markets/",
+    "publishedAt": "2026-09-21T09:10:21.000Z",
+    "preview": "Federal Reserve data show a large tax-date transfer, but SOFR remained five basis points below the new reserve rate. The post Bitcoin shattered $80,000 after a $148 billion US liquidity shock failed to break markets appe",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Bitcoin (BTC) Skyrockets to 8-Month High Above $84K as Altcoins Mark Big Gains: Market Watch",
+    "link": "https://cryptopotato.com/bitcoin-btc-skyrockets-to-8-month-high-above-84k-as-altcoins-mark-big-gains-market-watch/",
+    "publishedAt": "2026-09-21T08:50:18.000Z",
+    "preview": "The other big gainers today include XMR, VVV, NEAR, SEI, SUI, RENDER, and more.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
+    "link": "https://www.coindesk.com/business/2026/09/21/hana-bank-issues-south-korea-s-first-digital-bond-using-euroclear-s-blockchain",
+    "publishedAt": "2026-09-21T08:49:59.000Z",
+    "preview": "South Korea's second-largest bank’s $100 million foreign-currency bond blockchain issuance shortened settlement time to the same day from three to five business days.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Live updates: Bitcoin hits $85,000 as short liquidations hit $300 million in an hour",
+    "link": "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets",
+    "publishedAt": "2026-09-21T08:39:26.000Z",
+    "preview": "Crypto majors climbed alongside equity futures on Monday, with Monero's XMR up 13%, as Brent fell for a fourth straight session and traders positioned ahead of a Trump-Xi summit later this week.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "ZetaChain holders approve plan to wind down L1, move ZETA to Solana",
+    "link": "https://cointelegraph.com/news/zetachain-shutdown-zeta-solana-migration",
+    "publishedAt": "2026-09-21T07:31:47.000Z",
+    "preview": "ZetaChain plans to wind down its Cosmos-based layer 1 and migrate ZETA to Solana, joining other crypto projects moving away from standalone chains.",
+    "tags": [
+      "SOL"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Bitcoin Reclaims 50-Week Moving Average for the First Time in Over 10 Months",
+    "link": "https://cryptopotato.com/bitcoin-reclaims-50-week-moving-average-for-the-first-time-in-over-10-months/",
+    "publishedAt": "2026-09-21T07:31:31.000Z",
+    "preview": "According to an analyst, the historical odds of a cycle low after a 50-week MA reclaim are 75% and 100% when the Covid crash is excluded.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Bank of Korea launches 24-hour won settlement pilot for foreign investors",
+    "link": "https://cointelegraph.com/news/bank-korea-won-settlement-pilot",
+    "publishedAt": "2026-09-21T06:41:23.000Z",
+    "preview": "The Bank of Korea’s new network will let foreign investors settle won transactions during business hours in their home countries.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "3 Events That Could Shake Up Bitcoin and Crypto Markets This Week",
+    "link": "https://cryptopotato.com/3-events-that-could-shake-up-bitcoin-and-crypto-markets-this-week/",
+    "publishedAt": "2026-09-21T06:34:20.000Z",
+    "preview": "From Fed speakers to PMI Data and, of course, the major meeting between Donald Trump and Xi Jinping.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "2 key economic reports threaten Bitcoin’s $80k rally as BTC price model predicts $95k incoming",
+    "link": "https://cryptoslate.com/bitcoins-80000-rebound-faces-an-inflation-expectations-test-this-week/",
+    "publishedAt": "2026-09-21T06:30:36.000Z",
+    "preview": "Friday's Michigan survey, ETF demand and Japan's rate implementation frame the outlook for Sept. 21–27. The post 2 key economic reports threaten Bitcoin’s $80k rally as BTC price model predicts $95k incoming appeared fir",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Kalshi faces ‘fake crypto volume’ allegations as critic flags identical $5,500 trades",
+    "link": "https://www.coindesk.com/markets/2026/09/21/kalshi-s-crypto-chief-responds-to-fake-crypto-volume-allegations-as-critic-flags-identical-usd5-500-trades",
+    "publishedAt": "2026-09-21T06:20:47.000Z",
+    "preview": "A trader alleged on X that Kalshi is inflating trading volumes in its ether perpetual futures.",
+    "tags": []
+  },
+  {
     "source": "Cointelegraph",
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
@@ -150,16 +478,6 @@
     ]
   },
   {
-    "source": "NewsBTC",
-    "title": "VanEck Flags Heavy Executive Dilution At Bitcoin Treasury Firm Metaplanet",
-    "link": "https://www.newsbtc.com/news/vaneck-flags-heavy-executive-dilution-at-bitcoin-treasury-firm-metaplanet/",
-    "publishedAt": "2026-09-20T21:30:00.000Z",
-    "preview": "Read the latest update on VanEck Flags Heavy Executive Dilution At Bitcoin Treasury Firm Metaplanet.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "CryptoSlate",
     "title": "Why keeping your private keys safe won’t always stop crypto theft",
     "link": "https://cryptoslate.com/who-pays-when-bitcoin-disappears-without-anyone-stealing-the-keys/",
@@ -269,14 +587,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Why Russia’s harsh 1% crypto cap actually protects bank customer assets",
-    "link": "https://cryptoslate.com/bank-of-russia-proposes-1-crypto-capital-cap-while-carving-out-some-client-custody/",
-    "publishedAt": "2026-09-20T13:35:19.000Z",
-    "preview": "The draft counts banks’ own holdings and crypto-linked instruments against capital but conditionally excludes customer assets. The post Why Russia’s harsh 1% crypto cap actually protects bank customer assets appeared fir",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "Strategy’s Saylor Teases New Bitcoin Buy Despite Fed Hike and CLARITY Setback",
     "link": "https://cryptopotato.com/strategys-saylor-teases-new-bitcoin-buy-despite-fed-hike-and-clarity-setback/",
@@ -308,14 +618,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Stablecoin salaries can leave workers paying to access their wages",
-    "link": "https://cryptoslate.com/stablecoin-salaries-can-leave-workers-paying-to-access-their-wages/",
-    "publishedAt": "2026-09-20T12:05:36.000Z",
-    "preview": "Every paycheck eventually has to pay for something: rent, groceries, transport, or bills. Stablecoins can move between wallets in seconds. But that does not mean an employee can spend the money immediately. They may stil",
-    "tags": []
-  },
-  {
     "source": "Cointelegraph",
     "title": "Trump says US will form ‘AI Force’ and appoint AI czar: Reports",
     "link": "https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports",
@@ -344,16 +646,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Why Bitcoin’s rally above $80,000 isn’t backed by institutional conviction",
-    "link": "https://cryptoslate.com/why-bitcoins-rally-above-80000-isnt-backed-by-institutional-conviction/",
-    "publishedAt": "2026-09-20T11:05:32.000Z",
-    "preview": "Leveraged funds became 7,275 BTC-equivalent less net short as asset-manager longs fell and weekly ETF demand barely stayed positive. The post Why Bitcoin’s rally above $80,000 isn’t backed by institutional conviction app",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "Everything Went Against Bitcoin This Week – So Why Is BTC Back Above $80K?",
     "link": "https://cryptopotato.com/everything-went-against-bitcoin-this-week-so-why-is-btc-back-above-80k/",
@@ -362,14 +654,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Why real-time election odds are misleading prediction market crypto traders",
-    "link": "https://cryptoslate.com/prediction-markets-are-turning-election-betting-into-a-speed-game/",
-    "publishedAt": "2026-09-20T10:05:35.000Z",
-    "preview": "You can be right about who will win an election and still pay too much to bet on it. On prediction markets, the price available when you open the app may be gone by the time you try to buy, especially when news sends oth",
-    "tags": []
   },
   {
     "source": "Cointelegraph",
@@ -389,14 +673,6 @@
       "BTC",
       "AVAX"
     ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "X brings crypto trading closer to your social feed",
-    "link": "https://cryptoslate.com/x-brings-crypto-trading-closer-to-your-social-feed/",
-    "publishedAt": "2026-09-20T08:00:39.000Z",
-    "preview": "Crypto Twitter (now X) has always been a place where someone with an illustrated animal for a profile picture can explain why your financial future depends on a token you just learned about. Now X’s Cashtag links are sho",
-    "tags": []
   },
   {
     "source": "Cointelegraph",
@@ -696,27 +972,11 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "Report: ECB President Personally Blocked Binance’s EU License",
-    "link": "https://cryptopotato.com/report-ecb-president-personally-blocked-binances-eu-license/",
-    "publishedAt": "2026-09-18T22:04:07.000Z",
-    "preview": "Greece's own finance minister reportedly had a different read on the case, a view that did not survive the ECB president's intervention.",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
     "link": "https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia",
     "publishedAt": "2026-09-18T21:01:30.000Z",
     "preview": "The filing seeks CFTC approval for contracts giving US traders 24/5 leveraged exposure to individual stocks without ownership.",
-    "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Major Binance Warning: The Exchange Will Briefly Suspend Deposits and Withdrawals Next Week",
-    "link": "https://cryptopotato.com/major-binance-warning-the-exchange-will-briefly-suspend-deposits-and-withdrawals-next-week/",
-    "publishedAt": "2026-09-18T20:26:47.000Z",
-    "preview": "Here's what is going to happen on Setpember 22.",
     "tags": []
   },
   {
@@ -734,16 +994,6 @@
     "publishedAt": "2026-09-18T19:16:03.000Z",
     "preview": "A new upgrade would cut Zcash block time from 75 seconds to 25, while quietly rewriting how the network pays for its own security after 2031.",
     "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Here’s Why Bitwise CIO Believes Crypto Could Keep Rallying Without Congress",
-    "link": "https://cryptopotato.com/heres-why-bitwise-cio-believes-crypto-could-keep-rallying-without-congress/",
-    "publishedAt": "2026-09-18T19:10:05.000Z",
-    "preview": "After the CLARITY Act's failure, Bitwise CIO Matt Hougan said that the Bitcoin rally can continue without congressional approval.",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "Cointelegraph",
@@ -775,16 +1025,6 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "Solana to Go Parabolic? Here’s Why SOL Can Explode by 1,100%",
-    "link": "https://cryptopotato.com/solana-to-go-parabolic-heres-why-sol-can-explode-by-1100/",
-    "publishedAt": "2026-09-18T17:51:30.000Z",
-    "preview": "According to Martinez, SOL has spent the last few years to build a massive cup-and-handle pattern that could result in a major price increase.",
-    "tags": [
-      "SOL"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross",
     "link": "https://decrypt.co/378641/xrp-surges-bitcoin-rebound-reopens-golden-cross",
@@ -793,16 +1033,6 @@
     "tags": [
       "BTC",
       "XRP"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Ethereum Gets Cheaper: Network Fees Collapse Over 85% as ETH Price Rebounds",
-    "link": "https://cryptopotato.com/ethereum-gets-cheaper-network-fees-collapse-over-85-as-eth-price-rebounds/",
-    "publishedAt": "2026-09-18T16:33:06.000Z",
-    "preview": "Lower Ethereum fees are removing a major cost barrier, as Fusaka, higher blob throughput, and Layer 2s reshape network usage.",
-    "tags": [
-      "ETH"
     ]
   },
   {
@@ -834,16 +1064,6 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "Ethereum Price Analysis: ETH Jumps Past $2.5K as Moving Averages Eye Bullish Cross",
-    "link": "https://cryptopotato.com/ethereum-price-analysis-eth-jumps-past-2-5k-as-moving-averages-eye-bullish-cross/",
-    "publishedAt": "2026-09-18T15:28:15.000Z",
-    "preview": "Ethereum has recovered sharply from its mid-year lows and jumped past the key $2.5K level on Friday. The charts show a constructive improvement in the broader market structure, although ETH remains below several importan",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Bitcoin Blasts Past $80K and a Fresh Short Squeeze Is On",
     "link": "https://decrypt.co/378630/bitcoin-blasts-short-squeeze-crypto-liquidations",
@@ -864,32 +1084,12 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "Ripple Price Analysis: What’s Next for XRP After an 8% Daily Surge?",
-    "link": "https://cryptopotato.com/ripple-price-analysis-whats-next-for-xrp-after-an-8-daily-surge/",
-    "publishedAt": "2026-09-18T15:16:00.000Z",
-    "preview": "XRP is consolidating after a sharp recovery from the sub-$1 area, with the price now attempting to stabilize around $1.35. The daily chart shows a major structural improvement following the recent rally, while the 4-hour",
-    "tags": [
-      "XRP"
-    ]
-  },
-  {
     "source": "CoinDesk",
     "title": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost",
     "link": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
     "publishedAt": "2026-09-18T15:06:31.000Z",
     "preview": "Some smaller hedge funds with weaker security controls may have lost funds in the targeted attack, sources said.",
     "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Bitcoin Hits 14-Day High Despite CLARITY Setback, Fed and BOJ Rate Hikes: Weekly Recap",
-    "link": "https://cryptopotato.com/bitcoin-hits-14-day-high-despite-clarity-setback-fed-and-boj-rate-hikes-weekly-recap/",
-    "publishedAt": "2026-09-18T14:51:06.000Z",
-    "preview": "How did bitcoin rose past $80,000 on Friday after the week it had?",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "Cointelegraph",
@@ -908,27 +1108,11 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "ECB President Christine Lagarde intervened to block Binance’s EU MiCA license: WSJ",
-    "link": "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
-    "publishedAt": "2026-09-18T12:57:06.000Z",
-    "preview": "Although the ECB holds no formal licensing authority under MiCA, high-level intervention led Greece to stall an application that regulators had previously deemed complete, the Journal said.",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'",
     "link": "https://decrypt.co/378622/microsoft-staff-asked-if-ai-scraping-was-largest-theft-of-labor-in-human-history",
     "publishedAt": "2026-09-18T12:52:03.000Z",
     "preview": "Internal memos warned of a \"doom loop\" threatening the quality of the very models it was building with OpenAI.",
-    "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Zcash targets November upgrade to make private payments up to three times faster",
-    "link": "https://www.coindesk.com/tech/2026/09/18/zcash-targets-november-upgrade-to-make-private-payments-up-to-three-times-faster",
-    "publishedAt": "2026-09-18T12:50:01.000Z",
-    "preview": "NU7 would reduce block times to 25 seconds while setting aside at least 60% of transaction fees to supplement mining rewards beginning in 2031.",
     "tags": []
   },
   {
@@ -970,41 +1154,11 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "XRP on the brink of a golden cross as focus switches to altcoins",
-    "link": "https://www.coindesk.com/daybook-us/2026/09/18/xrp-on-the-brink-of-a-golden-cross-as-focus-switches-to-altcoins",
-    "publishedAt": "2026-09-18T11:15:00.000Z",
-    "preview": "Your day-ahead look for Sept. 18, 2026",
-    "tags": [
-      "XRP"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross",
     "link": "https://cointelegraph.com/markets/bitcoin-adds-to-bull-market-hopes-as-price-metric-prints-fourth-ever-bullish-cross",
     "publishedAt": "2026-09-18T10:46:17.000Z",
     "preview": "The Fisher Transform indicator produced a rare crossover for only the fourth time in Bitcoin’s history.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
-    "link": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
-    "publishedAt": "2026-09-18T10:33:05.000Z",
-    "preview": "Starknet and arbitrum gained more than 17% while the 10-year Treasury yield slipped back below 5%, with 98 of CoinDesk 100 constituents advancing.",
-    "tags": [
-      "ARB"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls",
-    "link": "https://www.coindesk.com/markets/2026/09/18/bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls",
-    "publishedAt": "2026-09-18T10:07:33.000Z",
-    "preview": "Bitcoin is down just 1.5% in its historically weakest month and remains on track for its first quarterly gain in a year, despite rising rates, surging oil and a stronger dollar.",
     "tags": [
       "BTC"
     ]
@@ -1018,131 +1172,11 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "Live updates: Bitcoin climbs over $80,000 as crypto shakes off Clarity failure and higher interest rates",
-    "link": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
-    "publishedAt": "2026-09-18T09:49:51.000Z",
-    "preview": "Another central bank hiked rates overnight, this time the Bank of Japan. The move failed to halt the slide in the yen.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Stablecoin payments firm dtcpay closes $25M round with SBI backing",
-    "link": "https://cointelegraph.com/news/dtcpay-25m-series-a-sbi-stablecoin-payments",
-    "publishedAt": "2026-09-18T09:14:03.000Z",
-    "preview": "Dtcpay plans to expand its merchant network and payment products after completing a $25 million Series A backed by Japan’s SBI Group.",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "Treasury Sanctions Crypto Exchange Behind Iran's Bitcoin Tolls on Hormuz Ships",
     "link": "https://decrypt.co/378604/treasury-sanctions-crypto-exchange-behind-irans-bitcoin-tolls-on-hormuz-ships",
     "publishedAt": "2026-09-18T09:01:55.000Z",
     "preview": "OFAC says hundreds of millions of dollars in Bitcoin moved through BitBank to the Revolutionary Guards in two months.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment",
-    "link": "https://cointelegraph.com/news/binance-cites-speculation-report-ecb-chief-mica-intervention",
-    "publishedAt": "2026-09-18T08:50:38.000Z",
-    "preview": "Binance declined to address reports of ECB intervention in its Greek MiCA bid, saying it remains committed to securing authorization in Europe.",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Bitcoin cycle bottom may already be in at $58K, says analyst James Check",
-    "link": "https://cointelegraph.com/markets/bitcoin-cycle-bottom-58k-james-check",
-    "publishedAt": "2026-09-18T08:47:20.000Z",
-    "preview": "Onchain analyst James Check says Bitcoin may have bottomed near $58,000 after two capitulations and warns against anchoring to an October low.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "SBI Group backs payments firm dtcpay in $25 million funding round",
-    "link": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
-    "publishedAt": "2026-09-18T07:37:32.000Z",
-    "preview": "Stablecoin payments company dtcpay completed a $25 million Series A funding round with a strategic investment from Japan’s SBI Group.",
-    "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Iran’s Strait of Hormuz toll booth ran through a bitcoin exchange, U.S. says",
-    "link": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says",
-    "publishedAt": "2026-09-18T06:52:23.000Z",
-    "preview": "The U.S. Treasury sanctioned BitBank, a Tehran exchange it says moved hundreds of millions of dollars in bitcoin to the Revolutionary Guards and handled payments collected from ships buying passage through the world’s mo",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
-    "link": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
-    "publishedAt": "2026-09-18T06:16:57.000Z",
-    "preview": "The network is cutting its target slot time to 250 milliseconds, giving apps fresher blockchain data and validators shorter control windows while reducing the amount of work allowed in each slot.",
-    "tags": [
-      "SOL"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Corporate treasuries bought just 5,900 bitcoin in 3 months. Other demand signals look weak, too.",
-    "link": "https://www.coindesk.com/markets/2026/09/18/corporate-treasuries-bought-just-5-900-bitcoin-in-3-months-other-demand-signals-look-weak-too",
-    "publishedAt": "2026-09-18T05:43:21.000Z",
-    "preview": "Corporate treasuries bought just 5,900 bitcoin in three months, while broader demand signals remain weak.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Ethereum confirms Glamsterdam dates, but warns 'fake' builders could stall the chain",
-    "link": "https://www.coindesk.com/tech/2026/09/18/ethereum-confirms-glamsterdam-dates-but-warns-fake-builders-could-stall-the-chain",
-    "publishedAt": "2026-09-18T05:23:29.000Z",
-    "preview": "Free test ether lets fake builders outbid rivals and withhold transaction payloads, while client teams get half the usual review time before Sepolia.",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Zcash targets November for NU7 mainnet upgrade with 25-second blocks",
-    "link": "https://cointelegraph.com/news/zcash-nu7-november-mainnet-activation",
-    "publishedAt": "2026-09-18T04:51:29.000Z",
-    "preview": "NU7 will cut Zcash block times to 25 seconds and preserve its halving schedule, with testnet activation planned for Oct. 6.",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Cardano’s IOG warns users to avoid YouTube channel amid apparent hijack",
-    "link": "https://cointelegraph.com/news/cardanos-iog-warns-users-to-avoid-youtube-channel-amid-giveaway-scam",
-    "publishedAt": "2026-09-18T04:11:40.000Z",
-    "preview": "Input Output Group told users to avoid its YouTube channel after it began livestreaming a suspected AI-manipulated Charles Hoskinson video promising to “double your wealth.”",
-    "tags": [
-      "ADA"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "World launches self-custodial ‘super app’ World Money",
-    "link": "https://cointelegraph.com/news/world-launches-self-custodial-super-app-world-money",
-    "publishedAt": "2026-09-18T03:40:28.000Z",
-    "preview": "World Money is rolling out across more than 150 countries, combining stablecoin payments, digital asset rewards and trading in a self-custodial app.",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "US sanctions Iran’s BitBank, saying it processes ‘Hormuz Safe’ Bitcoin payments",
-    "link": "https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments",
-    "publishedAt": "2026-09-18T01:33:54.000Z",
-    "preview": "US Treasury says the Iranian exchange processed payments received through Iran’s Strait of Hormuz maritime scheme and helped move hundreds of millions of dollars in Bitcoin to the IRGC.",
     "tags": [
       "BTC"
     ]
@@ -1289,281 +1323,6 @@
     "preview": "The privacy coin rose double digits Thursday and 168% over the past month in the wake of the NU7 upgrade vote.",
     "tags": [
       "BTC"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "House Committee Advances US Bitcoin Reserve Bill on Party-Line Split",
-    "link": "https://decrypt.co/378457/house-committee-advances-us-bitcoin-reserve-bill-on-party-line-split",
-    "publishedAt": "2026-09-17T10:24:21.000Z",
-    "preview": "A substitute text adopted before the vote strips out the Federal Reserve funding routes and thins the transparency rules.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Crypto Tax Bill Clears House Committee After Clarity Act Setback",
-    "link": "https://decrypt.co/378449/crypto-tax-bill-clears-house-committee",
-    "publishedAt": "2026-09-16T21:46:03.000Z",
-    "preview": "The bill would exempt qualifying crypto fees from gain-or-loss calculations and restrict tax-loss deductions on tokens sold and quickly repurchased.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Meta May Have Found a Fix for Its 'Pervert Glasses'",
-    "link": "https://decrypt.co/378448/meta-fix-pervert-glasses",
-    "publishedAt": "2026-09-16T21:16:03.000Z",
-    "preview": "Meta is reportedly developing a version of its smart glasses without a camera, potentially addressing one of the biggest privacy objections to AI wearables.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Trump sues JPMorgan for $5B! Ledger prepares for $4B IPO! “Crypto Adoption is no longer reversible” says PWC!",
-    "link": "https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc",
-    "publishedAt": "2026-01-23T16:40:55.000Z",
-    "preview": "Crypto majors are red while Gold nears $5,000 and Silver closes in on $100; BTC -1% at $89,100; ETH -2% at $2,925, SOL -2% at $127; XRP -2% to $1.90. ZRO (+15%), AXS (+10%) and DASH (+8%) led top movers. Ledger is prepar",
-    "tags": [
-      "BTC",
-      "ETH",
-      "SOL",
-      "XRP"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "From Stellar to Canton: How Franklin Templeton Adopted Tokenization",
-    "link": "https://decrypt.co/videos/interviews/ZJJKjnAR/from-stellar-to-canton-how-franklin-templeton-adopted-tokenization",
-    "publishedAt": "2026-01-22T18:29:30.000Z",
-    "preview": "Roger Bayston, Head of Digital Assets at Franklin Templeton, unpacks how one of the world's largest asset managers embraced tokenization.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Crypto rebounds after Trump TACO’s on Tariffs! BitGo $2.1B IPO! Solana’s SKR token soars 250% FDV!",
-    "link": "https://decrypt.co/videos/interviews/MqZOhomP/crypto-rebounds-after-trump-tacos-on-tariffs-bitgo-21b-ipo-solanas-skr-token-soars-250-fdv",
-    "publishedAt": "2026-01-22T16:14:50.000Z",
-    "preview": "Crypto majors are green and rebounding after Trump pivoted on EU tariffs; BTC +2% at $89,900; ETH +2% at $2,995, SOL +2% at $130; XRP +3% to $1.94. CC (+15%), SKY (+11%) and SAND (+10%) led top movers. Crypto markets saw",
-    "tags": [
-      "BTC",
-      "ETH",
-      "SOL",
-      "XRP"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Trump’s speech at Davos gives small boost to Crypto! Saylor buys $2.13B BTC! Blondish Interview!",
-    "link": "https://decrypt.co/videos/interviews/nWmEOl4c/trumps-speech-at-davos-gives-small-boost-to-crypto-saylor-buys-213b-btc-blondish-interview",
-    "publishedAt": "2026-01-21T16:17:26.000Z",
-    "preview": "Crypto majors are very red following a red Tuesday across markets; BTC -3% at $88,200; ETH -6% at $2,905, SOL -2% at $127; XRP -2% to $1.88. MYX (+11%) and ZRO (+10%) led top movers. Bitcoin and Solana both fell below ke",
-    "tags": [
-      "BTC",
-      "ETH",
-      "SOL",
-      "XRP"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Trump Tariffs 3: Return of the Bull Market! NYSE Tokenising, what that means for $Hype! Claude Meme Meta!",
-    "link": "https://decrypt.co/videos/interviews/O1HZN4PH/trump-tariffs-3-return-of-the-bull-market-nyse-tokenising-what-that-means-for-hype-claude-meme-meta",
-    "publishedAt": "2026-01-20T18:12:06.000Z",
-    "preview": "Crypto majors are red following Trump’s tariff turmoil; BTC -2% at $91,100; ETH -4% at $3,105, SOL -3% at $129; XRP -2% to $1.93. CC (+12%), MYX (+5%) and SYRUP (+4%) led top movers. The NYSE began preparations for 24/7 ",
-    "tags": [
-      "BTC",
-      "ETH",
-      "SOL",
-      "XRP"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Crypto sells off amidst Trump Tariff Turmoil! $Trove falls 90% in awful TGE! Pump Fund announced!",
-    "link": "https://decrypt.co/videos/interviews/lokwS0bc/crypto-sells-off-amidst-trump-tariff-turmoil-trove-falls-90-in-awful-tge-pump-fund-announced",
-    "publishedAt": "2026-01-20T16:07:15.000Z",
-    "preview": "Crypto majors are red following Trump’s tariff turmoil; BTC -2% at $91,100; ETH -4% at $3,105, SOL -3% at $129; XRP -2% to $1.93. CC (+12%), MYX (+5%) and SYRUP (+4%) led top movers. The NYSE began preparations for 24/7 ",
-    "tags": [
-      "BTC",
-      "ETH",
-      "SOL",
-      "XRP"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Massive Coinbase News! Bitcoin Rips to $96,750! Football.Fun TGE Interview with Founder!",
-    "link": "https://decrypt.co/videos/interviews/9g4stfJX/massive-coinbase-news-bitcoin-rips-to-96-750-footballfun-tge-interview-with-founder",
-    "publishedAt": "2026-01-15T16:49:34.000Z",
-    "preview": "Crypto majors are very green with Bitcoin making a new another 2-month high; BTC +2% at $96,7500; ETH +2% at $3,360, SOL even at $145; XRP -1% to $2.11. DCR (+30%), DASH (+10%), ICP (+10%) and ZEC (+7%) led top movers; X",
-    "tags": [
-      "BTC",
-      "ETH",
-      "SOL",
-      "XRP"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Are we back? Crypto is Green! Solana Intern goes rogue! Pump up 13%! Monero hits another ATH!",
-    "link": "https://decrypt.co/videos/interviews/Iv1NIhI4/are-we-back-crypto-is-green-solana-intern-goes-rogue-pump-up-13-monero-hits-another-ath",
-    "publishedAt": "2026-01-14T16:38:32.000Z",
-    "preview": "BTC: 95k (+3%) | BTC.D: 59.2% (-0.1%). ETH: 3313 (+6%) | BNB: 936 (+3%) | SOL: 145 (+2%). Top Gainers: IP, ICP, PUMP, PEPE, ENA. BTC ETFs: +$754m | ETH ETFs: +$130m. Crypto rallies on largest ETF inflow in 3 months. Sena",
-    "tags": [
-      "BTC",
-      "ETH",
-      "SOL",
-      "BNB"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Pump & Memes HEATING up! XMR vs ZEC! How important are these rate cuts? - Under Exposed",
-    "link": "https://decrypt.co/videos/interviews/IuLdmgP6/pump-memes-heating-up-xmr-vs-zec-how-important-are-these-rate-cuts-under-exposed",
-    "publishedAt": "2026-01-14T16:01:53.000Z",
-    "preview": "Crypto majors are green; BTC +1.5% at $92,000; ETH +1% at $3,130, SOL +2% at $142; XRP +1% to $2.06. DASH (+60%), IP (+30%) and XMR (+13%) led top movers; XMR hit another new ATH at $680 (now $640). Gold and Silver hit n",
-    "tags": [
-      "BTC",
-      "ETH",
-      "SOL",
-      "XRP"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "PsyopAnime Meme up 30X! Are Memes back? Monero ATH! Interview W/ Joseph Chalom, CEO of Sharplink",
-    "link": "https://decrypt.co/videos/interviews/mefbKZgQ/psyopanime-meme-up-30x-are-memes-back-monero-ath-interview-w-joseph-chalom-ceo-of-sharplink",
-    "publishedAt": "2026-01-13T18:12:27.000Z",
-    "preview": "Crypto majors are green; BTC +1.5% at $92,000; ETH +1% at $3,130, SOL +2% at $142; XRP +1% to $2.06. DASH (+60%), IP (+30%) and XMR (+13%) led top movers; XMR hit another new ATH at $680 (now $640). Gold and Silver hit n",
-    "tags": [
-      "BTC",
-      "ETH",
-      "SOL",
-      "XRP"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "A16z raise $15B! Jerome Powell vs Trump! Crypto remains flat! Special Guest: Dudas!",
-    "link": "https://decrypt.co/videos/interviews/0y90noNs/a16z-raise-15b-jerome-powell-vs-trump-crypto-remains-flat-special-guest-dudas",
-    "publishedAt": "2026-01-12T17:15:46.000Z",
-    "preview": "Crypto majors are mostly flat headed into Monday open; btc even at $90,600; eth +1% at $3,110, sol +2% at $140; xrp -2% to $2.04. Ip (+20%) and xmr (+15%) led top movers; xmr hit a new ath at $590. Fed chair Jerome Powel",
-    "tags": [
-      "BTC",
-      "ETH",
-      "SOL",
-      "XRP"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "ZEC Rebounds 11%! Trump says he won’t pardon Sam Bankman-Fried! Florida revisits it’s Strategic Bitcoin Reserve!",
-    "link": "https://decrypt.co/videos/interviews/72tPnqPX/zec-rebounds-11-trump-says-he-wont-pardon-sam-bankman-fried-florida-revisits-its-strategic-bitcoin-reserve",
-    "publishedAt": "2026-01-09T17:17:12.000Z",
-    "preview": "Crypto majors are mostly flat ahead of today’s supreme court opinion on the trump tariffs; btc +1% at $90,300; eth 13% at $3,090, sol +3% at $138; xrp +1% to $2.10. Polygon (+11%), zec (+11%) and syrup (+7%) led top move",
-    "tags": [
-      "BTC",
-      "ETH",
-      "SOL",
-      "XRP"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "The ZCash situation explained! Interview with ZEC bull Mert! BTC below $90K! ZEC falls 19%!",
-    "link": "https://decrypt.co/videos/interviews/wmsgKRFW/the-zcash-situation-explained-interview-with-zec-bull-mert-btc-below-90k-zec-falls-19",
-    "publishedAt": "2026-01-08T17:04:56.000Z",
-    "preview": "Crypto majors fell again yesterday as btc lost $90k; btc -2% at $89,900; eth -3% at $3,100, sol -3% at $134; xrp -7% to $2.08. Lit (+3%), wlfi (+3%) and xmr (+3%) led top movers. Zec fell 19% after the developer team res",
-    "tags": [
-      "BTC",
-      "ETH",
-      "SOL",
-      "XRP"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "First 2026 Dip! BTC at 92K! Morgan Stanley file for BTC, ETH & SOL ETFs! Hyperliquid Airdrop Speculation!",
-    "link": "https://decrypt.co/videos/interviews/GVQVX2ND/first-2026-dip-btc-at-92k-morgan-stanley-file-for-btc-eth-sol-etfs-hyperliquid-airdrop-speculation",
-    "publishedAt": "2026-01-07T16:14:54.000Z",
-    "preview": "Crypto majors fall for first time in 2026; BTC at $92k. Morgan Stanley files for BTC, ETH and SOL ETFs. US Senate schedules key vote for crypto market structure bill for next week. Hyperliquid releases progress map, lead",
-    "tags": [
-      "BTC",
-      "ETH",
-      "SOL"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Crypto starts 2026 STRONG! Venezuela Impacts on the market! Lighter TGE reactions!",
-    "link": "https://decrypt.co/videos/interviews/XjhRjGIk/crypto-starts-2026-strong-venezuela-impacts-on-the-market-lighter-tge-reactions",
-    "publishedAt": "2026-01-06T18:16:42.000Z",
-    "preview": "The global crypto market cap pushed another 2% to $3.22T as majors continue to grind up; BTC +1% at $93,780; ETH +2% at $3,240, SOL +3% at $139; XRP led up 12% to $2.37 RENDER (+18%), SUI (+18%) and LIT (+15%) led top mo",
-    "tags": [
-      "BTC",
-      "ETH",
-      "SOL",
-      "XRP"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Global Crypto MCap up to $3.22 Trillion! XRP up 12%! Japan Endorse Crypto! Fear & Greed back to Neutral!",
-    "link": "https://decrypt.co/videos/interviews/OS1PGiAq/global-crypto-mcap-up-to-322-trillion-xrp-up-12-japan-endorse-crypto-fear-greed-back-to-neutral",
-    "publishedAt": "2026-01-06T16:13:32.000Z",
-    "preview": "The global crypto market cap pushed another 2% to $3.22T as majors continue to grind up; BTC +1% at $93,780; ETH +2% at $3,240, SOL +3% at $139; XRP led up 12% to $2.37 RENDER (+18%), SUI (+18%) and LIT (+15%) led top mo",
-    "tags": [
-      "BTC",
-      "ETH",
-      "SOL",
-      "XRP"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Crypto is Green! Up 6-9%! Memes outperform! Pepe up 67%! Infinex Founder Interview!",
-    "link": "https://decrypt.co/videos/interviews/EmmJkWJn/crypto-is-green-up-6-9-memes-outperform-pepe-up-67-infinex-founder-interview",
-    "publishedAt": "2026-01-05T16:28:36.000Z",
-    "preview": "The global crypto market cap hit $3.16t (+1.5%) with majors trading higher; btc +2% at $93,000; eth +1% at $3,175, bnb +2.5% at $906, sol +1% at $135. Virtuals (+24%), render (_17%), btt (+11%) and fet (+11%) led top mov",
-    "tags": [
-      "BTC",
-      "ETH",
-      "SOL",
-      "BNB"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Crypto Wallets Can ‘Directly Compete With Neobanks'",
-    "link": "https://decrypt.co/videos/interviews/WsvLVFlp/crypto-wallets-can-directly-compete-with-neobanks",
-    "publishedAt": "2026-01-05T13:44:47.000Z",
-    "preview": "Bitget Wallet CMO Jamie Elkaleh tells Decrypt how the platform is evolving from a crypto wallet to a everyday finance app that seamlessly integrates crypto with TradFi, building on its vision of \"Crypto for Everyone.\" - ",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "2026 Crypto Predictions! Tom Lee still buying ETH! Rekt tease WorldStar collab!",
-    "link": "https://decrypt.co/videos/interviews/dBDZqp65/2026-crypto-predictions-tom-lee-still-buying-eth-rekt-tease-worldstar-collab",
-    "publishedAt": "2025-12-30T16:29:12.000Z",
-    "preview": "Btc: 87k (0%) | btc.D: 59.0% (0%). Eth: 2975 (1%) | bnb: 855 (+1%) | sol: 124 (0%). Tom Lee bought another $130M in ETH for Christmas, and still holds $1B in cash heading into the new year. REKT drinks and WorldStarHipHo",
-    "tags": [
-      "BTC",
-      "ETH",
-      "SOL",
-      "BNB"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "The White Whale up 10x in a week! Lighter TGE! Saylor buys $109M BTC!",
-    "link": "https://decrypt.co/videos/interviews/50vopyFa/the-white-whale-up-10x-in-a-week-lighter-tge-saylor-buys-109m-btc",
-    "publishedAt": "2025-12-29T16:10:19.000Z",
-    "preview": "Btc: 87k (-1%) | btc.D: 59.0% (0%). Eth: 2953 (-3%) | bnb: 853 (-1%) | sol: 124 (-3%). The White Whale goes almost 15x in a week, from $5m to $71m mcap. Lighter TGE rumours stirring. YouTuber Nick Shirley reveals mass fr",
-    "tags": [
-      "BTC",
-      "ETH",
-      "SOL",
-      "BNB"
     ]
   }
 ]
