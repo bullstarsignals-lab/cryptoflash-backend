@@ -1,5 +1,70 @@
 [
   {
+    "source": "NewsBTC",
+    "title": "BitMine ETH Treasury Nears 6 Million Tokens As Total Holdings Reach $17.1B",
+    "link": "https://www.newsbtc.com/news/bitmine-eth-treasury-nears-6-million-tokens-as-total-holdings-reach-171b/",
+    "publishedAt": "2026-09-22T00:30:00.000Z",
+    "preview": "TL;DR BitMine reported 5,983,940 ETH in its treasury, just short of 6 million tokens. The company valued its combined treasury holdings at $17.1 billion. The disclosure also listed 212 BTC, $714 million in cash and secur",
+    "tags": [
+      "BTC",
+      "ETH"
+    ]
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Strive Adds 1,355 Bitcoin As Corporate Treasury Reaches 26,355 BTC",
+    "link": "https://www.newsbtc.com/news/strive-adds-1355-bitcoin-as-corporate-treasury-reaches-26355-btc/",
+    "publishedAt": "2026-09-21T23:30:00.000Z",
+    "preview": "TL;DR Strive disclosed the purchase of 1,355 BTC at an average price of about $79,475. Its corporate Bitcoin treasury increased from 25,000 BTC to 26,355 BTC. The disclosure relates to Strive’s own balance sheet, not thi",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Google Admits Gemini AI Hacked Three Companies—It Stayed Silent for 7 Weeks",
+    "link": "https://decrypt.co/378900/google-gemini-ai-hacked-companies-stayed-silent",
+    "publishedAt": "2026-09-21T22:46:03.000Z",
+    "preview": "Google learned in late July that Gemini had breached three real companies during a May security test, but said nothing publicly for seven weeks.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "L2 growth and $120 billion in staking hide Ethereum’s supply reality",
+    "link": "https://cryptoslate.com/l2-growth-and-120-billion-in-staking-hide-ethereums-supply-reality/",
+    "publishedAt": "2026-09-21T22:40:20.000Z",
+    "preview": "Large network balances sit alongside uneven ETF flows, while the benefit to ETH holders depends on purchases and fees. The post L2 growth and $120 billion in staking hide Ethereum’s supply reality appeared first on Crypt",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Strategy Buys Another 950 Bitcoin As Holdings Reach 846,000 BTC",
+    "link": "https://www.newsbtc.com/news/strategy-buys-another-950-bitcoin-as-holdings-reach-846000-btc/",
+    "publishedAt": "2026-09-21T22:30:00.000Z",
+    "preview": "TL;DR Strategy bought 950 BTC during the week ending September 20 for $75.7 million. The purchases were made at an average price of $79,670 per Bitcoin. Strategy now reports 846,000 BTC acquired for an aggregate $63.80 b",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Brian Armstrong: CLARITY Act Failure Could Benefit Coinbase",
+    "link": "https://cryptopotato.com/brian-armstrong-clarity-act-failure-could-benefit-coinbase/",
+    "publishedAt": "2026-09-21T22:16:34.000Z",
+    "preview": "A stalled bill may leave Coinbase with breathing room, but Armstrong acknowledged that the outcome is not necessarily good for the industry.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "After Clarity Act Fails, Crypto Super PAC Fairshake Targets Sherrod Brown With $30 Million",
+    "link": "https://decrypt.co/378891/clarity-act-crypto-super-pac-fairshake-sherrod-brown-30-million",
+    "publishedAt": "2026-09-21T22:16:03.000Z",
+    "preview": "The Ohio spending comes days after the Senate blocked the crypto industry’s Clarity Act.",
+    "tags": []
+  },
+  {
     "source": "Decrypt",
     "title": "Robinhood CEO Says Crypto Will Beat Sports at Prediction Markets' Own Game",
     "link": "https://decrypt.co/378889/robinhood-ceo-crypto-will-beat-sports-prediction-markets",
@@ -480,16 +545,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "This blockchain just voted to shut itself down for a Solana-powered AI pivot",
-    "link": "https://cryptoslate.com/this-blockchain-just-voted-to-shut-itself-down-for-a-solana-powered-ai-pivot/",
-    "publishedAt": "2026-09-21T12:30:27.000Z",
-    "preview": "Proposal 68 approved the direction of a 1:1 native ZETA move, while a follow-up vote must still set the snapshot, shutdown block and claims process. The post This blockchain just voted to shut itself down for a Solana-po",
-    "tags": [
-      "SOL"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Bitcoin Tops $85K as $648M in Crypto Shorts Liquidated",
     "link": "https://decrypt.co/378729/bitcoin-tops-85k-as-648m-in-crypto-shorts-liquidated",
@@ -826,30 +881,6 @@
     "tags": []
   },
   {
-    "source": "NewsBTC",
-    "title": "S&P Global Agrees To Acquire Smart Contract Security Firm OpenZeppelin",
-    "link": "https://www.newsbtc.com/news/sp-global-agrees-to-acquire-smart-contract-security-firm-openzeppelin/",
-    "publishedAt": "2026-09-21T01:15:00.000Z",
-    "preview": "Read the latest update on S&P Global Agrees To Acquire Smart Contract Security Firm OpenZeppelin.",
-    "tags": []
-  },
-  {
-    "source": "NewsBTC",
-    "title": "dtcpay Completes $25M Series A As SBI Group Joins Stablecoin Payments Push",
-    "link": "https://www.newsbtc.com/news/dtcpay-completes-25m-series-a-as-sbi-group-joins-stablecoin-payments-push/",
-    "publishedAt": "2026-09-21T00:30:00.000Z",
-    "preview": "Read the latest update on dtcpay Completes $25M Series A As SBI Group Joins Stablecoin Payments Push.",
-    "tags": []
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Binance Announces 24/7 FX Perpetuals With USD/BRL Contract Set For September 21",
-    "link": "https://www.newsbtc.com/news/binance-announces-247-fx-perpetuals-with-usdbrl-contract-set-for-september-21/",
-    "publishedAt": "2026-09-20T23:45:00.000Z",
-    "preview": "Read the latest update on Binance Announces 24/7 FX Perpetuals With USD/BRL Contract Set For September 21.",
-    "tags": []
-  },
-  {
     "source": "Cointelegraph",
     "title": "Who needs CLARITY anyway? ARB could see 70X increase: Hodler’s Digest",
     "link": "https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express",
@@ -1087,16 +1118,6 @@
     "link": "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive",
     "publishedAt": "2026-09-19T19:18:00.000Z",
     "preview": "The new ASSX fund offers 2x daily exposure to Strive shares, giving traders a leveraged way to bet on the Bitcoin treasury company.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Warren Buffett Steps Down After 60 Years – And His Bitcoin Views Are Unforgettable",
-    "link": "https://cryptopotato.com/warren-buffett-steps-down-after-60-years-and-his-bitcoin-views-are-unforgettable/",
-    "publishedAt": "2026-09-19T18:47:00.000Z",
-    "preview": "From \"rat poison squared\" to \"stay away from it\" - some of his remarks have been quite brutal. Yet, BTC's market cap is bigger than Berkshire's.",
     "tags": [
       "BTC"
     ]
@@ -1346,23 +1367,5 @@
     "publishedAt": "2026-09-17T20:16:04.000Z",
     "preview": "In a no-action letter, the CFTC said certain software providers can connect users to regulated derivatives markets without registering as brokers.",
     "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "OpenAI Says It's Made Progress on a Second $1 Million Math Problem",
-    "link": "https://decrypt.co/378551/openai-progress-second-millennium-prize-math-problem",
-    "publishedAt": "2026-09-17T19:32:22.000Z",
-    "preview": "Days after its disputed Navier-Stokes claim, OpenAI says it's made \"substantial progress\" on another Millennium Prize math problem—and won't say which one yet.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Ethereum Founder Vitalik Buterin Says AI Won’t Doom Crypto Security",
-    "link": "https://decrypt.co/378544/ethereum-vitalik-buterin-ai-crypto-security",
-    "publishedAt": "2026-09-17T19:01:05.000Z",
-    "preview": "The Ethereum co-founder said AI could help developers mathematically verify entire software systems, turning the same technology powering new attacks into a tool for defense.",
-    "tags": [
-      "ETH"
-    ]
   }
 ]
