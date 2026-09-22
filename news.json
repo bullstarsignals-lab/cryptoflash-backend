@@ -1,5 +1,29 @@
 [
   {
+    "source": "CryptoSlate",
+    "title": "Rogue iPhone app escapes iOS sandbox to hijack $580,000 in USDT",
+    "link": "https://cryptoslate.com/rogue-iphone-app-escapes-ios-sandbox-to-hijack-580000-in-usdt/",
+    "publishedAt": "2026-09-22T22:50:41.000Z",
+    "preview": "Fomopeek, a malicious iPhone app distributed through Apple’s App Store, has been linked to nearly $580,000 in stolen USDT. Blockchain security firm SlowMist began investigating the app over the weekend after receiving re",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "UN Security Council Will Get Advice on AI Risks From Tech Giants Building It",
+    "link": "https://decrypt.co/379008/un-security-council-ai-risks-anthropic-openai-deepseek",
+    "publishedAt": "2026-09-22T22:16:03.000Z",
+    "preview": "DeepSeek will address the UN Security Council on AI risks this week, sharing a stage with Dario Amodei—who has spent a year calling China's government the industry's biggest threat.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Animoca Hits Pause on Reverse Merger – But Its Public Listing Ambitions Aren’t Going Away",
+    "link": "https://cryptopotato.com/animoca-hits-pause-on-reverse-merger-but-its-public-listing-ambitions-arent-going-away/",
+    "publishedAt": "2026-09-22T22:12:28.000Z",
+    "preview": "The suspension does not rule out a future deal with Currenc Group, Animoca said in its statement.",
+    "tags": []
+  },
+  {
     "source": "CoinDesk",
     "title": "Democrats 'chose visceral hatred for' Donald Trump over crypto Clarity Act, Lummis says",
     "link": "https://www.coindesk.com/policy/2026/09/22/democrats-chose-visceral-hatred-for-donald-trump-over-crypto-clarity-act-lummis-says",
@@ -387,19 +411,6 @@
     "preview": "CoinDesk found one $5,499 trade size accounting for 57% of sampled ether-perpetual volume, while recurring $2,500 and $5,000 trade sizes made up 54% of sampled bitcoin-perpetual volume.",
     "tags": [
       "BTC"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Moscow Exchange launches 5 crypto perpetual futures as demand tops 600 billion rubles",
-    "link": "https://cryptoslate.com/moscow-exchange-launches-5-crypto-perpetual-futures-as-demand-tops-600-billion-rubles/",
-    "publishedAt": "2026-09-22T12:30:07.000Z",
-    "preview": "The automatically rolling contracts track Bitcoin, Ether, Solana, XRP and Tron prices, but settle in rubles and never deliver cryptocurrency. The post Moscow Exchange launches 5 crypto perpetual futures as demand tops 60",
-    "tags": [
-      "BTC",
-      "SOL",
-      "XRP",
-      "TRX"
     ]
   },
   {
@@ -1304,16 +1315,6 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "3 Events That Could Shake Up Bitcoin and Crypto Markets This Week",
-    "link": "https://cryptopotato.com/3-events-that-could-shake-up-bitcoin-and-crypto-markets-this-week/",
-    "publishedAt": "2026-09-21T06:34:20.000Z",
-    "preview": "From Fed speakers to PMI Data and, of course, the major meeting between Donald Trump and Xi Jinping.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole: Source",
     "link": "https://decrypt.co/378697/visa-close-meme-coin-credit-card-rewards-loophole",
@@ -1375,14 +1376,6 @@
     "link": "https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia",
     "publishedAt": "2026-09-18T21:01:30.000Z",
     "preview": "The filing seeks CFTC approval for contracts giving US traders 24/5 leveraged exposure to individual stocks without ownership.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Zcash Is Running—Devs Want to Make It Faster",
-    "link": "https://decrypt.co/378667/zcash-upgrade-make-private-payments-3x-faster",
-    "publishedAt": "2026-09-18T19:16:03.000Z",
-    "preview": "A new upgrade would cut Zcash block time from 75 seconds to 25, while quietly rewriting how the network pays for its own security after 2031.",
     "tags": []
   }
 ]
