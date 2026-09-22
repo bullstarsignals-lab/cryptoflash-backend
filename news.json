@@ -1,5 +1,157 @@
 [
   {
+    "source": "CoinDesk",
+    "title": "Democrats 'chose visceral hatred for' Donald Trump over crypto Clarity Act, Lummis says",
+    "link": "https://www.coindesk.com/policy/2026/09/22/democrats-chose-visceral-hatred-for-donald-trump-over-crypto-clarity-act-lummis-says",
+    "publishedAt": "2026-09-22T21:29:05.000Z",
+    "preview": "Senator Cynthia Lummis said the crypto industry should \"pin it on the Democrats\" in her first public remarks after last week's failed Clarity Act vote.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Why newly granted federal approval won’t save these 3 crypto banks",
+    "link": "https://cryptoslate.com/why-federal-approval-wont-save-these-3-crypto-banks/",
+    "publishedAt": "2026-09-22T21:20:03.000Z",
+    "preview": "Agora, Catena and Bastion still face final approval or conversion, leaving distribution and liquidity to decide who gains an edge. The post Why newly granted federal approval won’t save these 3 crypto banks appeared firs",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "$161 Million in Decade-Old Bitcoin Has Moved in Just Two Weeks",
+    "link": "https://decrypt.co/379006/161-million-decade-old-bitcoin-moves-two-weeks",
+    "publishedAt": "2026-09-22T21:16:03.000Z",
+    "preview": "Four ancient wallets moved 1,971 BTC between Sept. 6 and Sept. 22, including a 600 BTC transfer worth $51.9 million just hours ago, with three of the four carrying \"Noah Doe\" lawsuit tags.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Arch Lending eyes tokenized stocks as next collateral market",
+    "link": "https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market",
+    "publishedAt": "2026-09-22T21:06:52.000Z",
+    "preview": "Arch Lending’s Himanshu Sahay said on Cointelegraph’s Chain Reaction podcast that the lender plans to move into tokenized equities as onchain stocks gain traction as collateral.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Republican senator calls for probe into US presidents’ sons, citing crypto ventures",
+    "link": "https://cointelegraph.com/news/us-senator-probe-donald-trump-hunter-biden-crypto-business",
+    "publishedAt": "2026-09-22T20:57:51.000Z",
+    "preview": "Many Democrats have previously called for investigations into the Trump family’s crypto ventures, but now a Republican is asking for an inquiry based on ties to the presidency.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "CME Expands Crypto Futures Lineup With Bitcoin Cash and Uniswap",
+    "link": "https://decrypt.co/379004/cme-crypto-bitcoin-cash-uniswap-futures",
+    "publishedAt": "2026-09-22T20:46:03.000Z",
+    "preview": "The exchange operator is adding standard and micro contracts for BCH and UNI, extending a pattern of altcoin rollouts that already covers Cardano, Chainlink, Stellar, Avalanche, and Sui.",
+    "tags": [
+      "BTC",
+      "ADA",
+      "AVAX",
+      "LINK"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Crypto market structure can't wait for shot at post-election Clarity Act surge: White House",
+    "link": "https://www.coindesk.com/policy/2026/09/22/crypto-market-structure-can-t-wait-for-shot-at-post-election-clarity-act-surge-white-house",
+    "publishedAt": "2026-09-22T20:31:02.000Z",
+    "preview": "White House and U.S. Treasury officials agree that despite some hope that Congress' \"lame duck\" session could see the bill again, the work's in regulators' hands.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Bitcoin’s Rally Above $87,000 Faces Fresh Tests: Bitfinex Alpha",
+    "link": "https://cryptopotato.com/bitcoins-rally-above-87000-faces-fresh-tests-bitfinex-alpha/",
+    "publishedAt": "2026-09-22T20:25:01.000Z",
+    "preview": "Corporate buying and spot demand support the recovery, while weak momentum and upcoming market risks keep pressure on Bitcoin.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Bitcoin may go quantum-safe while Lightning privacy stays exposed",
+    "link": "https://cryptoslate.com/bitcoin-may-go-quantum-safe-while-lightning-privacy-stays-exposed/",
+    "publishedAt": "2026-09-22T20:15:00.000Z",
+    "preview": "PQLN protects five off-chain surfaces with sub-millisecond cryptography, but its default design drives gossip downloads up 10.2 times. The post Bitcoin may go quantum-safe while Lightning privacy stays exposed appeared f",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-09-22T20:03:30.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Inside Coinbase’s $250 Billion Playbook for Post-Quantum Bitcoin Custody",
+    "link": "https://decrypt.co/379000/coinbase-playbook-post-quantum-bitcoin-custody",
+    "publishedAt": "2026-09-22T20:01:03.000Z",
+    "preview": "Head of cryptography Yehuda Lindell says the exchange is designing custody that can adapt to whatever post-quantum signing scheme Bitcoin adopts.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Canada’s six largest banks explore tokenized Canadian dollar deposits",
+    "link": "https://cointelegraph.com/news/canada-six-largest-banks-explore-tokenized-canadian-dollar-deposits",
+    "publishedAt": "2026-09-22T19:56:48.000Z",
+    "preview": "The country’s largest financial institutions are exploring tokenized deposits for interbank payments, just weeks after regulators clarified how they should be treated.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "White-Hat Hackers Route Coldcard Exploit Bitcoin Into 'Recovery Trust'",
+    "link": "https://decrypt.co/378978/white-hat-hackers-coldcard-exploit-bitcoin-recovery-trust",
+    "publishedAt": "2026-09-22T19:31:03.000Z",
+    "preview": "Galaxy Research says white-hat actors consolidated coins tied to the exploit into a fresh address tagged for a \"Crypto Recovery Trust,\" though the funds represent just 2.8% of the total haul.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Animoca Brands suspends Currenc deal that would have taken it public",
+    "link": "https://cryptoslate.com/animoca-brands-suspends-currenc-deal-that-would-have-taken-it-public/",
+    "publishedAt": "2026-09-22T19:20:31.000Z",
+    "preview": "Exclusivity expired without definitive terms, but Animoca says its broader major-exchange relisting push remains intact. The post Animoca Brands suspends Currenc deal that would have taken it public appeared first on Cry",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Cardano Joins Solana, XRPL in AI Agent Payments Race as ADA Gains 6%",
+    "link": "https://cryptopotato.com/cardano-joins-solana-xrpl-in-ai-agent-payments-race-as-ada-gains-6/",
+    "publishedAt": "2026-09-22T19:03:49.000Z",
+    "preview": "x402 processed more than 75 million transactions worth roughly $24 million over the past month, involving 94,000 buyers and 22,000 sellers.",
+    "tags": [
+      "SOL",
+      "ADA"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "OpenAI Launches GPT-6 Sol and Luna Minutes After Anthropic Drops Claude Opus 5.5",
+    "link": "https://decrypt.co/378986/openai-launches-gpt-6-sol-luna-anthropic-claude-opus-5-5",
+    "publishedAt": "2026-09-22T19:00:38.000Z",
+    "preview": "OpenAI cut prices 50% on its mid-tier models the same day Anthropic shipped a cheaper flagship, escalating a rivalry now measured in minutes.",
+    "tags": [
+      "SOL"
+    ]
+  },
+  {
     "source": "Decrypt",
     "title": "Bitcoin Breaks Out as Nasdaq Hits Records and Oil Slides on Iran Hopes",
     "link": "https://decrypt.co/378972/bitcoin-breaks-out-nasdaq-hits-records-oil-slides",
@@ -220,17 +372,6 @@
     ]
   },
   {
-    "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-09-22T13:12:25.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "Binance Makes $100M Bet on Circle and Signs Five-Year USDC Deal",
     "link": "https://cryptopotato.com/binance-makes-100m-bet-on-circle-and-signs-five-year-usdc-deal/",
@@ -312,14 +453,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Coinbase pushes beyond crypto with retail access to $2.2 billion Oura IPO",
-    "link": "https://cryptoslate.com/coinbase-pushes-beyond-crypto-with-retail-access-to-2-2-billion-oura-ipo/",
-    "publishedAt": "2026-09-22T11:30:08.000Z",
-    "preview": "Eligible U.S. users can request Oura shares at the offer price, but allocations remain limited and early exits may restrict future access. The post Coinbase pushes beyond crypto with retail access to $2.2 billion Oura IP",
-    "tags": []
-  },
-  {
     "source": "NewsBTC",
     "title": "Coincheck Group Confirms Executive Chairperson Change In SEC Filing",
     "link": "https://www.newsbtc.com/news/coincheck-group-confirms-executive-chairperson-change-in-sec-filing/",
@@ -346,16 +479,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Bitcoin clears $86,000 as $1B in shorts liquidated again – battle now shifts to $90k",
-    "link": "https://cryptoslate.com/bitcoin-clears-big-86000-short-wall-as-1b-in-shorts-liquidated-again-battle-now-shifts-to-90k/",
-    "publishedAt": "2026-09-22T11:00:13.000Z",
-    "preview": "Bitcoin’s break above $86,000 has cleared a major pocket of bearish leverage and put $90,000 back in traders’ sights. The largest cryptocurrency climbed as high as $87,363 over the past 24 hours, its strongest level sinc",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "CoinDesk",
     "title": "Bitcoin recovers from Asian-session lows as falling oil price supports risk appetite",
     "link": "https://www.coindesk.com/markets/2026/09/22/bitcoin-recovers-from-asian-session-lows-as-falling-oil-price-supports-risk-appetite",
@@ -374,14 +497,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "CLARITY Act needs 11 more Senate votes, but 4 of the 49 it already has want the bill changed",
-    "link": "https://cryptoslate.com/clarity-act-needs-11-more-senate-votes-but-4-of-the-49-it-already-has-want-the-bill-changed/",
-    "publishedAt": "2026-09-22T10:30:56.000Z",
-    "preview": "Four Republican senators who voted to advance the CLARITY Act on Sept. 15 also appear as named supporters on a bank-backed amendment seeking tougher restrictions on stablecoin yield. As Punchbowl News reported on Sept. 2",
-    "tags": []
   },
   {
     "source": "NewsBTC",
@@ -1113,29 +1228,11 @@
     ]
   },
   {
-    "source": "CoinDesk",
-    "title": "Google and Apple seek crypto talent as Big Tech eyes stablecoin and tokenization rails",
-    "link": "https://www.coindesk.com/business/2026/09/21/google-and-apple-seek-crypto-talent-as-big-tech-eyes-stablecoin-and-tokenization-rails",
-    "publishedAt": "2026-09-21T12:17:48.000Z",
-    "preview": "The tech giants’ job listings could indicate that they are separately pursuing experts in stablecoins and tokenized deposits for future projects.",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "Strives Buys 1,355 BTC as Bitcoin’s Price Crosses $85K",
     "link": "https://cryptopotato.com/strives-buys-1355-btc-as-bitcoins-price-crosses-85k/",
     "publishedAt": "2026-09-21T12:15:40.000Z",
     "preview": "The company has been quite consistent lately with its BTC purchases.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Strategy returns to bitcoin buys, adding $75 million of BTC last week",
-    "link": "https://www.coindesk.com/markets/2026/09/21/strategy-returns-to-bitcoin-buys-adding-usd75-million-of-btc-last-week",
-    "publishedAt": "2026-09-21T12:08:02.000Z",
-    "preview": "It's the first week of bitcoin purchases for Strategy in about three weeks.",
     "tags": [
       "BTC"
     ]
@@ -1159,14 +1256,6 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "NEAR jumps nearly 80% in a week as Intents volume nears $30B",
-    "link": "https://cointelegraph.com/markets/near-price-surge-intents-zcash-privacy",
-    "publishedAt": "2026-09-21T10:52:35.000Z",
-    "preview": "Near expanded privacy features for traders as NEAR Intents recorded $29.3 billion in cumulative volume, including swaps involving Zcash.",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "Sui (SUI) Hits a 4-Month High: 3 Reasons Why It Can Pump Even More",
     "link": "https://cryptopotato.com/sui-sui-hits-a-4-month-high-3-reasons-why-it-can-pump-even-more/",
@@ -1187,32 +1276,12 @@
     ]
   },
   {
-    "source": "Cointelegraph",
-    "title": "BTC price nears eight-month high above $85K: Five things to know in Bitcoin this week",
-    "link": "https://cointelegraph.com/markets/btc-price-nears-eight-month-high-above-85k-five-things-to-know-in-bitcoin-this-week",
-    "publishedAt": "2026-09-21T10:15:51.000Z",
-    "preview": "Bitcoin hit $85,000 for the first time since January as markets focused on cooling oil prices.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Crypto Worker's Children Held Hostage in Latest French ‘Wrench Attack,’ $46,000 Taken",
     "link": "https://decrypt.co/378720/crypto-workers-children-held-hostage-in-latest-french-wrench-attack-46000-taken",
     "publishedAt": "2026-09-21T09:51:24.000Z",
     "preview": "France is the worst-hit country in the world for these attacks, with more than 70 logged in the first eight months of 2026.",
     "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "X sues Bitcoin account operators over alleged $278K payout fraud",
-    "link": "https://cointelegraph.com/news/x-lawsuit-bitcoin-accounts-alleged-scheme",
-    "publishedAt": "2026-09-21T09:35:25.000Z",
-    "preview": "X alleges six Bitcoin-focused accounts coordinated posts and engagement to inflate creator payouts, with claimed and projected losses of at least $378,000.",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "CryptoPotato",
@@ -1243,22 +1312,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Michael Saylor Says Crypto Should Move Beyond CLARITY: Here’s His Alternative",
-    "link": "https://cryptopotato.com/michael-saylor-says-crypto-should-move-beyond-clarity-heres-his-alternative/",
-    "publishedAt": "2026-09-21T03:50:41.000Z",
-    "preview": "Crypto may be better served by spending the next few years building products and attracting millions of users rather than accepting restrictive compromises for the sake of passing CLARITY, said Saylor.",
-    "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Robinhood Engineers Charged After Allegedly Trading Crypto on Secret Listing Information",
-    "link": "https://cryptopotato.com/robinhood-engineers-charged-after-allegedly-trading-crypto-on-secret-listing-information/",
-    "publishedAt": "2026-09-20T22:16:37.000Z",
-    "preview": "Two engineers allegedly turned confidential Robinhood crypto listing plans into profitable Hyperliquid trades, according to newly unsealed complaints.",
-    "tags": []
   },
   {
     "source": "Decrypt",
@@ -1330,54 +1383,6 @@
     "link": "https://decrypt.co/378667/zcash-upgrade-make-private-payments-3x-faster",
     "publishedAt": "2026-09-18T19:16:03.000Z",
     "preview": "A new upgrade would cut Zcash block time from 75 seconds to 25, while quietly rewriting how the network pays for its own security after 2031.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Bitcoin Will Hit $1 Million, Says Kevin O’Leary—But There’s a Quantum Catch",
-    "link": "https://decrypt.co/378664/kevin-oleary-bitcoin-1-million-quantum-catch",
-    "publishedAt": "2026-09-18T18:35:54.000Z",
-    "preview": "Kevin O'Leary believes Bitcoin could hit $1 million if crypto beats its quantum computing problem, and explained why he's ditching Ethereum.",
-    "tags": [
-      "BTC",
-      "ETH"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross",
-    "link": "https://decrypt.co/378641/xrp-surges-bitcoin-rebound-reopens-golden-cross",
-    "publishedAt": "2026-09-18T16:42:32.000Z",
-    "preview": "XRP is roaring back as Bitcoin claws its way above $800,000 again, but the charts continue to give traders mixed signals.",
-    "tags": [
-      "BTC",
-      "XRP"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "CFTC Kicks Off Crypto Rulemaking, Bypassing a Stalled Congress",
-    "link": "https://decrypt.co/378638/cftc-crypto-rules-white-house-congress-clarity-act",
-    "publishedAt": "2026-09-18T16:08:13.000Z",
-    "preview": "The agency submitted a prerule on crypto asset transactions and markets to the White House for review, signaling it will build a derivatives framework on its own authority after the Clarity Act's collapse.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Bitcoin Blasts Past $80K and a Fresh Short Squeeze Is On",
-    "link": "https://decrypt.co/378630/bitcoin-blasts-short-squeeze-crypto-liquidations",
-    "publishedAt": "2026-09-18T15:22:49.000Z",
-    "preview": "Bitcoin just ripped 5.88% higher in a single session, tearing back toward its 2026 highs. The charts say the move is real, but they also say it's gotten ahead of itself.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'",
-    "link": "https://decrypt.co/378622/microsoft-staff-asked-if-ai-scraping-was-largest-theft-of-labor-in-human-history",
-    "publishedAt": "2026-09-18T12:52:03.000Z",
-    "preview": "Internal memos warned of a \"doom loop\" threatening the quality of the very models it was building with OpenAI.",
     "tags": []
   }
 ]
