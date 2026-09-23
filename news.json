@@ -1,5 +1,67 @@
 [
   {
+    "source": "Decrypt",
+    "title": "Anthropic Says Claude Found Something Big in DNA. It Just Doesn't Know What",
+    "link": "https://decrypt.co/379128/anthropic-claude-found-something-big-dna-doesnt-know-what",
+    "publishedAt": "2026-09-23T22:56:03.000Z",
+    "preview": "Anthropic says Claude autonomously found a new CRISPR-like enzyme system. Even Dario Amodei admits nobody knows what it actually does.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "An AI Agent Just Hacked a Government Website for the First Time, Australia PM Says",
+    "link": "https://decrypt.co/379134/an-ai-agent-just-hacked-a-government-website-for-the-first-time-australia-pm-says",
+    "publishedAt": "2026-09-23T22:31:45.000Z",
+    "preview": "Anthony Albanese said the agent accessed public and non-public files on a Medicare statistics portal in June, calling OpenAI's three-month delay in disclosing the breach \"unacceptable.\"",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Report: CFTC Eyes Unusual $5B Trading Pattern on Kalshi ETH Perpetuals",
+    "link": "https://cryptopotato.com/report-cftc-eyes-unusual-5b-trading-pattern-on-kalshi-eth-perpetuals/",
+    "publishedAt": "2026-09-23T22:15:48.000Z",
+    "preview": "Kalshi denies wash trading allegations, arguing that repeated transactions stemmed from how market markers' orders were executed.",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "OpenAI Gives Ukraine Access to Daybreak AI Cyber-Defense Tool",
+    "link": "https://decrypt.co/379126/openai-ukraine-access-daybreak-ai-cyber-defense-tool",
+    "publishedAt": "2026-09-23T22:06:04.000Z",
+    "preview": "OpenAI is giving Ukraine's government access to Daybreak, its AI vulnerability-hunting system, as the country's cyber defenders face a record wave of attacks on hospitals, power grids, and government networks.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Circle launches 24/7 stablecoin FX engine as it chases a slice of the $10 trillion currency market",
+    "link": "https://cryptoslate.com/circle-launches-24-7-stablecoin-fx-engine-as-it-chases-a-slice-of-the-10-trillion-currency-market/",
+    "publishedAt": "2026-09-23T22:00:28.000Z",
+    "preview": "Screened firms can settle supported stablecoin pairs together, while local fiat access and custody require separate arrangements. The post Circle launches 24/7 stablecoin FX engine as it chases a slice of the $10 trillio",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility",
+    "link": "https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases",
+    "publishedAt": "2026-09-23T21:47:52.000Z",
+    "preview": "SEC Commissioner Mark Uyeda said that the agency dropped many cases against crypto companies in early 2025 to avoid potential credibility problems in court.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "China Probes DeepSeek and Moonshot Over Alleged Data Leaks to Anthropic's Claude",
+    "link": "https://decrypt.co/379120/china-probes-deepseek-moonshot-data-leaks-anthropic-claude",
+    "publishedAt": "2026-09-23T21:31:03.000Z",
+    "preview": "China's internet regulator is investigating DeepSeek and Moonshot AI after Anthropic accused both of secretly routing millions of user exchanges through Claude to train their own models.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
     "source": "CryptoSlate",
     "title": "BlackRock sees a new $5 trillion AI trade emerging for stablecoins",
     "link": "https://cryptoslate.com/blackrock-sees-a-new-5-trillion-ai-trade-emerging-for-stablecoins/",
@@ -453,14 +515,6 @@
     "tags": [
       "XRP"
     ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Why Mastercard’s $25 billion crypto expansion isn’t what it seems",
-    "link": "https://cryptoslate.com/sofis-mastercard-stablecoin-settlement-is-live-but-its-25-billion-figure-is-still-a-projection/",
-    "publishedAt": "2026-09-23T12:30:03.000Z",
-    "preview": "SoFi is migrating its card program into SoFiUSD, while the amount already settled in the token remains undisclosed. The post Why Mastercard’s $25 billion crypto expansion isn’t what it seems appeared first on CryptoSlate",
-    "tags": []
   },
   {
     "source": "NewsBTC",
@@ -1062,14 +1116,6 @@
     ]
   },
   {
-    "source": "Cointelegraph",
-    "title": "CLARITY vote failure could stoke more crypto PAC spending in key races",
-    "link": "https://cointelegraph.com/news/failure-clarity-act-vote-us-lawmakers-2026-midterms",
-    "publishedAt": "2026-09-22T15:55:37.000Z",
-    "preview": "Control of the US House and Senate is up for grabs in 2026, and some advocates speculate that the crypto industry could ratchet up attempts to sway elections after the CLARITY vote.",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "Arthur Hayes Says AI Glut Could Lower Compute Costs and Boost Crypto",
     "link": "https://cryptopotato.com/arthur-hayes-says-ai-glut-could-lower-compute-costs-and-boost-crypto/",
@@ -1254,14 +1300,6 @@
     "tags": []
   },
   {
-    "source": "CryptoPotato",
-    "title": "Brian Armstrong: CLARITY Act Failure Could Benefit Coinbase",
-    "link": "https://cryptopotato.com/brian-armstrong-clarity-act-failure-could-benefit-coinbase/",
-    "publishedAt": "2026-09-21T22:16:34.000Z",
-    "preview": "A stalled bill may leave Coinbase with breathing room, but Armstrong acknowledged that the outcome is not necessarily good for the industry.",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "After Clarity Act Fails, Crypto Super PAC Fairshake Targets Sherrod Brown With $30 Million",
     "link": "https://decrypt.co/378891/clarity-act-crypto-super-pac-fairshake-sherrod-brown-30-million",
@@ -1302,40 +1340,6 @@
     "link": "https://decrypt.co/378872/europe-central-bank-invest-funds-tokenized-securities",
     "publishedAt": "2026-09-21T19:00:04.000Z",
     "preview": "The central bank plans to buy euro-denominated public-sector debt and settle the transactions through its new Pontes service.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "What Is VVV? The Privacy-Obsessed AI Token That’s Up 3,000% in 2026",
-    "link": "https://decrypt.co/378840/what-is-vvv-privacy-ai-token-up-3000-percent-2026",
-    "publishedAt": "2026-09-21T18:31:03.000Z",
-    "preview": "Venice (VVV) has clawed back from under a dollar to a record $34, and the pitch behind it is simple: an AI chatbot that promises to forget you the moment you close the tab.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Can a Fruit Fly Brain Mine Bitcoin? These Companies Are Testing It",
-    "link": "https://decrypt.co/378836/fruit-fly-brain-mine-bitcoin-these-companies-testing",
-    "publishedAt": "2026-09-21T17:46:02.000Z",
-    "preview": "The HashFly browser experiment uses a digital neural model for Bitcoin hashing and projects greater efficiency from a hypothetical biological version.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "xAI Launches Grok 4.7. It's Bigger, But Late to the AI Frontier Party",
-    "link": "https://decrypt.co/378824/xai-launches-grok-4-7",
-    "publishedAt": "2026-09-21T17:16:03.000Z",
-    "preview": "xAI says the new model is a \"notable improvement\" over Grok 4.6 at the same price. The benchmarks say it's still in second place.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Sony Says You Don't Own the Games You Bought. Crypto Says It Can Fix That",
-    "link": "https://decrypt.co/378745/sony-dont-own-games-you-bought-crypto-fix-that",
-    "publishedAt": "2026-09-21T16:46:03.000Z",
-    "preview": "Crypto advocates argue that NFTs can deliver real digital ownership, but privacy gaps and integration hurdles have held the tech back.",
     "tags": []
   }
 ]
