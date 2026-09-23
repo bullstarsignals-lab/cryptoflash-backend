@@ -1,5 +1,270 @@
 [
   {
+    "source": "CryptoSlate",
+    "title": "$1 billion in trading volume masks hidden liquidity risks for Coinbase stock token holders",
+    "link": "https://cryptoslate.com/coinbase-stock-tokens-passed-1-billion-in-reported-trades-but-their-exit-depth-remains-unproven/",
+    "publishedAt": "2026-09-23T17:40:08.000Z",
+    "preview": "Premarket routes priced $100,000 sales across ten tokens; displayed pool balances cannot show what a broad selloff would cost. The post $1 billion in trading volume masks hidden liquidity risks for Coinbase stock token h",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "Crypto Exchange That Invented 100x Leverage Is No More: Here’s What BitMEX Users Need to Know",
+    "link": "https://decrypt.co/379089/crypto-exchange-that-invented-100x-leverage-is-no-more-heres-what-bitmex-users-need-to-know",
+    "publishedAt": "2026-09-23T17:31:03.000Z",
+    "preview": "BitMEX ended trading at 04:00 UTC Wednesday and is urging users to withdraw their remaining funds, as fees now apply to balances left on the exchange.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Bitcoin Just Cleared a Crucial Level – Has the New Bull Market Begun?",
+    "link": "https://cryptopotato.com/bitcoin-just-cleared-a-crucial-level-has-the-new-bull-market-begun/",
+    "publishedAt": "2026-09-23T17:26:21.000Z",
+    "preview": "The move comes after months of consolidation and clears a major supply zone that had limited Bitcoin’s advance.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Canada's Six Biggest Banks Team Up on a Shared Digital-Dollar Network",
+    "link": "https://decrypt.co/379081/canada-six-biggest-banks-shared-digital-dollar-network",
+    "publishedAt": "2026-09-23T17:01:03.000Z",
+    "preview": "RBC, TD, BMO, Scotiabank, CIBC and National Bank are jointly exploring a Canadian-dollar tokenized deposit system, starting with transfers between the banks themselves.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Stablecoins hold nearly $200 billion in US debt, but money funds bought the surge",
+    "link": "https://cryptoslate.com/stablecoins-hold-nearly-200-billion-in-us-debt-but-money-funds-bought-the-surge/",
+    "publishedAt": "2026-09-23T16:40:50.000Z",
+    "preview": "Treasury says money-market mutual funds absorbed about 85% of more than $550 billion in new bill supply during July and August. The post Stablecoins hold nearly $200 billion in US debt, but money funds bought the surge a",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks",
+    "link": "https://decrypt.co/379080/nyse-taps-blockchain-com-to-reach-crypto-investors-with-tokenized-stocks-etfs",
+    "publishedAt": "2026-09-23T16:36:03.000Z",
+    "preview": "Blockchain.com and NYSE Group signed a preliminary agreement to give the crypto exchange's users access to tokenized U.S. stocks and ETFs, pending regulatory approval.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Bitwise launches first Lighter ETP amid Hyperliquid rivalry",
+    "link": "https://cointelegraph.com/news/bitwise-lighter-lit-etp-europe-xetra",
+    "publishedAt": "2026-09-23T16:34:27.000Z",
+    "preview": "The product gives European investors brokerage access to the LIT token as Bitwise expands its lineup of products tied to decentralized derivatives platforms.",
+    "tags": []
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Bybit Adds Support For Avalanche v1.15.0 Network Upgrade",
+    "link": "https://www.newsbtc.com/altcoins/bybit-adds-support-for-avalanche-v1-15-0-network-upgrade/",
+    "publishedAt": "2026-09-23T16:30:00.000Z",
+    "preview": "TL;DR Bybit has confirmed support for Avalanche’s v1.15.0 network upgrade. The exchange is updating its Avalanche node infrastructure while keeping AVAX trading active. The announcement concerns network compatibility and",
+    "tags": [
+      "AVAX"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Americans Would Use Stablecoins—If They Came With Bank Protections, Visa Study Finds",
+    "link": "https://decrypt.co/379073/americans-stablecoins-bank-protections-visa",
+    "publishedAt": "2026-09-23T16:26:03.000Z",
+    "preview": "A Visa survey found U.S. willingness to use stablecoins for cross-border transfers rises from 36% to 56% when paired with hypothetical bank-level fraud protection and deposit insurance.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Bitcoin (BTC) Eyes $100K as Key Bullish Signals Emerge",
+    "link": "https://cryptopotato.com/bitcoin-btc-eyes-100k-as-key-bullish-signals-emerge/",
+    "publishedAt": "2026-09-23T16:16:10.000Z",
+    "preview": "The last time the asset traded above $100,000 was in November 2025.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users",
+    "link": "https://cointelegraph.com/news/nyse-blockchaincom-team-up-to-bring-tokenized-us-stocks-to-crypto-users",
+    "publishedAt": "2026-09-23T15:56:20.000Z",
+    "preview": "Blockchain.com users could gain access to tokenized US stocks and ETFs through NYSE’s planned digital trading platform under a new partnership, as bourses rush to deliver new trading.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "Bitcoin Dips, But Its Forks Are Flying Again",
+    "link": "https://decrypt.co/379048/bitcoin-dips-but-forks-are-flying-bch-bsv",
+    "publishedAt": "2026-09-23T15:56:03.000Z",
+    "preview": "A CME futures listing and a fresh Grayscale ETF filing sent Bitcoin's two biggest forks soaring, even as the flagship coin cooled off its seven-month high.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "BlackRock: AI Agents Could Drive Crypto's Next Demand Wave",
+    "link": "https://decrypt.co/379070/blackrock-ai-agents-crypto-next-demand-wave",
+    "publishedAt": "2026-09-23T15:41:46.000Z",
+    "preview": "The world's largest asset manager argues that autonomous AI agents buying data, paying for services, and renting computing power could quietly become one of the biggest forces pushing money into crypto.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Coin Metrics revises 19 months of ETF wallet data but by how much?",
+    "link": "https://cryptoslate.com/coin-metrics-corrected-19-months-of-bitcoin-etf-wallet-data-without-saying-how-much-changed-publicly/",
+    "publishedAt": "2026-09-23T15:40:29.000Z",
+    "preview": "The update spans 35 daily and 25 hourly series, yet no cause, direction or numerical delta was disclosed. The post Coin Metrics revises 19 months of ETF wallet data but by how much? appeared first on CryptoSlate.",
+    "tags": []
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Bybit Opens Oura Pre-IPO Perpetual Trading With Up To 25x Leverage",
+    "link": "https://www.newsbtc.com/technology/bybit-opens-oura-pre-ipo-perpetual-trading-with-up-to-25x-leverage/",
+    "publishedAt": "2026-09-23T15:30:00.000Z",
+    "preview": "TL;DR Bybit has launched OURAUSDT as a pre-IPO TradFi perpetual contract. Trading began September 22 at 13:30 UTC with leverage of up to 25x. The contract tracks implied pre-IPO valuation; traders do not receive Oura sha",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Inside the FBI’s little-known annual crypto crime gathering",
+    "link": "https://www.coindesk.com/business/2026/09/23/inside-the-fbi-s-little-known-annual-crypto-crime-gathering",
+    "publishedAt": "2026-09-23T15:26:35.000Z",
+    "preview": "The Virtual Asset Technical Exchange brings together investigators, law enforcement officials, and crypto-security specialists to exchange intelligence on a wide range of crimes involving digital assets.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "BlackRock: AI Agents Will Drive Major Demand for Stablecoins and Blockchain Payments",
+    "link": "https://cryptopotato.com/blackrock-ai-agents-will-drive-major-demand-for-stablecoins-and-blockchain-payments/",
+    "publishedAt": "2026-09-23T15:19:04.000Z",
+    "preview": "Traditional card networks and ACH already automate payments, but BlackRock is questioning their fit for tiny, continuous transactions.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Bitcoin ETFs just erased a $5.7 billion hole, but profit-taking is swallowing the new demand",
+    "link": "https://cryptoslate.com/bitcoin-etfs-just-erased-a-5-7-billion-hole-but-profit-taking-is-swallowing-the-new-demand/",
+    "publishedAt": "2026-09-23T15:10:03.000Z",
+    "preview": "A second large inflow met weak price follow-through. Dated fund reports and an earlier rise in profit taking leave the seller behind the move unidentified. The post Bitcoin ETFs just erased a $5.7 billion hole, but profi",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Crypto Long & Short: Inside the chain settling $150 billion of stablecoins a week",
+    "link": "https://www.coindesk.com/coindesk-indices/2026/09/23/crypto-long-and-short-inside-the-chain-settling-usd150-billion-of-stablecoins-a-week",
+    "publishedAt": "2026-09-23T15:07:21.000Z",
+    "preview": "Tron launched as a content-distribution project and has become the settlement layer for a large share of the world's USDT, processing roughly $150 billion to $190 billion of stablecoin transfers a week. Josh Olszewicz of",
+    "tags": [
+      "TRX"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Bitcoin long liquidations hit $280M as BTC price dips under $84K",
+    "link": "https://cointelegraph.com/markets/bitcoin-long-liquidations-hit-280m-as-btc-price-dips-under-84k",
+    "publishedAt": "2026-09-23T14:52:11.000Z",
+    "preview": "Bitcoin long liquidations mounted as BTC/USD briefly traded below $84,000, while analysis flagged key support to hold.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Solana moves Alpenglow into testnet as SOL nears January highs",
+    "link": "https://cryptoslate.com/solana-moves-alpenglow-into-testnet-as-sol-nears-january-highs/",
+    "publishedAt": "2026-09-23T14:40:54.000Z",
+    "preview": "Anza began the rollout process, while the feature tracker and a live genesis-certificate check showed the consensus handoff had not yet occurred. The post Solana moves Alpenglow into testnet as SOL nears January highs ap",
+    "tags": [
+      "SOL"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Bitcoin Could Still Explode 5x, but the 10x Days Are Over: CryptoQuant CEO",
+    "link": "https://cryptopotato.com/bitcoin-could-still-explode-5x-but-the-10x-days-are-over-cryptoquant-ceo/",
+    "publishedAt": "2026-09-23T14:38:25.000Z",
+    "preview": "Young Ju argues that less explosive gains could also mean smaller crashes, a trade-off he believes may appeal to long-horizon capital.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Binance Lets bStocks Tokenized Equities Count As Futures Margin",
+    "link": "https://www.newsbtc.com/technology/binance-lets-bstocks-tokenized-equities-count-as-futures-margin/",
+    "publishedAt": "2026-09-23T14:30:00.000Z",
+    "preview": "TL;DR Binance now allows eligible bStocks tokenized-equity holdings to be used as collateral in Multi-Assets Mode. The feature lets users retain exposure to tokenized stocks while using their collateral value for futures",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
+    "link": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda",
+    "publishedAt": "2026-09-23T14:28:50.000Z",
+    "preview": "Bitpanda will provide crypto infrastructure to Raiffeisen network banks, potentially extending digital asset access to about 18 million customers.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Bitcoin Price Analysis: BTC Faces First Major Test After 13% Weekly Rally",
+    "link": "https://cryptopotato.com/bitcoin-price-analysis-btc-faces-first-major-test-after-13-weekly-rally/",
+    "publishedAt": "2026-09-23T13:58:14.000Z",
+    "preview": "Bitcoin’s latest leg up has carried the price directly into a major overhead supply region, putting the rally at an important test. Momentum remains constructive, but the reaction around the $86K-$89K area could determin",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "ESMA to prioritize EU-wide AI and tokenization supervision in 2027",
+    "link": "https://cointelegraph.com/news/esma-to-focus-eu-wide-supervision-on-ai-and-tokenization-from-2027",
+    "publishedAt": "2026-09-23T13:40:00.000Z",
+    "preview": "National regulators will map client-facing uses of the technologies, check a subset of firms and develop common approaches to oversight.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-09-23T13:39:08.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Altcoin demand meets $18B threat as flows move into RWA perps as just 19% of traders keep alts",
+    "link": "https://cryptoslate.com/altcoin-demand-faces-18b-threat-as-flows-move-into-rwa-perps-while-only-19-of-traders-keep-altcoins/",
+    "publishedAt": "2026-09-23T13:30:50.000Z",
+    "preview": "Traditional-asset perps filled a crypto-volume gap while Hyperliquid cohorts remained mostly segmented by their entry market. The post Altcoin demand meets $18B threat as flows move into RWA perps as just 19% of traders ",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Winners and losers of the SEC’s new tokenized stocks rules",
+    "link": "https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules",
+    "publishedAt": "2026-09-23T13:30:00.000Z",
+    "preview": "The SEC has opened a five-year path for tokenized stocks, but only some products and venues fit the model. Will Uniswap, Robinhood, Coinbase or Kraken come out on top?",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Bybit Adds PATH, CYPH And HUT Equity Perpetuals With Up To 25x Leverage",
+    "link": "https://www.newsbtc.com/technology/bybit-adds-path-cyph-and-hut-equity-perpetuals-with-up-to-25x-leverage/",
+    "publishedAt": "2026-09-23T13:30:00.000Z",
+    "preview": "TL;DR Bybit has added USDT-margined perpetual futures tied to PATH, CYPH and HUT shares. The contracts offer up to 25x leverage through Bybit’s TradFi perpetual desk. These are synthetic derivatives tracking equity price",
+    "tags": []
+  },
+  {
     "source": "CoinDesk",
     "title": "Bitcoin's $16 billion quarterly options settlement arrives with a 'call-heavy' book",
     "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-usd16-billion-quarterly-options-settlement-arrives-with-a-call-heavy-book",
@@ -118,10 +383,10 @@
   },
   {
     "source": "CoinDesk",
-    "title": "Live updates: Bitcoin slips under $86,000 as money rotates into BCH and ZEC",
+    "title": "Live updates: Bitcoin pulls back to $84,000 as bond yields fly higher",
     "link": "https://www.coindesk.com/business/2026/09/23/live-updates-bitcoin-slips-under-usd86-000-as-money-rotates-into-bch-and-zec",
     "publishedAt": "2026-09-23T11:29:30.000Z",
-    "preview": "Bitcoin matched Monday's high near $87,300 before running into selling, while citcoin cash surged 28% on a CME futures listing and ZEC added 9%.",
+    "preview": "The 10-year U.S. Treasury yield has soared 18 basis points on Wednesday to its highest level since 2007.",
     "tags": [
       "BTC"
     ]
@@ -221,14 +486,6 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
-    "link": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda",
-    "publishedAt": "2026-09-23T09:42:39.000Z",
-    "preview": "Bitpanda will provide crypto infrastructure to Raiffeisen network banks, potentially extending digital asset access to about 18 million customers.",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "Solana (SOL) Hits a 9-Month Peak as Analysts Project an Explosion to $500",
     "link": "https://cryptopotato.com/solana-sol-hits-a-9-month-peak-as-analysts-project-an-explosion-to-500/",
@@ -248,7 +505,7 @@
   },
   {
     "source": "CoinDesk",
-    "title": "AI agents will soon buy their own computing power and data using stablecoins, according to BlackRock",
+    "title": "BlackRock says AI agents could drive stablecoin and crypto adoption",
     "link": "https://www.coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock",
     "publishedAt": "2026-09-23T09:17:53.000Z",
     "preview": "The asset manager sees payments as the nearer-term opportunity, while markets for computing capacity remain at an early stage",
@@ -291,14 +548,6 @@
     "link": "https://cointelegraph.com/news/bitmex-ends-crypto-trading-withdrawals-open",
     "publishedAt": "2026-09-23T08:18:38.000Z",
     "preview": "BitMEX officially ended exchange operations after more than 11 years, while withdrawals remain open as the crypto derivatives platform urges users to remove their funds.",
-    "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "EU central banks attack MiCA rules and stablecoin runs are blamed",
-    "link": "https://cryptoslate.com/eu-central-banks-attack-mica-rules-and-stablecoin-runs-are-blamed/",
-    "publishedAt": "2026-09-23T08:10:31.000Z",
-    "preview": "The reported plan swaps mandatory bank deposits for one-day and five-day liquidity tests, shifting where redemption risk lands. The post EU central banks attack MiCA rules and stablecoin runs are blamed appeared first on",
     "tags": []
   },
   {
@@ -387,28 +636,6 @@
   },
   {
     "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-09-23T05:43:01.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Solana flips Ethereum in fees, while ETH holds the burn lead",
-    "link": "https://cryptoslate.com/solana-flips-ethereum-in-fees-while-eth-holds-the-burn-lead/",
-    "publishedAt": "2026-09-23T05:40:04.000Z",
-    "preview": "DefiLlama’s September 22 snapshot and longer-window totals show why fee generation, staking receipts and holder returns require separate measures. The post Solana flips Ethereum in fees, while ETH holds the burn lead app",
-    "tags": [
-      "ETH",
-      "SOL"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
     "title": "US Treasury secretary emerges as frontrunner for Trump’s AI czar role: Report",
     "link": "https://cointelegraph.com/news/us-treasury-secretary-emerges-as-contender-for-trumps-ai-czar-role",
     "publishedAt": "2026-09-23T05:34:49.000Z",
@@ -472,38 +699,12 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "XRPL fixes critical pre-mainnet flaw, but client apps remain at risk",
-    "link": "https://cryptoslate.com/xrpl-fixes-critical-pre-mainnet-flaw-but-client-apps-remain-at-risk/",
-    "publishedAt": "2026-09-23T03:50:07.000Z",
-    "preview": "The repaired amendment closes the disclosed signer gap, but nodes, clients, wallets and explorers now face the production test. The post XRPL fixes critical pre-mainnet flaw, but client apps remain at risk appeared first",
-    "tags": []
-  },
-  {
     "source": "Cointelegraph",
     "title": "OpenAI, Anthropic to brief UN Security Council on AI risks: Reports",
     "link": "https://cointelegraph.com/news/openai-anthropic-to-brief-un-security-council-on-ai-risks",
     "publishedAt": "2026-09-23T03:33:15.000Z",
     "preview": "Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman are expected to brief the UN Security Council as it examines AI risks and global security.",
     "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Circle pays millions for Binance distribution while its margins collapse",
-    "link": "https://cryptoslate.com/circle-pays-millions-for-binance-distribution-while-its-margins-collapse/",
-    "publishedAt": "2026-09-23T02:10:37.000Z",
-    "preview": "Circle is doubling down on Binance after USD Coin (USDC) stablecoin customer balances on the exchange nearly quintupled since their first agreement. On Sept. 22, the companies announced a new five-year commercial agreeme",
-    "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "XRP volume explodes to $7.4B, and a massive CME short squeeze is blamed",
-    "link": "https://cryptoslate.com/xrp-volume-explodes-to-7-4b-and-a-massive-cme-short-squeeze-is-blamed/",
-    "publishedAt": "2026-09-23T00:40:58.000Z",
-    "preview": "CME leveraged funds cut 46.3 million XRP of net short exposure, while three Coinbase products barely moved. The post XRP volume explodes to $7.4B, and a massive CME short squeeze is blamed appeared first on CryptoSlate.",
-    "tags": [
-      "XRP"
-    ]
   },
   {
     "source": "Cointelegraph",
@@ -522,14 +723,6 @@
     "tags": [
       "Regulation"
     ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Rogue iPhone app escapes iOS sandbox to hijack $580,000 in USDT",
-    "link": "https://cryptoslate.com/rogue-iphone-app-escapes-ios-sandbox-to-hijack-580000-in-usdt/",
-    "publishedAt": "2026-09-22T22:50:41.000Z",
-    "preview": "Fomopeek, a malicious iPhone app distributed through Apple’s App Store, has been linked to nearly $580,000 in stolen USDT. Blockchain security firm SlowMist began investigating the app over the weekend after receiving re",
-    "tags": []
   },
   {
     "source": "Decrypt",
@@ -893,16 +1086,6 @@
     ]
   },
   {
-    "source": "NewsBTC",
-    "title": "Coincheck Group Confirms Executive Chairperson Change In SEC Filing",
-    "link": "https://www.newsbtc.com/news/coincheck-group-confirms-executive-chairperson-change-in-sec-filing/",
-    "publishedAt": "2026-09-22T11:30:00.000Z",
-    "preview": "TL;DR Coincheck Group disclosed that Executive Chairperson Takashi Oyagi resigned effective September 21. The company said the resignation was for personal reasons. The filing supports a leadership-transition story, not ",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "ECB to put its own money into tokenized securities via new Pontes DLT",
     "link": "https://cointelegraph.com/news/ecb-money-tokenized-securities-pontes",
@@ -919,49 +1102,11 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "Bitcoin recovers from Asian-session lows as falling oil price supports risk appetite",
-    "link": "https://www.coindesk.com/markets/2026/09/22/bitcoin-recovers-from-asian-session-lows-as-falling-oil-price-supports-risk-appetite",
-    "publishedAt": "2026-09-22T10:59:03.000Z",
-    "preview": "Bitcoin traded near $86,000 as WTI crude dropped below $90 and strong stock markets supported risk appetite.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "This Signal Has Flipped to Altcoin Season as Crypto Rally Spreads Beyond Bitcoin",
     "link": "https://cryptopotato.com/this-signal-has-flipped-to-altcoin-season-as-crypto-rally-spreads-beyond-bitcoin/",
     "publishedAt": "2026-09-22T10:58:45.000Z",
     "preview": "Glassnode's indicator compares BTC with a market-cap-weighted basket of 250 altcoins, excluding stablecoins, to track relative performance.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Kalshi Files To Bring Perpetual Futures To US Stocks And ETFs",
-    "link": "https://www.newsbtc.com/news/kalshi-files-to-bring-perpetual-futures-to-us-stocks-and-etfs/",
-    "publishedAt": "2026-09-22T10:30:00.000Z",
-    "preview": "TL;DR KalshiEX has filed proposed listing standards for perpetual security futures tied to 58 stocks and ETFs. The proposal was published on September 18 under SEC File No. SR-KALSHIEX-2026-02. The products are not live;",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "source": "NewsBTC",
-    "title": "MEXC Expands Opportunity Compass with Stock Trading Handbook to Help Crypto Users Build Investment Knowledge",
-    "link": "https://www.newsbtc.com/news/mexc-expands-opportunity-compass-with-stock-trading-handbook-to-help-crypto-users-build-investment-knowledge/",
-    "publishedAt": "2026-09-22T10:29:28.000Z",
-    "preview": "Mutsamudu, Comoros, September 22, 2026 – MEXC, a pioneer in 0-fee digital asset trading, has expanded its Opportunity Compass education initiative by introducing the MEXC Stock Trading Handbook, a new guide designed to h",
-    "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Live updates: Bitcoin trades near $86,000 as U.S. stocks post small gains",
-    "link": "https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000",
-    "publishedAt": "2026-09-22T10:20:12.000Z",
-    "preview": "WTI crude oil dropped to $90 as reports suggested Iran could reopen the Strait of Hormuz within seven days.",
     "tags": [
       "BTC"
     ]
@@ -975,26 +1120,6 @@
     "tags": [
       "BTC",
       "XRP"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Crypto metric signals altseason as Bitcoin market-cap share stalls below 60%",
-    "link": "https://cointelegraph.com/markets/crypto-metric-signals-altseason-as-bitcoin-market-cap-share-stalls-below-60",
-    "publishedAt": "2026-09-22T10:00:43.000Z",
-    "preview": "Glassnode’s Altcoin Cycle Signal printed a new altseason signal after a month of Bitcoin and altcoin market-cap gains.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Crypto market cap reclaims $3 trillion as Bitcoin, altcoins rally",
-    "link": "https://cointelegraph.com/markets/crypto-market-cap-3-trillion-bitcoin-altcoins-rally",
-    "publishedAt": "2026-09-22T09:58:26.000Z",
-    "preview": "Bitcoin traded near $86,000 as major altcoins gained, while rising derivatives leverage pointed to growing speculative activity across crypto markets.",
-    "tags": [
-      "BTC"
     ]
   },
   {
@@ -1014,26 +1139,6 @@
     "tags": []
   },
   {
-    "source": "NewsBTC",
-    "title": "Cipher Mining Expands AI Data Center Push With ERCOT Capacity And Long-Term Lease",
-    "link": "https://www.newsbtc.com/news/cipher-mining-expands-ai-data-center-push-with-ercot-capacity-and-long-term-lease/",
-    "publishedAt": "2026-09-22T09:30:00.000Z",
-    "preview": "TL;DR Cipher Mining disclosed conditional ERCOT interconnection capacity for up to 300 MW. The company also reported a 15-year hyperscaler master lease tied to HPC data-center infrastructure. The SEC filing does not iden",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "White hats outrun Coldcard hackers in 52-Bitcoin evacuation",
-    "link": "https://cointelegraph.com/news/white-hats-coldcard-btc-exploit-galaxy",
-    "publishedAt": "2026-09-22T09:06:59.000Z",
-    "preview": "White hats secured about 40% of the Bitcoin moved in the Coldcard exploit’s second wave, transferring it to a Wyoming trust for victims.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "Top Ripple Price Predictions as XRP Reclaims $1.50",
     "link": "https://cryptopotato.com/top-ripple-price-predictions-as-xrp-reclaims-1-50/",
@@ -1049,24 +1154,6 @@
     "link": "https://cryptopotato.com/the-real-reasons-why-bitcoin-skyrocketed-by-7k-daily-but-can-the-rally-last/",
     "publishedAt": "2026-09-22T08:13:14.000Z",
     "preview": "The record inflows into the spot BTC ETFs were just a part of the overall price gain puzzle.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Crypto’s wild boom-and-bust cycles are fading, Solstice CEO says",
-    "link": "https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo",
-    "publishedAt": "2026-09-22T08:06:23.000Z",
-    "preview": "Solstice CEO Ben Nadareski says deeper liquidity and growing institutional participation could make future crypto bull runs less volatile than previous cycles.",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Bitcoin ETFs flirt with $1B as inflows hit 2026 high",
-    "link": "https://cointelegraph.com/markets/bitcoin-etf-biggest-inflow-october-2025",
-    "publishedAt": "2026-09-22T07:33:37.000Z",
-    "preview": "US spot Bitcoin ETFs drew nearly $1 billion on Monday, their largest daily inflow since October 2025, as Bitcoin briefly climbed above $87,000.",
     "tags": [
       "BTC"
     ]
@@ -1172,16 +1259,6 @@
     "tags": []
   },
   {
-    "source": "CryptoPotato",
-    "title": "Shiba Inu (SHIB) Takes a Serious Hit: Is the Worst Yet to Come?",
-    "link": "https://cryptopotato.com/shiba-inu-shib-takes-a-serious-hit-is-the-worst-yet-to-come/",
-    "publishedAt": "2026-09-21T19:02:56.000Z",
-    "preview": "After the latest reshuffle, SHIB is now the 34th-largest cryptocurrency.",
-    "tags": [
-      "SHIB"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Europe’s Central Bank Prepares to Invest Own Funds in Tokenized Securities",
     "link": "https://decrypt.co/378872/europe-central-bank-invest-funds-tokenized-securities",
@@ -1208,16 +1285,6 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "From Bear Trap to $88K: Analyst Reveals Why Bitcoin’s Rally Isn’t Over",
-    "link": "https://cryptopotato.com/from-bear-trap-to-88k-analyst-reveals-why-bitcoins-rally-isnt-over/",
-    "publishedAt": "2026-09-21T17:22:49.000Z",
-    "preview": "After several weeks of rejection and a bear trap, Bitcoin reclaimed MA50 Weekly.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "xAI Launches Grok 4.7. It's Bigger, But Late to the AI Frontier Party",
     "link": "https://decrypt.co/378824/xai-launches-grok-4-7",
@@ -1226,44 +1293,12 @@
     "tags": []
   },
   {
-    "source": "CryptoPotato",
-    "title": "BitMine Buys 27,562 ETH in a Week as Holdings Reach $17.1 Billion",
-    "link": "https://cryptopotato.com/bitmine-buys-27562-eth-in-a-week-as-holdings-reach-17-1-billion/",
-    "publishedAt": "2026-09-21T16:58:18.000Z",
-    "preview": "The company is on track to reach its goal of owning 5% of ETH's supply.",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Sony Says You Don't Own the Games You Bought. Crypto Says It Can Fix That",
     "link": "https://decrypt.co/378745/sony-dont-own-games-you-bought-crypto-fix-that",
     "publishedAt": "2026-09-21T16:46:03.000Z",
     "preview": "Crypto advocates argue that NFTs can deliver real digital ownership, but privacy gaps and integration hurdles have held the tech back.",
     "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Ethereum Crosses $2,700: Bull Trap or the Start of a Major Rally?",
-    "link": "https://cryptopotato.com/ethereum-crosses-2700-bull-trap-or-the-start-of-a-major-rally/",
-    "publishedAt": "2026-09-21T16:34:35.000Z",
-    "preview": "Despite the surge, some expect ETH to plunge below $1,500 in the short term.",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "NOWPayments Releases Cross-Chain Payout Data Revealing Key Performance Benchmarks Across TRON, BNB Chain, and Solana",
-    "link": "https://cryptopotato.com/nowpayments-releases-cross-chain-payout-data-revealing-key-performance-benchmarks-across-tron-bnb-chain-and-solana/",
-    "publishedAt": "2026-09-21T16:33:27.000Z",
-    "preview": "[PRESS RELEASE – Tallinn, Estonia, September 21st, 2026] NOWPayments today published new empirical data analyzing six months of enterprise payout activity, offering a comparative performance benchmark across TRON, BNB Sm",
-    "tags": [
-      "SOL",
-      "BNB",
-      "TRX"
-    ]
   },
   {
     "source": "Decrypt",
@@ -1291,62 +1326,6 @@
     "preview": "The purchase lifts Bitmine's stash to nearly 5.99 million ETH—4.9% of supply—as chairman Tom Lee argues Ethereum's outperformance signals a stronger move ahead and institutions remain underweight.",
     "tags": [
       "ETH"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Morning Minute: Kevin O’Leary Calls for $1 Million Bitcoin, With an Asterisk",
-    "link": "https://decrypt.co/378728/morning-minute-kevin-oleary-calls-for-1-million-bitcoin-with-an-asterisk",
-    "publishedAt": "2026-09-21T14:33:03.000Z",
-    "preview": "Meanwhile, Bitcoin pushed up to $85,000 and a new local high and altcoins soared in a huge overnight rally.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Strategy's Bitcoin Pile Nears June Record After $76M Purchase",
-    "link": "https://decrypt.co/378737/strategys-bitcoin-pile-nears-june-record-after-76m-purchase",
-    "publishedAt": "2026-09-21T12:56:46.000Z",
-    "preview": "The Bitcoin treasury firm’s holdings bottomed at 840,447 BTC in August. They have since climbed 5,553 BTC, to within 0.2% of the high.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Bitcoin Tops $85K as $648M in Crypto Shorts Liquidated",
-    "link": "https://decrypt.co/378729/bitcoin-tops-85k-as-648m-in-crypto-shorts-liquidated",
-    "publishedAt": "2026-09-21T12:22:00.000Z",
-    "preview": "A short squeeze started the move, but spot buyers have sustained it, and one measure of selling pressure is near a record low.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Crypto Worker's Children Held Hostage in Latest French ‘Wrench Attack,’ $46,000 Taken",
-    "link": "https://decrypt.co/378720/crypto-workers-children-held-hostage-in-latest-french-wrench-attack-46000-taken",
-    "publishedAt": "2026-09-21T09:51:24.000Z",
-    "preview": "France is the worst-hit country in the world for these attacks, with more than 70 logged in the first eight months of 2026.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole: Source",
-    "link": "https://decrypt.co/378697/visa-close-meme-coin-credit-card-rewards-loophole",
-    "publishedAt": "2026-09-20T16:01:03.000Z",
-    "preview": "After banks lost their push for tighter stablecoin rules in the failed Clarity Act, JP Morgan scored a narrower win as Visa moves to stop meme coin purchases from being coded as ordinary \"digital media\" and earning card ",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Why Holding Anything But Bitcoin Has Been a Losing Bet for Two Years",
-    "link": "https://decrypt.co/378695/holding-anything-but-bitcoin-losing-bet",
-    "publishedAt": "2026-09-20T14:01:03.000Z",
-    "preview": "A Glassnode and Bybit report frames the divergence as the defining feature of this cycle, with froth pooling in the market's riskiest corners even as Bitcoin does the heavy lifting.",
-    "tags": [
-      "BTC"
     ]
   }
 ]
