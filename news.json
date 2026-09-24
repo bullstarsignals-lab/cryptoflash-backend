@@ -1,5 +1,137 @@
 [
   {
+    "source": "CoinDesk",
+    "title": "Trump administration weighs a global stablecoin plan to cement dollar's dominance",
+    "link": "https://www.coindesk.com/markets/2026/09/24/trump-administration-weighs-a-global-stablecoin-plan-to-cement-dollar-s-dominance",
+    "publishedAt": "2026-09-24T06:33:23.000Z",
+    "preview": "Washington is a mulling plan to actively promote USD-backed stablecoins worldwide in a bid to cement the greenback's global reserve status.",
+    "tags": []
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Ondo Pushes USDY Deeper Into Solana DeFi",
+    "link": "https://www.newsbtc.com/altcoins/ondo-pushes-usdy-deeper-into-solana-defi/",
+    "publishedAt": "2026-09-24T06:30:00.000Z",
+    "preview": "TL;DR Ondo Finance says its USDY tokenized yield product is expanding across Solana DeFi venues. USDY is a yield-bearing tokenized note backed by short-term US Treasuries and bank deposits, not a conventional $1 stableco",
+    "tags": [
+      "SOL"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "MoonPay targets $8.7B trading venue, but the features remain unrevealed",
+    "link": "https://cryptoslate.com/moonpay-targets-8-7b-trading-venue-but-the-features-remain-unrevealed/",
+    "publishedAt": "2026-09-24T06:10:05.000Z",
+    "preview": "The proposed acquisition includes PPEX, an existing private-securities venue. Regulatory approvals and other closing conditions still stand before ownership changes. The post MoonPay targets $8.7B trading venue, but the ",
+    "tags": []
+  },
+  {
+    "source": "NewsBTC",
+    "title": "CFTC Warns Prediction Markets Over Manipulation Risks In ‘Mention’ Contracts",
+    "link": "https://www.newsbtc.com/technology/cftc-warns-prediction-markets-over-manipulation-risks-in-mention-contracts/",
+    "publishedAt": "2026-09-24T05:30:00.000Z",
+    "preview": "TL;DR The CFTC’s Division of Market Oversight has issued guidance on prediction contracts that settle based on whether a person says, mentions or does something. The regulator says these ‘mention markets’ can carry heigh",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "A week of AI coding cut a quantum-safe bitcoin transaction estimate from $320 to $66",
+    "link": "https://www.coindesk.com/tech/2026/09/24/a-week-of-ai-coding-cut-a-quantum-safe-bitcoin-transaction-estimate-from-usd320-to-usd66",
+    "publishedAt": "2026-09-24T05:24:56.000Z",
+    "preview": "StarkWare, which conducted the research, says contest participants using AI tools made the computation about five times faster, though the $66 figure has not yet been demonstrated in another transaction mined on Bitcoin.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-09-24T05:23:34.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Bitcoin’s ‘last resort’ quantum-safe solution just got 79% cheaper: StarkWare",
+    "link": "https://cointelegraph.com/news/bitcoins-last-resort-quantum-safe-solution-just-got-79-cheaper-starkware",
+    "publishedAt": "2026-09-24T04:52:40.000Z",
+    "preview": "A weeklong optimization challenge cut the estimated GPU cost of preparing an experimental quantum-resistant Bitcoin transaction to under $67, potentially making the “last-resort measure” a little easier on the wallet.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "US weighs overseas push for dollar-backed stablecoins: Bloomberg",
+    "link": "https://cointelegraph.com/news/us-overseas-dollar-stablecoins-trump-administration",
+    "publishedAt": "2026-09-24T04:44:12.000Z",
+    "preview": "The reported initiative could involve private-sector companies and several US agencies as Washington looks to expand the international use of dollar-backed stablecoins.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Galaxy adds $100M Sky token and institutional adoption is tested",
+    "link": "https://cryptoslate.com/galaxy-adds-100m-sky-token-and-institutional-adoption-is-tested/",
+    "publishedAt": "2026-09-24T04:30:35.000Z",
+    "preview": "Clients can pledge the savings token, though the companies disclosed no sUSDS-backed client loan volume. The post Galaxy adds $100M Sky token and institutional adoption is tested appeared first on CryptoSlate.",
+    "tags": []
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Chainlink Releases Node v2.65.0 With Confidential Workflow Monitoring Fix",
+    "link": "https://www.newsbtc.com/technology/chainlink-releases-node-v2-65-0-with-confidential-workflow-monitoring-fix/",
+    "publishedAt": "2026-09-24T04:30:00.000Z",
+    "preview": "TL;DR Chainlink has published core node software v2.65.0. The release includes a monitoring change that separates user-caused confidential-workflow enclave failures from system-caused failures. It is an infrastructure ma",
+    "tags": [
+      "LINK"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Dogecoin down 8%, bitcoin under $84,000 as Treasury yields hit highest level since 2007",
+    "link": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007",
+    "publishedAt": "2026-09-24T04:13:01.000Z",
+    "preview": "A rebound in oil, the strongest U.S. business survey in five years and a poorly received five-year note sale pushed borrowing costs higher, with DOGE leading token losses.",
+    "tags": [
+      "BTC",
+      "DOGE"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Ripple (XRP) vs Pi Network (PI): Which Will Perform Better in Q4? (3 AIs Weigh in)",
+    "link": "https://cryptopotato.com/ripple-xrp-vs-pi-network-pi-which-will-perform-better-in-q4-3-ais-weigh-in/",
+    "publishedAt": "2026-09-24T04:01:19.000Z",
+    "preview": "\"PI has the higher lottery-ticket upside,\" Perplexity stated.",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Aptos Ships Mainnet Node v1.49.1 As Validator Upgrade Cycle Continues",
+    "link": "https://www.newsbtc.com/altcoins/aptos-ships-mainnet-node-v1-49-1-as-validator-upgrade-cycle-continues/",
+    "publishedAt": "2026-09-24T03:30:00.000Z",
+    "preview": "TL;DR Aptos Labs has released mainnet node software v1.49.1 for validators and fullnode operators. The release follows the earlier v1.49.1 hotfix path and rolls a wider set of execution, consensus and state-sync changes ",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Cardano proposal slashes fees by 55%, but it comes with a cost for small pools",
+    "link": "https://cryptoslate.com/cardano-proposal-slashes-fees-by-55-but-it-comes-with-a-cost-for-small-pools/",
+    "publishedAt": "2026-09-24T02:50:26.000Z",
+    "preview": "DReps and the committee now decide the narrower 75 ADA proposal; any delegator gain still depends on what pools charge. The post Cardano proposal slashes fees by 55%, but it comes with a cost for small pools appeared fir",
+    "tags": [
+      "ADA"
+    ]
+  },
+  {
     "source": "CryptoSlate",
     "title": "White hats recover 52 Bitcoin from Coldcard exploit, and a new public portal lets victims check eligibility",
     "link": "https://cryptoslate.com/white-hats-recover-52-bitcoin-from-coldcard-exploit-and-a-new-public-portal-lets-victims-check-eligibility/",
@@ -144,17 +276,6 @@
     ]
   },
   {
-    "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-09-23T19:39:24.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Zcash's Wall Street Moment Reaches Europe With Its First ETP Listing",
     "link": "https://decrypt.co/379105/zcash-wall-street-europe-first-etp",
@@ -279,14 +400,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Stablecoins hold nearly $200 billion in US debt, but money funds bought the surge",
-    "link": "https://cryptoslate.com/stablecoins-hold-nearly-200-billion-in-us-debt-but-money-funds-bought-the-surge/",
-    "publishedAt": "2026-09-23T16:40:50.000Z",
-    "preview": "Treasury says money-market mutual funds absorbed about 85% of more than $550 billion in new bill supply during July and August. The post Stablecoins hold nearly $200 billion in US debt, but money funds bought the surge a",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks",
     "link": "https://decrypt.co/379080/nyse-taps-blockchain-com-to-reach-crypto-investors-with-tokenized-stocks-etfs",
@@ -357,14 +470,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Coin Metrics revises 19 months of ETF wallet data but by how much?",
-    "link": "https://cryptoslate.com/coin-metrics-corrected-19-months-of-bitcoin-etf-wallet-data-without-saying-how-much-changed-publicly/",
-    "publishedAt": "2026-09-23T15:40:29.000Z",
-    "preview": "The update spans 35 daily and 25 hourly series, yet no cause, direction or numerical delta was disclosed. The post Coin Metrics revises 19 months of ETF wallet data but by how much? appeared first on CryptoSlate.",
-    "tags": []
-  },
-  {
     "source": "NewsBTC",
     "title": "Bybit Opens Oura Pre-IPO Perpetual Trading With Up To 25x Leverage",
     "link": "https://www.newsbtc.com/technology/bybit-opens-oura-pre-ipo-perpetual-trading-with-up-to-25x-leverage/",
@@ -387,16 +492,6 @@
     "publishedAt": "2026-09-23T15:19:04.000Z",
     "preview": "Traditional card networks and ACH already automate payments, but BlackRock is questioning their fit for tiny, continuous transactions.",
     "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Bitcoin ETFs just erased a $5.7 billion hole, but profit-taking is swallowing the new demand",
-    "link": "https://cryptoslate.com/bitcoin-etfs-just-erased-a-5-7-billion-hole-but-profit-taking-is-swallowing-the-new-demand/",
-    "publishedAt": "2026-09-23T15:10:03.000Z",
-    "preview": "A second large inflow met weak price follow-through. Dated fund reports and an earlier rise in profit taking leave the seller behind the move unidentified. The post Bitcoin ETFs just erased a $5.7 billion hole, but profi",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "CoinDesk",
@@ -616,14 +711,6 @@
     "tags": []
   },
   {
-    "source": "NewsBTC",
-    "title": "OKX Shield Offers Up To €500K Account-Takeover Protection In Europe",
-    "link": "https://www.newsbtc.com/technology/okx-shield-offers-up-to-e500k-account-takeover-protection-in-europe/",
-    "publishedAt": "2026-09-23T10:30:00.000Z",
-    "preview": "TL;DR OKX has launched Shield in Europe, a discretionary reimbursement program for qualifying account-takeover losses. Protection limits rise from €100,000 for standard users to €500,000 for VIP 4–6 customers. OKX explic",
-    "tags": []
-  },
-  {
     "source": "CoinDesk",
     "title": "Bitcoin consolidates near $86,000 as rally narrows and Brent slips below $100",
     "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-consolidates-near-usd86-000-as-rally-narrows-and-brent-slips-below-usd100",
@@ -688,30 +775,12 @@
     ]
   },
   {
-    "source": "NewsBTC",
-    "title": "Anchorage Digital Taps LayerZero To Take USAT Stablecoin Cross-Chain",
-    "link": "https://www.newsbtc.com/altcoins/anchorage-digital-taps-layerzero-to-take-usat-stablecoin-cross-chain/",
-    "publishedAt": "2026-09-23T09:30:00.000Z",
-    "preview": "TL;DR Anchorage Digital has selected LayerZero as its interoperability partner for regulated stablecoins issued through its platform. Tether’s USAT is the first token to adopt the LayerZero OFT standard under the arrange",
-    "tags": []
-  },
-  {
     "source": "CoinDesk",
     "title": "BlackRock says AI agents could drive stablecoin and crypto adoption",
     "link": "https://www.coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock",
     "publishedAt": "2026-09-23T09:17:53.000Z",
     "preview": "The asset manager sees payments as the nearer-term opportunity, while markets for computing capacity remain at an early stage",
     "tags": []
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Ethereum ETFs Pull In $270M As BlackRock Leads September 21 Rebound",
-    "link": "https://www.newsbtc.com/news/ethereum/ethereum-etfs-pull-in-270m-as-blackrock-leads-september-21-rebound/",
-    "publishedAt": "2026-09-23T08:30:00.000Z",
-    "preview": "TL;DR US spot Ethereum ETFs recorded $270.0 million of net inflows for the September 21 session. BlackRock’s ETHA led the day with $110.0 million, while Fidelity’s FETH added roughly $73.0 million. The numbers are single",
-    "tags": [
-      "ETH"
-    ]
   },
   {
     "source": "CryptoPotato",
@@ -768,16 +837,6 @@
     "preview": "The upgrade could activate Oct. 5, letting businesses give another account limited powers such as making payments or approving customers without handing over full control.",
     "tags": [
       "XRP"
-    ]
-  },
-  {
-    "source": "NewsBTC",
-    "title": "SEC Clears ARK Venture Fund For Tokenized And Exchange-Traded Share Classes",
-    "link": "https://www.newsbtc.com/altcoins/sec-clears-ark-venture-fund-for-tokenized-and-exchange-traded-share-classes/",
-    "publishedAt": "2026-09-23T07:30:00.000Z",
-    "preview": "TL;DR The SEC granted ARK Venture Fund amended exemptive relief covering two new share classes. The structure allows an Exchange Class and a Tokenized Class whose ownership can be recorded through distributed-ledger tech",
-    "tags": [
-      "Regulation"
     ]
   },
   {
@@ -999,14 +1058,6 @@
     ]
   },
   {
-    "source": "Cointelegraph",
-    "title": "Canada’s six largest banks explore tokenized Canadian dollar deposits",
-    "link": "https://cointelegraph.com/news/canada-six-largest-banks-explore-tokenized-canadian-dollar-deposits",
-    "publishedAt": "2026-09-22T19:56:48.000Z",
-    "preview": "The country’s largest financial institutions are exploring tokenized deposits for interbank payments, just weeks after regulators clarified how they should be treated.",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "White-Hat Hackers Route Coldcard Exploit Bitcoin Into 'Recovery Trust'",
     "link": "https://decrypt.co/378978/white-hat-hackers-coldcard-exploit-bitcoin-recovery-trust",
@@ -1108,14 +1159,6 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "Zcash gets first European ETP following US ETF launch",
-    "link": "https://cointelegraph.com/news/21shares-zcash-etp-europe-etherfi",
-    "publishedAt": "2026-09-22T16:21:44.000Z",
-    "preview": "21shares listed physically backed ZEC and ETHFI products on Euronext Paris and Amsterdam, as issuers broaden their offerings beyond major cryptocurrencies.",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "Arthur Hayes Says AI Glut Could Lower Compute Costs and Boost Crypto",
     "link": "https://cryptopotato.com/arthur-hayes-says-ai-glut-could-lower-compute-costs-and-boost-crypto/",
@@ -1123,16 +1166,6 @@
     "preview": "In Hayes' scenario, a potential bailout of insurers exposed to AI debt could increase the money supply and support Bitcoin prices.",
     "tags": [
       "BTC"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Next for the U.S. SEC: Agency's chief crypto counsel illuminates path for custody",
-    "link": "https://www.coindesk.com/policy/2026/09/22/next-for-the-u-s-sec-agency-s-chief-crypto-counsel-illuminates-path-for-custody",
-    "publishedAt": "2026-09-22T15:21:28.000Z",
-    "preview": "Taylor Lindman, the top lawyer on the agency's Crypto Task Force, says the SEC is trying to get firms comfortable with blockchain technology and crypto assets.",
-    "tags": [
-      "Regulation"
     ]
   },
   {
@@ -1144,14 +1177,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
-    "link": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
-    "publishedAt": "2026-09-22T14:32:59.000Z",
-    "preview": "Central bankers argue that indirect yield structures blur the line between electronic payment tokens and commercial bank deposits, distorting financial system competition.",
-    "tags": []
   },
   {
     "source": "CryptoPotato",
@@ -1170,16 +1195,6 @@
     "publishedAt": "2026-09-22T13:10:36.000Z",
     "preview": "Binance has invested $100 million in Circle, acquiring 1.24 million shares, while renewing a five-year partnership to expand USDC adoption across global markets.",
     "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Bitcoin, ether perpetual volumes on Kalshi are dominated by an unusual, repetitive trade, data shows",
-    "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows",
-    "publishedAt": "2026-09-22T12:32:15.000Z",
-    "preview": "CoinDesk found one $5,499 trade size accounting for 57% of sampled ether-perpetual volume, while recurring $2,500 and $5,000 trade sizes made up 54% of sampled bitcoin-perpetual volume.",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "Decrypt",
@@ -1279,17 +1294,6 @@
     "publishedAt": "2026-09-22T05:34:28.000Z",
     "preview": "WIPO had previously found that Uniswap.com was used in bad faith.",
     "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Ethereum Investors Are Pulling ETH Off Binance at a Pace Not Seen in 3 Years",
-    "link": "https://cryptopotato.com/ethereum-investors-are-pulling-eth-off-binance-at-a-pace-not-seen-in-3-years/",
-    "publishedAt": "2026-09-22T04:05:43.000Z",
-    "preview": "Ethereum is seeing stronger accumulation than Bitcoin, as Binance withdrawals reached three-year highs.",
-    "tags": [
-      "BTC",
-      "ETH"
-    ]
   },
   {
     "source": "Decrypt",
