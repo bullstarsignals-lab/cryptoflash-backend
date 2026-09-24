@@ -1,5 +1,121 @@
 [
   {
+    "source": "CryptoSlate",
+    "title": "New York sues Polymarket, seeks triple gains and $100,000 penalties over prediction markets",
+    "link": "https://cryptoslate.com/new-york-sues-polymarket-seeks-triple-gains-and-100000-penalties-over-prediction-markets/",
+    "publishedAt": "2026-09-24T22:50:47.000Z",
+    "preview": "New York has sued Polymarket, alleging its US prediction market is an unlicensed gambling business operating across the state. On Sept. 24, Attorney General Letitia James asked a New York state court to stop QCX LLC, whi",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
+    "link": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation",
+    "publishedAt": "2026-09-24T22:41:44.000Z",
+    "preview": "The state wants to block Polymarket from operating without a gambling license and recover allegedly illegal gains.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
+    "link": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
+    "publishedAt": "2026-09-24T22:28:49.000Z",
+    "preview": "The Fed proposed rules on putting last year's GENIUS Act into place with regulations, including those governing stablecoin yield programs.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Bitget’s $351.6 million hack pushes September crypto losses to 2026 high",
+    "link": "https://cryptoslate.com/bitgets-351-6-million-hack-pushes-september-crypto-losses-to-2026-high/",
+    "publishedAt": "2026-09-24T22:10:42.000Z",
+    "preview": "Bitget has suspended withdrawals after unauthorized transfers drained about $351.6 million from a limited number of its hot and warm wallets. The crypto exchange detected the transfers at 18:31 UTC on Sept. 24 and activa",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Fed proposes new capital, redemption rules for stablecoin issuers",
+    "link": "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers",
+    "publishedAt": "2026-09-24T22:10:09.000Z",
+    "preview": "The Fed’s proposal would set capital requirements, a two-day redemption window and new reserve disclosures as regulators implement the GENIUS Act.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'",
+    "link": "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe",
+    "publishedAt": "2026-09-24T21:59:32.000Z",
+    "preview": "Bitget CEO Gracy Chen announced the hack shortly after independent researchers flagged unusual wallet movements.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "Federal Reserve Unveils Stablecoin Rules on Reserves and Capital",
+    "link": "https://decrypt.co/379274/federal-reserve-unveils-stablecoin-rules-on-reserves-and-capital",
+    "publishedAt": "2026-09-24T21:56:03.000Z",
+    "preview": "The central bank opened two proposals for comment under the GENIUS Act, requiring issuers it supervises to back tokens fully with safe assets and creating an application process for banks seeking to issue stablecoins.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Bitget confirms $351M security breach, suspends withdrawals",
+    "link": "https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports",
+    "publishedAt": "2026-09-24T21:47:17.000Z",
+    "preview": "Bitget said unauthorized transfers affected a limited number of hot wallets, while cold wallets and most platform assets remained unaffected.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "CFTC updates guidance on tokenized assets, blockchain records after failed vote",
+    "link": "https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote",
+    "publishedAt": "2026-09-24T21:42:51.000Z",
+    "preview": "Although the CFTC chair did not say the failed vote on the CLARITY Act was behind new rules for authorized crypto entities, he said the move was “to provide regulatory clarity.“",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Report: US Weighs Overseas Push for Dollar Stablecoins to Boost Treasury Demand",
+    "link": "https://cryptopotato.com/report-us-weighs-overseas-push-for-dollar-stablecoins-to-boost-treasury-demand/",
+    "publishedAt": "2026-09-24T21:30:07.000Z",
+    "preview": "The GENIUS Act established reserve requirements that could link wider stablecoin circulation to demand for dollars and short-term Treasuries.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Why TRON’s $30 trillion lifetime volume could become a trap",
+    "link": "https://cryptoslate.com/why-trons-30-trillion-lifetime-volume-could-become-a-trap/",
+    "publishedAt": "2026-09-24T21:20:14.000Z",
+    "preview": "The network total covers all assets since launch; the DAO separately cites about $6 trillion in USDT transfers this year. The post Why TRON’s $30 trillion lifetime volume could become a trap appeared first on CryptoSlate",
+    "tags": [
+      "TRX"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Bitget Hacked as $350 Million Vanishes From Crypto Exchange Wallets",
+    "link": "https://decrypt.co/379275/bitget-hack-183-million-crypto-exchange-wallets",
+    "publishedAt": "2026-09-24T21:15:38.000Z",
+    "preview": "A newly created wallet drained hot and cold reserves labeled as belonging to Bitget across multiple blockchains in under an hour.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs",
+    "link": "https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs",
+    "publishedAt": "2026-09-24T20:32:16.000Z",
+    "preview": "US Treasury yields hit a 19-year high on Thursday, pressuring risk assets as Bitcoin held near $84,000 and ONDO became top performer among altcoins.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
     "source": "CoinDesk",
     "title": "Someone was trying to sell Ondo Finance after founder Nathan Allman's death",
     "link": "https://www.coindesk.com/business/2026/09/23/someone-was-trying-to-sell-ondo-finance-after-founder-nathan-allman-s-death",
@@ -475,16 +591,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Alpen says AI identified Liquid’s $320M BTC exploit in an hour. Could a payout limit have stopped it?",
-    "link": "https://cryptoslate.com/alpen-says-ai-diagnosed-liquids-320-million-exploit-in-an-hour-could-a-payout-limit-have-stopped-it/",
-    "publishedAt": "2026-09-24T12:20:10.000Z",
-    "preview": "Its post-attack replay explains the cache flaw, while SideSwap says a 4,000 L-BTC order faced no size or velocity hold. The post Alpen says AI identified Liquid’s $320M BTC exploit in an hour. Could a payout limit have s",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "Ethereum Price Prediction: ETH Failed at $2.8K – Which Levels Matter Now?",
     "link": "https://cryptopotato.com/ethereum-price-prediction-eth-failed-at-2-8k-which-levels-matter-now/",
@@ -570,14 +676,6 @@
     "link": "https://cointelegraph.com/news/era-pure-crypto-exchanges-end-bybit-ceo",
     "publishedAt": "2026-09-24T11:24:07.000Z",
     "preview": "Bybit’s global campaign positions it as a broader financial platform, though its stock, gold and forex derivatives were already available.",
-    "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Cosmos restarted to seize $2.2 million in stolen ATOM, but 169,000 tokens still escaped",
-    "link": "https://cryptoslate.com/cosmos-restarted-to-seize-2-2-million-in-stolen-atom-but-169000-tokens-still-escaped/",
-    "publishedAt": "2026-09-24T11:20:49.000Z",
-    "preview": "The chain-wide pause reached unrelated Hub users; secured Neutron-linked funds now sit in a validator multisig. The post Cosmos restarted to seize $2.2 million in stolen ATOM, but 169,000 tokens still escaped appeared fi",
     "tags": []
   },
   {
@@ -674,14 +772,6 @@
     "tags": [
       "TRX"
     ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Why Zcash soared to $1,600 as Europe unlocks new ETP access",
-    "link": "https://cryptoslate.com/zcash-gains-european-etp-access-as-shielded-activity-reaches-a-four-year-high/",
-    "publishedAt": "2026-09-24T10:00:42.000Z",
-    "preview": "21Shares listed ZCASH in Paris and Amsterdam as ZEC briefly topped $1,600 and ZODL reported elevated privacy use. The post Why Zcash soared to $1,600 as Europe unlocks new ETP access appeared first on CryptoSlate.",
-    "tags": []
   },
   {
     "source": "CoinDesk",
@@ -815,16 +905,6 @@
     ]
   },
   {
-    "source": "CoinDesk",
-    "title": "A week of AI coding cut a quantum-safe bitcoin transaction estimate from $320 to $66",
-    "link": "https://www.coindesk.com/tech/2026/09/24/a-week-of-ai-coding-cut-a-quantum-safe-bitcoin-transaction-estimate-from-usd320-to-usd66",
-    "publishedAt": "2026-09-24T05:24:56.000Z",
-    "preview": "StarkWare, which conducted the research, says contest participants using AI tools made the computation about five times faster, though the $66 figure has not yet been demonstrated in another transaction mined on Bitcoin.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "Bitcoin’s ‘last resort’ quantum-safe solution just got 79% cheaper: StarkWare",
     "link": "https://cointelegraph.com/news/bitcoins-last-resort-quantum-safe-solution-just-got-79-cheaper-starkware",
@@ -841,17 +921,6 @@
     "publishedAt": "2026-09-24T04:44:12.000Z",
     "preview": "The reported initiative could involve private-sector companies and several US agencies as Washington looks to expand the international use of dollar-backed stablecoins.",
     "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Dogecoin down 8%, bitcoin under $84,000 as Treasury yields hit highest level since 2007",
-    "link": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007",
-    "publishedAt": "2026-09-24T04:13:01.000Z",
-    "preview": "A rebound in oil, the strongest U.S. business survey in five years and a poorly received five-year note sale pushed borrowing costs higher, with DOGE leading token losses.",
-    "tags": [
-      "BTC",
-      "DOGE"
-    ]
   },
   {
     "source": "CryptoPotato",
@@ -975,14 +1044,6 @@
     "link": "https://cointelegraph.com/news/trump-discloses-up-to-100k-strategy-stock-purchase",
     "publishedAt": "2026-09-23T19:05:14.000Z",
     "preview": "President Donald Trump disclosed a July purchase of Strategy shares as his administration continues to advance crypto policy through federal regulators and Congress.",
-    "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Kalshi says it is not being investigated by the CFTC over trading activity",
-    "link": "https://www.coindesk.com/markets/2026/09/23/kalshi-says-it-is-not-being-investigated-by-the-cftc-over-trading-activity",
-    "publishedAt": "2026-09-23T19:04:52.000Z",
-    "preview": "The prediction market says unusual patterns in its ether perpetual market are the result of liquidity incentives.",
     "tags": []
   },
   {
@@ -1140,14 +1201,6 @@
     ]
   },
   {
-    "source": "Cointelegraph",
-    "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
-    "link": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda",
-    "publishedAt": "2026-09-23T14:28:50.000Z",
-    "preview": "Bitpanda will provide crypto infrastructure to Raiffeisen network banks, potentially extending digital asset access to about 18 million customers.",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "Bitcoin Price Analysis: BTC Faces First Major Test After 13% Weekly Rally",
     "link": "https://cryptopotato.com/bitcoin-price-analysis-btc-faces-first-major-test-after-13-weekly-rally/",
@@ -1156,32 +1209,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "ESMA to prioritize EU-wide AI and tokenization supervision in 2027",
-    "link": "https://cointelegraph.com/news/esma-to-focus-eu-wide-supervision-on-ai-and-tokenization-from-2027",
-    "publishedAt": "2026-09-23T13:40:00.000Z",
-    "preview": "National regulators will map client-facing uses of the technologies, check a subset of firms and develop common approaches to oversight.",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Winners and losers of the SEC’s new tokenized stocks rules",
-    "link": "https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules",
-    "publishedAt": "2026-09-23T13:30:00.000Z",
-    "preview": "The SEC has opened a five-year path for tokenized stocks, but only some products and venues fit the model. Will Uniswap, Robinhood, Coinbase or Kraken come out on top?",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "MoonPay to buy North Capital in all-stock deal worth over $60M",
-    "link": "https://cointelegraph.com/news/moonpay-north-capital-acquisition",
-    "publishedAt": "2026-09-23T13:00:00.000Z",
-    "preview": "MoonPay’s North Capital acquisition adds US broker-dealer, trading and investment infrastructure as it expands into tokenized securities.",
-    "tags": []
   },
   {
     "source": "CryptoPotato",
@@ -1291,34 +1318,5 @@
     "publishedAt": "2026-09-23T06:10:56.000Z",
     "preview": "One analyst envisioned a potential 220% price explosion.",
     "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Bitcoin Cash and Uniswap Explode by Double Digits as CME Announces Futures Launch",
-    "link": "https://cryptopotato.com/bitcoin-cash-and-uniswap-explode-by-double-digits-as-cme-announces-futures-launch/",
-    "publishedAt": "2026-09-23T06:04:36.000Z",
-    "preview": "CME Group will launch regulated Bitcoin Cash and Uniswap futures on October 19, expanding its growing crypto derivatives lineup.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "UN Security Council Will Get Advice on AI Risks From Tech Giants Building It",
-    "link": "https://decrypt.co/379008/un-security-council-ai-risks-anthropic-openai-deepseek",
-    "publishedAt": "2026-09-22T22:16:03.000Z",
-    "preview": "DeepSeek will address the UN Security Council on AI risks this week, sharing a stage with Dario Amodei—who has spent a year calling China's government the industry's biggest threat.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "$161 Million in Decade-Old Bitcoin Has Moved in Just Two Weeks",
-    "link": "https://decrypt.co/379006/161-million-decade-old-bitcoin-moves-two-weeks",
-    "publishedAt": "2026-09-22T21:16:03.000Z",
-    "preview": "Four ancient wallets moved 1,971 BTC between Sept. 6 and Sept. 22, including a 600 BTC transfer worth $51.9 million just hours ago, with three of the four carrying \"Noah Doe\" lawsuit tags.",
-    "tags": [
-      "BTC",
-      "Regulation"
-    ]
   }
 ]
