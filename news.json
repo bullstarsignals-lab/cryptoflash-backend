@@ -1,5 +1,187 @@
 [
   {
+    "source": "CoinDesk",
+    "title": "Someone was trying to sell Ondo Finance after founder Nathan Allman's death",
+    "link": "https://www.coindesk.com/business/2026/09/23/someone-was-trying-to-sell-ondo-finance-after-founder-nathan-allman-s-death",
+    "publishedAt": "2026-09-24T20:13:25.000Z",
+    "preview": "The company has vehemently denied that it was shopping for buyers. Allman’s estate declined to comment.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Bullish, Alpaca and Apex Fintech form coalition to push issuer-backed tokenized stocks",
+    "link": "https://www.coindesk.com/business/2026/09/24/bullish-alpaca-and-apex-fintech-form-coalition-to-push-issuer-backed-tokenized-stocks",
+    "publishedAt": "2026-09-24T20:05:00.000Z",
+    "preview": "The group aims to link onchain shares to official shareholder records following the U.S. SEC's innovation exemption for tokenized stock trading.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "U.S. commodities firms can invest in tokenized assets, use blockchain records: CFTC",
+    "link": "https://www.coindesk.com/policy/2026/09/24/u-s-commodities-firms-can-invest-in-tokenized-assets-use-blockchain-records-cftc",
+    "publishedAt": "2026-09-24T20:04:46.000Z",
+    "preview": "The U.S derivatives regulator is grinding away at further guidance that welcomes tokenization and blockchain recordkeeping as regular industry elements.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "DoubleZero brings dedicated fiber market data to Hyperliquid traders",
+    "link": "https://cointelegraph.com/news/doublezero-brings-dedicated-fiber-market-data-hyperliquid-traders",
+    "publishedAt": "2026-09-24T20:04:07.000Z",
+    "preview": "DoubleZero launched a dedicated fiber market data feed for Hyperliquid, giving professional trading firms faster access to its full order book.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "The stock token debate, and the gap nobody can close alone",
+    "link": "https://www.coindesk.com/opinion/2026/09/24/the-stock-token-debate-and-the-gap-nobody-can-close-alone",
+    "publishedAt": "2026-09-24T20:03:21.000Z",
+    "preview": "The argument over Robinhood’s AMC token has been about which tokenization model is legitimate, and the SEC has drawn a line. The question to ask now is what has to be true for any of it to be a market, argues Bullish’s T",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Humans Are Reading Your ChatGPT Chats, New Lawsuit Claims",
+    "link": "https://decrypt.co/379272/humans-reading-chatgpt-chats-lawsuit",
+    "publishedAt": "2026-09-24T20:01:03.000Z",
+    "preview": "A proposed class action accuses OpenAI of quietly routing real conversations to outside contractors through a program called Project Lily—without telling users first.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Man sentenced to 12 years for $16M Coinbase customer support scam",
+    "link": "https://cryptoslate.com/man-sentenced-to-12-years-for-16m-coinbase-customer-support-scam/",
+    "publishedAt": "2026-09-24T20:00:28.000Z",
+    "preview": "Brooklyn prosecutors say about 100 U.S. users were told their funds were at risk and steered into wallets Spektor could access. The post Man sentenced to 12 years for $16M Coinbase customer support scam appeared first on",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-09-24T19:50:39.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "SUI Flashes a Key Macro Signal: Has the Bull Market Begun?",
+    "link": "https://cryptopotato.com/sui-flashes-a-key-macro-signal-has-the-bull-market-begun/",
+    "publishedAt": "2026-09-24T19:37:02.000Z",
+    "preview": "Despite the recent pullback, many market observers believe the asset is gearing up for a strong rally.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "Meta's New AI Toy Is a Keychain That Watches, Listens, and Never Blinks",
+    "link": "https://decrypt.co/379253/meta-ai-toy-muse-charm-keychain-watches-listens",
+    "publishedAt": "2026-09-24T19:16:03.000Z",
+    "preview": "Muse Charm is Meta's palm-sized gadget for talking to its Muse AI agent on the go. It has cameras, a fingerprint sensor, and its own cell connection.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "NYSE is assembling the pipes for a $5.5 trillion tokenized asset market",
+    "link": "https://cryptoslate.com/nyse-is-assembling-the-pipes-for-a-5-5-trillion-tokenized-asset-market/",
+    "publishedAt": "2026-09-24T19:00:35.000Z",
+    "preview": "The proposed trading route depends on a planned NYSE venue and regulatory approvals; ICE and Blockchain.com also aim to share market data. The post NYSE is assembling the pipes for a $5.5 trillion tokenized asset market ",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Bitcoin just topped a key long-term moving average. Here's what it might mean",
+    "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-just-topped-a-key-long-term-moving-average-here-s-what-it-might-mean",
+    "publishedAt": "2026-09-24T18:46:58.000Z",
+    "preview": "Bitcoin’s return above its one-year average excited chart watchers. AltcoinPro Research says the more important signal is whether it can stay above its 200-day average.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "AI Can Now Doxx Your Anonymous Accounts? Here's What’s Going On",
+    "link": "https://decrypt.co/379228/ai-can-now-doxx-your-anonymous-accounts-heres-whats-going-on",
+    "publishedAt": "2026-09-24T18:31:03.000Z",
+    "preview": "A February research paper showing AI can unmask pseudonymous internet users is freaking everyone out again this week. Here's what the paper actually says.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "XRP and DOGE Are Deep in the Red: Could That Be a Bullish Signal?",
+    "link": "https://cryptopotato.com/xrp-and-doge-are-deep-in-the-red-could-that-be-a-bullish-signal/",
+    "publishedAt": "2026-09-24T17:52:01.000Z",
+    "preview": "Both XRP and DOGE are pulling back sharply, but deeply negative MVRV readings could keep long-term traders interested.",
+    "tags": [
+      "XRP",
+      "DOGE"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "New York Wants to Ban Polymarket, Lawsuit Calls It 'Illegal Gambling Operation'",
+    "link": "https://decrypt.co/379244/new-york-ban-polymarket-lawsuit",
+    "publishedAt": "2026-09-24T17:51:31.000Z",
+    "preview": "Attorney General Letitia James and Governor Kathy Hochul allege the prediction market operates without a license and exposes New Yorkers to gambling harms.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "New York Sues Polymarket Over Alleged Unlicensed Gambling and Underage Trading",
+    "link": "https://cryptopotato.com/new-york-sues-polymarket-over-alleged-unlicensed-gambling-and-underage-trading/",
+    "publishedAt": "2026-09-24T17:42:12.000Z",
+    "preview": "New York is suing Polymarket US, alleging the prediction market operates illegal gambling without a state license and allows users under 21 to bet.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Australia just got a real-world look at what happens when an AI refuses to stop",
+    "link": "https://cryptoslate.com/australia-just-got-a-real-world-look-at-what-happens-when-an-ai-refuses-to-stop/",
+    "publishedAt": "2026-09-24T17:40:20.000Z",
+    "preview": "Albanese says the agent reached nonpublic files while seeking spending data; investigators are assessing the scope of access. The post Australia just got a real-world look at what happens when an AI refuses to stop appea",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "In Her Final Weeks, SEC's Peirce Calls for Ending the KYC 'Panopticon'",
+    "link": "https://decrypt.co/379217/sec-peirce-end-kyc-panopticon-zero-knowledge-proofs",
+    "publishedAt": "2026-09-24T17:31:03.000Z",
+    "preview": "In one of her final speeches as commissioner, Peirce argued that regulators' \"data haystacks\" endanger the people they aim to protect—as recent KYC leaks expose crypto holders to phishing and physical attacks.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Crypto treasury model loses its edge as stock premiums fade: DWF",
+    "link": "https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit",
+    "publishedAt": "2026-09-24T17:14:35.000Z",
+    "preview": "Most DATs now trade below the value of their crypto holdings, weakening a financing model that once helped companies expand their balance sheets.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC",
+    "link": "https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc",
+    "publishedAt": "2026-09-24T17:13:38.000Z",
+    "preview": "The France-based semiconductor company has fully unwound a Bitcoin treasury that once held more than 3,200 BTC as more firms scale back crypto holdings.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
     "source": "NewsBTC",
     "title": "OpenZeppelin Integrates with TRON to Bring Its Security Standard to the Network",
     "link": "https://www.newsbtc.com/news/openzeppelin-integrates-with-tron-to-bring-its-security-standard-to-the-network/",
@@ -191,17 +373,6 @@
     "publishedAt": "2026-09-24T13:30:14.000Z",
     "preview": "A Sept. 24 policy update permits identity checks and withdrawals after trading ended, with asset minimums and sanctions rules still in force. The post BitMEX opens fund recovery to customers it previously barred from the",
     "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-09-24T13:29:50.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
-    ]
   },
   {
     "source": "Cointelegraph",
@@ -411,11 +582,13 @@
   },
   {
     "source": "CoinDesk",
-    "title": "Live updates: Report on U.S./Iran progress gives small lift to markets",
+    "title": "Live updates: Oil back on the rise as Iran denies report of deal talks",
     "link": "https://www.coindesk.com/tech/2026/09/24/live-updates-bitcoin-edges-lower-as-bond-yields-take-center-stage",
     "publishedAt": "2026-09-24T11:20:12.000Z",
-    "preview": "Oil trimmed a near 5% gain to just 2% in the immediate aftermath of the story.",
-    "tags": []
+    "preview": "Bitcoin pulled back to $84,000 as stocks slipped and interest rates rose alongside surging oil prices.",
+    "tags": [
+      "BTC"
+    ]
   },
   {
     "source": "Decrypt",
@@ -568,16 +741,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Why surging US real yields are quietly forcing Bitcoin under $84,000",
-    "link": "https://cryptoslate.com/why-surging-us-real-yields-are-quietly-forcing-bitcoin-under-84000/",
-    "publishedAt": "2026-09-24T08:59:51.000Z",
-    "preview": "Bitcoin registered an intraday low at $83,500 on Sept. 23, the same day the US 10-year Treasury yield closed at 5.11%, up 15 basis points in a single session, as a hotter-than-expected business activity survey pushed inv",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "XRP Slumps Hard After Another $1.60 Rejection, BTC Slips Below $84K: Market Watch",
     "link": "https://cryptopotato.com/xrp-slumps-hard-after-another-1-60-rejection-btc-slips-below-84k-market-watch/",
@@ -616,14 +779,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Neutron DAO passes a new proposal, and $9.3M in crypto disappears",
-    "link": "https://cryptoslate.com/neutron-dao-passes-a-new-proposal-and-9-3m-in-crypto-disappears/",
-    "publishedAt": "2026-09-24T07:50:19.000Z",
-    "preview": "Proposal #9 passed Sept. 22; SlowMist estimates incidents at Astroport and Drop, while the amount ultimately unrecovered remains unknown. The post Neutron DAO passes a new proposal, and $9.3M in crypto disappears appeare",
-    "tags": []
-  },
-  {
     "source": "NewsBTC",
     "title": "Sui Testnet v1.80.1 Expands Protocol 137 Features For Node Operators",
     "link": "https://www.newsbtc.com/altcoins/sui-testnet-v1-80-1-expands-protocol-137-features-for-node-operators/",
@@ -658,14 +813,6 @@
     "tags": [
       "SOL"
     ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "MoonPay targets $8.7B trading venue, but the features remain unrevealed",
-    "link": "https://cryptoslate.com/moonpay-targets-8-7b-trading-venue-but-the-features-remain-unrevealed/",
-    "publishedAt": "2026-09-24T06:10:05.000Z",
-    "preview": "The proposed acquisition includes PPEX, an existing private-securities venue. Regulatory approvals and other closing conditions still stand before ownership changes. The post MoonPay targets $8.7B trading venue, but the ",
-    "tags": []
   },
   {
     "source": "CoinDesk",
@@ -839,14 +986,6 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "Former Hack VC partner Hsin-Ju Chuang found dead following public dispute with the firm",
-    "link": "https://www.coindesk.com/business/2026/09/23/former-hack-vc-partner-hsin-ju-chuang-found-dead-following-public-dispute-with-firm",
-    "publishedAt": "2026-09-23T18:59:36.000Z",
-    "preview": "The crypto community is seeking answers after 37-year-old growth executive Hsin-Ju Chuang was found dead in a remote California desert vehicle.",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "Top Cardano Price Predictions as ADA Explodes 30% in a Week",
     "link": "https://cryptopotato.com/top-cardano-price-predictions-as-ada-explodes-30-in-a-week/",
@@ -885,14 +1024,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "White House adviser defends President Trump's crypto ties in wake of Clarity Act defeat",
-    "link": "https://www.coindesk.com/policy/2026/09/23/white-house-adviser-defends-president-trump-s-crypto-ties-in-wake-of-clarity-act-defeat",
-    "publishedAt": "2026-09-23T18:04:11.000Z",
-    "preview": "President Donald Trump's crypto adviser, Patrick Witt, accused Democrats of unfairly amplifying Trump's crypto ties as a political weapon.",
-    "tags": []
   },
   {
     "source": "Decrypt",
@@ -981,30 +1112,12 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "Inside the FBI’s little-known annual crypto crime gathering",
-    "link": "https://www.coindesk.com/business/2026/09/23/inside-the-fbi-s-little-known-annual-crypto-crime-gathering",
-    "publishedAt": "2026-09-23T15:26:35.000Z",
-    "preview": "The Virtual Asset Technical Exchange brings together investigators, law enforcement officials, and crypto-security specialists to exchange intelligence on a wide range of crimes involving digital assets.",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "BlackRock: AI Agents Will Drive Major Demand for Stablecoins and Blockchain Payments",
     "link": "https://cryptopotato.com/blackrock-ai-agents-will-drive-major-demand-for-stablecoins-and-blockchain-payments/",
     "publishedAt": "2026-09-23T15:19:04.000Z",
     "preview": "Traditional card networks and ACH already automate payments, but BlackRock is questioning their fit for tiny, continuous transactions.",
     "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Crypto Long & Short: Inside the chain settling $150 billion of stablecoins a week",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/09/23/crypto-long-and-short-inside-the-chain-settling-usd150-billion-of-stablecoins-a-week",
-    "publishedAt": "2026-09-23T15:07:21.000Z",
-    "preview": "Tron launched as a content-distribution project and has become the settlement layer for a large share of the world's USDT, processing roughly $150 billion to $190 billion of stablecoin transfers a week. Josh Olszewicz of",
-    "tags": [
-      "TRX"
-    ]
   },
   {
     "source": "Cointelegraph",
@@ -1063,29 +1176,11 @@
     ]
   },
   {
-    "source": "CoinDesk",
-    "title": "Bitcoin's $16 billion quarterly options settlement arrives with a 'call-heavy' book",
-    "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-usd16-billion-quarterly-options-settlement-arrives-with-a-call-heavy-book",
-    "publishedAt": "2026-09-23T13:02:43.000Z",
-    "preview": "Nearly $18 billion in bitcoin and ether options will expire on Friday, potentially reshaping dealer hedging flows and short-term volatility.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "MoonPay to buy North Capital in all-stock deal worth over $60M",
     "link": "https://cointelegraph.com/news/moonpay-north-capital-acquisition",
     "publishedAt": "2026-09-23T13:00:00.000Z",
     "preview": "MoonPay’s North Capital acquisition adds US broker-dealer, trading and investment infrastructure as it expands into tokenized securities.",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Stablecoin cross-border flows surge 78%, defying crypto bear market",
-    "link": "https://cointelegraph.com/news/stablecoin-cross-border-flows-surge-78-defying-crypto-bear-market",
-    "publishedAt": "2026-09-23T13:00:00.000Z",
-    "preview": "Cross-border stablecoin transfers surged as the wider crypto market shrank 37%, with Chainalysis pointing to growing use for trade, remittances and savings.",
     "tags": []
   },
   {
@@ -1106,17 +1201,6 @@
     "preview": "Crypto majors continue their climb while alt leaders hit new ATHs. What’s driving the recent run up?",
     "tags": [
       "BTC"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "EU watchdogs warn quantum computers could pick crypto’s locks",
-    "link": "https://cointelegraph.com/news/eu-watchdogs-quantum-computers-crypto-locks",
-    "publishedAt": "2026-09-23T12:22:56.000Z",
-    "preview": "EU supervisors warn quantum computing could weaken blockchain security as Bitcoin developers weigh a draft migration plan and Ethereum targets 2029.",
-    "tags": [
-      "BTC",
-      "ETH"
     ]
   },
   {
@@ -1152,16 +1236,6 @@
     "publishedAt": "2026-09-23T10:43:46.000Z",
     "preview": "Three weeks after fining a teleprompter operator who traded on speeches he had already read, regulators set out what exchanges must show.",
     "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "CFTC chair pushes tokenization as SEC opens door to onchain stocks",
-    "link": "https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets",
-    "publishedAt": "2026-09-23T10:06:55.000Z",
-    "preview": "Michael Selig said tokenization could reshape financial markets as the CFTC and SEC continue advancing onchain initiatives despite the CLARITY Act setback.",
-    "tags": [
-      "Regulation"
-    ]
   },
   {
     "source": "Decrypt",
@@ -1229,29 +1303,11 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "XRP Reserves on Binance Hit 3-Month High as Price Breaks $1.50",
-    "link": "https://cryptopotato.com/xrp-reserves-on-binance-hit-3-month-high-as-price-breaks-1-50/",
-    "publishedAt": "2026-09-23T04:11:20.000Z",
-    "preview": "Binance XRP deposits ran about 663% above their quarterly baseline, while withdrawals also rose substantially in recent sessions.",
-    "tags": [
-      "XRP"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "UN Security Council Will Get Advice on AI Risks From Tech Giants Building It",
     "link": "https://decrypt.co/379008/un-security-council-ai-risks-anthropic-openai-deepseek",
     "publishedAt": "2026-09-22T22:16:03.000Z",
     "preview": "DeepSeek will address the UN Security Council on AI risks this week, sharing a stage with Dario Amodei—who has spent a year calling China's government the industry's biggest threat.",
-    "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Animoca Hits Pause on Reverse Merger – But Its Public Listing Ambitions Aren’t Going Away",
-    "link": "https://cryptopotato.com/animoca-hits-pause-on-reverse-merger-but-its-public-listing-ambitions-arent-going-away/",
-    "publishedAt": "2026-09-22T22:12:28.000Z",
-    "preview": "The suspension does not rule out a future deal with Currenc Group, Animoca said in its statement.",
     "tags": []
   },
   {
@@ -1263,69 +1319,6 @@
     "tags": [
       "BTC",
       "Regulation"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "CME Expands Crypto Futures Lineup With Bitcoin Cash and Uniswap",
-    "link": "https://decrypt.co/379004/cme-crypto-bitcoin-cash-uniswap-futures",
-    "publishedAt": "2026-09-22T20:46:03.000Z",
-    "preview": "The exchange operator is adding standard and micro contracts for BCH and UNI, extending a pattern of altcoin rollouts that already covers Cardano, Chainlink, Stellar, Avalanche, and Sui.",
-    "tags": [
-      "BTC",
-      "ADA",
-      "AVAX",
-      "LINK"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Bitcoin’s Rally Above $87,000 Faces Fresh Tests: Bitfinex Alpha",
-    "link": "https://cryptopotato.com/bitcoins-rally-above-87000-faces-fresh-tests-bitfinex-alpha/",
-    "publishedAt": "2026-09-22T20:25:01.000Z",
-    "preview": "Corporate buying and spot demand support the recovery, while weak momentum and upcoming market risks keep pressure on Bitcoin.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Inside Coinbase’s $250 Billion Playbook for Post-Quantum Bitcoin Custody",
-    "link": "https://decrypt.co/379000/coinbase-playbook-post-quantum-bitcoin-custody",
-    "publishedAt": "2026-09-22T20:01:03.000Z",
-    "preview": "Head of cryptography Yehuda Lindell says the exchange is designing custody that can adapt to whatever post-quantum signing scheme Bitcoin adopts.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "White-Hat Hackers Route Coldcard Exploit Bitcoin Into 'Recovery Trust'",
-    "link": "https://decrypt.co/378978/white-hat-hackers-coldcard-exploit-bitcoin-recovery-trust",
-    "publishedAt": "2026-09-22T19:31:03.000Z",
-    "preview": "Galaxy Research says white-hat actors consolidated coins tied to the exploit into a fresh address tagged for a \"Crypto Recovery Trust,\" though the funds represent just 2.8% of the total haul.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "OpenAI Launches GPT-6 Sol and Luna Minutes After Anthropic Drops Claude Opus 5.5",
-    "link": "https://decrypt.co/378986/openai-launches-gpt-6-sol-luna-anthropic-claude-opus-5-5",
-    "publishedAt": "2026-09-22T19:00:38.000Z",
-    "preview": "OpenAI cut prices 50% on its mid-tier models the same day Anthropic shipped a cheaper flagship, escalating a rivalry now measured in minutes.",
-    "tags": [
-      "SOL"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Bitcoin Breaks Out as Nasdaq Hits Records and Oil Slides on Iran Hopes",
-    "link": "https://decrypt.co/378972/bitcoin-breaks-out-nasdaq-hits-records-oil-slides",
-    "publishedAt": "2026-09-22T18:46:03.000Z",
-    "preview": "A stretched but firmly bullish Bitcoin chart is riding the same tailwind lifting stocks: falling oil, a record Nasdaq, and a Fed that hiked rates while quietly pumping liquidity into the system.",
-    "tags": [
-      "BTC"
     ]
   }
 ]
