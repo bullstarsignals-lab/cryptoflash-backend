@@ -1,5 +1,128 @@
 [
   {
+    "source": "CryptoPotato",
+    "title": "KelpDAO Sues LayerZero and CEO Bryan Pellegrino Over $292M Hack",
+    "link": "https://cryptopotato.com/kelpdao-sues-layerzero-and-ceo-bryan-pellegrino-over-292m-hack/",
+    "publishedAt": "2026-09-25T20:16:33.000Z",
+    "preview": "Pellegrino rejected the civil claim, calling it meritless and saying that he would defend himself in Vancouver courts.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
+    "link": "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
+    "publishedAt": "2026-09-25T20:01:05.000Z",
+    "preview": "The trade group will be run again by its original CEO, Kristin Smith, when Summer Mersinger leaves at the end of a long congressional tussle.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds",
+    "link": "https://decrypt.co/379369/ai-agents-hacked-test-environment-cheat-darktrace",
+    "publishedAt": "2026-09-25T19:45:39.000Z",
+    "preview": "Darktrace's new Signal Labs found AI agents hacking their own evaluation environment to fake a perfect score—and tricking coding assistants into running unauthorized network attacks.",
+    "tags": []
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Fed Proposes Full Reserve And Capital Rules For US Stablecoin Issuers",
+    "link": "https://www.newsbtc.com/regulation/fed-proposes-full-reserve-and-capital-rules-for-us-stablecoin-issuers/",
+    "publishedAt": "2026-09-25T19:30:00.000Z",
+    "preview": "The Federal Reserve has proposed two new rulemaking packages for payment stablecoin issuers under the GENIUS Act. Board-supervised issuers would have to fully back tokens with permitted reserve assets and meet standardiz",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Bitget’s hack just got $36 million bigger, and now there’s a bounty on the stolen crypto",
+    "link": "https://cryptoslate.com/bitgets-hack-just-got-36-million-bigger-and-now-theres-a-bounty-on-the-stolen-crypto/",
+    "publishedAt": "2026-09-25T19:20:35.000Z",
+    "preview": "The exchange says the revision adds assets from the same incident and will announce a withdrawal plan by Sept. 26. The post Bitget’s hack just got $36 million bigger, and now there’s a bounty on the stolen crypto appeare",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "Google Built an AI That Hunts Its Own Security Bugs",
+    "link": "https://decrypt.co/379364/google-built-ai-hunts-security-bugs",
+    "publishedAt": "2026-09-25T19:16:04.000Z",
+    "preview": "Google's PageBreak agent autonomously finds and verifies real vulnerabilities in its own web apps, cutting through the flood of noisy AI-generated security reports.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
+    "link": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex",
+    "publishedAt": "2026-09-25T18:56:53.000Z",
+    "preview": "US prosecutors alleged that a payments business illegally transferred hundreds of millions of dollars at the direction of EQIBank, where Tether holds some assets.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-09-25T18:42:59.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
+    "link": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
+    "publishedAt": "2026-09-25T18:42:51.000Z",
+    "preview": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT—but the attacker swapped most funds into unfreezable ETH before they could act.",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide",
+    "link": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead",
+    "publishedAt": "2026-09-25T18:33:49.000Z",
+    "preview": "The crypto executive and Dystopia Labs founder previously held senior roles at Stellar and Solana before joining venture capital firm Hack VC.",
+    "tags": [
+      "SOL"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "White Hat Operation Rescues 23K NFTs After Payment Processor Exploit",
+    "link": "https://cryptopotato.com/white-hat-operation-rescues-23k-nfts-after-payment-processor-exploit/",
+    "publishedAt": "2026-09-25T18:30:31.000Z",
+    "preview": "Holders whose NFTs moved without their permission are being told to revoke old contract approvals before any rescued tokens get sent back.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Old Magic Eden NFT approvals put users at risk after whitehat moves 3,832 NFTs",
+    "link": "https://cryptoslate.com/magic-eden-nft-approvals-risk-3832-whitehat-rescue/",
+    "publishedAt": "2026-09-25T18:00:29.000Z",
+    "preview": "Revoke.cash says a processor permission survived the EVM marketplace's closure, while malicious NFT losses remain unclear. The post Old Magic Eden NFT approvals put users at risk after whitehat moves 3,832 NFTs appeared ",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "OpenAI Is Building a $500 per Month ChatGPT Pro Max Plan, Leaks Suggest",
+    "link": "https://decrypt.co/379359/openai-500-per-month-chatgpt-pro-max-plan",
+    "publishedAt": "2026-09-25T17:46:05.000Z",
+    "preview": "Leaked code strings and screenshots point to a new tier that would cost 25 times more than ChatGPT Plus, aimed at people who need the bot to work faster, not just longer.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Bitget clarifies $388M in assets affected by security breach",
+    "link": "https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach",
+    "publishedAt": "2026-09-25T17:17:45.000Z",
+    "preview": "The Bitget breach announced on Thursday affected about $35 million more than previously reported, based on an analysis of assets on Zcash and TRON.",
+    "tags": [
+      "TRX"
+    ]
+  },
+  {
     "source": "Decrypt",
     "title": "Bitget Hack Losses Climb to $387M: Here’s What Happened, and Why North Korea Is a Suspect",
     "link": "https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect",
@@ -167,17 +290,6 @@
     "preview": "Lower distillate stocks add to fuel pressure, while upcoming September price reports will test whether freight costs spread. The post Bitcoin faces a new inflation test after diesel hits a nominal $6.53 record appeared f",
     "tags": [
       "BTC"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-09-25T13:32:49.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
     ]
   },
   {
@@ -475,14 +587,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Payy bridge exploit freezes crypto cards, and no balances remain safe",
-    "link": "https://cryptoslate.com/payy-bridge-exploit-freezes-crypto-cards-and-no-balances-remain-safe/",
-    "publishedAt": "2026-09-25T07:10:06.000Z",
-    "preview": "Payy says the bridge was drained, while the extent of any customer losses remains undisclosed. The post Payy bridge exploit freezes crypto cards, and no balances remain safe appeared first on CryptoSlate.",
-    "tags": []
-  },
-  {
     "source": "CoinDesk",
     "title": "Live updates: Bitcoin moves to $84,000, oil slides on latest report of Middle East progress",
     "link": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
@@ -516,14 +620,6 @@
     "link": "https://www.newsbtc.com/technology/senate-democrats-demand-public-hearing-on-prediction-markets/",
     "publishedAt": "2026-09-25T05:30:00.000Z",
     "preview": "TL;DR All 11 Democrats on the U.S. Senate Banking Committee have called for a public hearing on prediction markets. The request followed a private meeting between Republican committee members and Kalshi CEO Tarek Mansour",
-    "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Ondo unlocks BlackRock portfolio strategies, but only non-US traders benefit",
-    "link": "https://cryptoslate.com/ondo-unlocks-blackrock-portfolio-strategies-but-only-non-us-traders-benefit/",
-    "publishedAt": "2026-09-25T05:20:44.000Z",
-    "preview": "BlackRock supplies the allocations; Ondo issues the securities and requires onboarding before direct minting or redemption. The post Ondo unlocks BlackRock portfolio strategies, but only non-US traders benefit appeared f",
     "tags": []
   },
   {
@@ -605,14 +701,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Galaxy Adds $100M Of Sky’s sUSDS To Corporate Treasury",
-    "link": "https://www.newsbtc.com/altcoins/galaxy-adds-100m-of-skys-susds-to-corporate-treasury/",
-    "publishedAt": "2026-09-25T01:30:00.000Z",
-    "preview": "TL;DR Galaxy has added $100 million of Sky Protocol’s sUSDS to its own corporate treasury. The firm has also approved sUSDS as collateral across an institutional trading business carrying an average loan book of about $1",
-    "tags": []
   },
   {
     "source": "Cointelegraph",
@@ -1062,16 +1150,6 @@
     ]
   },
   {
-    "source": "CoinDesk",
-    "title": "Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes",
-    "link": "https://www.coindesk.com/business/2026/09/24/cathie-wood-s-ark-teams-with-securitize-to-tokenize-venture-fund-with-openai-anthropic-stakes",
-    "publishedAt": "2026-09-24T13:00:00.000Z",
-    "preview": "The ARK Venture Fund is bringing exposure to sought-after private tech companies onchain through Securitize, first on Ethereum then potentially expanding to other chains.",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "Why Blockchain Startups Need Different Marketing for Institutional Investors",
     "link": "https://cryptopotato.com/why-blockchain-startups-need-different-marketing-for-institutional-investors/",
@@ -1108,14 +1186,6 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "HIFI raises $37M to expand stablecoin payments, tokenized markets",
-    "link": "https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets",
-    "publishedAt": "2026-09-24T12:00:00.000Z",
-    "preview": "HIFI CEO Zach Walsh told Cointelegraph the $37 million Series A is the company’s first priced funding round, though HIFI did not disclose its valuation.",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "Morning Minute: Selig Says ‘It’s Go Time’ for CFTC Crypto Rules",
     "link": "https://decrypt.co/379169/morning-minute-selig-says-its-go-time-for-cftc-crypto-rules",
@@ -1132,27 +1202,11 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "Era of pure crypto exchanges is ending, Bybit CEO says",
-    "link": "https://cointelegraph.com/news/era-pure-crypto-exchanges-end-bybit-ceo",
-    "publishedAt": "2026-09-24T11:24:07.000Z",
-    "preview": "Bybit’s global campaign positions it as a broader financial platform, though its stock, gold and forex derivatives were already available.",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "Q-Day Could Arrive Before Quantum Computers Are Commercially Useful, EU Warns",
     "link": "https://decrypt.co/379167/q-day-could-arrive-before-quantum-computers-are-commercially-useful-eu-warns",
     "publishedAt": "2026-09-24T11:05:19.000Z",
     "preview": "The threat could arrive before quantum computers are commercially useful, and member states have until the end of 2026 to plan for it.",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "EU banking watchdog calls for crypto lending rules under MiCA",
-    "link": "https://cointelegraph.com/news/eu-eba-crypto-lending-defi-mica-rules",
-    "publishedAt": "2026-09-24T10:30:00.000Z",
-    "preview": "The EBA outlined potential rules for crypto lending and firms providing access to DeFi protocols as part of the European Commission’s MiCA review.",
     "tags": []
   },
   {
@@ -1266,62 +1320,6 @@
     "link": "https://decrypt.co/379122/metas-muse-ai-agent-user-private-imessages-lied-how",
     "publishedAt": "2026-09-23T20:44:20.000Z",
     "preview": "A tech columnist declined to give Meta's new AI agent access to his messages. It read them anyway, then invented an explanation for how it knew.",
-    "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Vitalik Buterin Endorses Trueo as Prediction Market Moves to Ethereum",
-    "link": "https://cryptopotato.com/vitalik-buterin-endorses-trueo-as-prediction-market-moves-to-ethereum/",
-    "publishedAt": "2026-09-23T20:24:23.000Z",
-    "preview": "Trueo says the shift is about Ethereum's integrations and philosophy, not dissatisfaction with Base or its place among competing networks.",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Zcash's Wall Street Moment Reaches Europe With Its First ETP Listing",
-    "link": "https://decrypt.co/379105/zcash-wall-street-europe-first-etp",
-    "publishedAt": "2026-09-23T19:36:15.000Z",
-    "preview": "21Shares listed Europe's first Zcash exchange-traded product on Euronext Paris and Amsterdam this week as ZEC continues its banner year.",
-    "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Top Cardano Price Predictions as ADA Explodes 30% in a Week",
-    "link": "https://cryptopotato.com/top-cardano-price-predictions-as-ada-explodes-30-in-a-week/",
-    "publishedAt": "2026-09-23T18:55:18.000Z",
-    "preview": "\"ADA could do something really crazy,\" X user Sssebi assumed.",
-    "tags": [
-      "ADA"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "$15.6 Billion in Bitcoin Options Expire Friday—Here's What It Means",
-    "link": "https://decrypt.co/379093/15-6-billion-bitcoin-options-expire-friday-what-means",
-    "publishedAt": "2026-09-23T18:46:03.000Z",
-    "preview": "Deribit's strike-by-strike data shows a book stacked with calls, and one price level drawing hedging pressure from both sides at once.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Borrow Against Your Bitcoin at a Fixed Rate: Coinbase Expands Morpho Loans",
-    "link": "https://decrypt.co/379091/borrow-against-bitcoin-fixed-rate-coinbase-morpho",
-    "publishedAt": "2026-09-23T18:15:06.000Z",
-    "preview": "The product lets users lock in their rate and repayment date when borrowing USDC against Bitcoin, marking the first enterprise-scale deployment of Morpho Midnight and a shift away from on-chain lending's variable-rate no",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Crypto Exchange That Invented 100x Leverage Is No More: Here’s What BitMEX Users Need to Know",
-    "link": "https://decrypt.co/379089/crypto-exchange-that-invented-100x-leverage-is-no-more-heres-what-bitmex-users-need-to-know",
-    "publishedAt": "2026-09-23T17:31:03.000Z",
-    "preview": "BitMEX ended trading at 04:00 UTC Wednesday and is urging users to withdraw their remaining funds, as fees now apply to balances left on the exchange.",
     "tags": []
   }
 ]
