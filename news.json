@@ -1,5 +1,77 @@
 [
   {
+    "source": "NewsBTC",
+    "title": "Strategy Wants To Pay Preferred Stock Dividends Every Day",
+    "link": "https://www.newsbtc.com/corporate/strategy-wants-to-pay-preferred-stock-dividends-every-day/",
+    "publishedAt": "2026-09-26T18:30:00.000Z",
+    "preview": "TL;DR Strategy is asking shareholders to approve daily dividend record dates for STRC, STRD, STRF and STRK. The proposed change would alter payment frequency without changing dividend rates or increasing total regular di",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Fed proposed stablecoin rule could trigger a 48-hour liquidation run",
+    "link": "https://cryptoslate.com/fed-proposed-stablecoin-rule-could-trigger-a-48-hour-liquidation-run/",
+    "publishedAt": "2026-09-26T17:55:58.000Z",
+    "preview": "The Federal Reserve's proposed rules for the payment stablecoin issuers it supervises include a crisis clock measured in hours. An issuer whose reserves fall below the value of its outstanding tokens would have 24 hours ",
+    "tags": []
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Apple And Nvidia Tokenized Stocks Can Now Back USDC Loans On Aave",
+    "link": "https://www.newsbtc.com/news/defi/apple-and-nvidia-tokenized-stocks-can-now-back-usdc-loans-on-aave/",
+    "publishedAt": "2026-09-26T17:30:00.000Z",
+    "preview": "TL;DR Aave V4 on Base has launched an Equities Hub accepting seven Coinbase tokenized U.S. stocks as collateral. Eligible non-U.S. users can deposit tokens representing Apple, Amazon, Alphabet, Meta, Microsoft, Nvidia an",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green",
+    "link": "https://decrypt.co/379391/bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green",
+    "publishedAt": "2026-09-26T17:01:03.000Z",
+    "preview": "Bitcoin ETFs have drawn nearly $3 billion over seven straight sessions, erasing post-Clarity Act losses and pushing 2026 flows back into positive territory.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "SEC Issues Fresh Crypto Guidance on Staking Tokens, Buybacks, and the Howey Test",
+    "link": "https://cryptopotato.com/sec-issues-fresh-crypto-guidance-on-staking-tokens-buybacks-and-the-howey-test/",
+    "publishedAt": "2026-09-26T16:55:48.000Z",
+    "preview": "The watchdog's Division of Corporation Finance has published a new set of crypto FAQs. Here are the most important topics.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Washington has $114 billion reasons to want Tether around",
+    "link": "https://cryptoslate.com/washington-has-114-billion-reasons-to-want-tether-around/",
+    "publishedAt": "2026-09-26T16:45:55.000Z",
+    "preview": "Not that long ago, Washington fined Tether for misleading people about the dollars behind its tokens. Today, the company's insatiable appetite for American debt is the main argument for sending those tokens further aroun",
+    "tags": []
+  },
+  {
+    "source": "NewsBTC",
+    "title": "CleanSpark Closes $2.276B Debt Financing As Miner Builds For Its Next Expansion",
+    "link": "https://www.newsbtc.com/corporate/cleanspark-closes-2-276b-debt-financing-as-miner-builds-for-its-next-expansion/",
+    "publishedAt": "2026-09-26T16:30:00.000Z",
+    "preview": "TL;DR CleanSpark has completed the closing of $2.276 billion in senior secured notes. The Bitcoin miner says proceeds will support data-center expansion and refinancing of existing credit facilities. The financing has cl",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "How Crypto Stopped Waiting for Congress and Learned to Love the Regulators",
+    "link": "https://decrypt.co/379383/how-crypto-stopped-waiting-congress-learned-love-regulators",
+    "publishedAt": "2026-09-26T16:06:03.000Z",
+    "preview": "After the Clarity Act failed in the Senate, the SEC, CFTC, and the Fed moved within days to write crypto's rules themselves. Will it be enough?",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
     "source": "CryptoSlate",
     "title": "Balancer fork’s 6 million BAL ask could cut holders’ redemption value",
     "link": "https://cryptoslate.com/balancer-forks-6-million-bal-ask-could-cut-holders-redemption-value/",
@@ -283,14 +355,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Swiss bank shields Bitget institutions while retail funds freeze",
-    "link": "https://cryptoslate.com/swiss-bank-shields-bitget-institutions-while-retail-funds-freeze/",
-    "publishedAt": "2026-09-26T02:30:16.000Z",
-    "preview": "Sygnum offers bank-held trading collateral to institutional clients, while Bitget's withdrawal pause leaves ordinary balances dependent on its own controls and fund. The post Swiss bank shields Bitget institutions while ",
-    "tags": []
-  },
-  {
     "source": "NewsBTC",
     "title": "HIFI Raises $37M To Build Stablecoin And Tokenized Market Infrastructure",
     "link": "https://www.newsbtc.com/technology/hifi-raises-37m-to-build-stablecoin-and-tokenized-market-infrastructure/",
@@ -310,14 +374,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "IBM links 17 banks to the SWIFT ledger, but the cloud risk persists",
-    "link": "https://cryptoslate.com/ibm-links-17-banks-to-the-swift-ledger-but-the-cloud-risk-persists/",
-    "publishedAt": "2026-09-26T00:40:46.000Z",
-    "preview": "Digital Asset Haven’s ISO 20022 adapter supports tokenized-deposit instructions, while final settlement stays with existing systems. The post IBM links 17 banks to the SWIFT ledger, but the cloud risk persists appeared f",
-    "tags": []
-  },
-  {
     "source": "NewsBTC",
     "title": "The Clearing House Picks Quant For US Tokenized Deposit Network",
     "link": "https://www.newsbtc.com/technology/the-clearing-house-picks-quant-for-us-tokenized-deposit-network/",
@@ -331,14 +387,6 @@
     "link": "https://www.newsbtc.com/technology/ibm-connects-banks-to-swifts-blockchain-ledger-for-tokenized-deposits/",
     "publishedAt": "2026-09-25T23:30:00.000Z",
     "preview": "IBM Digital Asset Haven can now connect financial institutions to Swift’s blockchain-based shared ledger through a beta integration. Banks can instruct tokenized-deposit transactions using existing ISO 20022 payment mess",
-    "tags": []
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Ondo Puts BlackRock-Designed Portfolios Into Single Onchain Tokens",
-    "link": "https://www.newsbtc.com/altcoins/ondo-puts-blackrock-designed-portfolios-into-single-onchain-tokens/",
-    "publishedAt": "2026-09-25T22:30:00.000Z",
-    "preview": "Ondo has launched three tokenized portfolios based on investment strategies developed by BlackRock specifically for the platform. The products package baskets of tokenized assets into individual onchain tokens. BlackRock",
     "tags": []
   },
   {
@@ -358,16 +406,6 @@
     "publishedAt": "2026-09-25T22:02:27.000Z",
     "preview": "The funding was led by Left Lane Capital, and aims to expand the company's regulatory licenses, card products, and capital markets infrastructure.",
     "tags": []
-  },
-  {
-    "source": "NewsBTC",
-    "title": "New York Sues Polymarket Over Alleged Illegal Gambling Operation",
-    "link": "https://www.newsbtc.com/regulation/new-york-sues-polymarket-over-alleged-illegal-gambling-operation/",
-    "publishedAt": "2026-09-25T21:30:00.000Z",
-    "preview": "New York Attorney General Letitia James and Governor Kathy Hochul have announced a lawsuit against Polymarket US. The state alleges the prediction platform is operating illegal, unlicensed gambling in New York. The lawsu",
-    "tags": [
-      "Regulation"
-    ]
   },
   {
     "source": "Decrypt",
@@ -391,14 +429,6 @@
     "link": "https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures",
     "publishedAt": "2026-09-25T20:37:21.000Z",
     "preview": "OG.com, recently spun out of Crypto.com, joins Coinbase, Kalshi and Kraken parent Payward in seeking approval to bring perpetual futures to individual US stocks.",
-    "tags": []
-  },
-  {
-    "source": "NewsBTC",
-    "title": "ARK Brings $1.3B Venture Fund Onchain Through Securitize",
-    "link": "https://www.newsbtc.com/technology/ark-brings-1-3b-venture-fund-onchain-through-securitize/",
-    "publishedAt": "2026-09-25T20:30:00.000Z",
-    "preview": "ARK Invest is tokenizing its ARK Venture Fund through Securitize. The fund has roughly $1.3 billion in assets and invests across private and public technology companies including OpenAI, Anthropic, Stripe and Databricks.",
     "tags": []
   },
   {
@@ -1251,16 +1281,6 @@
     "tags": []
   },
   {
-    "source": "CryptoPotato",
-    "title": "Ethereum Price Prediction: ETH Failed at $2.8K – Which Levels Matter Now?",
-    "link": "https://cryptopotato.com/ethereum-price-prediction-eth-failed-at-2-8k-which-levels-matter-now/",
-    "publishedAt": "2026-09-24T12:11:06.000Z",
-    "preview": "Ethereum is consolidating after a sharp recovery from the $1.5K area and a subsequent breakout above the $2.1K region. The second-largest crypto asset is now trading around $2.64K, with the latest pullback occurring dire",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Morning Minute: Selig Says ‘It’s Go Time’ for CFTC Crypto Rules",
     "link": "https://decrypt.co/379169/morning-minute-selig-says-its-go-time-for-cftc-crypto-rules",
@@ -1282,22 +1302,6 @@
     "link": "https://decrypt.co/379153/brooklyn-man-who-bragged-about-16m-coinbase-scam-gets-up-to-12-years",
     "publishedAt": "2026-09-24T09:00:46.000Z",
     "preview": "He posed as support staff, emptied about 100 accounts, then lost $6 million of the proceeds gambling, according to his own messages.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Anthropic Says Claude Found Something Big in DNA. It Just Doesn't Know What",
-    "link": "https://decrypt.co/379128/anthropic-claude-found-something-big-dna-doesnt-know-what",
-    "publishedAt": "2026-09-23T22:56:03.000Z",
-    "preview": "Anthropic says Claude autonomously found a new CRISPR-like enzyme system. Even Dario Amodei admits nobody knows what it actually does.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "An AI Agent Just Hacked a Government Website for the First Time, Australia PM Says",
-    "link": "https://decrypt.co/379134/an-ai-agent-just-hacked-a-government-website-for-the-first-time-australia-pm-says",
-    "publishedAt": "2026-09-23T22:31:45.000Z",
-    "preview": "Anthony Albanese said the agent accessed public and non-public files on a Medicare statistics portal in June, calling OpenAI's three-month delay in disclosing the breach \"unacceptable.\"",
     "tags": []
   },
   {
