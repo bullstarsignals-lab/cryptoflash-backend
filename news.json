@@ -1,5 +1,142 @@
 [
   {
+    "source": "CryptoSlate",
+    "title": "Balancer fork’s 6 million BAL ask could cut holders’ redemption value",
+    "link": "https://cryptoslate.com/balancer-forks-6-million-bal-ask-could-cut-holders-redemption-value/",
+    "publishedAt": "2026-09-26T15:30:10.000Z",
+    "preview": "The fixed-base cost depends on how much granted BAL becomes eligible before the treasury snapshot; the fork's proposed return is conditional. The post Balancer fork’s 6 million BAL ask could cut holders’ redemption value",
+    "tags": []
+  },
+  {
+    "source": "NewsBTC",
+    "title": "SEC Clarifies When Crypto Buybacks And Network Upgrades Can Raise Securities Questions",
+    "link": "https://www.newsbtc.com/regulation/sec-clarifies-when-crypto-buybacks-and-network-upgrades-can-raise-securities-questions/",
+    "publishedAt": "2026-09-26T15:30:00.000Z",
+    "preview": "TL;DR SEC staff has published new FAQs explaining how federal securities laws may apply to crypto-asset buybacks, network upgrades and secondary-market activity. The guidance says a buyback can become relevant to an inve",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Ethereum Price Analysis: ETH Eyes $3K, but These Major Hurdles Stand in the Way",
+    "link": "https://cryptopotato.com/ethereum-price-analysis-eth-eyes-3k-but-these-major-hurdles-stand-in-the-way/",
+    "publishedAt": "2026-09-26T15:20:43.000Z",
+    "preview": "Ethereum remains in a constructive broader structure despite cooling off after its latest rally. ETH is consolidating below $2.7K after rejection from the $2.75K-$2.82K resistance zone, while the daily moving averages ar",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap—And Winning",
+    "link": "https://decrypt.co/379378/ai-agents-racing-make-quantum-safe-bitcoin-cheap",
+    "publishedAt": "2026-09-26T15:01:05.000Z",
+    "preview": "An open competition run by StarkWare, Yukon Research, and Eigen Labs drove the estimated cost of building a quantum-safe Bitcoin transaction from about $320 to roughly $67, with AI models topping the leaderboards.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
+    "link": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
+    "publishedAt": "2026-09-26T14:00:00.000Z",
+    "preview": "Kraken parent Payward is unifying trading, payments, asset management and institutional services on common rails, co-CEO Arjun Sethi said.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Fed stablecoin proposal would make circulation a capital cost for supervised issuers",
+    "link": "https://cryptoslate.com/fed-stablecoin-proposal-would-make-circulation-a-capital-cost-for-supervised-issuers/",
+    "publishedAt": "2026-09-26T13:35:46.000Z",
+    "preview": "At $1 billion outstanding with no non-reserve revenue, the proposed operating-risk baseline would be $20 million before adjustments. The post Fed stablecoin proposal would make circulation a capital cost for supervised i",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Nearly $15B is moving off LayerZero, now a $292M lawsuit puts its security model on trial",
+    "link": "https://cryptoslate.com/nearly-15-billion-is-moving-off-layerzero-now-a-292-million-lawsuit-puts-its-security-model-on-trial/",
+    "publishedAt": "2026-09-26T13:30:11.000Z",
+    "preview": "Evercrest Technologies, the company behind KelpDAO, has sued LayerZero Labs, its Canadian affiliate, and CEO Bryan Pellegrino in British Columbia over April's $292 million rsETH exploit. The claim alleges negligent misre",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Kalshi loses appeal, setting up potential Supreme Court case",
+    "link": "https://cointelegraph.com/news/kalshi-loses-appeal-setting-up-potential-supreme-court-case",
+    "publishedAt": "2026-09-26T13:21:12.000Z",
+    "preview": "The 6th US Circuit Court of Appeals ruled against prediction market Kalshi, siding with Ohio and Tennessee on regulating sports-event contracts under state laws.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Why Is This Company Dumping All of Its Bitcoin and Abandoning Its BTC Strategy?",
+    "link": "https://cryptopotato.com/why-is-this-company-dumping-all-of-its-bitcoin-and-abandoning-its-btc-strategy/",
+    "publishedAt": "2026-09-26T13:16:01.000Z",
+    "preview": "The firm in question has completed its exit from the Bitcoin strategy field.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Google Just Made Free 1080p AI Video Generation Available to Anyone",
+    "link": "https://decrypt.co/379353/google-free-1080p-ai-video-generation",
+    "publishedAt": "2026-09-26T13:01:03.000Z",
+    "preview": "Google Vids now lets any Google account holder generate free HD AI video using Gemini Omni 1.1 Flash, with new scene, timing, and watermark controls.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
+    "link": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
+    "publishedAt": "2026-09-26T13:00:00.000Z",
+    "preview": "The five-year deal could strengthen USDC’s reach in emerging markets, though Tether’s liquidity advantage remains hard to dislodge, analysts told CoinDesk.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
+    "link": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
+    "publishedAt": "2026-09-26T12:56:41.000Z",
+    "preview": "Two wallets have been almost emptied and a third is being drained, with about $75 million remaining across the five original holding accounts.",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Kalshi must lock out state users after major court loss",
+    "link": "https://cryptoslate.com/kalshi-must-lock-out-state-users-after-major-court-loss/",
+    "publishedAt": "2026-09-26T12:30:13.000Z",
+    "preview": "The Sixth Circuit ruled Sept. 25 that Ohio and Tennessee can apply their gambling laws to Kalshi's sports contracts. The court rejected Kalshi's argument that complying state by state would conflict with its duties as a ",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-09-26T12:17:00.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+    "link": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+    "publishedAt": "2026-09-26T12:00:00.000Z",
+    "preview": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
     "source": "CryptoPotato",
     "title": "XRP Whales Keep Buying as Ripple Makes Big BlackRock-Related Announcement",
     "link": "https://cryptopotato.com/xrp-whales-keep-buying-as-ripple-makes-big-blackrock-related-announcement/",
@@ -128,16 +265,6 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
-    "link": "https://www.coindesk.com/tech/2026/09/26/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
-    "publishedAt": "2026-09-26T04:02:13.000Z",
-    "preview": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "Fed Moves to Tighten Stablecoin Rules With Two New GENIUS Act Proposals",
     "link": "https://cryptopotato.com/fed-moves-to-tighten-stablecoin-rules-with-two-new-genius-act-proposals/",
@@ -207,16 +334,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Dormant whale moves $380M Bitcoin, leaving the sale question unanswered",
-    "link": "https://cryptoslate.com/dormant-whale-moves-380m-bitcoin-leaving-the-sale-question-unanswered/",
-    "publishedAt": "2026-09-25T22:50:32.000Z",
-    "preview": "The principal output dated to April 2022, and the Sept. 25 destination still held the full balance at the time checked. The post Dormant whale moves $380M Bitcoin, leaving the sale question unanswered appeared first on C",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "NewsBTC",
     "title": "Ondo Puts BlackRock-Designed Portfolios Into Single Onchain Tokens",
     "link": "https://www.newsbtc.com/altcoins/ondo-puts-blackrock-designed-portfolios-into-single-onchain-tokens/",
@@ -269,16 +386,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Bitcoin survives a 5.2% Treasury shock as traders slash $1.7 billion in leverage",
-    "link": "https://cryptoslate.com/bitcoin-survives-a-5-2-treasury-shock-as-traders-slash-1-7-billion-in-leverage/",
-    "publishedAt": "2026-09-25T21:10:07.000Z",
-    "preview": "Bitcoin is holding near $84,000 even as a historic US bond selloff pushes Treasury yields to decades-high levels. The benchmark 10-year Treasury yield climbed to 5.22%, extending a move that has taken borrowing costs to ",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "OG.com seeks CFTC approval for single-stock perpetual futures",
     "link": "https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures",
@@ -329,24 +436,6 @@
     "tags": []
   },
   {
-    "source": "NewsBTC",
-    "title": "Fed Proposes Full Reserve And Capital Rules For US Stablecoin Issuers",
-    "link": "https://www.newsbtc.com/regulation/fed-proposes-full-reserve-and-capital-rules-for-us-stablecoin-issuers/",
-    "publishedAt": "2026-09-25T19:30:00.000Z",
-    "preview": "The Federal Reserve has proposed two new rulemaking packages for payment stablecoin issuers under the GENIUS Act. Board-supervised issuers would have to fully back tokens with permitted reserve assets and meet standardiz",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Bitget’s hack just got $36 million bigger, and now there’s a bounty on the stolen crypto",
-    "link": "https://cryptoslate.com/bitgets-hack-just-got-36-million-bigger-and-now-theres-a-bounty-on-the-stolen-crypto/",
-    "publishedAt": "2026-09-25T19:20:35.000Z",
-    "preview": "The exchange says the revision adds assets from the same incident and will announce a withdrawal plan by Sept. 26. The post Bitget’s hack just got $36 million bigger, and now there’s a bounty on the stolen crypto appeare",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "Google Built an AI That Hunts Its Own Security Bugs",
     "link": "https://decrypt.co/379364/google-built-ai-hunts-security-bugs",
@@ -361,17 +450,6 @@
     "publishedAt": "2026-09-25T18:56:53.000Z",
     "preview": "US prosecutors alleged that a payments business illegally transferred hundreds of millions of dollars at the direction of EQIBank, where Tether holds some assets.",
     "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-09-25T18:42:59.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
-    ]
   },
   {
     "source": "Decrypt",
@@ -399,14 +477,6 @@
     "link": "https://cryptopotato.com/white-hat-operation-rescues-23k-nfts-after-payment-processor-exploit/",
     "publishedAt": "2026-09-25T18:30:31.000Z",
     "preview": "Holders whose NFTs moved without their permission are being told to revoke old contract approvals before any rescued tokens get sent back.",
-    "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Old Magic Eden NFT approvals put users at risk after whitehat moves 3,832 NFTs",
-    "link": "https://cryptoslate.com/magic-eden-nft-approvals-risk-3832-whitehat-rescue/",
-    "publishedAt": "2026-09-25T18:00:29.000Z",
-    "preview": "Revoke.cash says a processor permission survived the EVM marketplace's closure, while malicious NFT losses remain unclear. The post Old Magic Eden NFT approvals put users at risk after whitehat moves 3,832 NFTs appeared ",
     "tags": []
   },
   {
@@ -972,32 +1042,12 @@
     ]
   },
   {
-    "source": "CoinDesk",
-    "title": "U.S. commodities firms can invest in tokenized assets, use blockchain records: CFTC",
-    "link": "https://www.coindesk.com/policy/2026/09/24/u-s-commodities-firms-can-invest-in-tokenized-assets-use-blockchain-records-cftc",
-    "publishedAt": "2026-09-24T20:04:46.000Z",
-    "preview": "The U.S derivatives regulator is grinding away at further guidance that welcomes tokenization and blockchain recordkeeping as regular industry elements.",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "DoubleZero brings dedicated fiber market data to Hyperliquid traders",
     "link": "https://cointelegraph.com/news/doublezero-brings-dedicated-fiber-market-data-hyperliquid-traders",
     "publishedAt": "2026-09-24T20:04:07.000Z",
     "preview": "DoubleZero launched a dedicated fiber market data feed for Hyperliquid, giving professional trading firms faster access to its full order book.",
     "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "The stock token debate, and the gap nobody can close alone",
-    "link": "https://www.coindesk.com/opinion/2026/09/24/the-stock-token-debate-and-the-gap-nobody-can-close-alone",
-    "publishedAt": "2026-09-24T20:03:21.000Z",
-    "preview": "The argument over Robinhood’s AMC token has been about which tokenization model is legitimate, and the SEC has drawn a line. The question to ask now is what has to be true for any of it to be a market, argues Bullish’s T",
-    "tags": [
-      "Regulation"
-    ]
   },
   {
     "source": "Decrypt",
@@ -1024,16 +1074,6 @@
     "publishedAt": "2026-09-24T19:16:03.000Z",
     "preview": "Muse Charm is Meta's palm-sized gadget for talking to its Muse AI agent on the go. It has cameras, a fingerprint sensor, and its own cell connection.",
     "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Bitcoin just topped a key long-term moving average. Here's what it might mean",
-    "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-just-topped-a-key-long-term-moving-average-here-s-what-it-might-mean",
-    "publishedAt": "2026-09-24T18:46:58.000Z",
-    "preview": "Bitcoin’s return above its one-year average excited chart watchers. AltcoinPro Research says the more important signal is whether it can stay above its 200-day average.",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "Decrypt",
@@ -1089,16 +1129,6 @@
     "publishedAt": "2026-09-24T17:14:35.000Z",
     "preview": "Most DATs now trade below the value of their crypto holdings, weakening a financing model that once helped companies expand their balance sheets.",
     "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC",
-    "link": "https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc",
-    "publishedAt": "2026-09-24T17:13:38.000Z",
-    "preview": "The France-based semiconductor company has fully unwound a Bitcoin treasury that once held more than 3,200 BTC as more firms scale back crypto holdings.",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "Decrypt",
@@ -1231,24 +1261,6 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "Ripple Price Analysis: Is It All Doom and Gloom for XRP After the Latest Rejection at $1.60?",
-    "link": "https://cryptopotato.com/ripple-price-analysis-is-it-all-doom-and-gloom-for-xrp-after-the-latest-rejection-at-1-60/",
-    "publishedAt": "2026-09-24T12:05:23.000Z",
-    "preview": "XRP’s breakout from its descending channel delivered a strong rally, but the move has now met substantial selling pressure at a major resistance area. The resulting pullback puts the recent breakout to the test, with the",
-    "tags": [
-      "XRP"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "BTCC Exchange and Markets.com Announce Promotional Collaboration Ahead of TOKEN2049 Singapore",
-    "link": "https://cryptopotato.com/btcc-exchange-and-markets-com-announce-promotional-collaboration-ahead-of-token2049-singapore/",
-    "publishedAt": "2026-09-24T12:01:18.000Z",
-    "preview": "[PRESS RELEASE – GEORGE TOWN, Cayman Islands, September 23rd, 2026] BTCC, one of the world’s longest-serving cryptocurrency exchanges, today announced a promotional collaboration with Markets.com, a global CFD trading pl",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "Morning Minute: Selig Says ‘It’s Go Time’ for CFTC Crypto Rules",
     "link": "https://decrypt.co/379169/morning-minute-selig-says-its-go-time-for-cftc-crypto-rules",
@@ -1287,24 +1299,6 @@
     "publishedAt": "2026-09-23T22:31:45.000Z",
     "preview": "Anthony Albanese said the agent accessed public and non-public files on a Medicare statistics portal in June, calling OpenAI's three-month delay in disclosing the breach \"unacceptable.\"",
     "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "OpenAI Gives Ukraine Access to Daybreak AI Cyber-Defense Tool",
-    "link": "https://decrypt.co/379126/openai-ukraine-access-daybreak-ai-cyber-defense-tool",
-    "publishedAt": "2026-09-23T22:06:04.000Z",
-    "preview": "OpenAI is giving Ukraine's government access to Daybreak, its AI vulnerability-hunting system, as the country's cyber defenders face a record wave of attacks on hospitals, power grids, and government networks.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "China Probes DeepSeek and Moonshot Over Alleged Data Leaks to Anthropic's Claude",
-    "link": "https://decrypt.co/379120/china-probes-deepseek-moonshot-data-leaks-anthropic-claude",
-    "publishedAt": "2026-09-23T21:31:03.000Z",
-    "preview": "China's internet regulator is investigating DeepSeek and Moonshot AI after Anthropic accused both of secretly routing millions of user exchanges through Claude to train their own models.",
-    "tags": [
-      "Regulation"
-    ]
   },
   {
     "source": "Decrypt",
