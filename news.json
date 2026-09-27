@@ -1,5 +1,41 @@
 [
   {
+    "source": "Cointelegraph",
+    "title": "THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest",
+    "link": "https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now",
+    "publishedAt": "2026-09-27T23:43:18.000Z",
+    "preview": "THORChain refuses to blacklist addresses linked to the Bitget hack. Vitalik Buterin says Ethereum is evolving from being a mere blockchain, into a world cryptographic computer.",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Core Lightning patches flaw that could let revoked channel state escape penalty",
+    "link": "https://cryptoslate.com/core-lightning-revoked-channel-penalty-flaw/",
+    "publishedAt": "2026-09-27T23:15:38.000Z",
+    "preview": "The flaw was fixed in v26.06.7, but older builds and some early Docker images still call for an upgrade check. The post Core Lightning patches flaw that could let revoked channel state escape penalty appeared first on Cr",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Visa Survey Finds US Stablecoin Interest Jumps to 56% With Bank-Style Safeguards",
+    "link": "https://cryptopotato.com/visa-survey-finds-us-stablecoin-interest-jumps-to-56-with-bank-style-safeguards/",
+    "publishedAt": "2026-09-27T22:23:15.000Z",
+    "preview": "Trust is still the biggest barrier to stablecoin adoption: 56% of Americans had never heard of stablecoins, and many who had assumed they were as volatile as Bitcoin.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Aave’s live stock-token loans expose USDC lenders to a weekend price gap",
+    "link": "https://cryptoslate.com/aave-stock-token-loans-expose-usdc-lenders-to-weekend-price-gap/",
+    "publishedAt": "2026-09-27T22:15:14.000Z",
+    "preview": "The Base hub permits up to $21 million in USDC borrowing against seven Coinbase stock tokens while their collateral feeds hold Friday's value through the weekend. The post Aave’s live stock-token loans expose USDC lender",
+    "tags": []
+  },
+  {
     "source": "CryptoSlate",
     "title": "An $84 million US asset seizure just sparked a massive question for Tether",
     "link": "https://cryptoslate.com/an-84-million-us-asset-seizure-just-sparked-a-massive-question-for-tether/",
@@ -153,16 +189,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Ethereum is not instant, but collateral could make it feel that way",
-    "link": "https://cryptoslate.com/ethereum-isnt-instant-but-collateral-could-make-it-feel-that-way/",
-    "publishedAt": "2026-09-27T13:00:50.000Z",
-    "preview": "When a payment app tells you a transfer is complete, you start making decisions. You hand over whatever you've sold, spend the money you've received, or close the app and get on with your day. That little confirmation yo",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "DOGE Rally Brewing? Whales Load Up as Dogecoin ETFs Post Record Inflows",
     "link": "https://cryptopotato.com/doge-rally-brewing-whales-load-up-as-dogecoin-etfs-post-record-inflows/",
@@ -197,14 +223,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Prediction markets promised better information and hired Hollywood",
-    "link": "https://cryptoslate.com/prediction-markets-promised-better-information-and-hired-hollywood/",
-    "publishedAt": "2026-09-27T11:00:50.000Z",
-    "preview": "Sydney Sweeney is helping sell sports predictions, which is a pretty good indication that prediction markets have moved beyond the people who enjoy arguing about probability on the internet. Novig's Sept. 9 campaign anno",
-    "tags": []
   },
   {
     "source": "CryptoPotato",
@@ -1099,14 +1117,6 @@
     "tags": []
   },
   {
-    "source": "CryptoPotato",
-    "title": "Bitget Reports $351M Hot Wallet Breach, Says User Funds Are Covered",
-    "link": "https://cryptopotato.com/bitget-reports-351m-hot-wallet-breach-says-user-funds-are-covered/",
-    "publishedAt": "2026-09-25T04:44:11.000Z",
-    "preview": "Cold wallets, which hold most of Bitget's assets, were never touched at all, the exchange says, even as hot and warm layers took the hit.",
-    "tags": []
-  },
-  {
     "source": "Cointelegraph",
     "title": "Researchers propose Zcash-style private Bitcoin transfers without a soft fork",
     "link": "https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork",
@@ -1202,14 +1212,6 @@
     "link": "https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports",
     "publishedAt": "2026-09-24T21:47:17.000Z",
     "preview": "Bitget said unauthorized transfers affected a limited number of hot wallets, while cold wallets and most platform assets remained unaffected.",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "CFTC updates guidance on tokenized assets, blockchain records after failed vote",
-    "link": "https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote",
-    "publishedAt": "2026-09-24T21:42:51.000Z",
-    "preview": "Although the CFTC chair did not say the failed vote on the CLARITY Act was behind new rules for authorized crypto entities, he said the move was “to provide regulatory clarity.“",
     "tags": []
   },
   {
