@@ -1,5 +1,193 @@
 [
   {
+    "source": "CryptoSlate",
+    "title": "Nearly 5,000 BTC leaves Bitget as hackers begin laundering $387 million haul",
+    "link": "https://cryptoslate.com/nearly-5000-btc-leaves-bitget-as-hackers-begin-laundering-387-million-haul/",
+    "publishedAt": "2026-09-28T22:50:12.000Z",
+    "preview": "Nearly 5,000 Bitcoin has left Bitget’s tracked reserves after the crypto exchange reopened withdrawals following its $387.5 million hack. On Sept. 28, Bitget Chief Executive Officer Gracy Chen said the exchange had proce",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "THORChain Faces Backlash Over Stolen Bitget Funds Routed Through Swaps",
+    "link": "https://cryptopotato.com/thorchain-faces-backlash-over-stolen-bitget-funds-routed-through-swaps/",
+    "publishedAt": "2026-09-28T22:17:06.000Z",
+    "preview": "Bitget's live tracker lists 2,377 attacker addresses, and 1,497 of them are marked as having moved funds through THORChain swaps so far.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
+    "link": "https://decrypt.co/379508/openai-ai-agents-target-us-government-sites",
+    "publishedAt": "2026-09-28T21:46:03.000Z",
+    "preview": "OpenAI says its agents keep landing on government websites because they treat them as reliable sources, but it's pausing training while it adds safeguards.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Strategy makes first back-to-back Bitcoin buys since June as accumulation picks up",
+    "link": "https://cryptoslate.com/strategy-makes-first-back-to-back-bitcoin-buys-since-june-as-accumulation-picks-up/",
+    "publishedAt": "2026-09-28T21:40:16.000Z",
+    "preview": "Michael Saylor-led Strategy (formerly MicroStrategy) has made back-to-back weekly Bitcoin purchases for the first time since June, rebuilding its holdings after selling some of the cryptocurrency earlier this quarter. On",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "A Clever RSA Attack Fooled a Hardware Vault—Here's What It Means for Crypto",
+    "link": "https://decrypt.co/379505/rsa-attack-without-stealing-key-what-it-means-crypto",
+    "publishedAt": "2026-09-28T21:16:03.000Z",
+    "preview": "A UC San Diego-led team impersonated a hardware security module without extracting its key.",
+    "tags": []
+  },
+  {
+    "source": "NewsBTC",
+    "title": "PrimeXBT Insights: Bitcoin rallied through a rate hike; Can it rally through a bond selloff?",
+    "link": "https://www.newsbtc.com/news/primexbt-insights-bitcoin-rallied-through-a-rate-hike-can-it-rally-through-a-bond-selloff/",
+    "publishedAt": "2026-09-28T21:01:23.000Z",
+    "preview": "By Jonatan Randin, Senior Market Analyst at PrimeXBT In mid September the setup looked bad for Bitcoin. The CLARITY Act failed in the Senate on 15 September and the Fed hiked to 3.75 to 4.00% the next day. Bitcoin (BTC) ",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Canadian ‘crypto king’ set to represent himself at fraud trial",
+    "link": "https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto",
+    "publishedAt": "2026-09-28T20:41:44.000Z",
+    "preview": "Aiden Pleterski was allegedly behind a crypto Ponzi scheme between 2021 and 2022 that resulted in a kidnapping and related criminal charges.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto",
+    "link": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto",
+    "publishedAt": "2026-09-28T20:36:03.000Z",
+    "preview": "Coinbase and Citi expanded an existing deal so Citi's institutional clients can accept stablecoin payments, while Coinbase business accounts run on Citi's banking rails.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Cardano’s NIGHT Will Be Bigger Than Zcash: Charles Hoskinson",
+    "link": "https://cryptopotato.com/cardanos-night-will-be-bigger-than-zcash-charles-hoskinson/",
+    "publishedAt": "2026-09-28T20:34:06.000Z",
+    "preview": "NIGHT sits about 78% below its record high, while ZEC is roughly 51% below its own, so the smaller token has much more ground to recover.",
+    "tags": [
+      "ADA"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Lido’s 1,500 ETH reserve target could slow stETH withdrawals in a crunch",
+    "link": "https://cryptoslate.com/lidos-new-reserve-power-could-reshape-steth-withdrawal-waits-when-the-buffer-is-tight/",
+    "publishedAt": "2026-09-28T20:30:08.000Z",
+    "preview": "The setting remains at 1,500 ETH, but the committee’s unexecuted plan would shift deposit priority as a new staking module approaches. The post Lido’s 1,500 ETH reserve target could slow stETH withdrawals in a crunch app",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report",
+    "link": "https://cointelegraph.com/news/blockchain-com-500m-ipo-bloomberg-reports",
+    "publishedAt": "2026-09-28T20:28:13.000Z",
+    "preview": "The crypto company is seeking a valuation of up to $6 billion, well below its 2022 peak, as recently listed crypto stocks struggle to hold their gains.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "Anthropic's Claude Sonnet 5.5 Is Out, Beats Opus 5.5 at Coding for Half the Price",
+    "link": "https://decrypt.co/379482/anthropic-claude-sonnet-5-5-release",
+    "publishedAt": "2026-09-28T20:06:03.000Z",
+    "preview": "Anthropic's mid-tier model tops its own flagship on Terminal-Bench 4.0 and costs half as much per token, but an independent tester found it burns more tokens than any model it has measured.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
+    "link": "https://decrypt.co/379481/australia-sam-altman-dario-amodei-ai-hack",
+    "publishedAt": "2026-09-28T19:36:21.000Z",
+    "preview": "Senator Sarah Hanson-Young has invited the OpenAI and Anthropic CEOs to a Canberra hearing on October 1, after an OpenAI agent quietly accessed Australia's Medicare data and nobody said a word for months.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Bitget says Bitcoin withdrawals are open after $387M hack, but ETH and USDT must wait",
+    "link": "https://cryptoslate.com/bitget-says-bitcoin-withdrawals-open-after-hack/",
+    "publishedAt": "2026-09-28T19:35:25.000Z",
+    "preview": "Sept. 28 public fills show BTC and ETH futures activity before the scheduled 08:00 UTC Bitcoin withdrawal restart. The post Bitget says Bitcoin withdrawals are open after $387M hack, but ETH and USDT must wait appeared f",
+    "tags": [
+      "BTC",
+      "ETH"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Hyperliquid (HYPE) Drops 5% – Could Whales Trigger an Even Bigger Sell-Off?",
+    "link": "https://cryptopotato.com/hyperliquid-hype-drops-5-could-whales-trigger-an-even-bigger-sell-off/",
+    "publishedAt": "2026-09-28T19:04:16.000Z",
+    "preview": "One popular analyst suggested HYPE could plunge to the mid-70s, yet insists that it remains a \"must-have\" in any crypto portfolio.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-09-28T19:02:45.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out",
+    "link": "https://decrypt.co/379468/nvidia-kill-switch-ai-agents",
+    "publishedAt": "2026-09-28T18:46:03.000Z",
+    "preview": "OpenShell and Sentry give AI agents a hardware-enforced leash, arriving after a summer of agents breaching a government site, hacking their own tests, and going rogue during a security evaluation.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "US SEC follows CFTC in staff guidance for crypto",
+    "link": "https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail",
+    "publishedAt": "2026-09-28T18:39:09.000Z",
+    "preview": "With the failed cloture vote on the CLARITY Act, the SEC announced updates on how federal securities laws could apply to token issuers, following similar guidance from the CFTC.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Brazil’s $252 billion crypto market gets $10,000 self-custody reporting rule",
+    "link": "https://cryptoslate.com/brazils-252-billion-crypto-market-gets-10000-self-custody-reporting-rule/",
+    "publishedAt": "2026-09-28T18:30:37.000Z",
+    "preview": "Central bank-authorized institutions must notify Coaf when transfers to or from user-controlled wallets meet the threshold. The post Brazil’s $252 billion crypto market gets $10,000 self-custody reporting rule appeared f",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "Strive Buys $94.5 Million in Bitcoin, Pushing Holdings Past 27,000 BTC",
+    "link": "https://decrypt.co/379465/strive-buys-94-5-million-in-bitcoin-pushing-holdings-past-27000-btc",
+    "publishedAt": "2026-09-28T18:16:02.000Z",
+    "preview": "Strive bought 1,107 BTC for $94.5 million last week, lifting its holdings to 27,462 BTC, with its SATA preferred stock supplying 85% of the capital.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
+    "link": "https://cointelegraph.com/news/bybit-accepts-franklin-templeton-tokenized-funds-trading-collateral",
+    "publishedAt": "2026-09-28T18:02:54.000Z",
+    "preview": "Eligible institutions can pledge Benji-issued fund shares for stablecoin credit lines while keeping the underlying assets in off-exchange custody.",
+    "tags": []
+  },
+  {
     "source": "CoinDesk",
     "title": "Goldman Sachs brings $100 billion Treasury fund into crypto’s institutional plumbing",
     "link": "https://www.coindesk.com/markets/2026/09/28/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing",
@@ -199,17 +387,6 @@
     ]
   },
   {
-    "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-09-28T13:32:34.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
-    ]
-  },
-  {
     "source": "CryptoSlate",
     "title": "California signs into law restrictions banning public officers from issuing crypto meme coins",
     "link": "https://cryptoslate.com/newsom-signs-california-law-barring-public-officers-and-certain-employees-from-issuing-meme-coins/",
@@ -269,16 +446,6 @@
     "link": "https://cointelegraph.com/news/strategy-1665-bitcoin-buy-holdings-847666-btc",
     "publishedAt": "2026-09-28T12:38:01.000Z",
     "preview": "Strategy sold 1.47 million MSTR shares for $246.2 million, using the proceeds for Bitcoin purchases and STRC preferred stock repurchases.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Bitcoin dips below $83,000 to start the week as Asia markets sell, extending last week’s retreat",
-    "link": "https://cryptoslate.com/bitcoin-dips-below-83000-on-monday-extending-last-weeks-retreat/",
-    "publishedAt": "2026-09-28T12:30:41.000Z",
-    "preview": "The Asia-session quote crossed the lower edge of Friday's range while oil and Treasury yields rose in the wider market. The post Bitcoin dips below $83,000 to start the week as Asia markets sell, extending last week’s re",
     "tags": [
       "BTC"
     ]
@@ -353,16 +520,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Ethereum’s next scaling leap may come from making everyone stop doing the same work",
-    "link": "https://cryptoslate.com/ethereums-next-scaling-leap-may-come-from-making-everyone-stop-doing-the-same-work/",
-    "publishedAt": "2026-09-28T11:30:01.000Z",
-    "preview": "Cheaper proofs could widen verification while builders and provers still need the data to keep blocks and rollups moving. The post Ethereum’s next scaling leap may come from making everyone stop doing the same work appea",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "Quant (QNT) Surges 260% in a Week, but This Trader Just Sold Everything: Here’s Why",
     "link": "https://cryptopotato.com/quant-qnt-surges-260-in-a-week-but-this-trader-just-sold-everything-heres-why/",
@@ -398,16 +555,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Evernorth’s XRP buying power could shrink if SPAC shareholders redeem this week",
-    "link": "https://cryptoslate.com/evernorths-xrp-buying-power-could-shrink-if-spac-shareholders-redeem-this-week/",
-    "publishedAt": "2026-09-28T10:30:17.000Z",
-    "preview": "Armada’s August trust balance and a conditional note show possible funding, but redemptions and spending choices will decide any new token purchases. The post Evernorth’s XRP buying power could shrink if SPAC shareholder",
-    "tags": [
-      "XRP"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
     "link": "https://decrypt.co/379404/california-bans-public-officials-from-issuing-meme-coins-under-new-newsom-law",
@@ -427,7 +574,7 @@
   },
   {
     "source": "CoinDesk",
-    "title": "Live updates: Bitcoin pulls off worst levels as oil dips on Iran deal hopes",
+    "title": "Live updates: Bitcoin remains under pressure as Iran denies report of peace progress",
     "link": "https://www.coindesk.com/business/2026/09/28/live-updates-bitcoin-sinks-below-usd83-000-as-iran-talks-stall-and-oil-climbs",
     "publishedAt": "2026-09-28T10:02:37.000Z",
     "preview": "The U.S. 10-year Treasury yield is sharply higher again, rising to a new cycle high above 5.27%.",
@@ -477,16 +624,6 @@
     "link": "https://cointelegraph.com/news/fake-giwa-blockchain-scam-drains-2m-eth",
     "publishedAt": "2026-09-28T09:19:50.000Z",
     "preview": "DYORSWAP said it paid more than 200 ETH in compensation, while Upbit operator Dunamu’s GIWA warned that its mainnet had not launched.",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Crypto scammers built an entire fake blockchain to steal over $2 million",
-    "link": "https://cryptoslate.com/crypto-scammers-built-an-entire-fake-blockchain-to-steal-over-2-million/",
-    "publishedAt": "2026-09-28T09:10:29.000Z",
-    "preview": "Scammers built a counterfeit version of Upbit-backed GIWA blockchain and lured 1,333 wallets into depositing 767 ETH, worth about $2 million, before draining almost all of it. The fake network appeared to be GIWA’s antic",
     "tags": [
       "ETH"
     ]
@@ -562,16 +699,6 @@
     "preview": "All seven funds attracted money, while Friday’s $87 million intake set a daily record.",
     "tags": [
       "SOL"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Big institutional money is split on Bitcoin’s next move as massive market bets shift",
-    "link": "https://cryptoslate.com/big-institutional-money-is-split-on-bitcoins-next-move-as-massive-market-bets-shift/",
-    "publishedAt": "2026-09-28T06:15:40.000Z",
-    "preview": "The Sept. 22 futures snapshot shows opposite positioning moves without revealing any spot or ETF hedge legs. The post Big institutional money is split on Bitcoin’s next move as massive market bets shift appeared first on",
-    "tags": [
-      "BTC"
     ]
   },
   {
@@ -900,14 +1027,6 @@
     "tags": []
   },
   {
-    "source": "NewsBTC",
-    "title": "Apple And Nvidia Tokenized Stocks Can Now Back USDC Loans On Aave",
-    "link": "https://www.newsbtc.com/news/defi/apple-and-nvidia-tokenized-stocks-can-now-back-usdc-loans-on-aave/",
-    "publishedAt": "2026-09-26T17:30:00.000Z",
-    "preview": "TL;DR Aave V4 on Base has launched an Equities Hub accepting seven Coinbase tokenized U.S. stocks as collateral. Eligible non-U.S. users can deposit tokens representing Apple, Amazon, Alphabet, Meta, Microsoft, Nvidia an",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green",
     "link": "https://decrypt.co/379391/bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green",
@@ -1020,26 +1139,6 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "XRP Whales Keep Buying as Ripple Makes Big BlackRock-Related Announcement",
-    "link": "https://cryptopotato.com/xrp-whales-keep-buying-as-ripple-makes-big-blackrock-related-announcement/",
-    "publishedAt": "2026-09-26T11:28:40.000Z",
-    "preview": "This is far from the first major accumulation spree initiated by Ripple whales lately.",
-    "tags": [
-      "XRP"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Massive Gains From These Altcoins as Bitcoin (BTC) Stalls at $84K: Weekend Watch",
-    "link": "https://cryptopotato.com/massive-gains-from-these-altcoins-as-bitcoin-btc-stalls-at-84k-weekend-watch/",
-    "publishedAt": "2026-09-26T10:02:28.000Z",
-    "preview": "ENA leads the charge today after yesterday's partnership with Binance.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
     "link": "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2",
@@ -1048,14 +1147,6 @@
     "tags": [
       "Regulation"
     ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Trump-Xi Meeting: Everything You Need to Know About the AI Talks",
-    "link": "https://cryptopotato.com/trump-xi-meeting-everything-you-need-to-know-about-the-ai-talks/",
-    "publishedAt": "2026-09-26T08:25:42.000Z",
-    "preview": "Ai was among the most anticipated topics to be discussed by the leaders of the most powerful economies.",
-    "tags": []
   },
   {
     "source": "Cointelegraph",
@@ -1156,16 +1247,6 @@
     ]
   },
   {
-    "source": "Cointelegraph",
-    "title": "Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide",
-    "link": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead",
-    "publishedAt": "2026-09-25T18:33:49.000Z",
-    "preview": "The crypto executive and Dystopia Labs founder previously held senior roles at Stellar and Solana before joining venture capital firm Hack VC.",
-    "tags": [
-      "SOL"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "OpenAI Is Building a $500 per Month ChatGPT Pro Max Plan, Leaks Suggest",
     "link": "https://decrypt.co/379359/openai-500-per-month-chatgpt-pro-max-plan",
@@ -1174,32 +1255,12 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "Bitget clarifies $388M in assets affected by security breach",
-    "link": "https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach",
-    "publishedAt": "2026-09-25T17:17:45.000Z",
-    "preview": "The Bitget breach announced on Thursday affected about $35 million more than previously reported, based on an analysis of assets on Zcash and TRON.",
-    "tags": [
-      "TRX"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Bitget Hack Losses Climb to $387M: Here’s What Happened, and Why North Korea Is a Suspect",
     "link": "https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect",
     "publishedAt": "2026-09-25T17:08:57.000Z",
     "preview": "An attacker faked internal transfer requests to drain $387.5 million from Bitget's hot and warm wallets, and the exchange's CEO says the fingerprints look like Pyongyang's.",
     "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Strategy seeks shareholder approval for daily preferred stock dividends",
-    "link": "https://cointelegraph.com/news/strategy-seeks-shareholder-approval-daily-preferred-stock-dividends",
-    "publishedAt": "2026-09-25T16:34:16.000Z",
-    "preview": "Strategy’s proposal would move STRC and its three other preferred stocks to daily dividend payments, following a similar move by Bitcoin treasury firm Strive.",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "Decrypt",
@@ -1222,14 +1283,6 @@
       "SOL",
       "XRP"
     ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Crypto Biz: Wall Street and crypto fight for the same turf",
-    "link": "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets",
-    "publishedAt": "2026-09-25T15:49:34.000Z",
-    "preview": "Stablecoins and tokenized assets are pushing banks, exchanges and crypto companies into the same markets, from payments to stocks and ETFs.",
-    "tags": []
   },
   {
     "source": "Decrypt",
@@ -1292,67 +1345,5 @@
     "tags": [
       "Regulation"
     ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Bitget Hacked as $350 Million Vanishes From Crypto Exchange Wallets",
-    "link": "https://decrypt.co/379275/bitget-hack-183-million-crypto-exchange-wallets",
-    "publishedAt": "2026-09-24T21:15:38.000Z",
-    "preview": "A newly created wallet drained hot and cold reserves labeled as belonging to Bitget across multiple blockchains in under an hour.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Humans Are Reading Your ChatGPT Chats, New Lawsuit Claims",
-    "link": "https://decrypt.co/379272/humans-reading-chatgpt-chats-lawsuit",
-    "publishedAt": "2026-09-24T20:01:03.000Z",
-    "preview": "A proposed class action accuses OpenAI of quietly routing real conversations to outside contractors through a program called Project Lily—without telling users first.",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Meta's New AI Toy Is a Keychain That Watches, Listens, and Never Blinks",
-    "link": "https://decrypt.co/379253/meta-ai-toy-muse-charm-keychain-watches-listens",
-    "publishedAt": "2026-09-24T19:16:03.000Z",
-    "preview": "Muse Charm is Meta's palm-sized gadget for talking to its Muse AI agent on the go. It has cameras, a fingerprint sensor, and its own cell connection.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "AI Can Now Doxx Your Anonymous Accounts? Here's What’s Going On",
-    "link": "https://decrypt.co/379228/ai-can-now-doxx-your-anonymous-accounts-heres-whats-going-on",
-    "publishedAt": "2026-09-24T18:31:03.000Z",
-    "preview": "A February research paper showing AI can unmask pseudonymous internet users is freaking everyone out again this week. Here's what the paper actually says.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "New York Wants to Ban Polymarket, Lawsuit Calls It 'Illegal Gambling Operation'",
-    "link": "https://decrypt.co/379244/new-york-ban-polymarket-lawsuit",
-    "publishedAt": "2026-09-24T17:51:31.000Z",
-    "preview": "Attorney General Letitia James and Governor Kathy Hochul allege the prediction market operates without a license and exposes New Yorkers to gambling harms.",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "In Her Final Weeks, SEC's Peirce Calls for Ending the KYC 'Panopticon'",
-    "link": "https://decrypt.co/379217/sec-peirce-end-kyc-panopticon-zero-knowledge-proofs",
-    "publishedAt": "2026-09-24T17:31:03.000Z",
-    "preview": "In one of her final speeches as commissioner, Peirce argued that regulators' \"data haystacks\" endanger the people they aim to protect—as recent KYC leaks expose crypto holders to phishing and physical attacks.",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "US Aims to Turn Stablecoins Into a Weapon for Dollar Dominance",
-    "link": "https://decrypt.co/379219/us-stablecoins-weapon-dollar-dominance",
-    "publishedAt": "2026-09-24T16:55:43.000Z",
-    "preview": "Washington may fund private stablecoin ventures abroad to protect the dollar's reserve status and prop up Treasury demand.",
-    "tags": []
   }
 ]
