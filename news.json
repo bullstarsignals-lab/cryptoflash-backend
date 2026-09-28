@@ -1,6 +1,32 @@
 [
   {
     "source": "Cointelegraph",
+    "title": "Newsom signs California ban on public officials issuing memecoins",
+    "link": "https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins",
+    "publishedAt": "2026-09-28T02:23:42.000Z",
+    "preview": "The law also restricts crypto companies from offering certain memecoins tied to public officials to California residents and takes effect for tokens issued from Jan. 1, 2027.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "A $202 billion US Treasury settlement hits September 30, and it could trigger a surprise move in Bitcoin",
+    "link": "https://cryptoslate.com/a-202-billion-u-s-treasury-settlement-hits-september-30-and-it-could-trigger-a-surprise-move-in-bitcoin/",
+    "publishedAt": "2026-09-28T01:15:14.000Z",
+    "preview": "Treasury coupon supply meets calm financing, with SOFR and Bitcoin derivatives set to show whether pressure spreads. The post A $202 billion US Treasury settlement hits September 30, and it could trigger a surprise move ",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Zano rolls blockchain back a month after Gateway Address exploit",
+    "link": "https://cointelegraph.com/news/zano-rolls-blockchain-back-a-month-after-gateway-address-exploit",
+    "publishedAt": "2026-09-28T01:09:22.000Z",
+    "preview": "The Zano blockchain has been restarted at the block height that came immediately before Hard Fork 6, which introduced Gateway Addresses.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
     "title": "THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest",
     "link": "https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now",
     "publishedAt": "2026-09-27T23:43:18.000Z",
@@ -169,14 +195,6 @@
     "tags": [
       "ETH"
     ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Visa cuts reported stablecoin volume but there’s no proof payments fell",
-    "link": "https://cryptoslate.com/visas-stablecoin-reset-cuts-measured-value-while-transfer-counts-barely-move/",
-    "publishedAt": "2026-09-27T14:00:34.000Z",
-    "preview": "Expanded address labels lowered adjusted dollar volume, but the adjusted count fell less than 2% and payment use remains unmeasured. The post Visa cuts reported stablecoin volume but there’s no proof payments fell appear",
-    "tags": []
   },
   {
     "source": "Decrypt",
@@ -1179,16 +1197,6 @@
     ]
   },
   {
-    "source": "Cointelegraph",
-    "title": "Fed proposes new capital, redemption rules for stablecoin issuers",
-    "link": "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers",
-    "publishedAt": "2026-09-24T22:10:09.000Z",
-    "preview": "The Fed’s proposal would set capital requirements, a two-day redemption window and new reserve disclosures as regulators implement the GENIUS Act.",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
     "source": "CoinDesk",
     "title": "Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'",
     "link": "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe",
@@ -1205,14 +1213,6 @@
     "tags": [
       "Regulation"
     ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Bitget confirms $352M security breach, suspends withdrawals",
-    "link": "https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports",
-    "publishedAt": "2026-09-24T21:47:17.000Z",
-    "preview": "Bitget said unauthorized transfers affected a limited number of hot wallets, while cold wallets and most platform assets remained unaffected.",
-    "tags": []
   },
   {
     "source": "Decrypt",
