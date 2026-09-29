@@ -1,5 +1,75 @@
 [
   {
+    "source": "CoinDesk",
+    "title": "Robinhood adds AI agents, perps and weekend trading in push to win active traders",
+    "link": "https://www.coindesk.com/markets/2026/09/29/robinhood-adds-ai-agents-perps-and-weekend-trading-in-push-to-win-active-traders",
+    "publishedAt": "2026-09-29T23:00:00.000Z",
+    "preview": "The brokerage is expanding its trading hours and adding leveraged crypto products and automated trading tools to attract more active investors.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Hut 8 locks in $1B credit line, but faces 40% liquidity rules",
+    "link": "https://cryptoslate.com/hut-8-locks-in-1b-credit-line-but-faces-40-liquidity-rules/",
+    "publishedAt": "2026-09-29T22:50:49.000Z",
+    "preview": "Letters of credit can cover site obligations without equivalent cash deposits, while borrowing would add corporate debt exposure. The post Hut 8 locks in $1B credit line, but faces 40% liquidity rules appeared first on C",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Coinbase Faces $25M Loss Claim From Crypto Investor",
+    "link": "https://cryptopotato.com/coinbase-faces-25m-loss-claim-from-crypto-investor/",
+    "publishedAt": "2026-09-29T21:49:07.000Z",
+    "preview": "Coinbase's public response to the investor offered a path to investigate his claim, with the exchange saying it had contacted him by DM.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "Ethereum Gets Another Privacy Boost as Aztec Brings Back zk.money",
+    "link": "https://decrypt.co/379621/ethereum-privacy-aztec-brings-back-zk-money",
+    "publishedAt": "2026-09-29T21:46:03.000Z",
+    "preview": "Aztec Labs relaunched its self-custodial zk.money wallet on Aztec Network, letting users make private stablecoin payments using readable tags.",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Cboe's New S&amp;P Deal Opens the Door to Tokenized Options",
+    "link": "https://decrypt.co/379619/cboes-sp-deal-tokenized-options",
+    "publishedAt": "2026-09-29T21:16:04.000Z",
+    "preview": "The renewed agreement preserves Cboe's exclusive rights to S&amp;P 500 index options through 2051 while opening the door to pairing the flagship benchmark with blockchain infrastructure.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Bitcoin drops to $82,000 on US data, and inflation fear is blamed",
+    "link": "https://cryptoslate.com/bitcoin-drops-to-82000-on-us-data-and-inflation-fear-is-blamed/",
+    "publishedAt": "2026-09-29T21:10:53.000Z",
+    "preview": "August job openings eased modestly, while households' inflation views kept the path to lower yields uncertain. The post Bitcoin drops to $82,000 on US data, and inflation fear is blamed appeared first on CryptoSlate.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Bitwise Launches First US Spot Near ETF After Token Nearly Triples Since August",
+    "link": "https://decrypt.co/379612/bitwise-launches-first-spot-near-etf",
+    "publishedAt": "2026-09-29T20:36:04.000Z",
+    "preview": "Bitwise's NRR began trading on NYSE Arca Tuesday, giving brokerage accounts NEAR exposure and staking rewards as the AI-focused token soars.",
+    "tags": []
+  },
+  {
+    "source": "NewsBTC",
+    "title": "BTCS Prepares DeFi Business To Provide Liquidity For Tokenized Stocks",
+    "link": "https://www.newsbtc.com/technology/btcs-prepares-defi-business-to-provide-liquidity-for-tokenized-stocks/",
+    "publishedAt": "2026-09-29T20:30:00.000Z",
+    "preview": "BTCS says its Imperium DeFi unit has completed preparatory compliance steps for potential use of the SEC’s Covered Firm exemption. The company has submitted the required notice and published relevant disclosures. Imperiu",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
     "source": "Decrypt",
     "title": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
     "link": "https://decrypt.co/379605/anthropic-lost-42-billion-last-year-wants-ipo-2-trillion",
@@ -398,16 +468,6 @@
     ]
   },
   {
-    "source": "NewsBTC",
-    "title": "Chainlink Launches CCIP 2.0 With Extra Security Controls For Tokenized Assets",
-    "link": "https://www.newsbtc.com/technology/chainlink-launches-ccip-2-0-with-extra-security-controls-for-tokenized-assets/",
-    "publishedAt": "2026-09-29T12:30:00.000Z",
-    "preview": "Chainlink has launched CCIP 2.0, a major upgrade to its Cross-Chain Interoperability Protocol. The new version adds optional third-party verifiers, faster-than-finality transfers, built-in compliance tools and more flexi",
-    "tags": [
-      "LINK"
-    ]
-  },
-  {
     "source": "CryptoSlate",
     "title": "Solana’s 250ms data shows lower-stake validators lost a larger share of reward-linked vote credits",
     "link": "https://cryptoslate.com/solana-250ms-validator-vote-credits/",
@@ -454,16 +514,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "BitMine nears 5% Ethereum threshold, yet stock valuation rules dictate its next move",
-    "link": "https://cryptoslate.com/bitmine-nears-5-ethereum-as-treasury-premiums-fade-its-next-capital-choice-is-harder/",
-    "publishedAt": "2026-09-29T11:20:31.000Z",
-    "preview": "Its remaining ETH gap is about $280 million at the company's reference price, against $672 million in reported cash and securities. The post BitMine nears 5% Ethereum threshold, yet stock valuation rules dictate its next",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
     "source": "CoinDesk",
     "title": "Zcash developers begin moving Tachyon code into faster private-payment software",
     "link": "https://www.coindesk.com/tech/2026/09/29/zcash-s-faster-private-payment-code-is-being-rebuilt-for-its-bigger-scaling-plan",
@@ -506,16 +556,6 @@
     "publishedAt": "2026-09-29T10:28:51.000Z",
     "preview": "Aave jumped 11% on speculation over a token burn, with 72 of 100 CoinDesk 100 constituents higher even as the 10-year Treasury yield sat at 5.234%.",
     "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Altcoin spot volume nears 4x Bitcoin’s as ETF inflows shrink across five sessions",
-    "link": "https://cryptoslate.com/altcoin-spot-volume-nears-4x-bitcoins-as-etf-inflows-shrink-across-five-sessions/",
-    "publishedAt": "2026-09-29T10:20:49.000Z",
-    "preview": "Altcoin spot volume has climbed to nearly four times Bitcoin's, the highest ratio since September 2025, according to Glassnode. Wintermute says retail clients on its OTC desk sold BTC last week to fund that rotation, whi",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "Cointelegraph",
@@ -1187,16 +1227,6 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "Caution builds in the bitcoin market even as prices stay well above summer lows",
-    "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-bears-pay-to-bet-on-further-declines-as-futures-positions-near-yearly-lows",
-    "publishedAt": "2026-09-28T09:29:34.000Z",
-    "preview": "Overall demand for leveraged exposure remains weak, marked by sliding futures open interest. The capital that's still in the market appears skewed toward bearish positions.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "$18.4M Allegedly Extracted Across 53 Robinhood Chain Token Launches",
     "link": "https://cryptopotato.com/18-4m-allegedly-extracted-across-53-robinhood-chain-token-launches/",
@@ -1212,16 +1242,6 @@
     "preview": "BTC and the altcoins are heading into another potentially eventful week starting with packed Tuesday and Wednesday.",
     "tags": [
       "BTC"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "A Huge Week Is Coming for XRP as Evernorth Nears Crucial Nasdaq Vote",
-    "link": "https://cryptopotato.com/a-huge-week-is-coming-for-xrp-as-evernorth-nears-crucial-nasdaq-vote/",
-    "publishedAt": "2026-09-28T04:04:17.000Z",
-    "preview": "Evernorth's planned Nasdaq debut under the XRPN ticker is approaching its final major hurdle.",
-    "tags": [
-      "XRP"
     ]
   },
   {
@@ -1304,32 +1324,6 @@
     "link": "https://decrypt.co/379369/ai-agents-hacked-test-environment-cheat-darktrace",
     "publishedAt": "2026-09-25T19:45:39.000Z",
     "preview": "Darktrace's new Signal Labs found AI agents hacking their own evaluation environment to fake a perfect score—and tricking coding assistants into running unauthorized network attacks.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Google Built an AI That Hunts Its Own Security Bugs",
-    "link": "https://decrypt.co/379364/google-built-ai-hunts-security-bugs",
-    "publishedAt": "2026-09-25T19:16:04.000Z",
-    "preview": "Google's PageBreak agent autonomously finds and verifies real vulnerabilities in its own web apps, cutting through the flood of noisy AI-generated security reports.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
-    "link": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
-    "publishedAt": "2026-09-25T18:42:51.000Z",
-    "preview": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT—but the attacker swapped most funds into unfreezable ETH before they could act.",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "OpenAI Is Building a $500 per Month ChatGPT Pro Max Plan, Leaks Suggest",
-    "link": "https://decrypt.co/379359/openai-500-per-month-chatgpt-pro-max-plan",
-    "publishedAt": "2026-09-25T17:46:05.000Z",
-    "preview": "Leaked code strings and screenshots point to a new tier that would cost 25 times more than ChatGPT Plus, aimed at people who need the bot to work faster, not just longer.",
     "tags": []
   }
 ]
