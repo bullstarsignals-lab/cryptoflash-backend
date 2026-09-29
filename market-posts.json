@@ -3,6 +3,41 @@
     "channel": "Bullstar Signals",
     "channelUsername": "BULLSTAR1",
     "isOwn": true,
+    "postId": "BULLSTAR1/5625",
+    "link": "https://t.me/BULLSTAR1/5625",
+    "publishedAt": "2026-09-29T02:33:23.000Z",
+    "text": "🟢TRADING TIP OF THE DAY #2954🟢",
+    "image": null,
+    "tags": []
+  },
+  {
+    "channel": "Bullstar Signals",
+    "channelUsername": "BULLSTAR1",
+    "isOwn": true,
+    "postId": "BULLSTAR1/5624",
+    "link": "https://t.me/BULLSTAR1/5624",
+    "publishedAt": "2026-09-29T00:13:21.000Z",
+    "text": "📊 Bitcoin 3-Day Liquidity Heatmap Update Bitcoin’s liquidation heatmap shows significant liquidity clusters both above and below the current price. These liquidity zones often act as price magnets, as the market may move toward areas with high concentrations…",
+    "image": null,
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "channel": "Bullstar Signals",
+    "channelUsername": "BULLSTAR1",
+    "isOwn": true,
+    "postId": "BULLSTAR1/5623",
+    "link": "https://t.me/BULLSTAR1/5623",
+    "publishedAt": "2026-09-29T00:02:23.000Z",
+    "text": "LINK Daily Chart Update\nLINK has broken out strongly from its previous consolidation range and is now approaching a major resistance zone around $14.50 - $15.00.\nIf LINK manages to break above this zone and hold it as support, we could see further upside toward $17.00 - $18.50, which is the next major resistance area.",
+    "image": null,
+    "tags": []
+  },
+  {
+    "channel": "Bullstar Signals",
+    "channelUsername": "BULLSTAR1",
+    "isOwn": true,
     "postId": "BULLSTAR1/5621",
     "link": "https://t.me/BULLSTAR1/5621",
     "publishedAt": "2026-09-27T22:39:03.000Z",
@@ -208,43 +243,6 @@
     "tags": [
       "BTC",
       "ETH"
-    ]
-  },
-  {
-    "channel": "Bullstar Signals",
-    "channelUsername": "BULLSTAR1",
-    "isOwn": true,
-    "postId": "BULLSTAR1/5603",
-    "link": "https://t.me/BULLSTAR1/5603",
-    "publishedAt": "2026-09-22T17:46:13.000Z",
-    "text": "🟢TRADING TIP OF THE DAY #2952🟢",
-    "image": null,
-    "tags": []
-  },
-  {
-    "channel": "Bullstar Signals",
-    "channelUsername": "BULLSTAR1",
-    "isOwn": true,
-    "postId": "BULLSTAR1/5602",
-    "link": "https://t.me/BULLSTAR1/5602",
-    "publishedAt": "2026-09-22T16:20:54.000Z",
-    "text": "Bitcoin’s 3-day liquidity heatmap highlights a significant liquidity cluster around the $84K–$85K range.\nThis remains one of the key liquidity zones below the current price. \nIf BTC continues moving lower, this area could become an important zone to watch for the next market move.",
-    "image": null,
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "channel": "Bullstar Signals",
-    "channelUsername": "BULLSTAR1",
-    "isOwn": true,
-    "postId": "BULLSTAR1/5601",
-    "link": "https://t.me/BULLSTAR1/5601",
-    "publishedAt": "2026-09-22T12:58:20.000Z",
-    "text": "📈 The SOL long trade played out according to plan and has reached approximately +123% so far.\nFor more market analysis and trade setups, join our VlP channel. @BULLSTAR_ADMIN.",
-    "image": null,
-    "tags": [
-      "SOL"
     ]
   }
 ]
