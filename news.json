@@ -1,5 +1,29 @@
 [
   {
+    "source": "Cointelegraph",
+    "title": "Binance Pay lets visitors spend USDT at PayPay merchants in Japan",
+    "link": "https://cointelegraph.com/news/binance-pay-usdt-paypay-merchants-japan",
+    "publishedAt": "2026-09-30T02:25:00.000Z",
+    "preview": "Binance Pay will let overseas users spend USDT at most PayPay-supported merchants in Japan through HIVEX, while stores receive yen.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Sentora split 50% Aave revenue, but suppliers absorb all losses",
+    "link": "https://cryptoslate.com/sentora-split-50-aave-revenue-but-suppliers-absorb-all-losses/",
+    "publishedAt": "2026-09-30T00:40:26.000Z",
+    "preview": "The DAO would keep the contracts, but Sentora would set market risk controls and suppliers have no specified loss cushion in the plan. The post Sentora split 50% Aave revenue, but suppliers absorb all losses appeared fir",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Trump accord calls for tech firms to ‘self police’ their own frontier AI",
+    "link": "https://cointelegraph.com/news/trump-accord-calls-for-tech-firms-to-self-police-their-own-frontier-ai",
+    "publishedAt": "2026-09-30T00:28:38.000Z",
+    "preview": "The voluntary accord puts much of the responsibility for managing frontier AI risks on developers.",
+    "tags": []
+  },
+  {
     "source": "CoinDesk",
     "title": "Robinhood adds AI agents, perps and weekend trading in push to win active traders",
     "link": "https://www.coindesk.com/markets/2026/09/29/robinhood-adds-ai-agents-perps-and-weekend-trading-in-push-to-win-active-traders",
@@ -465,16 +489,6 @@
     "preview": "CoinShares says IBIT offers clues to institutional buying, but basis trades mean inflows are not necessarily bets on rising Bitcoin prices.",
     "tags": [
       "BTC"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Solana’s 250ms data shows lower-stake validators lost a larger share of reward-linked vote credits",
-    "link": "https://cryptoslate.com/solana-250ms-validator-vote-credits/",
-    "publishedAt": "2026-09-29T12:20:32.000Z",
-    "preview": "The Foundation found sharply different lost-credit fractions by stake weighting, raising a reward question ahead of any 200ms step. The post Solana’s 250ms data shows lower-stake validators lost a larger share of reward-",
-    "tags": [
-      "SOL"
     ]
   },
   {
@@ -1105,16 +1119,6 @@
     ]
   },
   {
-    "source": "Cointelegraph",
-    "title": "BTC price eyes best Q3 in nine years: Three things to know in Bitcoin this week",
-    "link": "https://cointelegraph.com/markets/btc-price-eyes-best-q3-in-nine-years-three-things-to-know-in-bitcoin-this-week",
-    "publishedAt": "2026-09-28T12:21:50.000Z",
-    "preview": "Bitcoin fell below $83,000 to start the week amid US-Iran war developments but remains up more than 40% for Q3 ahead of key inflation and jobs data.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "CoinDesk",
     "title": "THORChain rejects Bitget request to block hacker as $6 million moves to bitcoin",
     "link": "https://www.coindesk.com/tech/2026/09/28/thorchain-rejects-bitget-request-to-block-hacker-as-usd6-million-moves-to-bitcoin",
@@ -1160,17 +1164,6 @@
     "publishedAt": "2026-09-28T11:11:52.000Z",
     "preview": "\"Even if I sold early and it goes higher, I’m happy with my decision,\" Doctor Profit stated.",
     "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Bitget resumes Bitcoin withdrawals as hacker swaps ETH via THORChain",
-    "link": "https://cointelegraph.com/news/bitget-btc-withdrawal-hacker-eth-swap-thorchain",
-    "publishedAt": "2026-09-28T11:05:24.000Z",
-    "preview": "Ether withdrawals are scheduled to return Tuesday and USDt on Wednesday as Bitget restores services following last week’s $388 million hack.",
-    "tags": [
-      "BTC",
-      "ETH"
-    ]
   },
   {
     "source": "CoinDesk",
