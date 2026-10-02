@@ -1,5 +1,157 @@
 [
   {
+    "source": "CoinDesk",
+    "title": "Bitcoin tops $86,000 ahead of U.S. jobs report",
+    "link": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
+    "publishedAt": "2026-10-02T08:11:54.000Z",
+    "preview": "Bitcoin is up roughly 3% in October as traders await September’s jobs data, while rising bond yields, a stronger dollar weigh on broader markets.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "EIP-8363 Authors Pull Ethereum Staking Reward Burn From Hegotá Upgrade",
+    "link": "https://cryptopotato.com/eip-8363-authors-pull-ethereum-staking-reward-burn-from-hegota-upgrade/",
+    "publishedAt": "2026-10-02T07:42:17.000Z",
+    "preview": "Lido's representative asked the authors to pull the burn from Hegotá on August 6, two days after it surfaced.",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Solana enters US banking with 90 North Dakota banks leading it",
+    "link": "https://cryptoslate.com/solana-enters-us-banking-with-90-north-dakota-banks-lead-it/",
+    "publishedAt": "2026-10-02T07:20:39.000Z",
+    "preview": "Roughrider enters production with VersaBank USA issuance and institutional access, while actual payment volume remains undisclosed. The post Solana enters US banking with 90 North Dakota banks leading it appeared first o",
+    "tags": [
+      "SOL"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Lowest Fee Bitcoin ATMs Announces Launch of More Than 400 ATMs Nationwide",
+    "link": "https://cryptopotato.com/lowest-fee-bitcoin-atms-announces-launch-of-more-than-400-atms-nationwide/",
+    "publishedAt": "2026-10-02T07:04:23.000Z",
+    "preview": "[PRESS RELEASE – Las Vegas, NV, October 1st, 2026] Lowest Fee Bitcoin ATMs announced the launch of more than 400 cryptocurrency ATMs across the United States. The machines allow customers to purchase Bitcoin, Ethereum, U",
+    "tags": [
+      "BTC",
+      "ETH"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-10-02T06:00:00.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "South Korea crypto exchange profits fall 78% in H1 amid trading slump",
+    "link": "https://cointelegraph.com/news/south-korea-crypto-exchange-profits-fall-78-percent",
+    "publishedAt": "2026-10-02T05:53:27.000Z",
+    "preview": "South Korean crypto exchange operating profits fell 78% in the first half of 2026 as trading volumes, market capitalization and customer deposits declined.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Top Ethereum (ETH) Price Predictions as Whales Keep Buying",
+    "link": "https://cryptopotato.com/top-ethereum-eth-price-predictions-as-whales-keep-buying/",
+    "publishedAt": "2026-10-02T05:33:21.000Z",
+    "preview": "The asset must clear the $2,650-$2,900 range to \"accelerate hard,\" one analyst claimed.",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Electrum patches Lightning flaw, but old Bitcoin backups break",
+    "link": "https://cryptoslate.com/electrum-patches-lightning-flaw-but-old-bitcoin-backups-break/",
+    "publishedAt": "2026-10-02T05:30:01.000Z",
+    "preview": "September’s security fix repairs exports, but older backups for anchor channels with non-deterministic Lightning keys still need replacing. The post Electrum patches Lightning flaw, but old Bitcoin backups break appeared",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "South Korea advances tokenized securities rules ahead of 2027 rollout",
+    "link": "https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027",
+    "publishedAt": "2026-10-02T05:08:32.000Z",
+    "preview": "South Korea’s financial regulator proposed detailed rules for tokenized securities, including capital requirements, OTC trading licenses and retail investment limits.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Zano exploiter minted more than a quadrillion fUSD before blockchain rollback",
+    "link": "https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback",
+    "publishedAt": "2026-10-02T05:02:23.000Z",
+    "preview": "The unauthorized coins were indistinguishable from legitimate ZANO, leaving the team unable to remove them without rolling back the blockchain.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Core Lightning warns attackers are targeting unpatched nodes",
+    "link": "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes",
+    "publishedAt": "2026-10-02T04:18:43.000Z",
+    "preview": "Node operators running version 26.06.7 or earlier were told to upgrade immediately.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "XRP Outflows Spike Above 320M, Echoing August Rally Setup",
+    "link": "https://cryptopotato.com/xrp-outflows-spike-above-320m-echoing-august-rally-setup/",
+    "publishedAt": "2026-10-02T04:13:39.000Z",
+    "preview": "Binance's XRP reserves fell by about 57 million tokens in three days, erasing more than half of a two-week build-up.",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "PropAMMs lower Solana trade costs, and public pool returns crash",
+    "link": "https://cryptoslate.com/propamms-lower-solana-trade-costs-and-public-pool-returns-crash/",
+    "publishedAt": "2026-10-02T03:50:54.000Z",
+    "preview": "A September preprint finds cheaper quiet-market SOL/USDC execution at professional pools, while passive depositor returns require separate accounting. The post PropAMMs lower Solana trade costs, and public pool returns c",
+    "tags": [
+      "SOL"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Ethereum’s zkAPI brings privacy-preserving API payments to mainnet",
+    "link": "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet",
+    "publishedAt": "2026-10-02T03:34:25.000Z",
+    "preview": "Ethereum’s zkAPI is now live on mainnet, turning an earlier zero-knowledge API payment proposal into a working implementation for private, prepaid access.",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Bitget restores $300M fund after absorbing $388M security breach",
+    "link": "https://cryptoslate.com/bitget-restores-300m-fund-after-absorbing-388m-security-breach/",
+    "publishedAt": "2026-10-02T02:10:34.000Z",
+    "preview": "The restored backstop is separate from customer reserves, and claims remain subject to Bitget's assessment as withdrawals reopen in phases. The post Bitget restores $300M fund after absorbing $388M security breach appear",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum",
+    "link": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum",
+    "publishedAt": "2026-10-02T02:02:13.000Z",
+    "preview": "“We have identified you, sir,” NEAR Intents general manager Alex Shevchenko said on Friday after the protocol was hacked for $3.8 million.",
+    "tags": []
+  },
+  {
     "source": "Cointelegraph",
     "title": "SEC moves to clear custody hurdle for advisers offering crypto",
     "link": "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto",
@@ -126,17 +278,6 @@
     ]
   },
   {
-    "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-10-01T20:07:25.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
     "link": "https://decrypt.co/379890/openai-china-moonshot-copy-ai-hidden-reasoning",
@@ -250,14 +391,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "UK’s 2027 crypto rules could block new business with existing customers",
-    "link": "https://cryptoslate.com/uks-2027-crypto-rules-could-block-new-business-with-existing-customers/",
-    "publishedAt": "2026-10-01T17:00:37.000Z",
-    "preview": "The FCA gateway is open, and eligible existing firms applying by February 28, 2027 can keep new business running if undecided at commencement. The post UK’s 2027 crypto rules could block new business with existing custom",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "XRP Is Coming to Nasdaq: Evernorth Clears Key Vote With 473M Treasury",
     "link": "https://cryptopotato.com/xrp-is-coming-to-nasdaq-evernorth-clears-key-vote-with-473m-treasury/",
@@ -293,14 +426,6 @@
     "link": "https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight",
     "publishedAt": "2026-10-01T16:12:23.000Z",
     "preview": "The agreement will allow the two state regulators to share supervisory information, streamline licensing reviews and coordinate examinations and enforcement actions involving digital asset firms.",
-    "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Open USD bets Stripe’s $1.9 trillion network can break USDT and USDC’s grip",
-    "link": "https://cryptoslate.com/open-usd-bets-stripes-1-9-trillion-network-can-break-usdt-and-usdcs-grip/",
-    "publishedAt": "2026-10-01T16:00:14.000Z",
-    "preview": "Transactions carry an unspecified fee, while Stripe product limits and Visa's restricted beta shape business access. The post Open USD bets Stripe’s $1.9 trillion network can break USDT and USDC’s grip appeared first on ",
     "tags": []
   },
   {
@@ -348,14 +473,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Treasury will let states file for stablecoin approval before finishing their rules",
-    "link": "https://cryptoslate.com/treasury-will-let-states-file-for-stablecoin-approval-before-finishing-their-rules/",
-    "publishedAt": "2026-10-01T14:40:06.000Z",
-    "preview": "Conditional certifications can meet initial filing timing while state rules remain unfinished, but only complete submissions begin substantive approval review. The post Treasury will let states file for stablecoin approv",
-    "tags": []
-  },
-  {
     "source": "CoinDesk",
     "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
     "link": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
@@ -370,16 +487,6 @@
     "publishedAt": "2026-10-01T14:10:48.000Z",
     "preview": "ChatGPT and Gemini both picked the same token.",
     "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "MetaMask security scare pushes Ethereum validator exits to a nine-month high",
-    "link": "https://cryptoslate.com/metamask-security-scare-pushes-ethereum-validator-exits-to-a-nine-month-high/",
-    "publishedAt": "2026-10-01T13:40:02.000Z",
-    "preview": "Lido estimates up to about 45 days for exit, withdrawal and re-entry after MetaMask's Sept. 30 incident disclosure. The post MetaMask security scare pushes Ethereum validator exits to a nine-month high appeared first on ",
-    "tags": [
-      "ETH"
-    ]
   },
   {
     "source": "Cointelegraph",
@@ -900,27 +1007,11 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
-    "link": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc",
-    "publishedAt": "2026-09-30T19:00:00.000Z",
-    "preview": "Base’s Cobalt lets traders set transaction conditions while giving issuers tools for compliance checks, stock splits and forced token transfers.",
-    "tags": []
-  },
-  {
     "source": "NewsBTC",
     "title": "RockawayX Acquires NY Hedge Fund Relayer To Expand Crypto Empire Past $2 Billion",
     "link": "https://www.newsbtc.com/corporate/rockawayx-acquires-ny-hedge-fund-relayer-to-expand-crypto-empire-past/",
     "publishedAt": "2026-09-30T19:00:00.000Z",
     "preview": "In a major development confirmed on SEPTEMBER 29, 2026, Confirmed announcement/filing for RockawayX Acquires NY Hedge Fund Relayer To Expand Crypto Empire Past $2 Billion. This operational move highlights expanding activ",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Bloomberg brings onchain stablecoin data to its Terminal",
-    "link": "https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief",
-    "publishedAt": "2026-09-30T18:49:06.000Z",
-    "preview": "Bloomberg’s Allium-powered dashboard gives Terminal users hourly data on stablecoin supply, issuance, transfers and activity across blockchain networks.",
     "tags": []
   },
   {
@@ -950,16 +1041,6 @@
     ]
   },
   {
-    "source": "Cointelegraph",
-    "title": "Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel",
-    "link": "https://cointelegraph.com/news/brazils-petrobras-uses-cardano-to-track-sustainable-aviation-fuel-renewable-diesel",
-    "publishedAt": "2026-09-30T17:17:54.000Z",
-    "preview": "Petrobras developed two Cardano-based applications to track sustainability claims tied to aviation fuel and renewable diesel as part of an ongoing research collaboration.",
-    "tags": [
-      "ADA"
-    ]
-  },
-  {
     "source": "CoinDesk",
     "title": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
     "link": "https://www.coindesk.com/news-analysis/2026/09/30/crypto-industry-gave-usd8-million-to-clarity-act-lobbyists-who-didn-t-close-the-deal",
@@ -986,14 +1067,6 @@
     "tags": [
       "SOL"
     ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Bitget ‘gradually back to usual’ as protection fund reaches $309M",
-    "link": "https://cointelegraph.com/news/bitget-operations-protection-fund-security-breach",
-    "publishedAt": "2026-09-30T16:28:30.000Z",
-    "preview": "Bitget CEO Gracy Chen said that a protection fund created by the company in 2022 “absorbed the financial impact of the incident“ that resulted in $388 million in user losses.",
-    "tags": []
   },
   {
     "source": "Decrypt",
@@ -1076,14 +1149,6 @@
     ]
   },
   {
-    "source": "Cointelegraph",
-    "title": "Could THORChain face prosecution over stolen Bitget funds? Legal opinion",
-    "link": "https://cointelegraph.com/magazine/does-thorchain-face-a-criminal-reckoning-near-intents-bitget",
-    "publishedAt": "2026-09-30T13:30:00.000Z",
-    "preview": "THORChain will not — or can not — block addresses linked to the $387.5 million Bitget hack. Can the devs be prosecuted for money laundering? It’s complicated, says crypto lawyer Yuriy Brisov.",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "Ethereum Price Prediction: $3K Is Still in Play, But ETH Must Clear This Key Hurdle First",
     "link": "https://cryptopotato.com/ethereum-price-prediction-3k-is-still-in-play-but-eth-must-clear-this-key-hurdle-first/",
@@ -1099,14 +1164,6 @@
     "link": "https://cryptopotato.com/sui-sui-could-be-headed-for-a-230-price-explosion-heres-why/",
     "publishedAt": "2026-09-30T13:10:48.000Z",
     "preview": "\"If history rhymes with the larger move, a similar 230% bull run could take SUI toward $4,\" Ali Martinez suggested.",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Singapore crypto activity grows 55% as broader region contracts",
-    "link": "https://cointelegraph.com/news/singapore-crypto-economy-284b-institutional-activity-chainalysis",
-    "publishedAt": "2026-09-30T13:00:00.000Z",
-    "preview": "Singapore’s crypto economy grew 55.4% to $284 billion as institutional-platform activity surged 94%, while the Philippines, Thailand and Vietnam stood out for small-value P2P transfers.",
     "tags": []
   },
   {
@@ -1225,16 +1282,6 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "Live updates: Bitcoin closing out best quarter since 2024, ether its best since 2021",
-    "link": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings",
-    "publishedAt": "2026-09-30T10:18:34.000Z",
-    "preview": "Crypto prices rose early Wednesday after better-than-forecast inflation data, but gave up those gains as interest rates continued to surge.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "These Altcoins Pump With Double Digits as Bitcoin (BTC) Consolidation Continues: Market Watch",
     "link": "https://cryptopotato.com/these-altcoins-pump-with-double-digits-as-bitcoin-btc-consolidation-continues-market-watch/",
@@ -1243,42 +1290,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "BetFury Offers Futures With an x1000 Multiplier and Slippage-Free Crypto Trading",
-    "link": "https://cryptopotato.com/betfury-offers-futures-with-an-x1000-multiplier-and-slippage-free-crypto-trading/",
-    "publishedAt": "2026-09-30T09:51:38.000Z",
-    "preview": "[PRESS RELEASE – WILLEMSTAD, Curaçao, September 30th, 2026] BetFury, a leading crypto casino, offers BetFury Futures – a crypto derivatives product built into the ecosystem with up to a x1000 multiplier. It provides a un",
-    "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Bitcoin $215K Scenario Emerges as BTC Reclaims Key Market Levels",
-    "link": "https://cryptopotato.com/bitcoin-215k-scenario-emerges-as-btc-reclaims-key-market-levels/",
-    "publishedAt": "2026-09-30T08:43:59.000Z",
-    "preview": "A stronger dollar is the main headwind analysts see, but they argue past dollar rallies have hurt gold far more than Bitcoin.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Major Ripple (XRP) Partnership Targeting Brazil’s $22 Trillion Financial Market Infrastructure",
-    "link": "https://cryptopotato.com/major-ripple-xrp-partnership-targeting-brazils-22-trillion-financial-market-infrastructure/",
-    "publishedAt": "2026-09-30T07:22:56.000Z",
-    "preview": "The partnership uses XRP Ledger to improve transparency and auditing without replacing CSD BR's official financial asset records.",
-    "tags": [
-      "XRP"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "GhostSwap Review 2026: Privacy-Oriented Crypto Swaps",
-    "link": "https://cryptopotato.com/ghostswap-review-2026-privacy-oriented-crypto-swaps/",
-    "publishedAt": "2026-09-30T07:17:44.000Z",
-    "preview": "GhostSwap is a cryptocurrency swap platform that’s predominantly built around three core principles: speed, user control, and privacy. Instead of operating like a conventional centralized exchange, where users typically ",
-    "tags": []
   },
   {
     "source": "Decrypt",
