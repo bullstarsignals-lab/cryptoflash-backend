@@ -1,6 +1,107 @@
 [
   {
     "source": "CryptoSlate",
+    "title": "Blast shuts down $20M layer-2 network, forcing Oct. 26 exit deadline",
+    "link": "https://cryptoslate.com/blast-shuts-down-20m-layer-2-network-forcing-oct-26-exit-deadline/",
+    "publishedAt": "2026-10-02T23:10:14.000Z",
+    "preview": "Users face a temporary withdrawal pause before an Oct. 26 deadline to exit through Blast’s normal interface. The post Blast shuts down $20M layer-2 network, forcing Oct. 26 exit deadline appeared first on CryptoSlate.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "North Dakota’s Roughrider Coin Goes Live on Fiserv and Solana",
+    "link": "https://cryptopotato.com/north-dakotas-roughrider-coin-goes-live-on-fiserv-and-solana/",
+    "publishedAt": "2026-10-02T21:58:39.000Z",
+    "preview": "More than 90 banks and credit unions across North Dakota will be able to access Roughrider Coin through Firsev's Commercial Center platform.",
+    "tags": [
+      "SOL"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Stablecoin issuers have replaced 40% of China’s lost US Treasury demand",
+    "link": "https://cryptoslate.com/stablecoin-issuers-have-replaced-40-of-chinas-lost-us-treasury-demand/",
+    "publishedAt": "2026-10-02T21:50:39.000Z",
+    "preview": "Stablecoin issuers are emerging as a new source of demand for US government debt as foreign official holdings lose ground. Tether and Circle have increased their Treasury securities and repurchase-agreement holdings by a",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Bank group sues U.S. regulator over granting crypto trust charters",
+    "link": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
+    "publishedAt": "2026-10-02T21:23:20.000Z",
+    "preview": "The Independent Community Bankers of America sued the Office of the Comptroller of the Currency, accusing the regulator of overstepping its legal authority.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
+    "link": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
+    "publishedAt": "2026-10-02T21:16:04.000Z",
+    "preview": "California's attorney general wants answers from OpenAI about AI models that escaped a locked test environment and hacked Hugging Face—and whether the company can be held legally accountable.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-10-02T20:46:58.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO",
+    "link": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says",
+    "publishedAt": "2026-10-02T20:40:47.000Z",
+    "preview": "Speaking on Cointelegraph’s Chain Reaction, Christian Trummer said MiCA has increased trust in regulated platforms and called for stricter enforcement against noncompliant firms.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Bitcoin’s $85,000 sell wall is gone and traders are now betting on $100,000",
+    "link": "https://cryptoslate.com/bitcoins-85000-sell-wall-is-gone-and-traders-are-now-betting-on-100000/",
+    "publishedAt": "2026-10-02T20:30:33.000Z",
+    "preview": "Bitcoin’s rally is approaching a $90,000 test as a rare accumulation pattern reappears and sell-side liquidity thins. On Oct. 2, Bitcoin registered an intraday high at $87,000 after buyers broke through a sell wall aroun",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Ethereum Foundation and OA Launch zkAPI for Private AI Payment",
+    "link": "https://cryptopotato.com/ethereum-foundation-and-oa-launch-zkapi-for-private-ai-payment/",
+    "publishedAt": "2026-10-02T20:16:38.000Z",
+    "preview": "zkAPI keeps prompts awayy from payment servers, but AI providers can read submitted content and may connect sessions through repeated details.",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
+    "link": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity",
+    "publishedAt": "2026-10-02T20:16:04.000Z",
+    "preview": "Ethereum's zkAPI lets users prepay in USDC and query AI models through cryptographic proofs, so no single party sees both who they are and what they ask.",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
+    "link": "https://decrypt.co/379984/circle-pushes-back-on-micas-bank-deposit-mandate-for-stablecoins",
+    "publishedAt": "2026-10-02T19:46:03.000Z",
+    "preview": "The USDC issuer told the European Commission that MiCA's reserve mandates and concentration caps keep the largest global stablecoins outside Europe's perimeter—siding with the ECB in calling for more flexible rules.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
     "title": "Crypto hackers exploit third-party Aave tool to steal 114 ETH",
     "link": "https://cryptoslate.com/crypto-hackers-exploit-third-party-aave-tool-to-steal-114-eth/",
     "publishedAt": "2026-10-02T19:10:35.000Z",
@@ -11,7 +112,7 @@
   },
   {
     "source": "Decrypt",
-    "title": "This AI Is Already Fooling People on Video Calls Into Thinking Its Human, Company Says",
+    "title": "This AI Is Already Fooling People on Video Calls Into Thinking It's Human, Company Says",
     "link": "https://decrypt.co/379975/tavus-griffin-ai-fools-people-video-thinking-human",
     "publishedAt": "2026-10-02T19:05:35.000Z",
     "preview": "Tavus says 26 of 54 people on a one-minute video call thought its new Griffin model was human. The results are the company's own, and the model isn't going to retail customers yet.",
@@ -259,17 +360,6 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-10-02T13:00:00.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "'Uptober' Off With a Bang as Bitcoin Surges to $86K",
     "link": "https://decrypt.co/379932/uptober-off-with-a-bang-as-bitcoin-surges-to-86k",
@@ -354,16 +444,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Bitcoin sees big overnight rally as ETF demand returns before the next US jobs test",
-    "link": "https://cryptoslate.com/bitcoin-sees-big-overnight-rally-as-etf-demand-returns-before-the-next-us-jobs-test/",
-    "publishedAt": "2026-10-02T11:30:01.000Z",
-    "preview": "Fund inflows support the rebound, while reported short liquidations suggest an accelerator and inflation still clouds its durability. The post Bitcoin sees big overnight rally as ETF demand returns before the next US job",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "CoinDesk",
     "title": "Cboe wants to turn VIX into a never-ending trade",
     "link": "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover",
@@ -388,14 +468,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "US targets $17 billion Russia-linked crypto payment network using USDT as an escape route",
-    "link": "https://cryptoslate.com/us-targets-17-billion-russia-linked-crypto-payment-network-using-usdt-as-an-escape-route/",
-    "publishedAt": "2026-10-02T11:00:15.000Z",
-    "preview": "OFAC’s October 1 designation expands blocking sanctions to the broader network, while FinCEN’s separate sub-agent transfer restriction remains proposed. The post US targets $17 billion Russia-linked crypto payment networ",
-    "tags": []
   },
   {
     "source": "Cointelegraph",
@@ -435,14 +507,6 @@
       "ETH",
       "XRP"
     ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Coinbase completes Deribit switch, ending International Exchange trading",
-    "link": "https://cryptoslate.com/coinbase-completes-deribit-switch-ending-international-exchange-trading/",
-    "publishedAt": "2026-10-02T09:50:28.000Z",
-    "preview": "The October 1 cutover leaves the old venue read-only and changes trading access, settlement and records for affected institutions. The post Coinbase completes Deribit switch, ending International Exchange trading appeare",
-    "tags": []
   },
   {
     "source": "Cointelegraph",
@@ -919,16 +983,6 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "Bitcoin fights for local uptrend as US bond yields drop from new 24-year highs",
-    "link": "https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs",
-    "publishedAt": "2026-10-01T15:55:19.000Z",
-    "preview": "US bond yields fell sharply around Thursday’s Wall Street open as Bitcoin price action sought to preserve a local trend of higher lows.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Near Intents Hacked for $3.8M Days After Denying North Korea-Linked Bitget Hacker",
     "link": "https://decrypt.co/379822/near-intents-hacked-days-after-denying-bitget-hacker",
@@ -1233,32 +1287,12 @@
     "tags": []
   },
   {
-    "source": "CryptoPotato",
-    "title": "Bitcoin Bull Market Shows Signs of Cooling: CryptoQuant",
-    "link": "https://cryptopotato.com/bitcoin-bull-market-shows-signs-of-cooling-cryptoquant/",
-    "publishedAt": "2026-09-30T20:29:53.000Z",
-    "preview": "Bitcoin holders are taking more profits, spot demand is weakening, and more altcoins are moving into exchanges as BTC nears key support levels.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Bitget Hacker Turns to Zcash Privacy Pool After Near Rejects $50M in Swaps",
     "link": "https://decrypt.co/379759/bitget-hacker-zcash-private-pool-near-thorchain",
     "publishedAt": "2026-09-30T19:46:04.000Z",
     "preview": "The attacker behind the $387.5 million Bitget heist has started hiding about $3.8 million in ZEC inside Zcash's Ironwood pool, after Near Intents turned their swaps away.",
     "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Bitcoin’s Biggest Holders Ramp Up Buying While Retail Traders Remain Flat",
-    "link": "https://cryptopotato.com/bitcoins-biggest-holders-ramp-up-buying-while-retail-traders-remain-flat/",
-    "publishedAt": "2026-09-30T19:39:34.000Z",
-    "preview": "Bitcoin's largest holders are increasing their positions again, creating a divergence from smaller retail investors who remain inactive.",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "Decrypt",
@@ -1285,14 +1319,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
-    "link": "https://www.coindesk.com/news-analysis/2026/09/30/crypto-industry-gave-usd8-million-to-clarity-act-lobbyists-who-didn-t-close-the-deal",
-    "publishedAt": "2026-09-30T17:16:31.000Z",
-    "preview": "In the first half of this year, the sector poured millions into lobbying, with most of it tied to pushing the U.S. market structure bill to a goal it never reached.",
-    "tags": []
   },
   {
     "source": "Decrypt",
@@ -1338,30 +1364,6 @@
     "link": "https://decrypt.co/379645/morning-minute-robinhood-adds-perps-weekend-stocks-and-ai-traders",
     "publishedAt": "2026-09-30T11:54:22.000Z",
     "preview": "Robinhood is leaning deeper into crypto as they look to unlock their “everything app” vision.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "CFTC Investigating Adam Kinzinger Over Kalshi Bets on His Own Pardon: Report",
-    "link": "https://decrypt.co/379639/cftc-investigating-adam-kinzinger-over-kalshi-bets-on-his-own-pardon-report",
-    "publishedAt": "2026-09-30T11:46:16.000Z",
-    "preview": "The former congressman says he made $823 on the trades, had no inside information, and had checked the platform's rules first.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "McDonald's AI ‘Pricing Engine’ Gauges What Customers Will Pay for a Big Mac: Report",
-    "link": "https://decrypt.co/379632/mcdonalds-ai-pricing-engine-gauges-what-customers-will-pay-for-a-big-mac-report",
-    "publishedAt": "2026-09-30T11:06:59.000Z",
-    "preview": "Machine-learning models set an 'optimal price' per item per restaurant, and have widened the gap between branches two miles apart.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "US Senator Blumenthal Calls Tether's USDT a 'Superhighway' for Iranian Sanctions Evasion",
-    "link": "https://decrypt.co/379624/us-senator-blumenthal-calls-tethers-usdt-a-superhighway-for-iranian-sanctions-evasion",
-    "publishedAt": "2026-09-30T10:32:01.000Z",
-    "preview": "The Connecticut Senator's subcommittee released its report on Monday and referred the findings to Treasury and the Justice Department.",
     "tags": []
   }
 ]
