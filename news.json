@@ -1,6 +1,94 @@
 [
   {
     "source": "Decrypt",
+    "title": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
+    "link": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
+    "publishedAt": "2026-10-03T17:01:03.000Z",
+    "preview": "The firm says the Sept. 24 breach pushed North Korea's 2026 crypto haul past $1 billion, and detailed how it used in-house AI to trace the stolen funds across four blockchains in a race against the attackers.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "BTC Price Analysis: Is Bitcoin Gearing Up for $96K or a Retest of $82K?",
+    "link": "https://cryptopotato.com/btc-price-analysis-is-bitcoin-gearing-up-for-96k-or-a-retest-of-82k/",
+    "publishedAt": "2026-10-03T16:23:00.000Z",
+    "preview": "Bitcoin is trading around $84.7K after a strong recovery from the $60K area over the past couple of months. The charts show improving market structure, but BTC is now approaching a significant resistance cluster at $88K.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
+    "link": "https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai",
+    "publishedAt": "2026-10-03T16:01:03.000Z",
+    "preview": "The YouTuber says OpenAI suspended his account twice while he trained a small, uncensored model built to run on your own computer.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "ESMA proposes ending EU custody and transfer services for non-compliant stablecoins",
+    "link": "https://cryptoslate.com/esma-proposes-ending-eu-custody-and-transfer-services-for-non-compliant-stablecoins/",
+    "publishedAt": "2026-10-03T16:00:54.000Z",
+    "preview": "Non-compliant tokens could lose licensed custody and transfer access if the proposal becomes law, with exit rules still unresolved. The post ESMA proposes ending EU custody and transfer services for non-compliant stablec",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
+    "link": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
+    "publishedAt": "2026-10-03T16:00:00.000Z",
+    "preview": "CEO Iana Dimitrova said OpenPayd aims to launch in the U.S. by April 2027 and is eyeing deals to add licenses and technology.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
+    "link": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
+    "publishedAt": "2026-10-03T16:00:00.000Z",
+    "preview": "Finance, engineering and trading led hiring demand, while Bitcoin, Ethereum and Solana were the most frequently requested blockchain skills.",
+    "tags": [
+      "BTC",
+      "ETH",
+      "SOL"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details",
+    "link": "https://decrypt.co/380002/trump-third-meme-coin-dinner-details",
+    "publishedAt": "2026-10-03T15:01:03.000Z",
+    "preview": "The TRUMP meme coin project is inviting its top 185 holders to a Nov. 22 gala dinner with President Trump two weeks after ethics disputes over his crypto interests helped stall the Clarity Act in the Senate.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
+    "link": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
+    "publishedAt": "2026-10-03T15:00:00.000Z",
+    "preview": "As AI agents evolve from answering questions to spending real money, investors and tech giants are scrambling to control the financial networks powering machine-driven commerce.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Citi Turns More Bullish on Bitcoin and Strategy: Here Are the New Targets",
+    "link": "https://cryptopotato.com/citi-turns-more-bullish-on-bitcoin-and-strategy-here-are-the-new-targets/",
+    "publishedAt": "2026-10-03T14:22:46.000Z",
+    "preview": "The banking behemoth has increased both targets after the latest price developments.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Six US banks have failed in 2026 but the numbers look nothing like 2023",
+    "link": "https://cryptoslate.com/six-us-banks-have-failed-in-2026-but-the-numbers-look-nothing-like-2023/",
+    "publishedAt": "2026-10-03T13:20:17.000Z",
+    "preview": "Six US banks have failed in 2026 so far, which is one more than in 2023 and enough to make another banking-crisis headline practically write itself. But before we start reliving Silicon Valley Bank, it's worth looking at",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
     "title": "The Pope Has Thoughts on AI Art—And They're Not Flattering",
     "link": "https://decrypt.co/379983/pope-leo-human-art-ai-creation",
     "publishedAt": "2026-10-03T13:01:04.000Z",
@@ -250,16 +338,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Crypto hackers exploit third-party Aave tool to steal 114 ETH",
-    "link": "https://cryptoslate.com/crypto-hackers-exploit-third-party-aave-tool-to-steal-114-eth/",
-    "publishedAt": "2026-10-02T19:10:35.000Z",
-    "preview": "A third-party lending adapter built on Aave was exploited to steal about 114 ETH, worth over $300,000, while the protocol itself remained unaffected. On Oct. 2, blockchain security firm SlowMist said the attacker comprom",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "This AI Is Already Fooling People on Video Calls Into Thinking It's Human, Company Says",
     "link": "https://decrypt.co/379975/tavus-griffin-ai-fools-people-video-thinking-human",
@@ -303,16 +381,6 @@
     "preview": "Once among Ethereum’s largest layer-2 networks by total value locked, Blast is urging users to move their assets to mainnet ahead of the shutdown.",
     "tags": [
       "ETH"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Evernorth’s Nasdaq XRP treasury is approved, but its real buying power isn’t the $300 million expected",
-    "link": "https://cryptoslate.com/evernorths-nasdaq-xrp-treasury-is-approved-but-its-real-buying-power-isnt-the-300-million-expected/",
-    "publishedAt": "2026-10-02T17:50:25.000Z",
-    "preview": "Roughly $88.5 million in closing-linked gross sources remains conditional, with expenses and spending choices deciding additional XRP demand. The post Evernorth’s Nasdaq XRP treasury is approved, but its real buying powe",
-    "tags": [
-      "XRP"
     ]
   },
   {
@@ -1191,36 +1259,6 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "Bitcoin kicks off new quarter in the old $82,000-$85,000 price range",
-    "link": "https://www.coindesk.com/markets/2026/10/01/bitcoin-kicks-off-new-quarter-in-the-old-usd82-000-usd85-000-price-range",
-    "publishedAt": "2026-10-01T10:38:04.000Z",
-    "preview": "Prices briefly topped $85,000 on Wednesday after weaker-than-expected U.S. inflation cooled bets on Fed rate hikes, But bulls couldn’t hold the move and spot ETFs didn’t help.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
-    "link": "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
-    "publishedAt": "2026-10-01T09:59:30.000Z",
-    "preview": "Citi also raised its 12-month target for ether from from $2,240 to $3,028.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Historical Trap Ahead? This Early November Event Could Derail Bitcoin’s Rally",
-    "link": "https://cryptopotato.com/historical-trap-ahead-this-early-november-event-could-derail-bitcoins-rally/",
-    "publishedAt": "2026-10-01T09:52:28.000Z",
-    "preview": "\"As Q4 begins, seasonality suggests investors should be prepared for volatility,\" Martinez claimed.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "MetaMask Exits Lido Validators Amid Infrastructure ‘Security Incident’",
     "link": "https://decrypt.co/379800/metamask-exits-lido-validators-amid-infrastructure-security-incident",
@@ -1231,32 +1269,12 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "NIGHT Explodes 26% While BTC Cools After Wild PCE Swing: Market Watch",
-    "link": "https://cryptopotato.com/night-explodes-26-while-btc-cools-after-wild-pce-swing-market-watch/",
-    "publishedAt": "2026-10-01T09:19:05.000Z",
-    "preview": "STX is the other massive gainer out of the largest 100 alts.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "EU Presses Binance Over ‘Reverse Solicitation’ Exemption for Users: Report",
     "link": "https://decrypt.co/379792/eu-presses-binance-over-reverse-solicitation-exemption-for-users-report",
     "publishedAt": "2026-10-01T08:56:02.000Z",
     "preview": "Regulators are probing how the exchange keeps serving EU customers from Abu Dhabi, months after it lost its MiCA registrations.",
     "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "MetaMask security incident forces Ethereum staking exits, no funds at risk",
-    "link": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
-    "publishedAt": "2026-10-01T07:06:30.000Z",
-    "preview": "An Ethereum security researcher estimates about 0.36 ETH in rewards was diverted, while precautionary exits cover validators holding roughly 523,000 ETH.",
-    "tags": [
-      "ETH"
-    ]
   },
   {
     "source": "Decrypt",
@@ -1334,34 +1352,6 @@
     "preview": "Decrypt is the destination, Myriad is the infrastructure and MYR is the token for a connected media ecosystem.",
     "tags": [
       "SOL"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
-    "link": "https://decrypt.co/379728/trump-unveils-morally-binding-ai-accord-signed-by-openai-google-and-nvidia",
-    "publishedAt": "2026-09-30T16:06:03.000Z",
-    "preview": "The one-page pact, which Trump called \"morally binding,\" asks companies to adopt internal controls, independent audits and board oversight—but carries no penalties and drew criticism for its thin detail.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Bitcoin Jumps on Cool PCE Inflation Data as Bond Yields Hit 20-Year Highs",
-    "link": "https://decrypt.co/379705/bitcoin-jumps-cool-pce-inflation-data",
-    "publishedAt": "2026-09-30T15:50:25.000Z",
-    "preview": "The Fed's favorite inflation gauge came in cooler than expected, rate-hike odds fell and Bitcoin traders took the hint.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Ex-NCA Officer Must Repay $2.4M for Bitcoin He Stole When It Was Worth $77K",
-    "link": "https://decrypt.co/379702/ex-nca-officer-must-repay-2-4m-for-bitcoin-he-stole-when-it-was-worth-77k",
-    "publishedAt": "2026-09-30T15:17:45.000Z",
-    "preview": "Paul Chowles took 50 BTC from a Silk Road 2.0 seizure in 2017. Prosecutors have now valued the theft at more than 30 times that.",
-    "tags": [
-      "BTC"
     ]
   }
 ]
