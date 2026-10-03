@@ -1,5 +1,39 @@
 [
   {
+    "source": "CryptoSlate",
+    "title": "Bankers sue to overturn OCC trust-bank rule used by crypto firms",
+    "link": "https://cryptoslate.com/bankers-sue-to-overturn-occ-trust-bank-rule-used-by-crypto-firms/",
+    "publishedAt": "2026-10-03T20:00:08.000Z",
+    "preview": "The Independent Community Bankers of America sued the OCC in federal court in Washington on Oct. 2, two weeks after the agency approved Agora National Trust Bank, Catena Trust Bank and Bastion Platforms. American Banker ",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "US Banking Group Sues OCC After Wave of Crypto Trust Bank Approvals",
+    "link": "https://cryptopotato.com/us-banking-group-sues-occ-after-wave-of-crypto-trust-bank-approvals/",
+    "publishedAt": "2026-10-03T19:35:13.000Z",
+    "preview": "The push to bring crypto companies deeper into the US federal banking system is facing new backlash.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Hedge funds built a $1.2 trillion Treasury trade on money they have to keep borrowing",
+    "link": "https://cryptoslate.com/hedge-funds-built-a-1-2-trillion-treasury-trade-on-money-they-have-to-keep-borrowing/",
+    "publishedAt": "2026-10-03T18:40:22.000Z",
+    "preview": "Companies can own a mountain of US government debt without betting that bond prices will rise. Hedge funds buy Treasury securities and sell futures against them to collect a small pricing gap, borrowing most of the purch",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Ripple Price Analysis: XRP’s Tightening Consolidation Puts $2 Breakout in Focus",
+    "link": "https://cryptopotato.com/ripple-price-analysis-xrps-tightening-consolidation-puts-2-breakout-in-focus/",
+    "publishedAt": "2026-10-03T17:41:12.000Z",
+    "preview": "XRP is consolidating after a sharp recovery from the $1.00 area, with price now holding well above the major support zones visible on the daily chart. The broader structure has improved, although the 4-hour chart shows t",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
     "source": "Decrypt",
     "title": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
     "link": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
@@ -266,14 +300,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Stablecoin issuers have replaced 40% of China’s lost US Treasury demand",
-    "link": "https://cryptoslate.com/stablecoin-issuers-have-replaced-40-of-chinas-lost-us-treasury-demand/",
-    "publishedAt": "2026-10-02T21:50:39.000Z",
-    "preview": "Stablecoin issuers are emerging as a new source of demand for US government debt as foreign official holdings lose ground. Tether and Circle have increased their Treasury securities and repurchase-agreement holdings by a",
-    "tags": []
-  },
-  {
     "source": "CoinDesk",
     "title": "Bank group sues U.S. regulator over granting crypto trust charters",
     "link": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
@@ -298,16 +324,6 @@
     "publishedAt": "2026-10-02T20:40:47.000Z",
     "preview": "Speaking on Cointelegraph’s Chain Reaction, Christian Trummer said MiCA has increased trust in regulated platforms and called for stricter enforcement against noncompliant firms.",
     "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Bitcoin’s $85,000 sell wall is gone and traders are now betting on $100,000",
-    "link": "https://cryptoslate.com/bitcoins-85000-sell-wall-is-gone-and-traders-are-now-betting-on-100000/",
-    "publishedAt": "2026-10-02T20:30:33.000Z",
-    "preview": "Bitcoin’s rally is approaching a $90,000 test as a rare accumulation pattern reappears and sell-side liquidity thins. On Oct. 2, Bitcoin registered an intraday high at $87,000 after buyers broke through a sell wall aroun",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "CryptoPotato",
@@ -1241,14 +1257,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "MetaMask Confirms Security Incident and Begins Validator Exits to Protect Client Assets",
-    "link": "https://cryptopotato.com/metamask-confirms-security-incident-and-begins-validator-exits-to-protect-client-assets/",
-    "publishedAt": "2026-10-01T11:05:44.000Z",
-    "preview": "MetaMask stated that user wallets face no immediate threat following an undisclosed infrastructure security incident.",
-    "tags": []
   },
   {
     "source": "CoinDesk",
