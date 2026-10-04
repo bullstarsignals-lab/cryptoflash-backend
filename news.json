@@ -1,5 +1,91 @@
 [
   {
+    "source": "CryptoPotato",
+    "title": "Bitcoin and Ethereum ETF Weekly Flows: The Good, the Bad, and the Concerning",
+    "link": "https://cryptopotato.com/bitcoin-and-ethereum-etf-weekly-flows-the-good-the-bad-and-the-concerning/",
+    "publishedAt": "2026-10-04T17:52:34.000Z",
+    "preview": "The past three weeks have been quite different for the funds.",
+    "tags": [
+      "BTC",
+      "ETH"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Drift hack recovery opened near one cent per dollar lost",
+    "link": "https://cryptoslate.com/drift-hack-recovery-opened-near-one-cent-per-dollar-lost/",
+    "publishedAt": "2026-10-04T17:20:02.000Z",
+    "preview": "Drift's October 1 launch quote valued DFX near one cent per USDT lost, while redemption ends future pool participation for the tokens burned. The post Drift hack recovery opened near one cent per dollar lost appeared fir",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
+    "link": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
+    "publishedAt": "2026-10-04T17:01:03.000Z",
+    "preview": "President Trump named a new \"Super Intelligence Force\" to coordinate federal AI policy, with Director of National Intelligence Jay Clayton at the helm. As SEC chair, Clayton launched crypto lawsuits including the agency'",
+    "tags": [
+      "XRP",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Vitalik-inspired AI payment system can send expired deposits to its treasury",
+    "link": "https://cryptoslate.com/vitalik-inspired-ai-payment-system-can-send-expired-deposits-to-its-treasury/",
+    "publishedAt": "2026-10-04T16:20:35.000Z",
+    "preview": "zkAPI offers an exit without server clearance, but challenged spending states, vault pauses and note expiry can constrain recovery. The post Vitalik-inspired AI payment system can send expired deposits to its treasury ap",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "What Could Decide Bitcoin’s Q4? The Fed, Bond Yields, and One Crucial Price Level",
+    "link": "https://cryptopotato.com/what-could-decide-bitcoins-q4-the-fed-bond-yields-and-one-crucial-price-level/",
+    "publishedAt": "2026-10-04T16:10:42.000Z",
+    "preview": "The market structure is significantly different today, said one of the analysts we talked to.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System",
+    "link": "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking",
+    "publishedAt": "2026-10-04T16:01:03.000Z",
+    "preview": "The Independent Community Bankers of America argues the OCC's national trust charters give crypto firms a \"side door into the banking system\" without the safeguards that bind traditional banks.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Lido’s proposed staking route needs over 13 times the default entry bond",
+    "link": "https://cryptoslate.com/lidos-proposed-staking-route-needs-over-13-times-the-default-entry-bond/",
+    "publishedAt": "2026-10-04T15:20:58.000Z",
+    "preview": "A higher entry bond lowers collateral per ETH at full balance, but funding and operator profiles determine fee-efficiency gains. The post Lido’s proposed staking route needs over 13 times the default entry bond appeared ",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
+    "link": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million",
+    "publishedAt": "2026-10-04T15:01:03.000Z",
+    "preview": "Spot Bitcoin ETFs took in $134.4 million over the first two trading days of October, rebounding from a Sept. 30 outflow as a weak jobs report cooled Fed rate-hike bets.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "America’s Middle Class Is Getting Crushed: Where Does Bitcoin Fit?",
+    "link": "https://cryptopotato.com/americas-middle-class-is-getting-crushed-where-does-bitcoin-fit/",
+    "publishedAt": "2026-10-04T14:43:43.000Z",
+    "preview": "The Kobeissi Letter painted a bleak picture of wealth distribution in the US, arguging that the country is increasingly becoming an economy divided between asset owners and everyone else.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
     "source": "CryptoSlate",
     "title": "3x Bitcoin and Ether futures funds clear SEC listing hurdle",
     "link": "https://cryptoslate.com/3x-bitcoin-and-ether-futures-funds-clear-sec-listing-hurdle/",
@@ -278,14 +364,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Six US banks have failed in 2026 but the numbers look nothing like 2023",
-    "link": "https://cryptoslate.com/six-us-banks-have-failed-in-2026-but-the-numbers-look-nothing-like-2023/",
-    "publishedAt": "2026-10-03T13:20:17.000Z",
-    "preview": "Six US banks have failed in 2026 so far, which is one more than in 2023 and enough to make another banking-crisis headline practically write itself. But before we start reliving Silicon Valley Bank, it's worth looking at",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "The Pope Has Thoughts on AI Art—And They're Not Flattering",
     "link": "https://decrypt.co/379983/pope-leo-human-art-ai-creation",
@@ -339,16 +417,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Leveraged funds’ Bitcoin futures shorts fall by 5,300 BTC-equivalent as longs shrink",
-    "link": "https://cryptoslate.com/leveraged-funds-bitcoin-futures-shorts-fall-by-5300-btc-equivalent-as-longs-shrink/",
-    "publishedAt": "2026-10-03T11:30:07.000Z",
-    "preview": "The September 29 snapshot shows leveraged funds’ reported shorts fell about 5,300 BTC-equivalent across four products, while longs and open interest also declined. The post Leveraged funds’ Bitcoin futures shorts fall by",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "QNT and NIGHT Continue to Defy Market Correction, BTC Settles After Wild Ride: Weekend Watch",
     "link": "https://cryptopotato.com/qnt-and-night-continue-to-defy-market-correction-btc-settles-after-wild-ride-weekend-watch/",
@@ -356,17 +424,6 @@
     "preview": "In contrast, PENGU and LIT have slumped hard.",
     "tags": [
       "BTC"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Arbitrum pauses new Stylus activations over AI-assisted attack risks",
-    "link": "https://cryptoslate.com/arbitrum-pauses-new-stylus-activations-over-ai-assisted-attack-risks/",
-    "publishedAt": "2026-10-03T09:50:30.000Z",
-    "preview": "Existing programs keep running, while a separate proof-conflict guard can delay unconfirmed withdrawals to Ethereum. The post Arbitrum pauses new Stylus activations over AI-assisted attack risks appeared first on CryptoS",
-    "tags": [
-      "ETH",
-      "ARB"
     ]
   },
   {
@@ -1075,14 +1132,6 @@
     "tags": []
   },
   {
-    "source": "CryptoPotato",
-    "title": "Report: Binance Under EU Review Over Continued Operations After MiCA Miss",
-    "link": "https://cryptopotato.com/report-binance-under-eu-review-over-continued-operations-after-mica-miss/",
-    "publishedAt": "2026-10-01T22:22:27.000Z",
-    "preview": "The review centers on whether Binance can rely on reverse solicitation while its broader European licensing position remains unresolved.",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "Zcash Drops 21% From Recent High—Here’s Why the Rally May Not Be Over",
     "link": "https://decrypt.co/379901/zcash-price-drops-etf-flows-rally",
@@ -1098,16 +1147,6 @@
     "preview": "The proposal would let advisers and funds use state trust companies as custodians and permit self-custody under certain conditions, aiming to replace years of ambiguity with a clear compliance path.",
     "tags": [
       "Regulation"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Cardano (ADA) Ends September With Massive Gains: But Major Bearish Signals Are Flashing",
-    "link": "https://cryptopotato.com/cardano-ada-ends-september-with-massive-gains-but-major-bearish-signals-are-flashing/",
-    "publishedAt": "2026-10-01T20:38:13.000Z",
-    "preview": "Whales have dumped around 90 million ADA since September 20.",
-    "tags": [
-      "ADA"
     ]
   },
   {
@@ -1143,17 +1182,6 @@
     "publishedAt": "2026-10-01T19:16:03.000Z",
     "preview": "Communications chief Andy Stone said reading Messages requires two permissions the user controls, disputing a journalist who reported Muse synced his texts despite his settings.",
     "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Crypto May Be Better Off Without CLARITY Act, Says Bitwise CIO: ‘Too Big to Crush’",
-    "link": "https://cryptopotato.com/crypto-may-be-better-off-without-clarity-act-says-bitwise-cio-too-big-to-crush/",
-    "publishedAt": "2026-10-01T19:04:36.000Z",
-    "preview": "Bitcoin, Ethereum, and several altcoins surged after CLARITY's Senate failure.",
-    "tags": [
-      "BTC",
-      "ETH"
-    ]
   },
   {
     "source": "Decrypt",
@@ -1331,31 +1359,5 @@
     "publishedAt": "2026-09-30T19:46:04.000Z",
     "preview": "The attacker behind the $387.5 million Bitget heist has started hiding about $3.8 million in ZEC inside Zcash's Ironwood pool, after Near Intents turned their swaps away.",
     "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "US Government's New AI Chatbot Has a Weird Minecraft Secret",
-    "link": "https://decrypt.co/379739/america-gov-ai-chatbot-minecraft-end-poem",
-    "publishedAt": "2026-09-30T19:16:02.000Z",
-    "preview": "Ask the U.S. government's new AI chatbot about Minecraft and it produces a roughly 1,800-word bureaucratic remix of the game's ending poem. It's an easter egg, not a hallucination.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets",
-    "link": "https://decrypt.co/379750/cftc-sends-white-house-new-rules-to-cement-its-grip-on-prediction-markets",
-    "publishedAt": "2026-09-30T18:39:21.000Z",
-    "preview": "The two proposals would define event contracts as \"swaps\" while excluding \"casino-style gambling products\"—a bid to cement the agency's exclusive jurisdiction as states sue prediction-market operators over gambling claim",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally",
-    "link": "https://decrypt.co/379731/bitcoin-etf-9-day-streak-august-rally",
-    "publishedAt": "2026-09-30T17:27:43.000Z",
-    "preview": "Bitcoin ETFs added $66 million Tuesday, matching August's nine-day run and topping it in dollars. How long will the streak stay alive?",
-    "tags": [
-      "BTC"
-    ]
   }
 ]
