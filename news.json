@@ -1,5 +1,70 @@
 [
   {
+    "source": "CryptoSlate",
+    "title": "Bitcoin’s $85,000 recovery awaits proof that ETF investors kept buying after payrolls",
+    "link": "https://cryptoslate.com/bitcoins-85000-recovery-awaits-proof-that-etf-investors-kept-buying-after-payrolls/",
+    "publishedAt": "2026-10-04T20:45:36.000Z",
+    "preview": "Glassnode estimated the probability of an additional quarter-point hike at the Oct. 28 meeting fell from 66% on Sept. 28 to 22% by 15:00 UTC on Oct. 2. The post Bitcoin’s $85,000 recovery awaits proof that ETF investors ",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "IMF Approves $138M for El Salvador After Bitcoin Accumulation Waiver",
+    "link": "https://cryptopotato.com/imf-approves-138m-for-el-salvador-after-bitcoin-accumulation-waiver/",
+    "publishedAt": "2026-10-04T20:01:34.000Z",
+    "preview": "While El Salvador remains one of the most closely watched countries for its Bitcoin strategy, the IMF agreement calls for less direct state involvement in crypto assets.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Bitcoin Core’s new fix closes gap that could redirect funds without stealing keys",
+    "link": "https://cryptoslate.com/bitcoin-cores-new-fix-closes-gap-that-could-redirect-funds-without-stealing-keys/",
+    "publishedAt": "2026-10-04T19:40:34.000Z",
+    "preview": "A missing-output SIGHASH_SINGLE request can leave recipients unbound; Core’s merged PSBT repair has no confirmed fixed-release destination. The post Bitcoin Core’s new fix closes gap that could redirect funds without ste",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-10-04T18:51:50.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "New Treasury rules could change how stablecoin issuers get your dollars back",
+    "link": "https://cryptoslate.com/new-treasury-rules-could-change-how-stablecoin-issuers-get-your-dollars-back/",
+    "publishedAt": "2026-10-04T18:40:36.000Z",
+    "preview": "US government debt is one of the easiest assets in the world to borrow against, which lets financial companies get cash without giving up their investments for good. Washington is rewriting the rules for that borrowing, ",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "There's an election next month: State of Crypto",
+    "link": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
+    "publishedAt": "2026-10-04T18:30:00.000Z",
+    "preview": "Congress is gone from Washington for the final pre-election recess, and it's time to take stock of what's going on ahead of November.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "India’s local crypto exchanges get just 0.7% of inflows, Chainalysis reports",
+    "link": "https://cryptoslate.com/indias-local-crypto-exchanges-get-just-0-7-of-inflows-chainalysis-reports/",
+    "publishedAt": "2026-10-04T18:20:31.000Z",
+    "preview": "Chainalysis’s new regional chapters separate national crypto participation from domestic exchange business, with Brazil-based platforms receiving 12.5% of inflows. The post India’s local crypto exchanges get just 0.7% of",
+    "tags": []
+  },
+  {
     "source": "CryptoPotato",
     "title": "Bitcoin and Ethereum ETF Weekly Flows: The Good, the Bad, and the Concerning",
     "link": "https://cryptopotato.com/bitcoin-and-ethereum-etf-weekly-flows-the-good-the-bad-and-the-concerning/",
@@ -206,14 +271,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Stablecoins may not drain banks of dollars but they can still make lending more expensive",
-    "link": "https://cryptoslate.com/stablecoins-may-not-drain-banks-of-dollars-but-they-can-still-make-lending-more-expensive/",
-    "publishedAt": "2026-10-04T07:30:08.000Z",
-    "preview": "Here's a hypothetical scenario: you want to use $100 out of your bank account to buy newly issued stablecoins. The company issuing the stablecoins takes your dollars, puts them in its own bank account, and gives you a ba",
-    "tags": []
-  },
-  {
     "source": "Cointelegraph",
     "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
     "link": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time",
@@ -250,27 +307,11 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Bankers sue to overturn OCC trust-bank rule used by crypto firms",
-    "link": "https://cryptoslate.com/bankers-sue-to-overturn-occ-trust-bank-rule-used-by-crypto-firms/",
-    "publishedAt": "2026-10-03T20:00:08.000Z",
-    "preview": "The Independent Community Bankers of America sued the OCC in federal court in Washington on Oct. 2, two weeks after the agency approved Agora National Trust Bank, Catena Trust Bank and Bastion Platforms. American Banker ",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "US Banking Group Sues OCC After Wave of Crypto Trust Bank Approvals",
     "link": "https://cryptopotato.com/us-banking-group-sues-occ-after-wave-of-crypto-trust-bank-approvals/",
     "publishedAt": "2026-10-03T19:35:13.000Z",
     "preview": "The push to bring crypto companies deeper into the US federal banking system is facing new backlash.",
-    "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Hedge funds built a $1.2 trillion Treasury trade on money they have to keep borrowing",
-    "link": "https://cryptoslate.com/hedge-funds-built-a-1-2-trillion-treasury-trade-on-money-they-have-to-keep-borrowing/",
-    "publishedAt": "2026-10-03T18:40:22.000Z",
-    "preview": "Companies can own a mountain of US government debt without betting that bond prices will rise. Hedge funds buy Treasury securities and sell futures against them to collect a small pricing gap, borrowing most of the purch",
     "tags": []
   },
   {
@@ -307,14 +348,6 @@
     "link": "https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai",
     "publishedAt": "2026-10-03T16:01:03.000Z",
     "preview": "The YouTuber says OpenAI suspended his account twice while he trained a small, uncensored model built to run on your own computer.",
-    "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "ESMA proposes ending EU custody and transfer services for non-compliant stablecoins",
-    "link": "https://cryptoslate.com/esma-proposes-ending-eu-custody-and-transfer-services-for-non-compliant-stablecoins/",
-    "publishedAt": "2026-10-03T16:00:54.000Z",
-    "preview": "Non-compliant tokens could lose licensed custody and transfer access if the proposal becomes law, with exit rules still unresolved. The post ESMA proposes ending EU custody and transfer services for non-compliant stablec",
     "tags": []
   },
   {
@@ -386,17 +419,6 @@
     "publishedAt": "2026-10-03T13:00:00.000Z",
     "preview": "Tokenization is not just about putting individual stocks and funds onchain. The next step could be entire investment portfolios that can be traded, rebalanced and eventually managed in real-time.",
     "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-10-03T12:20:00.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
-    ]
   },
   {
     "source": "CryptoPotato",
@@ -1104,16 +1126,6 @@
     "tags": []
   },
   {
-    "source": "CryptoPotato",
-    "title": "XRP Outflows Spike Above 320M, Echoing August Rally Setup",
-    "link": "https://cryptopotato.com/xrp-outflows-spike-above-320m-echoing-august-rally-setup/",
-    "publishedAt": "2026-10-02T04:13:39.000Z",
-    "preview": "Binance's XRP reserves fell by about 57 million tokens in three days, erasing more than half of a two-week build-up.",
-    "tags": [
-      "XRP"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "Ethereum’s zkAPI brings privacy-preserving API payments to mainnet",
     "link": "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet",
@@ -1291,14 +1303,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Illinois agrees to six-month delay of crypto tax as industry continues court battle",
-    "link": "https://www.coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle",
-    "publishedAt": "2026-10-01T11:58:00.000Z",
-    "preview": "Both sides agreed the 0.2% tax should be put off until July 1, if the court approves the deal, which will let the state and industry focus on the legal dispute.",
-    "tags": []
   },
   {
     "source": "Decrypt",
