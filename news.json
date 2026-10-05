@@ -1,6 +1,46 @@
 [
   {
     "source": "CryptoSlate",
+    "title": "El Salvador’s $666 million Bitcoin reserve survives IMF review",
+    "link": "https://cryptoslate.com/el-salvadors-666-million-bitcoin-reserve-survives-imf-review/",
+    "publishedAt": "2026-10-05T00:00:39.000Z",
+    "preview": "Waivers for missed accumulation criteria accompany renewed commitments, with no further Bitcoin accumulation envisaged beyond documented donations. The post El Salvador’s $666 million Bitcoin reserve survives IMF review ",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest",
+    "link": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest",
+    "publishedAt": "2026-10-04T22:31:12.000Z",
+    "preview": "Roman Storm and the XRP army aren’t happy former SEC boss Jay Clayton is Trump’s new AI czar, Peter Brandt flips bullish and says Bitcoin may reach as high as $600K by 2029.",
+    "tags": [
+      "BTC",
+      "XRP",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Galaxy Finds 7 in 10 Polymarket Retail Traders Lost Money",
+    "link": "https://cryptopotato.com/galaxy-finds-7-in-10-polymarket-retail-traders-lost-money/",
+    "publishedAt": "2026-10-04T22:14:34.000Z",
+    "preview": "Galaxy studied 2.9 million human-paced Polymarket accounts and found that losses dominated. Interestingly, sports specialists performed worst among major categories.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Ethereum’s past outflow charts can change when more exchange wallets are identified",
+    "link": "https://cryptoslate.com/ethereums-past-outflow-charts-can-change-when-more-exchange-wallets-are-identified/",
+    "publishedAt": "2026-10-04T22:05:40.000Z",
+    "preview": "Coin Metrics rebuilt ETH Standard flows, but an outflow trading claim still needs the data available at the decision time. The post Ethereum’s past outflow charts can change when more exchange wallets are identified appe",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
     "title": "Bitcoin’s $85,000 recovery awaits proof that ETF investors kept buying after payrolls",
     "link": "https://cryptoslate.com/bitcoins-85000-recovery-awaits-proof-that-etf-investors-kept-buying-after-payrolls/",
     "publishedAt": "2026-10-04T20:45:36.000Z",
@@ -188,16 +228,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "The same Fed rate hike can help stablecoins and hurt Bitcoin borrowers",
-    "link": "https://cryptoslate.com/the-same-fed-rate-hike-can-help-stablecoins-and-hurt-bitcoin-borrowers/",
-    "publishedAt": "2026-10-04T13:20:06.000Z",
-    "preview": "When you hold a dollar stablecoin, somebody else may be earning interest on the assets backing your balance, while a company borrowing to buy Bitcoin has to find the money to pay its lenders. Both businesses are crypto-n",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "'We Have Identified You, Sir': Near Intents Recovers $3.8 Million After 48-Hour Ultimatum",
     "link": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum",
@@ -219,14 +249,6 @@
     "link": "https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war",
     "publishedAt": "2026-10-04T12:42:00.000Z",
     "preview": "Garantex was previously sanctioned by the US, the EU and other jurisdictions for helping Russian entities evade financial restrictions.",
-    "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Binance will hold some Brazil crypto deposits until users explain where the money came from",
-    "link": "https://cryptoslate.com/binance-will-hold-some-brazil-crypto-deposits-until-users-explain-where-the-money-came-from/",
-    "publishedAt": "2026-10-04T12:20:34.000Z",
-    "preview": "From Nov. 1, affected international deposits will remain pending until customers provide required transfer details. The post Binance will hold some Brazil crypto deposits until users explain where the money came from app",
     "tags": []
   },
   {
@@ -1090,16 +1112,6 @@
     "tags": []
   },
   {
-    "source": "CryptoPotato",
-    "title": "Top Ethereum (ETH) Price Predictions as Whales Keep Buying",
-    "link": "https://cryptopotato.com/top-ethereum-eth-price-predictions-as-whales-keep-buying/",
-    "publishedAt": "2026-10-02T05:33:21.000Z",
-    "preview": "The asset must clear the $2,650-$2,900 range to \"accelerate hard,\" one analyst claimed.",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "South Korea advances tokenized securities rules ahead of 2027 rollout",
     "link": "https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027",
@@ -1134,14 +1146,6 @@
     "tags": [
       "ETH"
     ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum",
-    "link": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum",
-    "publishedAt": "2026-10-02T02:02:13.000Z",
-    "preview": "“We have identified you, sir,” NEAR Intents general manager Alex Shevchenko said on Friday after the protocol was hacked for $3.8 million.",
-    "tags": []
   },
   {
     "source": "Decrypt",
