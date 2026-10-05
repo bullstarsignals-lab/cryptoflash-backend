@@ -1,5 +1,109 @@
 [
   {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-10-05T05:00:00.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
+    "link": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
+    "publishedAt": "2026-10-05T04:45:03.000Z",
+    "preview": "OKXICE, the joint venture of OKX and ICE, plans to launch tokenized U.S. stocks under SEC's new innovation exemption.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Zcash’s 25-second blocks go live on public testnet ahead of schedule",
+    "link": "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule",
+    "publishedAt": "2026-10-05T04:41:35.000Z",
+    "preview": "NU7 cuts the target block time from 75 seconds to 25, giving exchanges, wallets and developers a live rehearsal before a planned November mainnet launch.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses",
+    "link": "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses",
+    "publishedAt": "2026-10-05T04:23:25.000Z",
+    "preview": "Bitcoin came within about $500 of its late-September peak before sellers pushed it back under $86,000. It's the second rally in a week to stall.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "XRP and SOL ETF Demand Craters as Weekly Inflows Drop 94%+",
+    "link": "https://cryptopotato.com/xrp-and-sol-etf-demand-craters-as-weekly-inflows-drop-94/",
+    "publishedAt": "2026-10-05T04:05:43.000Z",
+    "preview": "The past week was entirely different than the previous one.",
+    "tags": [
+      "SOL",
+      "XRP"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Ether's bitcoin-beating Q3 rally came with a catch. Liquidity thinned.",
+    "link": "https://www.coindesk.com/markets/2026/10/05/ether-s-bitcoin-beating-q3-rally-came-with-a-catch-liquidity-thinned",
+    "publishedAt": "2026-10-05T03:50:29.000Z",
+    "preview": "Ether beat bitcoin in the third quarter, but its market liquidity got thinner, according to Coingecko.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Zcash activates NU7 on testnet ahead of November mainnet target",
+    "link": "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet",
+    "publishedAt": "2026-10-05T03:47:19.000Z",
+    "preview": "Zcash’s NU7 upgrade is now live on testnet, giving developers several weeks to assess 25-second blocks and other protocol changes before a planned November mainnet activation.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "OKX, NYSE parent file to launch tokenized US stock platform",
+    "link": "https://cointelegraph.com/news/okx-nyse-parent-file-to-launch-tokenized-us-stock-platform",
+    "publishedAt": "2026-10-05T03:44:09.000Z",
+    "preview": "The stock trading platform seeks to offer tokenized shares in more than 60 US-listed companies under the SEC’s recently introduced innovation exemption.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Safe investor asks Swiss watchdog to intervene in governance dispute",
+    "link": "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute",
+    "publishedAt": "2026-10-05T03:12:21.000Z",
+    "preview": "Greenfield Capital said it sought changes to Safe Ecosystem Foundation’s board for months before turning to the Swiss regulator.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Illinois backs delay to crypto tax rule after months of industry pushback",
+    "link": "https://cryptoslate.com/illinois-backs-delay-to-crypto-tax-rule-after-months-of-industry-pushback/",
+    "publishedAt": "2026-10-05T02:00:45.000Z",
+    "preview": "The October 1 joint motion seeks a July 2027 tax start, while court entry remains unconfirmed and rule comments close Oct. 30. The post Illinois backs delay to crypto tax rule after months of industry pushback appeared f",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Zcash gets a Washington lobbyist to push crypto policy",
+    "link": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy",
+    "publishedAt": "2026-10-05T00:35:34.000Z",
+    "preview": "The newly registered lobbying operation lists the CLARITY Act and two digital asset tax proposals among the issues it plans to lobby on in Washington.",
+    "tags": []
+  },
+  {
     "source": "CryptoSlate",
     "title": "El Salvador’s $666 million Bitcoin reserve survives IMF review",
     "link": "https://cryptoslate.com/el-salvadors-666-million-bitcoin-reserve-survives-imf-review/",
@@ -67,17 +171,6 @@
     "preview": "A missing-output SIGHASH_SINGLE request can leave recipients unbound; Core’s merged PSBT repair has no confirmed fixed-release destination. The post Bitcoin Core’s new fix closes gap that could redirect funds without ste",
     "tags": [
       "BTC"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-10-04T18:51:50.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
     ]
   },
   {
@@ -188,17 +281,6 @@
     "preview": "The Kobeissi Letter painted a bleak picture of wealth distribution in the US, arguging that the country is increasingly becoming an economy divided between asset owners and everyone else.",
     "tags": [
       "BTC"
-    ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "3x Bitcoin and Ether futures funds clear SEC listing hurdle",
-    "link": "https://cryptoslate.com/3x-bitcoin-and-ether-futures-funds-clear-sec-listing-hurdle/",
-    "publishedAt": "2026-10-04T14:20:32.000Z",
-    "preview": "The products target triple daily futures-benchmark returns before fees, while registration effectiveness and a first trading date remain unconfirmed. The post 3x Bitcoin and Ether futures funds clear SEC listing hurdle a",
-    "tags": [
-      "BTC",
-      "Regulation"
     ]
   },
   {
@@ -1093,59 +1175,12 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "Lowest Fee Bitcoin ATMs Announces Launch of More Than 400 ATMs Nationwide",
-    "link": "https://cryptopotato.com/lowest-fee-bitcoin-atms-announces-launch-of-more-than-400-atms-nationwide/",
-    "publishedAt": "2026-10-02T07:04:23.000Z",
-    "preview": "[PRESS RELEASE – Las Vegas, NV, October 1st, 2026] Lowest Fee Bitcoin ATMs announced the launch of more than 400 cryptocurrency ATMs across the United States. The machines allow customers to purchase Bitcoin, Ethereum, U",
-    "tags": [
-      "BTC",
-      "ETH"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "South Korea crypto exchange profits fall 78% in H1 amid trading slump",
     "link": "https://cointelegraph.com/news/south-korea-crypto-exchange-profits-fall-78-percent",
     "publishedAt": "2026-10-02T05:53:27.000Z",
     "preview": "South Korean crypto exchange operating profits fell 78% in the first half of 2026 as trading volumes, market capitalization and customer deposits declined.",
     "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "South Korea advances tokenized securities rules ahead of 2027 rollout",
-    "link": "https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027",
-    "publishedAt": "2026-10-02T05:08:32.000Z",
-    "preview": "South Korea’s financial regulator proposed detailed rules for tokenized securities, including capital requirements, OTC trading licenses and retail investment limits.",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Zano exploiter minted more than a quadrillion fUSD before blockchain rollback",
-    "link": "https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback",
-    "publishedAt": "2026-10-02T05:02:23.000Z",
-    "preview": "The unauthorized coins were indistinguishable from legitimate ZANO, leaving the team unable to remove them without rolling back the blockchain.",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Core Lightning warns attackers are targeting unpatched nodes",
-    "link": "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes",
-    "publishedAt": "2026-10-02T04:18:43.000Z",
-    "preview": "Node operators running version 26.06.7 or earlier were told to upgrade immediately.",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Ethereum’s zkAPI brings privacy-preserving API payments to mainnet",
-    "link": "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet",
-    "publishedAt": "2026-10-02T03:34:25.000Z",
-    "preview": "Ethereum’s zkAPI is now live on mainnet, turning an earlier zero-knowledge API payment proposal into a working implementation for private, prepaid access.",
-    "tags": [
-      "ETH"
-    ]
   },
   {
     "source": "Decrypt",
@@ -1210,14 +1245,6 @@
     ]
   },
   {
-    "source": "CoinDesk",
-    "title": "Another Trump memecoin dinner advertised for token's top investors",
-    "link": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
-    "publishedAt": "2026-10-01T18:45:29.000Z",
-    "preview": "The company managing the memecoin calls the November event the \"most exclusive dinner in the world.\"",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "OpenAI Fires Three Safety Researchers Over Alleged Leak to Outside Group",
     "link": "https://decrypt.co/379857/openai-fires-researchers-alledged-leak-safety-group",
@@ -1256,22 +1283,6 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
-    "publishedAt": "2026-10-01T15:00:00.000Z",
-    "preview": "",
-    "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
-    "link": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
-    "publishedAt": "2026-10-01T14:18:14.000Z",
-    "preview": "The popular cross-chain trading system said Friday the exploiter returned all stolen assets a day later a bug affected deposits and withdrawals across several networks.",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "Minecraft, Candy Crush Among 11 Games in EU Virtual Currency Crackdown",
     "link": "https://decrypt.co/379813/minecraft-candy-crush-among-11-games-in-eu-virtual-currency-crackdown",
@@ -1296,16 +1307,6 @@
     "tags": [
       "BTC",
       "ETH"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Live updates: Bitcoin posts tentative gains as rates drop ahead of Friday's jobs report",
-    "link": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
-    "publishedAt": "2026-10-01T11:59:17.000Z",
-    "preview": "The euro is losing ground versus the greenback as spiking French bond yields revive memories of the European sovereign debt crisis.",
-    "tags": [
-      "BTC"
     ]
   },
   {
