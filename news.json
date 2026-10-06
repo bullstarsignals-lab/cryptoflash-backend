@@ -1,10 +1,81 @@
 [
   {
     "source": "CryptoSlate",
+    "title": "Kraken parent joins Singapore Gulf Bank, opening 24/7 institutional dollar rails",
+    "link": "https://cryptoslate.com/kraken-parent-joins-singapore-gulf-bank-opening-24-7-institutional-dollar-rails/",
+    "publishedAt": "2026-10-06T00:30:28.000Z",
+    "preview": "Payward's SGB Net link supports round-the-clock US-dollar funding in eligible jurisdictions, while SGB customer-trade pricing is planned for coming months. The post Kraken parent joins Singapore Gulf Bank, opening 24/7 i",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months",
+    "link": "https://decrypt.co/380129/strive-adds-169m-bitcoin-biggest-buy-four-months",
+    "publishedAt": "2026-10-05T22:30:20.000Z",
+    "preview": "The Nasdaq-listed bitcoin treasury company, co-founded by Vivek Ramaswamy, paid roughly $169 million for 2,000 coins last week and now holds 29,462 BTC.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Strive CEO Says ASST Can Outrun Strategy in the Next Bitcoin Bull Market",
+    "link": "https://cryptopotato.com/strive-ceo-says-asst-can-outrun-strategy-in-the-next-bitcoin-bull-market/",
+    "publishedAt": "2026-10-05T22:14:02.000Z",
+    "preview": "Cole expects Bitcoin to reach $400,000 to $500,000 by late 2029, built on a US debt crisis that forces long-term yields lower.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "CFTC makes its biggest move yet to bring offshore crypto trading back to the US",
+    "link": "https://cryptoslate.com/cftc-makes-its-biggest-move-yet-to-bring-offshore-crypto-trading-back-to-the-us/",
+    "publishedAt": "2026-10-05T22:10:34.000Z",
+    "preview": "The Commodity Futures Trading Commission (CFTC) is offering US crypto exchanges a federal route to retail leverage as Congress remains stalled on market-structure legislation. On Oct. 5, the financial regulatory agency o",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow",
+    "link": "https://decrypt.co/380125/defi-development-corp-adds-3m-solana",
+    "publishedAt": "2026-10-05T21:48:03.000Z",
+    "preview": "Nasdaq-listed DeFi Development Corp's latest SEC filing shows its Solana stash grew 1%, to about 2.56 million SOL and SOL equivalents—roughly half the prior week's gain and well below mid-September's pace.",
+    "tags": [
+      "SOL",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Crypto PAC announces support for 32 House candidates in US midterms",
+    "link": "https://cointelegraph.com/news/crypto-pac-fairshake-house-endorsements-us-midterms",
+    "publishedAt": "2026-10-05T21:42:30.000Z",
+    "preview": "Fairshake said it would financially back 32 House candidates who all voted in favor of the CLARITY market structure bill in 2025, as the legislation remains in limbo in the Senate.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "A Florida Woman Used Claude as a Diary. An Anthropic Employee Read It and Reported It to Police",
+    "link": "https://decrypt.co/380119/florida-woman-claude-diary-anthropic-reported-police",
+    "publishedAt": "2026-10-05T21:16:03.000Z",
+    "preview": "Investigators say a Bonita Springs woman's Claude \"diary\" tripped Anthropic's safety filters. A human review team sent it to police, and Anthropic's own terms allow exactly that.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
     "title": "ZachXBT infiltrates $1B crypto syndicate to expose Lazarus Group",
     "link": "https://cryptoslate.com/zachxbt-infiltrates-1b-crypto-syndicate-to-expose-lazarus-group/",
     "publishedAt": "2026-10-05T20:50:17.000Z",
     "preview": "His October 5 disclosure describes 2025 trades and private chats that he says helped trace Bybit funds and secure a 442,000 USDT freeze. The post ZachXBT infiltrates $1B crypto syndicate to expose Lazarus Group appeared ",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns",
+    "link": "https://cointelegraph.com/news/fincen-crypto-mixing-rule-legitimate-activity",
+    "publishedAt": "2026-10-05T20:46:53.000Z",
+    "preview": "The bureau under the US Treasury said it was withdrawing two proposed rules on unhosted wallets and crypto mixers ”as part of the Trump Administration’s deregulatory agenda.”",
     "tags": []
   },
   {
@@ -369,7 +440,7 @@
   {
     "source": "Cointelegraph",
     "title": "Too big to pause: Could an AI slowdown crash the economy?",
-    "link": "https://cointelegraph.com/features/too-big-to-pause-the-economic-stakes-of-an-ai-slowdown",
+    "link": "https://cointelegraph.com/magazine/too-big-to-pause-the-economic-stakes-of-an-ai-slowdown",
     "publishedAt": "2026-10-05T12:30:00.000Z",
     "preview": "Calls to slow down development of the most powerful AI models are colliding with an $800 billion investment boom. Could an AI slowdown tank the US economy?",
     "tags": []
@@ -383,14 +454,6 @@
     "tags": [
       "XRP"
     ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Circle can delay European USDC redemptions if reserves cannot cross borders",
-    "link": "https://cryptoslate.com/circle-can-delay-european-usdc-redemptions-if-reserves-cannot-cross-borders/",
-    "publishedAt": "2026-10-05T12:10:14.000Z",
-    "preview": "Circle’s current terms allow temporary issuer redemption delays during failed reserve rebalancing as it defends cross-border co-issuance under MiCA. The post Circle can delay European USDC redemptions if reserves cannot ",
-    "tags": []
   },
   {
     "source": "CryptoPotato",
@@ -438,14 +501,6 @@
       "BTC",
       "Regulation"
     ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "US jobs revision turns July’s 21,000 gain into a 10,000 loss",
-    "link": "https://cryptoslate.com/us-jobs-revision-turns-julys-21000-gain-into-a-10000-loss/",
-    "publishedAt": "2026-10-05T11:10:34.000Z",
-    "preview": "Softer hiring and slower wages weaken the labor case for another Fed hike, while inflation and household employment complicate the outlook. The post US jobs revision turns July’s 21,000 gain into a 10,000 loss appeared f",
-    "tags": []
   },
   {
     "source": "CoinDesk",
@@ -1114,16 +1169,6 @@
     "tags": []
   },
   {
-    "source": "CryptoPotato",
-    "title": "Massive Ethereum Awakening: Why 580M in Dormant ETH Just Moved Without Crashing Price",
-    "link": "https://cryptopotato.com/massive-ethereum-awakening-why-millions-in-dormant-eth-just-moved-without-crashing-price/",
-    "publishedAt": "2026-10-03T06:39:12.000Z",
-    "preview": "A massive amount of previously dormant Ethereum suddenly moved at the end of September. But there's a catch.",
-    "tags": [
-      "ETH"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
     "link": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
@@ -1164,24 +1209,6 @@
     "publishedAt": "2026-10-02T19:05:35.000Z",
     "preview": "Tavus says 26 of 54 people on a one-minute video call thought its new Griffin model was human. The results are the company's own, and the model isn't going to retail customers yet.",
     "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
-    "link": "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report",
-    "publishedAt": "2026-10-02T18:41:17.000Z",
-    "preview": "The reported cuts come as Anchorage expands its institutional footprint, including stablecoin issuance and a $100 million investment from Tether.",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Blast to wind down Ethereum L2 after costs outpace revenue",
-    "link": "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue",
-    "publishedAt": "2026-10-02T18:24:05.000Z",
-    "preview": "Once among Ethereum’s largest layer-2 networks by total value locked, Blast is urging users to move their assets to mainnet ahead of the shutdown.",
-    "tags": [
-      "ETH"
-    ]
   },
   {
     "source": "Decrypt",
@@ -1346,23 +1373,5 @@
     "publishedAt": "2026-10-01T19:46:03.000Z",
     "preview": "OpenAI says it disrupted a campaign involving 15,000+ users and ties a core cluster to people associated with Moonshot, the startup behind Kimi.",
     "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent",
-    "link": "https://decrypt.co/379868/meta-muse-ai-agent-read-messages-without-permission",
-    "publishedAt": "2026-10-01T19:16:03.000Z",
-    "preview": "Communications chief Andy Stone said reading Messages requires two permissions the user controls, disputing a journalist who reported Muse synced his texts despite his settings.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "The 'Largest Pure-Play' XRP Treasury Is About to Go Public",
-    "link": "https://decrypt.co/379856/the-largest-pure-play-xrp-treasury-is-about-to-go-public",
-    "publishedAt": "2026-10-01T18:46:03.000Z",
-    "preview": "Shareholders approved Evernorth's merger with Armada Acquisition Corp. II, clearing the way for the Ripple-backed firm to begin trading Oct. 8 with a stash of roughly 473 million XRP.",
-    "tags": [
-      "XRP"
-    ]
   }
 ]
