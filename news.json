@@ -1,6 +1,111 @@
 [
   {
     "source": "Decrypt",
+    "title": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
+    "link": "https://decrypt.co/380257/google-launches-nano-banana-2-1",
+    "publishedAt": "2026-10-06T22:46:03.000Z",
+    "preview": "Google's new image model, Nano Banana 2.1, is live. It costs about half as much as its predecessor, but the performance claims come from Google's own tests.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",
+    "link": "https://decrypt.co/380240/circle-dj-khaled-team-usdc-crypto-twitter-furious",
+    "publishedAt": "2026-10-06T22:16:03.000Z",
+    "preview": "Nothing in Circle's posts announces a sponsorship, but replies dug up Khaled's 2018 SEC settlement over a crypto fraud he promoted. The internet never forgets.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "CFTC Wants Clearer Rules for Leveraged Crypto Trading in Major US Regulatory Push",
+    "link": "https://cryptopotato.com/cftc-wants-clearer-rules-for-leveraged-crypto-trading-in-major-us-regulatory-push/",
+    "publishedAt": "2026-10-06T22:11:16.000Z",
+    "preview": "The CFTC wants leveraged crypto exchanges to operate under clearer federal rules covering customer funds, surveillance, and market integrity.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Bitcoin rally delivers $4.1 billion tax windfall for Strategy",
+    "link": "https://cryptoslate.com/bitcoin-rally-delivers-4-1-billion-tax-windfall-for-strategy/",
+    "publishedAt": "2026-10-06T22:10:18.000Z",
+    "preview": "Strategy’s October filing shows an accounting consequence. ETF cost estimates measure fund holdings, while redemptions determine how Bitcoin leaves. The post Bitcoin rally delivers $4.1 billion tax windfall for Strategy ",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Someone Scraped 5.6 Billion TikTok Videos and Put the Data on Hugging Face for Free",
+    "link": "https://decrypt.co/380229/someone-scraped-5-billion-tiktok-videos-posted-data-hugging-face",
+    "publishedAt": "2026-10-06T22:00:19.000Z",
+    "preview": "A developer posted metadata for about 5.6 billion public TikTok videos, scraped through the app's private API in a way TikTok's terms prohibit. The free dataset also doubles as a storefront.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Conduit sues Tether over allegedly freezing $2.8M without explanation",
+    "link": "https://cointelegraph.com/news/conduit-lawsuit-tether-usdt-freeze",
+    "publishedAt": "2026-10-06T21:00:44.000Z",
+    "preview": "The lawsuit alleged that Tether froze USDt funds in a Conduit wallet tied to an investigation launched by Brazilian authorities in 2024.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing",
+    "link": "https://cointelegraph.com/news/winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing",
+    "publishedAt": "2026-10-06T20:53:19.000Z",
+    "preview": "The proposed fund would hold ZEC directly, with Gemini Trust serving as custodian and Winklevoss Capital affiliates eyeing up to a $100 million investment.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-10-06T20:48:12.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "US services price gauge hits a four-year high, clouding Bitcoin’s rate-relief outlook",
+    "link": "https://cryptoslate.com/us-services-price-gauge-hits-a-four-year-high-clouding-bitcoins-rate-relief-outlook/",
+    "publishedAt": "2026-10-06T20:35:01.000Z",
+    "preview": "September's prices index rose to 74.0 while growth slowed, leaving rate relief uncertain for leveraged Bitcoin exposure. The post US services price gauge hits a four-year high, clouding Bitcoin’s rate-relief outlook appe",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down",
+    "link": "https://decrypt.co/380225/pudgy-penguin-ethereum-layer-2-abstract-shutting-down",
+    "publishedAt": "2026-10-06T20:28:53.000Z",
+    "preview": "Abstract will shut down Dec. 15, saying a chain focused solely on consumer crypto proved unsustainable, and is urging users to bridge their assets off before then.",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "This Is Why Bitcoin Treasury Companies Can Be Riskier Than BTC",
+    "link": "https://cryptopotato.com/this-is-why-bitcoin-treasury-companies-can-be-riskier-than-btc/",
+    "publishedAt": "2026-10-06T20:26:43.000Z",
+    "preview": "While Bitcoin is less volatile than it used to be, an analyst says a treasury company amplifies whatever swings remain in the asset.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Decrypt",
     "title": "Tether Hit With Lawsuit Over $2.76 Million Stablecoin Freeze",
     "link": "https://decrypt.co/380222/tether-lawsuit-2-76-million-stablecoin-freeze",
     "publishedAt": "2026-10-06T19:46:04.000Z",
@@ -161,7 +266,7 @@
     "title": "ECB policymaker warns of fragmentation without digital euro",
     "link": "https://cointelegraph.com/news/european-central-bank-fragmentation-digital-euro",
     "publishedAt": "2026-10-06T16:32:57.000Z",
-    "preview": "A ECB executive board member said the potential introduction of a digital euro ”would not to take over the role of banks,” but ensure they have a role in the EU’s monetary system.",
+    "preview": "A ECB executive board member said the potential introduction of a digital euro would not ”take over the role of banks,” but ensure they have a role in the EU’s monetary system.",
     "tags": []
   },
   {
@@ -352,17 +457,6 @@
   },
   {
     "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-10-06T13:41:33.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
     "title": "OKX exchange raises fresh capital at $25B valuation",
     "link": "https://cointelegraph.com/news/okx-exchange-raises-capital-25b-valuation",
     "publishedAt": "2026-10-06T13:32:32.000Z",
@@ -372,7 +466,7 @@
   {
     "source": "Cointelegraph",
     "title": "Capital starting to rotate back to crypto from AI: Raoul Pal",
-    "link": "https://cointelegraph.com/features/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets",
+    "link": "https://cointelegraph.com/magazine/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets",
     "publishedAt": "2026-10-06T13:30:00.000Z",
     "preview": "Real Vision founder Raoul Pal says a pause in the AI stock rally could help crypto attract capital, while AI agents are likely to boost Ethereum and Solana adoption.",
     "tags": [
@@ -622,14 +716,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "China’s crypto ban Is failing to stop a $176 billion P2P economy",
-    "link": "https://cryptoslate.com/chinas-crypto-ban-is-failing-to-stop-a-176-billion-p2p-economy/",
-    "publishedAt": "2026-10-06T08:50:31.000Z",
-    "preview": "The July 2025–June 2026 data show rapid stablecoin reuse, while the share funding purchases remains unmeasured. The post China’s crypto ban Is failing to stop a $176 billion P2P economy appeared first on CryptoSlate.",
-    "tags": []
-  },
-  {
     "source": "CoinDesk",
     "title": "Why bitcoin is down 'just' 32% a year after its record high of $126,000",
     "link": "https://www.coindesk.com/markets/2026/10/06/from-retail-leverage-to-etf-flows-a-year-after-its-record-high-bitcoin-is-down-just-32",
@@ -676,14 +762,6 @@
     "tags": [
       "XRP"
     ]
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Cheap crypto capital hits wall as Bitfinex fee rule binds",
-    "link": "https://cryptoslate.com/cheap-crypto-capital-hits-wall-as-bitfinex-fee-rule-binds/",
-    "publishedAt": "2026-10-06T06:30:33.000Z",
-    "preview": "Bitfinex’s published minimum makes its $5 million, one-year bond example cost 2% upfront, leaving borrower savings unproven. The post Cheap crypto capital hits wall as Bitfinex fee rule binds appeared first on CryptoSlat",
-    "tags": []
   },
   {
     "source": "CryptoPotato",
@@ -883,16 +961,6 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "Advocacy group pushes back on banks’ lawsuit against OCC over charters",
-    "link": "https://cointelegraph.com/news/crypto-advocacy-groups-icba-lawsuit-occ-charters",
-    "publishedAt": "2026-10-05T19:15:22.000Z",
-    "preview": "CCI CEO Ji Hun Kim said that the organization “remains confident“ in the OCC’s approval of charters for crypto companies, despite a recent lawsuit and pushback from some lawmakers.",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "Important Binance Announcement Concerning Brazilian Users",
     "link": "https://cryptopotato.com/important-binance-announcement-concerning-brazilian-users/",
@@ -919,14 +987,6 @@
       "ETH",
       "Regulation"
     ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "S&P Global brings risk assessments to growing crypto lending vault sector",
-    "link": "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market",
-    "publishedAt": "2026-10-05T17:58:58.000Z",
-    "preview": "S&P Global’s new framework evaluates digital asset lending vaults across six risk categories as deposits in the sector climb to about $10 billion.",
-    "tags": []
   },
   {
     "source": "CryptoPotato",
@@ -1254,17 +1314,6 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "Bitcoin and Ethereum ETF Weekly Flows: The Good, the Bad, and the Concerning",
-    "link": "https://cryptopotato.com/bitcoin-and-ethereum-etf-weekly-flows-the-good-the-bad-and-the-concerning/",
-    "publishedAt": "2026-10-04T17:52:34.000Z",
-    "preview": "The past three weeks have been quite different for the funds.",
-    "tags": [
-      "BTC",
-      "ETH"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
     "link": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
@@ -1273,16 +1322,6 @@
     "tags": [
       "XRP",
       "Regulation"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "What Could Decide Bitcoin’s Q4? The Fed, Bond Yields, and One Crucial Price Level",
-    "link": "https://cryptopotato.com/what-could-decide-bitcoins-q4-the-fed-bond-yields-and-one-crucial-price-level/",
-    "publishedAt": "2026-10-04T16:10:42.000Z",
-    "preview": "The market structure is significantly different today, said one of the analysts we talked to.",
-    "tags": [
-      "BTC"
     ]
   },
   {
@@ -1326,39 +1365,5 @@
     "publishedAt": "2026-10-03T16:01:03.000Z",
     "preview": "The YouTuber says OpenAI suspended his account twice while he trained a small, uncensored model built to run on your own computer.",
     "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details",
-    "link": "https://decrypt.co/380002/trump-third-meme-coin-dinner-details",
-    "publishedAt": "2026-10-03T15:01:03.000Z",
-    "preview": "The TRUMP meme coin project is inviting its top 185 holders to a Nov. 22 gala dinner with President Trump two weeks after ethics disputes over his crypto interests helped stall the Clarity Act in the Senate.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "The Pope Has Thoughts on AI Art—And They're Not Flattering",
-    "link": "https://decrypt.co/379983/pope-leo-human-art-ai-creation",
-    "publishedAt": "2026-10-03T13:01:04.000Z",
-    "preview": "The pontiff says algorithms \"lack the spark of humanity,\" and the Vatican wants to renew an alliance with artists and cultural institutions to protect it.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
-    "link": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
-    "publishedAt": "2026-10-02T21:16:04.000Z",
-    "preview": "California's attorney general wants answers from OpenAI about AI models that escaped a locked test environment and hacked Hugging Face—and whether the company can be held legally accountable.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
-    "link": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity",
-    "publishedAt": "2026-10-02T20:16:04.000Z",
-    "preview": "Ethereum's zkAPI lets users prepay in USDC and query AI models through cryptographic proofs, so no single party sees both who they are and what they ask.",
-    "tags": [
-      "ETH"
-    ]
   }
 ]
