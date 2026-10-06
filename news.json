@@ -1,5 +1,164 @@
 [
   {
+    "source": "Cointelegraph",
+    "title": "EEZ tests atomic L1-to-L2 transaction in push to unify Ethereum",
+    "link": "https://cointelegraph.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet",
+    "publishedAt": "2026-10-06T07:09:33.000Z",
+    "preview": "An EEZ contributor shared a 0.001 ETH cross-chain test as the project develops a framework to connect Ethereum mainnet and its rollups.",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "XRP, QNT, INJ: These 3 Altcoins Are Ready to Break Out This Week (Analyst)",
+    "link": "https://cryptopotato.com/xrp-qnt-inj-these-3-altcoins-are-ready-to-break-out-this-week-analyst/",
+    "publishedAt": "2026-10-06T06:33:40.000Z",
+    "preview": "XRP sits inches below $1.50, QNT is at $255, while INJ trades at $7.50.",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Cheap crypto capital hits wall as Bitfinex fee rule binds",
+    "link": "https://cryptoslate.com/cheap-crypto-capital-hits-wall-as-bitfinex-fee-rule-binds/",
+    "publishedAt": "2026-10-06T06:30:33.000Z",
+    "preview": "Bitfinex’s published minimum makes its $5 million, one-year bond example cost 2% upfront, leaving borrower savings unproven. The post Cheap crypto capital hits wall as Bitfinex fee rule binds appeared first on CryptoSlat",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Changer+ Launches Stablecoin-First Self-Custodial Wallet to Make Stablecoins Easier to Use",
+    "link": "https://cryptopotato.com/changer-launches-stablecoin-first-self-custodial-wallet-to-make-stablecoins-easier-to-use/",
+    "publishedAt": "2026-10-06T06:08:21.000Z",
+    "preview": "[PRESS RELEASE – Singapore, Singapore, October 6th, 2026] Multi-chain stablecoin wallet combines simpler transfers, flexible gas-fee options, security features, and practical use cases with one ambition: to become the wo",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-10-06T06:00:00.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto",
+    "link": "https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto",
+    "publishedAt": "2026-10-06T05:43:50.000Z",
+    "preview": "Better Markets said the CFTC’s proposed framework to bring certain cryptocurrency transactions and exchanges under its oversight will leave investors less protected than under the SEC.",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets",
+    "link": "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets",
+    "publishedAt": "2026-10-06T04:55:36.000Z",
+    "preview": "FinCEN withdrew two proposals that had hung over self-custody and crypto mixers for years without ever taking effect.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump",
+    "link": "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
+    "publishedAt": "2026-10-06T04:49:05.000Z",
+    "preview": "One of Ethereum’s main validator clients updated its software hours before a Sepolia test that will raise the amount of work each block can hold to 200 million gas.",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Bitcoin keeps getting rejected at $87,000 as stocks hover near records",
+    "link": "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records",
+    "publishedAt": "2026-10-06T04:41:10.000Z",
+    "preview": "BTC fell back to about $85,600 after sellers turned it away from $87,000 for the third time since Sept. 23, while Nasdaq closed at a record and Treasury yields kept climbing.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Bitcoin futures drop $1.4B, but spot buyers step in to help",
+    "link": "https://cryptoslate.com/bitcoin-futures-drop-1-4b-but-spot-buyers-step-in-to-help/",
+    "publishedAt": "2026-10-06T04:40:09.000Z",
+    "preview": "Glassnode’s weekly snapshot pairs a smaller derivatives footprint with rising holder activity, while spot buying supplies a counterweight. The post Bitcoin futures drop $1.4B, but spot buyers step in to help appeared fir",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input",
+    "link": "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
+    "publishedAt": "2026-10-06T04:23:45.000Z",
+    "preview": "Solana Foundation launched an open-source program that lets institutions settle trades in seconds, not days. JPMorgan provided key inputs.",
+    "tags": [
+      "SOL"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Trump’s $5,000 Checks Could Send Billions Into Bitcoin and Crypto: But There’s a Catch",
+    "link": "https://cryptopotato.com/trumps-5000-checks-could-send-billions-into-bitcoin-and-crypto-but-theres-a-catch/",
+    "publishedAt": "2026-10-06T04:06:58.000Z",
+    "preview": "Could this become another significant liquidity event for financial markets and especially crypto?",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Rain seeks US trust bank charter days after OCC sued over crypto charters",
+    "link": "https://cointelegraph.com/news/rain-seeks-us-trust-bank-charter-days-after-occ-sued-over-crypto-charters",
+    "publishedAt": "2026-10-06T03:45:40.000Z",
+    "preview": "Rain joins a growing queue of crypto firms seeking federal trust charters, while community banks have just asked a court to overturn the OCC rules underpinning them.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "OKX eyes emerging markets with yield-offering stablecoin savings and payments app",
+    "link": "https://cointelegraph.com/news/okx-money-stablecoin-savings-payments-emerging-markets",
+    "publishedAt": "2026-10-06T03:40:00.000Z",
+    "preview": "OKX Money lets users hold, send and spend dollar-backed stablecoins, with qualifying USDG balances earning up to 10% APY.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Bitcoin treasury Strive risks cash reserve to fund $500M buyback and trim dividends",
+    "link": "https://cryptoslate.com/bitcoin-treasury-strive-risks-cash-reserve-to-fund-500m-buyback-and-trim-dividends/",
+    "publishedAt": "2026-10-06T02:40:43.000Z",
+    "preview": "The optional SATA ceiling is $215.3 million above October 2 cash, with no completed repurchases or dedicated funding source disclosed. The post Bitcoin treasury Strive risks cash reserve to fund $500M buyback and trim di",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Decrypt",
+    "title": "Solana Debuts Institutional Settlement Standard With J.P. Morgan Input",
+    "link": "https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan",
+    "publishedAt": "2026-10-06T02:01:03.000Z",
+    "preview": "Built with input from J.P. Morgan, the open-source \"DvP\" program lets institutions settle trades atomically on Solana with finality in seconds instead of days.",
+    "tags": [
+      "SOL"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Chinese crime network laundered over $1B for Lazarus: ZachXBT",
+    "link": "https://cointelegraph.com/news/chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt",
+    "publishedAt": "2026-10-06T01:47:24.000Z",
+    "preview": "ZachXBT says he infiltrated the network by posing as a customer, gaining information that helped trace funds from the $1.5 billion Bybit hack.",
+    "tags": []
+  },
+  {
     "source": "CryptoSlate",
     "title": "Kraken parent joins Singapore Gulf Bank, opening 24/7 institutional dollar rails",
     "link": "https://cryptoslate.com/kraken-parent-joins-singapore-gulf-bank-opening-24-7-institutional-dollar-rails/",
@@ -120,17 +279,6 @@
     "preview": "Credit premiums rose across rating segments, but their uneven widening does not establish Bitcoin selling or systemic stress. The post US credit spreads eased on October 2 after widening beyond the weakest borrowers appe",
     "tags": [
       "BTC"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-10-05T19:25:00.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
     ]
   },
   {
@@ -308,14 +456,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "NYSE owner and OKX plan 24/7 tokenized stock trading using Uniswap",
-    "link": "https://cryptoslate.com/nyse-owner-and-okx-plan-24-7-tokenized-stock-trading-using-uniswap/",
-    "publishedAt": "2026-10-05T15:30:48.000Z",
-    "preview": "Intercontinental Exchange and OKX are preparing an always-open market where tokenized US stocks could keep repricing after Wall Street closes. On Oct. 4, OKXICE, the companies' 50-50 joint venture, notified the Securitie",
-    "tags": []
-  },
-  {
     "source": "Cointelegraph",
     "title": "Bitcoin price fails to break higher after best weekly close in eight months",
     "link": "https://cointelegraph.com/markets/bitcoin-price-fails-to-break-higher-after-best-weekly-close-in-eight-months",
@@ -346,14 +486,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Coinbase says it cut a 90-case AI support test from 1–2 weeks to 30–45 minutes",
-    "link": "https://cryptoslate.com/coinbase-ai-support-tests-weeks-minutes/",
-    "publishedAt": "2026-10-05T14:30:35.000Z",
-    "preview": "Coinbase’s reported support-testing gains coexist with human approval and account controls, while its disclosures leave customer outcomes unquantified. The post Coinbase says it cut a 90-case AI support test from 1–2 wee",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "AI Agents Take on Bigger Role in Cybersecurity, CertiK Says",
     "link": "https://cryptopotato.com/ai-agents-take-on-bigger-role-in-cybersecurity-certik-says/",
@@ -378,16 +510,6 @@
     "publishedAt": "2026-10-05T13:46:31.000Z",
     "preview": "The payments giant is planning a major global expansion for its stablecoin cards business, and is exploring tokenized deposits and DeFi use cases, new crypto head Henri Stern said.",
     "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Bitcoin gets a 20-day window to see whether energy relief can move the Fed",
-    "link": "https://cryptoslate.com/bitcoin-gets-a-20-day-window-to-see-whether-energy-relief-can-move-the-fed/",
-    "publishedAt": "2026-10-05T13:30:01.000Z",
-    "preview": "The diesel-release window sets an implementation test for fuel relief, while any easing in Bitcoin financing costs remains conditional. The post Bitcoin gets a 20-day window to see whether energy relief can move the Fed ",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "Cointelegraph",
@@ -922,14 +1044,6 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking",
-    "link": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
-    "publishedAt": "2026-10-04T13:00:00.000Z",
-    "preview": "Crypto M&A has hit record levels, but the Clarity Act’s Senate setback leaves dealmakers weighing how much regulatory uncertainty still matters.",
-    "tags": []
-  },
-  {
     "source": "Cointelegraph",
     "title": "Japan adds Garantex to list of Russia sanctions over Ukraine war",
     "link": "https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war",
@@ -977,14 +1091,6 @@
     "tags": [
       "BTC"
     ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
-    "link": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time",
-    "publishedAt": "2026-10-04T07:18:00.000Z",
-    "preview": "Work on the introduction of the digital ruble to the budget process is being carried out by the Bank of Russia together with the Ministry of Finance.",
-    "tags": []
   },
   {
     "source": "CryptoPotato",
@@ -1059,39 +1165,11 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
-    "link": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
-    "publishedAt": "2026-10-03T16:00:00.000Z",
-    "preview": "CEO Iana Dimitrova said OpenPayd aims to launch in the U.S. by April 2027 and is eyeing deals to add licenses and technology.",
-    "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
-    "link": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
-    "publishedAt": "2026-10-03T16:00:00.000Z",
-    "preview": "Finance, engineering and trading led hiring demand, while Bitcoin, Ethereum and Solana were the most frequently requested blockchain skills.",
-    "tags": [
-      "BTC",
-      "ETH",
-      "SOL"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details",
     "link": "https://decrypt.co/380002/trump-third-meme-coin-dinner-details",
     "publishedAt": "2026-10-03T15:01:03.000Z",
     "preview": "The TRUMP meme coin project is inviting its top 185 holders to a Nov. 22 gala dinner with President Trump two weeks after ethics disputes over his crypto interests helped stall the Clarity Act in the Senate.",
-    "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
-    "link": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
-    "publishedAt": "2026-10-03T15:00:00.000Z",
-    "preview": "As AI agents evolve from answering questions to spending real money, investors and tech giants are scrambling to control the financial networks powering machine-driven commerce.",
     "tags": []
   },
   {
@@ -1113,75 +1191,11 @@
     "tags": []
   },
   {
-    "source": "CryptoPotato",
-    "title": "Bitcoin’s $87K Rally Was a Trap: Could $82.5K Be the Real Buying Opportunity?",
-    "link": "https://cryptopotato.com/bitcoins-87k-rally-was-a-trap-could-82-5k-be-the-real-buying-opportunity/",
-    "publishedAt": "2026-10-03T12:08:03.000Z",
-    "preview": "BTC's surge past $87,000 came to a quick halt, leaving analysts to reassess whether the move a genuine breakout or simply another rejection inside the current range.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter",
-    "link": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter",
-    "publishedAt": "2026-10-03T11:59:10.000Z",
-    "preview": "The exploiter returned the entire sum to NEAR Intents after being identified and given 48 hours to respond.",
-    "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "QNT and NIGHT Continue to Defy Market Correction, BTC Settles After Wild Ride: Weekend Watch",
-    "link": "https://cryptopotato.com/qnt-and-night-continue-to-defy-market-correction-btc-settles-after-wild-ride-weekend-watch/",
-    "publishedAt": "2026-10-03T09:58:04.000Z",
-    "preview": "In contrast, PENGU and LIT have slumped hard.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Community banks sue OCC over trust bank charters of crypto firms",
-    "link": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms",
-    "publishedAt": "2026-10-03T09:28:00.000Z",
-    "preview": "Community banking group’s lawsuit claims OCC has overstepped its mandate from Congress.",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "We Asked ChatGPT: How High Can Ripple (XRP) Go Under Bullish Q4 Conditions?",
-    "link": "https://cryptopotato.com/we-asked-chatgpt-how-high-can-ripple-xrp-go-under-bullish-q4-conditions/",
-    "publishedAt": "2026-10-03T08:28:29.000Z",
-    "preview": "XRP had a massive Q3, can it repeat or outplay it in Q4?",
-    "tags": [
-      "XRP"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Trump expected to appoint Jay Clayton as new AI czar: Reports",
-    "link": "https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports",
-    "publishedAt": "2026-10-03T07:09:00.000Z",
-    "preview": "US intel chief Clayton may be asked to also oversee AI innovation and development along with “self policing” tech CEOs.",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
     "link": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
     "publishedAt": "2026-10-02T21:16:04.000Z",
     "preview": "California's attorney general wants answers from OpenAI about AI models that escaped a locked test environment and hacked Hugging Face—and whether the company can be held legally accountable.",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO",
-    "link": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says",
-    "publishedAt": "2026-10-02T20:40:47.000Z",
-    "preview": "Speaking on Cointelegraph’s Chain Reaction, Christian Trummer said MiCA has increased trust in regulated platforms and called for stricter enforcement against noncompliant firms.",
     "tags": []
   },
   {
@@ -1357,21 +1371,5 @@
     "tags": [
       "Regulation"
     ]
-  },
-  {
-    "source": "Decrypt",
-    "title": "Reddit Is Killing RSS Feeds and Public API Access to Fight AI Scrapers",
-    "link": "https://decrypt.co/379892/reddit-killing-rss-feeds-public-api-access-ai-scrapers",
-    "publishedAt": "2026-10-01T20:31:03.000Z",
-    "preview": "Reddit RSS dies November 13 and outside apps lose their data pipeline by March 2027. Reddit blames scraping bots, though it licenses its own content to AI companies.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
-    "link": "https://decrypt.co/379890/openai-china-moonshot-copy-ai-hidden-reasoning",
-    "publishedAt": "2026-10-01T19:46:03.000Z",
-    "preview": "OpenAI says it disrupted a campaign involving 15,000+ users and ties a core cluster to people associated with Moonshot, the startup behind Kimi.",
-    "tags": []
   }
 ]
