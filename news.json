@@ -1,5 +1,42 @@
 [
   {
+    "source": "CryptoSlate",
+    "title": "SEC drops to 2 members, and 1 hidden rule shifts crypto power",
+    "link": "https://cryptoslate.com/sec-drops-to-2-members-and-1-hidden-rule-shifts-crypto-power/",
+    "publishedAt": "2026-10-07T02:20:47.000Z",
+    "preview": "The new exception permits one eligible commissioner to form a quorum when every other sitting member is disqualified from the particular matter. The post SEC drops to 2 members, and 1 hidden rule shifts crypto power appe",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Bitcoin.de trading remains halted as German regulator rejects MiCA application",
+    "link": "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application",
+    "publishedAt": "2026-10-07T01:48:53.000Z",
+    "preview": "Trading on the platform has largely been suspended since June as its operator awaited MiCA authorization, with the company now looking to regulated partners to restart services.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Open USD supply hits $666 million as 10 wallets trap most tokens",
+    "link": "https://cryptoslate.com/open-usd-supply-hits-666-million-as-10-wallets-trap-most-tokens/",
+    "publishedAt": "2026-10-07T00:30:19.000Z",
+    "preview": "Crystal’s October 5 snapshot found $396 million unmoved in eight Tempo wallets, while customer activity inside custody accounts remains unknown. The post Open USD supply hits $666 million as 10 wallets trap most tokens a",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses",
+    "link": "https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down",
+    "publishedAt": "2026-10-07T00:01:40.000Z",
+    "preview": "Igloo CEO Luca Netz said the company funded Abstract for 18 months but still failed to find product-market fit despite attracting major brands and a community of millions.",
+    "tags": []
+  },
+  {
     "source": "Decrypt",
     "title": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
     "link": "https://decrypt.co/380257/google-launches-nano-banana-2-1",
@@ -590,14 +627,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Aave and Pendle may have found a way to keep yield capital from ever leaving DeFi",
-    "link": "https://cryptoslate.com/aave-and-pendle-may-have-found-a-way-to-keep-yield-capital-from-ever-leaving-defi/",
-    "publishedAt": "2026-10-06T11:30:49.000Z",
-    "preview": "LlamaRisk recommends a smaller December PT reserve as October 8 ends the old yield term while Aave borrowing costs continue. The post Aave and Pendle may have found a way to keep yield capital from ever leaving DeFi appe",
-    "tags": []
-  },
-  {
     "source": "CoinDesk",
     "title": "The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet",
     "link": "https://www.coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet",
@@ -650,16 +679,6 @@
     "publishedAt": "2026-10-06T10:16:55.000Z",
     "preview": "Hong Kong regulators plan to establish a licensing regime for four categories, including digital asset trading, custody, advisory and management services.",
     "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Cardano just added the kind of token controls Wall Street wants and DeFi may hate",
-    "link": "https://cryptoslate.com/cardano-just-added-the-kind-of-token-controls-wall-street-wants-and-defi-may-hate/",
-    "publishedAt": "2026-10-06T10:00:57.000Z",
-    "preview": "Under proposed CIP-113, separating bundled assets requires holder authorization and the restricted token’s permission hook. The post Cardano just added the kind of token controls Wall Street wants and DeFi may hate appea",
-    "tags": [
-      "ADA"
-    ]
   },
   {
     "source": "Cointelegraph",
@@ -911,14 +930,6 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns",
-    "link": "https://cointelegraph.com/news/fincen-crypto-mixing-rule-legitimate-activity",
-    "publishedAt": "2026-10-05T20:46:53.000Z",
-    "preview": "The bureau under the US Treasury said it was withdrawing two proposed rules on unhosted wallets and crypto mixers ”as part of the Trump Administration’s deregulatory agenda.”",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "Why a 4chan Bitcoin Prophecy Says Today Is the End of Crypto Winter",
     "link": "https://decrypt.co/380113/4chan-bitcoin-prophecy-end-crypto-winter",
@@ -942,14 +953,6 @@
     "link": "https://decrypt.co/380120/treasury-kills-crypto-unhosted-wallet-mixer-surveillance-rules",
     "publishedAt": "2026-10-05T20:19:38.000Z",
     "preview": "FinCEN withdrew a 2020 proposal to track transactions with self-custodial crypto wallets and a 2023 plan to designate crypto mixing as a primary money laundering concern.",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Modern Treasury seeks US trust bank charter for digital asset custody",
-    "link": "https://cointelegraph.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody",
-    "publishedAt": "2026-10-05T19:53:52.000Z",
-    "preview": "The payments infrastructure company is seeking federal approval to offer stablecoin custody and related fiat services through a limited-purpose national trust bank.",
     "tags": []
   },
   {
