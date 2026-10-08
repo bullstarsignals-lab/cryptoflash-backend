@@ -1,5 +1,108 @@
 [
   {
+    "source": "CryptoPotato",
+    "title": "Vitalik Buterin: AI Risk Doesn’t Justify Rushed Wallet Moves",
+    "link": "https://cryptopotato.com/vitalik-buterin-ai-risk-doesnt-justify-rushed-wallet-moves/",
+    "publishedAt": "2026-10-08T06:39:10.000Z",
+    "preview": "Public-key encryption protects websites, secure messaging, privacy systems, VPNs, and traditional financial networks.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
+    "link": "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks",
+    "publishedAt": "2026-10-08T06:17:13.000Z",
+    "preview": "The crypto company's $1.25 billion acquisition of Hidden Road has opened a corner of Wall Street where funds pay to amplify daily moves in stocks such as Nvidia and Sandisk.",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-10-08T06:00:00.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Bitcoin loans are paying for tuition and working capital, not just trades, lenders say",
+    "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say",
+    "publishedAt": "2026-10-08T05:40:41.000Z",
+    "preview": "Bitcoin-backed lending is evolving into a mainstream source of credit, with borrowers using BTC to access liquidity without selling.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Tether Signs MoU With Kazakhstan’s Central Bank to Explore a Tenge Stablecoin",
+    "link": "https://cryptopotato.com/tether-signs-mou-with-kazakhstans-central-bank-to-explore-a-tenge-stablecoin/",
+    "publishedAt": "2026-10-08T05:31:04.000Z",
+    "preview": "\"Kazakhstan is taking a deliberate, forward-looking approach by exploring asset tokenization and a strategic reserve framework,\" said Tether CEO Paolo Ardoino.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Crypto’s heavy backing of Republicans alienated Democrats: Cuomo",
+    "link": "https://cointelegraph.com/news/cryptos-republican-spending-alienated-democrats-says-andrew-cuomo",
+    "publishedAt": "2026-10-08T05:06:51.000Z",
+    "preview": "Former New York Governor Andrew Cuomo urged the crypto industry to balance its support for Democrats and Republicans if they want federal crypto legislation passed.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Crypto must cement adoption to withstand US policy shifts: Canton CEO",
+    "link": "https://cointelegraph.com/news/canton-ceo-crypto-adoption-us-policy-reversals",
+    "publishedAt": "2026-10-08T04:28:27.000Z",
+    "preview": "Canton CEO Yuval Rooz compared blockchain adoption to Uber and Airbnb, arguing that widespread adoption could help insulate it from potential policy reversals.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade",
+    "link": "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
+    "publishedAt": "2026-10-08T04:23:23.000Z",
+    "preview": "The Sepolia rehearsal has raised its processing budget more than threefold, but sampled blocks used less than half that allowance.",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "XRP Nears Key Breakout as Analyst Eyes $2 Target: But Here’s the Catch",
+    "link": "https://cryptopotato.com/xrp-nears-key-breakout-as-analyst-eyes-2-target-but-heres-the-catch/",
+    "publishedAt": "2026-10-08T04:07:06.000Z",
+    "preview": "The analyst sees the 50-week EMA as the dividing line, with multiple closes above it needed to strengthen the bullish continuation case.",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Bitcoin breaks below $83,000 as oil jumps on Iran strike-plan report",
+    "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report",
+    "publishedAt": "2026-10-08T04:00:07.000Z",
+    "preview": "Bitcoin has slipped under a level FxPro says opens a \"quick path to $80,000.\" Brent crude climbed above $102 and pushed Treasury yields back toward their highest since 2002.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Grayscale Adds BitGo To Hyperliquid Staking ETF Custody Setup",
+    "link": "https://www.newsbtc.com/business/grayscale-adds-bitgo-to-hyperliquid-staking-etf-custody-setup/",
+    "publishedAt": "2026-10-08T02:00:00.000Z",
+    "preview": "Grayscale has added BitGo Bank & Trust as an additional custodian for a portion of the HYPE held by its Hyperliquid Staking ETF. The SEC filing shows how increasingly complex altcoin and staking products are building ins",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
     "source": "NewsBTC",
     "title": "Avalanche Tokenized Treasury Market Reaches $545 Million After Rapid Growth",
     "link": "https://www.newsbtc.com/altcoins/avalanche-tokenized-treasury-market-reaches-545-million-after-rapid/",
@@ -19,10 +122,10 @@
   },
   {
     "source": "Cointelegraph",
-    "title": "Justin Drake urges crypto ‘bunker mode,’ as AI could break wallet security within months",
+    "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
     "link": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
     "publishedAt": "2026-10-08T00:04:32.000Z",
-    "preview": "The Ethereum researcher said crypto users should consider moving funds to fresh addresses, warning AI could threaten private-key security before quantum computers do.",
+    "preview": "Ethereum researchers say crypto users should consider an orderly migration of funds to fresh addresses, warning AI could threaten private-key security before quantum computers do.",
     "tags": [
       "ETH"
     ]
@@ -204,17 +307,6 @@
     "publishedAt": "2026-10-07T18:59:32.000Z",
     "preview": "The discussions would see Payward supply liquidity for crypto trading as major banks deepen their involvement in digital assets.",
     "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-10-07T18:55:36.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
-    ]
   },
   {
     "source": "CryptoSlate",
@@ -622,14 +714,6 @@
     ]
   },
   {
-    "source": "NewsBTC",
-    "title": "DSA White Paper Named Among the 2026 DC Fintech Week Winning Papers",
-    "link": "https://www.newsbtc.com/news/dsa-white-paper-named-among-the-2026-dc-fintech-week-winning-papers/",
-    "publishedAt": "2026-10-07T10:02:54.000Z",
-    "preview": "Washington, D.C., October 7, 2026 — The Digital Sovereignty Alliance (DSA), a nonprofit organization dedicated to advancing clear and ethical public policy, research, and education related to emerging technologies, annou",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "Prosecutors Cite Bitcoin Fog Ruling Against Roman Storm's Venue Challenge",
     "link": "https://decrypt.co/380260/prosecutors-cite-bitcoin-fog-ruling-against-roman-storms-venue-challenge",
@@ -1010,40 +1094,6 @@
     "tags": []
   },
   {
-    "source": "Cointelegraph",
-    "title": "Bitcoin grinds toward $87K as US equities hit new record highs",
-    "link": "https://cointelegraph.com/markets/bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs",
-    "publishedAt": "2026-10-06T17:19:58.000Z",
-    "preview": "Bitcoin price action was kept in check by overhead ask liquidity while US stocks broke out to new all-time highs.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Securitize stock jumps 8% amid South Korea tokenization push",
-    "link": "https://cointelegraph.com/news/securitize-lg-cns-south-korea-tokenized-assets",
-    "publishedAt": "2026-10-06T17:04:41.000Z",
-    "preview": "The LG CNS partnership gives Securitize a foothold as the Seoul prepares new rules for tokenized stocks, bonds and funds beginning in February 2027.",
-    "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil",
-    "link": "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil",
-    "publishedAt": "2026-10-06T17:00:00.000Z",
-    "preview": "Pantera Capital and Bullish also participated in the ANVL purchase as Anvil rolls out software designed to make its collateral protocol easier for businesses to integrate.",
-    "tags": []
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Crypto is expanding the boundaries of what can be priced",
-    "link": "https://www.coindesk.com/opinion/2026/10/06/crypto-is-expanding-the-boundaries-of-what-can-be-priced",
-    "publishedAt": "2026-10-06T16:50:26.000Z",
-    "preview": "The future of crypto may therefore depend less on creating the next novel asset and more on building the infrastructure required to price a growing universe of existing ones, argues Altius co-founder and CEO Annabelle Hu",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "Bitcoin Falls Asleep, But Privacy Coins Zcash and Monero Are Waking Up",
     "link": "https://decrypt.co/380172/bitcoin-asleep-privacy-coins-zcash-monero-waking-up",
@@ -1083,16 +1133,6 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
-    "link": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
-    "publishedAt": "2026-10-06T15:20:30.000Z",
-    "preview": "The exchange is increasingly aiming to position itself as a global financial tech platform spanning crypto, payments and tokenized assets, following an investment and joint venture with NYSE parent ICE.",
-    "tags": [
-      "XRP"
-    ]
-  },
-  {
     "source": "CryptoPotato",
     "title": "New Generation of Crypto Miners Released by ASICID",
     "link": "https://cryptopotato.com/new-generation-of-crypto-miners-released-by-asicid/",
@@ -1120,17 +1160,6 @@
     "preview": "Ripple has taken another step deeper into institutional finance by expanding its relationship with Brevan Howard.",
     "tags": [
       "XRP"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Arbitrum joins Paxos-led stablecoin group Global Dollar to capture digital dollar growth",
-    "link": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
-    "publishedAt": "2026-10-06T13:02:33.000Z",
-    "preview": "The Ethereum layer-2 is backing Paxos-issued USDG to earn a share of reserve income as new stablecoin alliances compete for distribution, users and reserve economics.",
-    "tags": [
-      "ETH",
-      "ARB"
     ]
   },
   {
@@ -1344,36 +1373,6 @@
       "BTC",
       "ETH",
       "Regulation"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Peter Schiff Predicts Bitcoin Will Drop If Tech Stocks Pull Back",
-    "link": "https://cryptopotato.com/peter-schiff-predicts-bitcoin-will-drop-if-tech-stocks-pull-back/",
-    "publishedAt": "2026-10-05T17:34:17.000Z",
-    "preview": "Bitcoin's repeated rejection near $87,000 leaves Schiff watching for a broader tech-led market reversal that could pressure Strategy.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Bitcoin Price Analysis: Is BTC Running Out of Steam After Another Rejection at $87K?",
-    "link": "https://cryptopotato.com/bitcoin-price-analysis-is-btc-running-out-of-steam-after-another-rejection-at-87k/",
-    "publishedAt": "2026-10-05T16:12:34.000Z",
-    "preview": "Bitcoin is approaching a key resistance area again after recovering from its late-September pullback. The price structure remains constructive, but nearby technical resistance and holder cost bases suggest that buyers st",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "BitMine Lifts ETH Treasury to 6.02 Million With Smallest Buy Since Mid-August",
-    "link": "https://cryptopotato.com/bitmine-lifts-eth-treasury-to-6-02-million-with-smallest-buy-since-mid-august/",
-    "publishedAt": "2026-10-05T14:55:19.000Z",
-    "preview": "Lee projected $363 million a year in staking revenue, based on a 2.63% seven-day yield from BitMine's own operations.",
-    "tags": [
-      "ETH"
     ]
   }
 ]
