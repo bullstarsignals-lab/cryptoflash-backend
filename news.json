@@ -1,5 +1,100 @@
 [
   {
+    "source": "NewsBTC",
+    "title": "Avalanche Tokenized Treasury Market Reaches $545 Million After Rapid Growth",
+    "link": "https://www.newsbtc.com/altcoins/avalanche-tokenized-treasury-market-reaches-545-million-after-rapid/",
+    "publishedAt": "2026-10-08T01:00:00.000Z",
+    "preview": "Tokenized US Treasury assets on Avalanche have reached roughly $545 million, according to data highlighted this week. The segment has expanded about fourfold over the past year, adding another example of institutional fi",
+    "tags": [
+      "AVAX"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
+    "link": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
+    "publishedAt": "2026-10-08T00:35:24.000Z",
+    "preview": "The amount of money the crypto media firm has been shopping itself for was not revealed.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Justin Drake urges crypto ‘bunker mode,’ as AI could break wallet security within months",
+    "link": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
+    "publishedAt": "2026-10-08T00:04:32.000Z",
+    "preview": "The Ethereum researcher said crypto users should consider moving funds to fresh addresses, warning AI could threaten private-key security before quantum computers do.",
+    "tags": [
+      "ETH"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "US government moves $470 million in seized crypto to Coinbase wallets, raising Bitcoin sale questions",
+    "link": "https://cryptoslate.com/us-government-moves-470-million-in-seized-crypto-to-coinbase-linked-wallets-reviving-bitcoin-sale-questions/",
+    "publishedAt": "2026-10-08T00:00:12.000Z",
+    "preview": "The US government moved about $470 million in seized crypto to likely Coinbase Prime addresses, according to Arkham, reviving questions over potential asset sales. On Oct. 7, blockchain analytics firm Arkham Intelligence",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Metaplanet Sold 10,000 Bitcoin, Then Bought 11,000 Back. Here’s Why",
+    "link": "https://www.newsbtc.com/news/bitcoin/metaplanet-sold-10-000-bitcoin-then-bought-11-000-back-here-s-why/",
+    "publishedAt": "2026-10-08T00:00:00.000Z",
+    "preview": "Metaplanet disclosed that it sold 10,000 BTC during the third quarter for roughly $790 million before buying 11,000 BTC for around $950 million. The company says the exercise was designed to demonstrate that its Bitcoin ",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Arbitrum DAO Weighs 100 Million ARB Push To Make USDG A Core Stablecoin",
+    "link": "https://www.newsbtc.com/technology/arbitrum-dao-weighs-100-million-arb-push-to-make-usdg-a-core/",
+    "publishedAt": "2026-10-07T23:00:00.000Z",
+    "preview": "Arbitrum has joined Paxos’ Global Dollar Network, and a new DAO proposal asks the community to back USDG as a strategic stablecoin for the ecosystem. The plan includes adding 100 million ARB to the DRIP incentive budget ",
+    "tags": [
+      "ARB"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "OpenAI math breakthroughs raise ‘bunker mode’ alarm from Bitcoin researcher Justin Drake",
+    "link": "https://cryptoslate.com/openais-math-breakthrough-raises-fears-ai-could-break-bitcoin-and-ethereum-security-within-months/",
+    "publishedAt": "2026-10-07T22:24:45.000Z",
+    "preview": "OpenAI’s latest advances in mathematics have prompted a leading Ethereum researcher to warn that crypto’s core wallet security could face an unexpected AI threat. On Oct. 7, Ethereum researcher Justin Drake urged the blo",
+    "tags": [
+      "BTC",
+      "ETH"
+    ]
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Winklevoss Zcash ETF Filing Brings Privacy Coin Exposure To Nasdaq",
+    "link": "https://www.newsbtc.com/altcoins/winklevoss-zcash-etf-filing-brings-privacy-coin-exposure-to-nasdaq/",
+    "publishedAt": "2026-10-07T22:00:00.000Z",
+    "preview": "Winklevoss Asset Services has filed an S-1 with the SEC for the Winklevoss Zcash ETF, a proposed Nasdaq-listed product designed to hold ZEC directly. The preliminary prospectus sets a 0.25% sponsor fee, while Winklevoss ",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Hyperliquid Faces Singapore Regulatory Questions Despite Local HQ: Report",
+    "link": "https://cryptopotato.com/hyperliquid-faces-singapore-regulatory-questions-despite-local-hq-report/",
+    "publishedAt": "2026-10-07T21:55:06.000Z",
+    "preview": "Singapore's regulatory question is less about where Hyperliquid Labs is registered and more about whether it falls under MAS oversight.",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt—Mathematicians Want Receipts",
+    "link": "https://decrypt.co/380366/openai-secret-ai-model-cracked-hundreds-math-problems-one-prompt",
+    "publishedAt": "2026-10-07T21:46:03.000Z",
+    "preview": "OpenAI posted 722 AI-written math manuscripts from an unreleased model, saying most came from a single prompt. Some mathematicians call the claims unverified.",
+    "tags": []
+  },
+  {
     "source": "Decrypt",
     "title": "Ethereum Researcher Says AI May Break Encryption Before Quantum Does",
     "link": "https://decrypt.co/380363/ethereum-researcher-ai-break-encryption-before-quantum",
@@ -434,14 +529,6 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "S&P brings ratings-style scrutiny to $10 billion crypto vault market as $6 million Base incident exposes risks",
-    "link": "https://cryptoslate.com/sp-brings-ratings-style-scrutiny-to-10-billion-crypto-vault-market-as-6-million-base-incident-exposes-risks/",
-    "publishedAt": "2026-10-07T11:40:51.000Z",
-    "preview": "The vault framework compares impairment risk while leaving capital protection and future returns unpromised. The post S&P brings ratings-style scrutiny to $10 billion crypto vault market as $6 million Base incident expos",
-    "tags": []
-  },
-  {
     "source": "Cointelegraph",
     "title": "Crypto card access doesn’t match global demand, Tangem says",
     "link": "https://cointelegraph.com/news/crypto-card-access-doesnt-match-global-demand-tangem-says",
@@ -515,16 +602,6 @@
     "publishedAt": "2026-10-07T10:26:55.000Z",
     "preview": "World Liberty Financial outlined plans to bring USD1 to major online platforms as Mesh announced a payments partnership scheduled to roll out this quarter.",
     "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Why Abstract is killing its Ethereum L2 instead of launching a token to save it",
-    "link": "https://cryptoslate.com/why-abstract-is-killing-its-ethereum-l2-instead-of-launching-a-token-to-save-it/",
-    "publishedAt": "2026-10-07T10:20:52.000Z",
-    "preview": "Abstract will shut down on Dec. 15 despite onboarding more than 400,000 users, hosting 144 apps, and landing brands including Disney and Red Bull Racing. The consumer-focused Ethereum layer-2 (L2) cited stagnant growth, ",
-    "tags": [
-      "ETH"
-    ]
   },
   {
     "source": "Cointelegraph",
@@ -978,14 +1055,6 @@
     ]
   },
   {
-    "source": "Cointelegraph",
-    "title": "ECB policymaker warns of fragmentation without digital euro",
-    "link": "https://cointelegraph.com/news/european-central-bank-fragmentation-digital-euro",
-    "publishedAt": "2026-10-06T16:32:57.000Z",
-    "preview": "A ECB executive board member said the potential introduction of a digital euro would not ”take over the role of banks,” but ensure they have a role in the EU’s monetary system.",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "Ripple Price Analysis: Is XRP Consolidation Almost Over as the Range Tightens?",
     "link": "https://cryptopotato.com/ripple-price-analysis-is-xrp-consolidation-almost-over-as-the-range-tightens/",
@@ -994,38 +1063,6 @@
     "tags": [
       "XRP"
     ]
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Fairshake Backs 32 House Candidates As Crypto Election Spending Ramps Up",
-    "link": "https://www.newsbtc.com/policy/fairshake-backs-32-house-candidates-as-crypto-election-spending-ramps-up/",
-    "publishedAt": "2026-10-06T16:00:48.000Z",
-    "preview": "TL;DR Fairshake has named 32 U.S. House candidates it plans to support ahead of the November midterms. Six races are receiving $1 million in outside spending each, for an initial disclosed commitment of $6 million. The s",
-    "tags": []
-  },
-  {
-    "source": "NewsBTC",
-    "title": "CFTC Lets Exchanges Convert Index Futures Into True Perpetual Contracts",
-    "link": "https://www.newsbtc.com/markets/cftc-lets-exchanges-convert-index-futures-into-true-perpetual-contracts/",
-    "publishedAt": "2026-10-06T16:00:46.000Z",
-    "preview": "TL;DR CFTC staff has issued temporary no-action relief allowing designated contract markets to convert certain broad-based security index futures into true perpetual contracts. Exchanges can remove expiration dates if th",
-    "tags": []
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Crypto ‘Godfather’ Gets 78 Months For $37M Meta Fraud Scheme",
-    "link": "https://www.newsbtc.com/regulation/crypto-godfather-gets-78-months-for-37m-meta-fraud-scheme/",
-    "publishedAt": "2026-10-06T16:00:43.000Z",
-    "preview": "TL;DR Adam Iza, who called himself “The Godfather,” has been sentenced to 78 months in federal prison. Prosecutors said he stole more than $37 million from Meta through fraud involving access to business-manager accounts",
-    "tags": []
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Startale Opens Japan Digital Bond Paying Interest And Principal In JPYSC",
-    "link": "https://www.newsbtc.com/all/startale-opens-japan-digital-bond-paying-interest-and-principal-in-jpysc/",
-    "publishedAt": "2026-10-06T16:00:40.000Z",
-    "preview": "TL;DR Startale Japan has opened subscriptions for a one-year digital corporate bond that pays interest and principal in JPYSC. The offering totals ¥99.9 million, carries a fixed 5% annual pre-tax rate and is available fr",
-    "tags": []
   },
   {
     "source": "CryptoPotato",
@@ -1116,16 +1153,6 @@
     "preview": "A London quantitative hedge fund joins the round too, seven months after the NYSE's owner bought in at exactly the same price.",
     "tags": [
       "XRP"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme",
-    "link": "https://www.coindesk.com/policy/2026/10/06/self-styled-crypto-godfather-gets-more-than-6-years-in-usd37-million-meta-fraud-case",
-    "publishedAt": "2026-10-06T12:31:51.000Z",
-    "preview": "Adam Iza’s sentence runs concurrently with a 15-year term imposed last month for his role in an attempted bitcoin robbery.",
-    "tags": [
-      "BTC"
     ]
   },
   {
@@ -1330,14 +1357,6 @@
     ]
   },
   {
-    "source": "Decrypt",
-    "title": "CFTC Unveils Plan to Bring Crypto Exchanges Under Federal Oversight",
-    "link": "https://decrypt.co/380090/cftc-plan-crypto-exchanges-federal-oversight-leverage",
-    "publishedAt": "2026-10-05T16:46:03.000Z",
-    "preview": "The CFTC is seeking public comment on a framework that would create a new federal license for crypto exchanges, with leverage offers as the trigger for oversight.",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "Bitcoin Price Analysis: Is BTC Running Out of Steam After Another Rejection at $87K?",
     "link": "https://cryptopotato.com/bitcoin-price-analysis-is-btc-running-out-of-steam-after-another-rejection-at-87k/",
@@ -1356,13 +1375,5 @@
     "tags": [
       "ETH"
     ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "AI Agents Take on Bigger Role in Cybersecurity, CertiK Says",
-    "link": "https://cryptopotato.com/ai-agents-take-on-bigger-role-in-cybersecurity-certik-says/",
-    "publishedAt": "2026-10-05T14:00:41.000Z",
-    "preview": "Faster attacks and growing workloads are pushing firms to automate more security tasks, but the shift also brings new risks.",
-    "tags": []
   }
 ]
