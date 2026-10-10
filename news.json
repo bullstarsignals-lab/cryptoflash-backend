@@ -1,5 +1,95 @@
 [
   {
+    "source": "CryptoPotato",
+    "title": "Toobit Wins Best Exchange for Trading Tokenized Equities Award",
+    "link": "https://cryptopotato.com/toobit-wins-best-exchange-for-trading-tokenized-equities-award/",
+    "publishedAt": "2026-10-10T08:10:10.000Z",
+    "preview": "Toobit is an award-winning international cryptocurrency exchange that recently announced that it has been named the Best Exchange for Trading Tokenized Equities at the CoinGape Global Onchain Awards 2026. Toobit, among o",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "XRP’s Nasdaq Moment Is Here: Evernorth Completes Merger",
+    "link": "https://cryptopotato.com/xrps-nasdaq-moment-is-here-evernorth-completes-merger/",
+    "publishedAt": "2026-10-10T07:31:15.000Z",
+    "preview": "Evernorth has a new date when it will go live on Nasdaq.",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
+    "link": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds",
+    "publishedAt": "2026-10-10T07:10:43.000Z",
+    "preview": "The round follows increased international demand for Meanwhile’s Bitcoin life insurance policies amid broader macro instability.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Inflation target of 2% may not stop the next Fed rate freeze",
+    "link": "https://cryptoslate.com/what-would-actually-stop-the-fed-from-raising-rates-again/",
+    "publishedAt": "2026-10-10T07:00:05.000Z",
+    "preview": "The Fed can stop raising rates before inflation reaches 2% if officials believe the economy's already heading there without another increase. September's meeting left most unconvinced, with strong spending and persistent",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
+    "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
+    "publishedAt": "2026-10-10T05:43:00.000Z",
+    "preview": "CoinDesk analysis finds 10 unusually large trading days in 2026, raising questions about how investors measure risk in an increasingly institutional crypto market.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Ledger Investigates $86M Crypto Drain as Reseller Supply-Chain Fears Grow",
+    "link": "https://cryptopotato.com/ledger-investigates-86m-crypto-drain-as-reseller-supply-chain-fears-grow/",
+    "publishedAt": "2026-10-10T05:37:39.000Z",
+    "preview": "The company has launched an investigation into potentially tens of millions of dollars in crypt theft linked to hardware wallet purchased through CryptoBilis.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
+    "link": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
+    "publishedAt": "2026-10-10T04:44:35.000Z",
+    "preview": "Daily activity has dropped from 10.8 million transactions to 6.2 million since mid-September even as Robinhood keeps paying network fees on customer swaps.",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+    "link": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+    "publishedAt": "2026-10-10T04:20:07.000Z",
+    "preview": "Researchers demonstrated how a payment could create spendable XRP without the sender funding it, prompting an emergency software release.",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "XRP May Plunge to $1.20 and Still Remain Bullish, Analyst Says",
+    "link": "https://cryptopotato.com/xrp-may-plunge-to-1-20-and-still-remain-bullish-analyst-says/",
+    "publishedAt": "2026-10-10T04:04:02.000Z",
+    "preview": "XRP is down by over 10% weekly. But some analysts remain bullish.",
+    "tags": [
+      "XRP"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
+    "link": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
+    "publishedAt": "2026-10-10T03:00:00.000Z",
+    "preview": "Visa’s survey of 14,250 people found interest in stablecoin payments is growing, though only 6% of respondents correctly understood how they work.",
+    "tags": []
+  },
+  {
     "source": "CryptoSlate",
     "title": "Celsius founder faces lifetime ban, but can trade his own crypto",
     "link": "https://cryptoslate.com/celsius-founder-faces-lifetime-ban-but-can-trade-his-own-crypto/",
@@ -261,16 +351,6 @@
     "publishedAt": "2026-10-09T16:07:07.000Z",
     "preview": "Mashinsky owes New York $25 million if he fails to forfeit another $10 million, and $10 million more if he doesn't serve his full sentence.",
     "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "OpenAI, Google and Meta battle for AI internet domains as crypto firms target .bitcoin and .wallet",
-    "link": "https://cryptoslate.com/openai-google-and-meta-battle-for-ai-internet-domains-as-crypto-firms-target-bitcoin-and-wallet/",
-    "publishedAt": "2026-10-09T16:00:55.000Z",
-    "preview": "CryptoSlate's tally shows 11 applications for .bit and five for .crypto, with final strings due Nov. 17. The post OpenAI, Google and Meta battle for AI internet domains as crypto firms target .bitcoin and .wallet appeare",
-    "tags": [
-      "BTC"
-    ]
   },
   {
     "source": "Cointelegraph",
@@ -912,24 +992,6 @@
     ]
   },
   {
-    "source": "CoinDesk",
-    "title": "Crypto crumbles as anniversary of flash crash nears",
-    "link": "https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears",
-    "publishedAt": "2026-10-08T18:14:39.000Z",
-    "preview": "It was October 10, 2025, when bitcoin plunged from about $122,000 to $105,000, with much of the decline occurring within minutes.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "NFL joins pushback against prediction markets as U.S. Supreme Court asked to act",
-    "link": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
-    "publishedAt": "2026-10-08T18:06:41.000Z",
-    "preview": "In opposition to federal oversight of the prediction markets, the National Football League has sided with states, Gary Gensler and one of the authors of the relevant law.",
-    "tags": []
-  },
-  {
     "source": "NewsBTC",
     "title": "Sui’s Hashi Bitcoin Finance Network Launches With More Than $500 Million Committed",
     "link": "https://www.newsbtc.com/altcoins/sui-s-hashi-bitcoin-finance-network-launches-with-more-than-500/",
@@ -1028,16 +1090,6 @@
     ]
   },
   {
-    "source": "CoinDesk",
-    "title": "U.S. government moves $1 billion in bitcoin tied to Bitfinex hack, with no sign of sale",
-    "link": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
-    "publishedAt": "2026-10-08T15:43:04.000Z",
-    "preview": "Arkham data shows the 12,267 BTC went to unlabeled wallets rather than an exchange, a day after $383 million hit Coinbase Prime.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Decrypt Money Accounts on Solana to Power The Information Exchange",
     "link": "https://decrypt.co/380436/decrypt-money-accounts-on-solana-to-power-the-information-exchange",
@@ -1055,16 +1107,6 @@
     "preview": "Blockchain analysts identified the US government wallet tied to the recovery of funds from the Bitfinex hack.",
     "tags": [
       "BTC"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
-    "link": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
-    "publishedAt": "2026-10-08T15:23:26.000Z",
-    "preview": "ESMA said authorized platforms must block new access to stablecoins that fail to meet MiCA rules, while national authorities oversee existing customer holdings.",
-    "tags": [
-      "Regulation"
     ]
   },
   {
@@ -1109,14 +1151,6 @@
     "link": "https://cryptopotato.com/cointracking-review-2026-pricing-features-pros-cons/",
     "publishedAt": "2026-10-08T13:02:54.000Z",
     "preview": "Managing your crypto taxes can become increasingly complicated as your activity starts spreading across multiple exchanges, wallets, blockchains, and DeFi protocols. CoinTracking is designed to bring that activity into o",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "EU lawmakers push crypto onto anti-corruption agenda",
-    "link": "https://cointelegraph.com/news/eu-lawmakers-crypto-anti-corruption",
-    "publishedAt": "2026-10-08T12:54:21.000Z",
-    "preview": "MEPs also called for stronger asset recovery, while the Commission plans to adopt its first anti-corruption strategy by the end of this year.",
     "tags": []
   },
   {
@@ -1298,16 +1332,6 @@
     ]
   },
   {
-    "source": "CryptoPotato",
-    "title": "Bitcoin Struggles to Break Higher as ETF Demand Weakens: Bitfinex Alpha",
-    "link": "https://cryptopotato.com/bitcoin-struggles-to-break-higher-as-etf-demand-weakens-bitfinex-alpha/",
-    "publishedAt": "2026-10-07T20:11:16.000Z",
-    "preview": "The latest data shows weaker ETF demand and lower leverage, with key levels now likely to shape Bitcoin’s next move.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
     "link": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
@@ -1324,37 +1348,11 @@
     "tags": []
   },
   {
-    "source": "CryptoPotato",
-    "title": "While America’s CLARITY Stalls, Russia’s Crypto Market Gets Official Operators",
-    "link": "https://cryptopotato.com/while-americas-clarity-stalls-russias-crypto-market-gets-official-operators/",
-    "publishedAt": "2026-10-07T18:24:40.000Z",
-    "preview": "Russia has registered nine crypto operators under new rules.",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "Google Lets You Build a Video Game by Typing a Description",
     "link": "https://decrypt.co/380326/google-build-video-game-typing-description",
     "publishedAt": "2026-10-07T18:08:51.000Z",
     "preview": "Google's Playground turns a typed description into a playable, shareable game, no coding required. It's live for U.S. adults, with creation access tiered by Google AI subscription.",
     "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "LINK Is Up 24% in Weeks: But This Key Growth Metric Is Barely Moving",
-    "link": "https://cryptopotato.com/link-is-up-24-in-weeks-but-this-key-growth-metric-is-barely-moving/",
-    "publishedAt": "2026-10-07T16:36:46.000Z",
-    "preview": "LINK was halted at $15.80 recently, and it's down by over 4% in the past 24 hours. However, the broader scale is much more different.",
-    "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Arthur Hayes: AI Is Overbuilt, and Bitcoin Could Benefit From It",
-    "link": "https://cryptopotato.com/arthur-hayes-ai-is-overbuilt-and-bitcoin-could-benefit-from-it/",
-    "publishedAt": "2026-10-07T14:35:54.000Z",
-    "preview": "Hayes leaves room for an AI bull case, arguing stronger demand within a year could make AI infrastructure companies more profitable overall.",
-    "tags": [
-      "BTC"
-    ]
   }
 ]
