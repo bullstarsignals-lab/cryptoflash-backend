@@ -1,6 +1,34 @@
 [
   {
     "source": "CryptoSlate",
+    "title": "Celsius founder faces lifetime ban, but can trade his own crypto",
+    "link": "https://cryptoslate.com/celsius-founder-faces-lifetime-ban-but-can-trade-his-own-crypto/",
+    "publishedAt": "2026-10-10T01:50:00.000Z",
+    "preview": "A qualifying DOJ payment can satisfy the $25 million obligation, while a separate $10 million judgment has a sentence-completion condition with exceptions. The post Celsius founder faces lifetime ban, but can trade his o",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Solana doubles block production speed to 200ms as network prepares for Alpenglow upgrade",
+    "link": "https://cryptoslate.com/solana-doubles-block-production-speed-to-200ms-as-network-prepares-for-alpenglow-upgrade/",
+    "publishedAt": "2026-10-10T00:40:59.000Z",
+    "preview": "The final SIMD-0525 step halves Solana’s original slot-time target, shortening leader windows and epochs while per-slot budgets keep work capacity roughly steady. The post Solana doubles block production speed to 200ms a",
+    "tags": [
+      "SOL"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Tether freezes $1.4M in TRON vaults and THORChain stalls",
+    "link": "https://cryptoslate.com/tether-freezes-1-4m-in-tron-vaults-and-thorchain-stalls/",
+    "publishedAt": "2026-10-09T23:30:53.000Z",
+    "preview": "A researcher reported resumed TRON swaps after four vaults were blacklisted, exposing issuer control over USDT inside decentralized infrastructure. The post Tether freezes $1.4M in TRON vaults and THORChain stalls appear",
+    "tags": [
+      "TRX"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
     "title": "ETH fee burns cover just 2% of new coins printed in 2026",
     "link": "https://cryptoslate.com/eth-fee-burns-cover-just-2-of-new-coins-printed-in-2026/",
     "publishedAt": "2026-10-09T22:20:23.000Z",
@@ -301,14 +329,6 @@
     ]
   },
   {
-    "source": "CryptoSlate",
-    "title": "Locked liquidity did not stop this $14 million crypto pool drain",
-    "link": "https://cryptoslate.com/79thvaults-14-million-pool-drain-shows-why-locked-liquidity-can-fail/",
-    "publishedAt": "2026-10-09T14:40:46.000Z",
-    "preview": "Bitquery traced 79AU’s drain to token permissions that bypassed burned LP receipts, with residual rights documented on Oct. 8. The post Locked liquidity did not stop this $14 million crypto pool drain appeared first on C",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "Crypto Price Analysis Oct-09: ETH, XRP, ADA, BNB, and HYPE",
     "link": "https://cryptopotato.com/crypto-price-analysis-oct-09-eth-xrp-ada-bnb-and-hype/",
@@ -338,16 +358,6 @@
     "publishedAt": "2026-10-09T13:49:22.000Z",
     "preview": "Dragonfly’s Qureshi argued that asset migration is not a real solution in case of AI models breaking cryptographic signatures, and urged blockchains to adopt proactive measures.",
     "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Polygon’s 8 million USDT0 holders face scrutiny as 58% of growth matches scam patterns",
-    "link": "https://cryptoslate.com/polygons-8-million-usdt0-holders-face-scrutiny-as-58-of-growth-matches-scam-patterns/",
-    "publishedAt": "2026-10-09T13:40:01.000Z",
-    "preview": "The Oct. 7 audit estimates about 1.1 million scam look-alikes, while addresses holding at least $10 fell 42% since August 2025. The post Polygon’s 8 million USDT0 holders face scrutiny as 58% of growth matches scam patte",
-    "tags": [
-      "MATIC"
-    ]
   },
   {
     "source": "Cointelegraph",
@@ -391,14 +401,6 @@
     "link": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
     "publishedAt": "2026-10-09T12:04:07.000Z",
     "preview": "The package hits five crypto and payment platforms, two of which handled transactions with Russia’s A7 network, the UK government said.",
-    "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Backing Polymarket’s primary favorites would have lost 4%, new audit finds.",
-    "link": "https://cryptoslate.com/backing-polymarkets-primary-favorites-would-have-lost-4-new-audit-finds/",
-    "publishedAt": "2026-10-09T12:00:22.000Z",
-    "preview": "Bitquery’s 273-race scorecard found an 87% win rate, but its equal-dollar hypothetical shows why accurate calls can come at losing prices. The post Backing Polymarket’s primary favorites would have lost 4%, new audit fin",
     "tags": []
   },
   {
