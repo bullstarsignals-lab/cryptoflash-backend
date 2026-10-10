@@ -1,6 +1,128 @@
 [
   {
     "source": "CryptoPotato",
+    "title": "1 Year Since Crypto’s Biggest Liquidation Event: Bitcoin Hasn’t Fully Recovered Yet",
+    "link": "https://cryptopotato.com/1-year-since-cryptos-biggest-liquidation-event-bitcoin-hasnt-fully-recovered-yet/",
+    "publishedAt": "2026-10-10T14:31:41.000Z",
+    "preview": "Over $19 billion was wiped out a year ago and BTC is still facing the consequences.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Coinbase’s Texas move gets a shareholder suit dismissed over Delaware-era claims",
+    "link": "https://cryptoslate.com/coinbase-shareholder-suit-hits-texas-demand-rule-for-conduct-from-its-delaware-years/",
+    "publishedAt": "2026-10-10T14:00:52.000Z",
+    "preview": "The October 2 court order required a written board demand in this action, without deciding whether directors committed misconduct. The post Coinbase’s Texas move gets a shareholder suit dismissed over Delaware-era claims",
+    "tags": []
+  },
+  {
+    "source": "Decrypt",
+    "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",
+    "link": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
+    "publishedAt": "2026-10-10T13:01:03.000Z",
+    "preview": "A National Assembly committee adopted amendments taxing stablecoin swaps and crypto exits by wealthy holders, then rejected the 2027 budget's revenue section.",
+    "tags": []
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Bitcoin’s weekend rebound faces an $80,400 test after nearly $730 million in ETF outflows",
+    "link": "https://cryptoslate.com/bitcoin-faces-weekend-test-as-80400-level-determines-next-move/",
+    "publishedAt": "2026-10-10T13:00:34.000Z",
+    "preview": "Bitcoin traded near $82,900 in PerpFinder’s Oct. 10, 09:36 UTC snapshot, with traders watching whether the weekend rebound brings fresh leverage or further position unwinding. The same snapshot put Binance BTC futures op",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "publishedAt": "2026-10-10T12:30:00.000Z",
+    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "tags": [
+      "BTC",
+      "Regulation"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Cardano Just Delivered Two Bullish Signals at TOKEN2049 as ADA Rebounds",
+    "link": "https://cryptopotato.com/cardano-just-delivered-two-bullish-signals-at-token2049-as-ada-rebounds/",
+    "publishedAt": "2026-10-10T12:13:44.000Z",
+    "preview": "ADA was among the top performers earlier this week before it crashed by double digits. However, it's back on the offensive on Saturday.",
+    "tags": [
+      "ADA"
+    ]
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Stealing $1.5B in crypto is easy, cashing out is the trap",
+    "link": "https://cryptoslate.com/the-business-that-turns-north-korean-stolen-crypto-into-spendable-money/",
+    "publishedAt": "2026-10-10T12:00:37.000Z",
+    "preview": "North Korean hackers stole around $1.5 billion from Bybit in February 2025. While the hack itself has been widely covered and analyzed, few have focused on what happened afterward and what became of the stolen funds. To ",
+    "tags": []
+  },
+  {
+    "source": "CoinDesk",
+    "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
+    "link": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
+    "publishedAt": "2026-10-10T12:00:00.000Z",
+    "preview": "Bitcoin and ether order books are deeper than before the crash, while altcoin liquidity keeps eroding and spot trading remains well below its October 2025 peak.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
+    "link": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
+    "publishedAt": "2026-10-10T12:00:00.000Z",
+    "preview": "Paxos Labs, Theo and Energy Substantiation execs see growth coming from putting physical assets to work, with precious metals leading and energy presenting a tougher test.",
+    "tags": []
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
+    "link": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet",
+    "publishedAt": "2026-10-10T11:52:14.000Z",
+    "preview": "“We’re ready to bring quantum resistance to mainnet at any time,” Sun said in a post on X.",
+    "tags": [
+      "TRX"
+    ]
+  },
+  {
+    "source": "CoinDesk",
+    "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
+    "link": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+    "publishedAt": "2026-10-10T11:00:00.000Z",
+    "preview": "The Oct. 10, 2025 flash crash wiped out billions in leveraged crypto bets. Traders now have better tools to spot risks, but the forces behind the selloff remain.",
+    "tags": [
+      "BTC"
+    ]
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "NEAR Rockets by 10% Daily, BTC Price Eyes $83K: Weekend Watch",
+    "link": "https://cryptopotato.com/near-rockets-by-10-daily-btc-price-eyes-83k-weekend-watch/",
+    "publishedAt": "2026-10-10T10:08:15.000Z",
+    "preview": "WLD and ADA have also rebounded swiftly after the recent crash.",
+    "tags": [
+      "BTC",
+      "ADA"
+    ]
+  },
+  {
+    "source": "Cointelegraph",
+    "title": "Tech chief says EU can fend off rogue AI risk: Report",
+    "link": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report",
+    "publishedAt": "2026-10-10T08:41:06.000Z",
+    "preview": "There are global concerns following incidents at OpenAI ‌and Anthropic, and fears have arisen that rogue AI agents may venture beyond human control.",
+    "tags": []
+  },
+  {
+    "source": "CryptoPotato",
     "title": "Toobit Wins Best Exchange for Trading Tokenized Equities Award",
     "link": "https://cryptopotato.com/toobit-wins-best-exchange-for-trading-tokenized-equities-award/",
     "publishedAt": "2026-10-10T08:10:10.000Z",
@@ -206,33 +328,12 @@
     "tags": []
   },
   {
-    "source": "CryptoSlate",
-    "title": "Hoskinson says Vitalik’s AI warning could delay the internet’s quantum defenses",
-    "link": "https://cryptoslate.com/cardanos-hoskinson-hoskinson-slams-vitalik-buterins-ai-doomsday-warning-as-a-threat-to-cryptos-quantum-future/",
-    "publishedAt": "2026-10-09T19:00:27.000Z",
-    "preview": "Cardano founder Charles Hoskinson accused Vitalik Buterin of undermining quantum-resistant cryptography with speculative warnings about AI-driven mathematical breakthroughs. In an Oct. 9 post, Hoskinson challenged the Et",
-    "tags": [
-      "ADA"
-    ]
-  },
-  {
     "source": "Decrypt",
     "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
     "link": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
     "publishedAt": "2026-10-09T18:46:03.000Z",
     "preview": "Sen. Richard Blumenthal wants Cantor Fitzgerald to open its records on Tether and on how much Commerce Secretary Howard Lutnick's family has earned from its business deal.",
     "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "publishedAt": "2026-10-09T18:30:11.000Z",
-    "preview": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "tags": [
-      "BTC",
-      "Regulation"
-    ]
   },
   {
     "source": "CoinDesk",
@@ -261,16 +362,6 @@
     "publishedAt": "2026-10-09T18:06:03.000Z",
     "preview": "The crypto platform filed for designated contract market and futures commission merchant licenses, which would let it run its own regulated event-contract venue instead of relying on overseas partners.",
     "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Ethereum’s proposed safety checks could still let a bad trade through",
-    "link": "https://cryptoslate.com/ethereums-proposed-safety-checks-still-depend-on-who-sets-the-loss-limit/",
-    "publishedAt": "2026-10-09T18:00:42.000Z",
-    "preview": "Draft EIP-7906 could widen outcome checks, but a meaningful financial limit must come from policy the transaction builder cannot weaken. The post Ethereum’s proposed safety checks could still let a bad trade through appe",
-    "tags": [
-      "ETH"
-    ]
   },
   {
     "source": "Decrypt",
@@ -307,16 +398,6 @@
     "publishedAt": "2026-10-09T17:02:47.000Z",
     "preview": "Hardware wallet maker Ledger probes losses tied to reseller CryptoBilis, as researchers separately estimate more than $72 million to $86 million in suspected crypto thefts.",
     "tags": []
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Ethereum open interest rose 2.3% in ETH on Binance as its dollar value fell 6.6%",
-    "link": "https://cryptoslate.com/ethereums-binance-futures-book-grew-2-3-in-eth-while-its-dollar-value-fell/",
-    "publishedAt": "2026-10-09T17:00:01.000Z",
-    "preview": "Matched October 6–8 snapshots show a larger ETH-denominated book despite Thursday’s contraction, separating outstanding exposure from lower USDT valuation. The post Ethereum open interest rose 2.3% in ETH on Binance as i",
-    "tags": [
-      "ETH"
-    ]
   },
   {
     "source": "Decrypt",
@@ -759,16 +840,6 @@
     ]
   },
   {
-    "source": "CoinDesk",
-    "title": "Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops",
-    "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes",
-    "publishedAt": "2026-10-09T03:27:38.000Z",
-    "preview": "Bitcoin rebounded to $82,000 as Trump ruled out an Iran strike before the midterms, while crypto security experts pushed back on “bunker mode” fears.",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
     "source": "Cointelegraph",
     "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
     "link": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
@@ -849,14 +920,6 @@
     "tags": []
   },
   {
-    "source": "CoinDesk",
-    "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
-    "link": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
-    "publishedAt": "2026-10-08T21:22:58.000Z",
-    "preview": "As Democrats steadily rise in their potential to take back a Senate majority, Senator Richard Blumenthal is digging into Tether's U.S. financial partnership.",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "Google Wants Gemini to Be Your Next Coworker—Complete With Its Own Email Address",
     "link": "https://decrypt.co/380545/google-gemini-coworker-own-email-address",
@@ -896,16 +959,6 @@
     "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-etfs-bleed-484-9-million-as-blackrock-leads-a-broad-day-of/",
     "publishedAt": "2026-10-08T20:00:00.000Z",
     "preview": "US spot Bitcoin ETFs recorded $484.9 million in net outflows on October 7, according to Farside Investors. BlackRock's IBIT led the withdrawals with $207.7 million leaving the fund, while Fidelity and ARK also posted nin",
-    "tags": [
-      "BTC"
-    ]
-  },
-  {
-    "source": "CoinDesk",
-    "title": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
-    "link": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
-    "publishedAt": "2026-10-08T19:46:15.000Z",
-    "preview": "The research firm sees tokenized stocks, bonds and loans creating new markets for trading and lending, with fee-generating platforms and companies poised to benefit.",
     "tags": [
       "BTC"
     ]
@@ -1130,22 +1183,6 @@
     ]
   },
   {
-    "source": "Cointelegraph",
-    "title": "‘No going back’ for institutions moving toward tokenized onchain future, says Fidelity",
-    "link": "https://cointelegraph.com/news/institutions-tokenized-onchain-future-no-going-back-fidelity",
-    "publishedAt": "2026-10-08T13:42:27.000Z",
-    "preview": "Tokenization offers structural advantages to financial institutions and helps asset managers reach new markets, according to Fidelity’s head of digital asset strategists.",
-    "tags": []
-  },
-  {
-    "source": "Cointelegraph",
-    "title": "Crypto lending rises again… but have they solved the risks?",
-    "link": "https://cointelegraph.com/magazine/crypto-lending-rises-again-but-have-they-solved-the-risks",
-    "publishedAt": "2026-10-08T13:30:00.000Z",
-    "preview": "Crypto lending has risen by 55% since July, but now has to deal with the dangers of AI assisted hacks, and risks cascading through interlinked protocols. Here’s how to stay safe.",
-    "tags": []
-  },
-  {
     "source": "CryptoPotato",
     "title": "CoinTracking Review 2026: Pricing, Features, Pros & Cons",
     "link": "https://cryptopotato.com/cointracking-review-2026-pricing-features-pros-cons/",
@@ -1270,32 +1307,6 @@
     "tags": []
   },
   {
-    "source": "CryptoPotato",
-    "title": "Tether Signs MoU With Kazakhstan’s Central Bank to Explore a Tenge Stablecoin",
-    "link": "https://cryptopotato.com/tether-signs-mou-with-kazakhstans-central-bank-to-explore-a-tenge-stablecoin/",
-    "publishedAt": "2026-10-08T05:31:04.000Z",
-    "preview": "\"Kazakhstan is taking a deliberate, forward-looking approach by exploring asset tokenization and a strategic reserve framework,\" said Tether CEO Paolo Ardoino.",
-    "tags": []
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "XRP Nears Key Breakout as Analyst Eyes $2 Target: But Here’s the Catch",
-    "link": "https://cryptopotato.com/xrp-nears-key-breakout-as-analyst-eyes-2-target-but-heres-the-catch/",
-    "publishedAt": "2026-10-08T04:07:06.000Z",
-    "preview": "The analyst sees the 50-week EMA as the dividing line, with multiple closes above it needed to strengthen the bullish continuation case.",
-    "tags": [
-      "XRP"
-    ]
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Hyperliquid Faces Singapore Regulatory Questions Despite Local HQ: Report",
-    "link": "https://cryptopotato.com/hyperliquid-faces-singapore-regulatory-questions-despite-local-hq-report/",
-    "publishedAt": "2026-10-07T21:55:06.000Z",
-    "preview": "Singapore's regulatory question is less about where Hyperliquid Labs is registered and more about whether it falls under MAS oversight.",
-    "tags": []
-  },
-  {
     "source": "Decrypt",
     "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt—Mathematicians Want Receipts",
     "link": "https://decrypt.co/380366/openai-secret-ai-model-cracked-hundreds-math-problems-one-prompt",
@@ -1345,14 +1356,6 @@
     "link": "https://decrypt.co/380339/hackers-ai-agents-megachurch-database",
     "publishedAt": "2026-10-07T19:10:31.000Z",
     "preview": "Seoul's Yoido Full Gospel Church says data on 850,000 members may be compromised, and a security firm found signs AI helped run the attack.",
-    "tags": []
-  },
-  {
-    "source": "Decrypt",
-    "title": "Google Lets You Build a Video Game by Typing a Description",
-    "link": "https://decrypt.co/380326/google-build-video-game-typing-description",
-    "publishedAt": "2026-10-07T18:08:51.000Z",
-    "preview": "Google's Playground turns a typed description into a playable, shareable game, no coding required. It's live for U.S. adults, with creation access tiered by Google AI subscription.",
     "tags": []
   }
 ]
